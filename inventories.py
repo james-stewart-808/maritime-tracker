@@ -25,7 +25,7 @@ def download_as_csv(file, filename):
 
 ### INVENTORIES BY VESSEL TYPE ###
 st.header("{0} by Vessel Type".format(N_ene_co2))
-
+"""
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_type_to_plot_cols = ["int_arr_type", "n_vys", "ene_tj", "co2_t"]
 int_arr_by_type_to_plot = pd.read_csv(\
@@ -97,58 +97,4 @@ else:
 
 # Provide option to download as CSV
 download_as_csv(int_inv_by_port_to_plot, "International Arrivals Inventory by Port - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
+"""
