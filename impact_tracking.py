@@ -6,6 +6,9 @@ import time
 
 st.sidebar.markdown("Impact tracking results derived from the linking of: i) seaborne merchandise trade data for 2018 sourced from the UNCTAD Trade-and-Transport, ii) AIS data underpinning the 4th IMO GHG Study and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero Framework (NZF).")
 
+
+"""
+
 impact_res_cols_renames = {
     "name":"Country",
     "gdp_2018_wb":"GDP (2018)",
@@ -112,7 +115,7 @@ st.markdown(" - Compliance costs associated with {0}'s merchandise trade would h
 st.caption("Full impact tracking results for {0} are presented below.".format(st.session_state.iso_country))
 st.write(impact_res_cou.iloc[0])
 
-
+"""
 
 
 
