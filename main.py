@@ -17,7 +17,7 @@ def load_original_data():
 #country_iso_codes = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/dom_inv_by_vess_type.csv")
 
 # Function to load the CSV file
-@st.cache_data
+@st.cache_data(scope="session")
 def load_data(file):
     data = pd.read_csv(file)
     return data
