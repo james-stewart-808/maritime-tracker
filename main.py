@@ -17,5 +17,11 @@ st.header("Welcome to the Homepage of the International Shipping Dashboard 🏡"
 #        return None
 #country_iso_codes = load_original_data()
 
-uploaded_file = st.file_uploader("datasets/country_iso_codes.csv")
-st.write(pd.read_csv(uploaded_file))
+# Function to load the CSV file
+@st.cache_data
+def load_data(file):
+    data = pd.read_csv(file)
+    return data
+
+country_iso_codes = load_data('https://github.com/james-stewart-808/inventory-tracker/blob/7fbe5e3fbbee1753c4c47df552a594297d328df7/datasets/country_iso_codes.csv')
+
