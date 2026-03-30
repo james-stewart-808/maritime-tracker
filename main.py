@@ -27,3 +27,9 @@ st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == cou
 st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
 
 ### Placeholder for map view of country
+
+st.header("Take me to...") # Amend with links
+#st.page_link("inventories.py", label="Voyage-based Inventories", icon="🚢")
+#st.page_link("trade.py", label="Merchandise Trade Portfolios", icon="📦")
+#st.page_link("impact_tracking.py", label="Impact Tracking Results", icon="💵")
+
