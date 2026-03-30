@@ -11,7 +11,7 @@ def load_original_data():
     url = 'https://github.com/james-stewart-808/inventory-tracker/blob/1ecaad7e067e4d9016790fabe59a2c5691cfe764/datasets/dom_inv_by_vess_type.csv'
     response = requests.get(url)
     if response.status_code == 200:
-        return pd.read_csv(StringIO(response.text), nrows=2)
+        return pd.read_csv(StringIO(response.text))
     else:
         st.error("Failed to load data from GitHub.")
         return None
