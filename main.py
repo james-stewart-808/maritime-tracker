@@ -1,3 +1,6 @@
+import pandas as pd
+import requests
+from io import StringIO
 import streamlit as st
 st.header("Welcome to the Homepage of the International Shipping Dashboard 🏡")
 
