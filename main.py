@@ -15,8 +15,9 @@ def load_original_data():
     else:
         st.error("Failed to load data from GitHub.")
         return None
-country_iso_codes = load_original_data()
-#country_iso_codes = pd.read_csv("https://raw.githubusercontent.comjames-stewart-808/inventory-tracker/blob/1ecaad7e067e4d9016790fabe59a2c5691cfe764/datasets/dom_inv_by_vess_type.csv")
+#country_iso_codes = load_original_data()
+
+country_iso_codes = pd.read_csv("https://raw.githubusercontent.comjames-stewart-808/inventory-tracker/blob/1ecaad7e067e4d9016790fabe59a2c5691cfe764/datasets/dom_inv_by_vess_type.csv")
 st.write(country_iso_codes)
 
 # Function to load the CSV file
