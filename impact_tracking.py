@@ -79,7 +79,7 @@ if ETS_NZF == "EU ETS":
     alt.Chart(impact_res_ex_so.sort_values(by="ETS Compliance Costs in 2030 (%GDP)", ascending=False).iloc[:25]).mark_bar().encode(
         x=alt.X("Country", sort='-y'),
         y=alt.Y("ETS Compliance Costs in 2030 (%GDP)"),
-        color="ETS Compliance Costs in 2030 (%GDP)"))
+        color="ETS Compliance Costs in 2030 (%GDP)")
 
     #st.caption("EU ETS costs for {0}.".format(st.session_state.iso_country))
 
