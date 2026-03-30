@@ -18,7 +18,7 @@ country_iso_codes = pd.read_csv(
   "https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/country_iso_codes.csv",
   usecols=country_iso_codes_c, 
   dtype=country_iso_codes_d,
-  nrows=4).rename(
+  nrows=100).rename(
   columns=country_iso_codes_r)
 
 country_iso_codes.loc[country_iso_codes.iso_country == "Namibia", "iso_2"] = "NA"
