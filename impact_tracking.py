@@ -102,17 +102,24 @@ elif ETS_NZF == "IMO NZF":
 else:
     st.header("General Results")
     combined_df = pd.DataFrame(data={
-        "EU ETS":[
+        "Year":["2023", "2030", "2040", "2050"]
+        "EU ETS (US$bn)":[
             impact_res_ex_so["ETS Compliance Costs in 2023 (US$)"].sum(),
             impact_res_ex_so["ETS Compliance Costs in 2030 (US$)"].sum(),
             None, 
             None
         ],
-        "IMO NZF":[
+        "IMO NZF (US$bn)":[
             impact_res_ex_so["NZF Incremental Cost in 2023 (US$)"].sum(),
             impact_res_ex_so["NZF Incremental Cost in 2030 (US$)"].sum(),
             impact_res_ex_so["NZF Incremental Cost in 2040 (US$)"].sum(),
             impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum()
-        ]},
-        index=["2023", "2030", "2040", "2050"])
-    st.write(combined_df)
+        ]})
+    
+    st.write(combined_df.reset_index(inplace=True))
+    
+    st.altair_chart(
+    alt.Chart(combined_df).mark_bar().encode(
+        x=alt.X("Year"),#, sort='-y'),
+        y=alt.Y("EU ETS (US$bn)"),
+        color="EU ETS (US$bn)"))
