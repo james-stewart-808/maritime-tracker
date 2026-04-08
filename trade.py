@@ -28,12 +28,11 @@ def merch_trade_vis(dataset, x, y):
             y=y,
             color=y))
 
-def download_as_csv(file, filename):
+def download_as_csv(file, label, filename):
     return st.download_button(
-            label="Download as CSV",
             data=file.to_csv(index=False),
+            label=label,
             file_name=filename)
-
 
 ### EXPORTS ###
 if I_X == "Exports":
@@ -51,7 +50,11 @@ if I_X == "Exports":
             st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
-    download_as_csv(tr, "Top Export Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        tr, 
+        "Top Export Trade Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Export Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
     # Top Commodity Flows
     if usd_t == "Value, $":
@@ -68,7 +71,11 @@ if I_X == "Exports":
         merch_trade_vis(co.iloc[:25], "description", "tonne")
         #st.write(co.iloc[:5][["HS2", "description", "tonne"]])
 
-    download_as_csv(co, "Top Export Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        co, 
+        "Top Export Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Export Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
     # Top Partner Economies
     if usd_t == "Value, $":
@@ -85,7 +92,11 @@ if I_X == "Exports":
         merch_trade_vis(pa.iloc[:25], "imp_name", "tonne")
         #st.write(pa.iloc[:5][["imp_name", "tonne"]])
 
-    download_as_csv(pa, "Top Export Partner Countries - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        pa, 
+        "Top Export Partner Countries - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Export Partner Countries - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
 
 ### IMPORTS ###
@@ -104,7 +115,11 @@ else:
             st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
-    download_as_csv(tr, "Top Import Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        tr, 
+        "Top Import Trade Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Import Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
     # Top Commodity Flows
     if usd_t == "Value, $":
@@ -120,7 +135,11 @@ else:
             st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "description", "tonne")
 
-    download_as_csv(co, "Top Import Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        co, 
+        "Top Import Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Import Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
     # Top Partner Economies
     if usd_t == "Value, $":
@@ -136,7 +155,11 @@ else:
             st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "exp_name", "tonne")
 
-    download_as_csv(pa, "Top Import Partner Countries - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+    download_as_csv(
+        pa, 
+        "Top Import Partner Countries - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Import Partner Countries - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    )
 
 
 st.header("A note on Quality Assurance")
