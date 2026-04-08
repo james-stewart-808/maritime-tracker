@@ -16,10 +16,10 @@ N_ene_co2 = st.segmented_control(
 if N_ene_co2 == None:
     N_ene_co2 = "Number of Calls"
 
-def download_as_csv(file, filename):
+def download_as_csv(file, label, filename):
     return st.download_button(
-            label="Download as CSV",
             data=file.to_csv(index=False),
+            label=label,
             file_name=filename)
 
 
@@ -60,7 +60,11 @@ else:
     st.bar_chart(int_inv_by_type_to_plot, x="Vessel Type", y="Carbon Dioxide (t)", color="inv_type", stack=False)
 
 # Provide option to download as CSV
-download_as_csv(int_inv_by_type_to_plot, "International Arrivals Inventory by Vessel Type - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+download_as_csv(
+    int_inv_by_type_to_plot, 
+    "International Arrivals Inventory by Vessel Type - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+    "International Arrivals Inventory by Vessel Type - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+)
 
 
 ### INVENTORIES BY PORT ###
@@ -96,4 +100,8 @@ else:
     st.bar_chart(int_inv_by_port_to_plot, x="Port", y="Carbon Dioxide (t)", color="inv_type", stack=False)
 
 # Provide option to download as CSV
-download_as_csv(int_inv_by_port_to_plot, "International Arrivals Inventory by Port - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code))
+download_as_csv(
+    int_inv_by_port_to_plot, 
+    "International Arrivals Inventory by Port - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+    "International Arrivals Inventory by Port - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+)
