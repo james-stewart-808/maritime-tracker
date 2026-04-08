@@ -121,6 +121,6 @@ else:
     st.altair_chart(
         alt.Chart(combined_df).mark_line().encode(
             x=alt.X("Year"),#, sort='-y'),
-            y=alt.Y(["EU ETS (US$bn)"]),
-            color="EU ETS (US$bn)"))
+            y=alt.Y(alt.repeat("layer")),
+            ).repeat(layer=["EU ETS (US$bn)", "IMO NZF (US$bn)"]))
     
