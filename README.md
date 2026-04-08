@@ -1,20 +1,9 @@
-# 🛍️ Inventory tracker template
+# Maritime Tracker
 
-A Streamlit app showing how to use `st.data_editor` to read and modify a database. Behind the scenes
-this uses a simple SQLite database, but you can easily replace it with whatever your favorite DB is.
+An web application for exploring international shipping activity in terms of:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inventory-tracker-template.streamlit.app/)
+1. The energy demands, fuel consumption and GHG emissions associated aggregated across voyages facilitating maritime transport supply within a country.
+2. The seaborne international merchandise trade portfolio of the country, providing inference on the volume and value of trade as it disaggregates across national ports, partner economies and commodity headings.
+3. An exploration of likely cost impacts associated with these voyages that may be expected as a result of the EU's Emissions Trading Scheme (ETS) and the IMO's proposed Net-Zero Framework (NZF).
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inventory-tracker-template.streamlit.app/](https://maritime-tracker.streamlit.app/))
