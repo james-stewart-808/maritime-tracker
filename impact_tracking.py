@@ -117,9 +117,10 @@ else:
         ]})
     
     st.write(combined_df.reset_index(inplace=True))
-    
+    """
     st.altair_chart(
-    alt.Chart(combined_df).mark_bar().encode(
-        x=alt.X("Year"),#, sort='-y'),
-        y=alt.Y("EU ETS (US$bn)"),
-        color="EU ETS (US$bn)"))
+        alt.Chart(combined_df).mark_bar().encode(
+            x=alt.X("Year"),#, sort='-y'),
+            y=alt.Y("EU ETS (US$bn)"),
+            color="EU ETS (US$bn)"))
+    """
