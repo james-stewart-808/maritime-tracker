@@ -116,11 +116,11 @@ else:
             impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum()
         ]})
     
-    st.write(combined_df.reset_index(inplace=True))
-    """
+    st.write(combined_df)
+    
     st.altair_chart(
         alt.Chart(combined_df).mark_bar().encode(
             x=alt.X("Year"),#, sort='-y'),
             y=alt.Y("EU ETS (US$bn)"),
             color="EU ETS (US$bn)"))
-    """
+    
