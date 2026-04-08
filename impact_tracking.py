@@ -62,6 +62,7 @@ impact_res_ex = pd.read_csv(
 ).rename(columns=impact_res_ex_r)
 
 impact_res_ex_so = impact_res_ex.sort_values(by="NZF Incremental Cost in 2050 (%GDP)", ascending=False).reset_index(drop=True)
+st.write(impact_res_ex_so.head(4))
 impact_res_ex_cou = impact_res_ex_so[(impact_res_ex_so.source_iso_code == st.session_state.iso_code)]
 impact_res_ex_cou_rank = impact_res_ex_cou.index.values[0]+1
 
