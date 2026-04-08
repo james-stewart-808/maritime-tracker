@@ -66,7 +66,9 @@ impact_res_ex_cou = impact_res_ex_so[(impact_res_ex_so.source_iso_code == st.ses
 impact_res_ex_cou_rank = impact_res_ex_cou.index.values[0]+1
 
 st.title("Key Impact Tracking Results for {0}".format(st.session_state.iso_country))
-st.header("General Results")
+
+st.write(r"\
+Using the voyages dataset to model the compliance costs costs associated with the EU ETS and IMO NZF, we are now in a position to explore the relative impacts of these two policy measures on alternative states.")
 
 ETS_NZF = st.segmented_control(
     "Are you interested in econonic impacts from the EU ETS, IMO NZF, or both?",
@@ -74,6 +76,8 @@ ETS_NZF = st.segmented_control(
 if ETS_NZF == None:
     ETS_NZF = "EU ETS"
 
+
+st.header("General Results")
 
 if ETS_NZF == "EU ETS":
 
