@@ -127,6 +127,6 @@ else:
                 title="Mean of Compliance Costs (US$bn)"),
             color=alt.datum(alt.repeat("layer")),
             ).repeat(layer=["EU ETS (US$bn)", "IMO NZF (US$bn)"]),
-        width="content"
+        width="stretch"
     )
     
