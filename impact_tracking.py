@@ -119,8 +119,8 @@ else:
     st.write(combined_df)
     
     st.altair_chart(
-        alt.Chart(combined_df).mark_bar().encode(
+        alt.Chart(combined_df).mark_line().encode(
             x=alt.X("Year"),#, sort='-y'),
-            y=alt.Y("EU ETS (US$bn)"),
+            y=alt.Y(["EU ETS (US$bn)"]),
             color="EU ETS (US$bn)"))
     
