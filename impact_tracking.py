@@ -104,16 +104,16 @@ else:
     combined_df = pd.DataFrame(data={
         "Year":["2023", "2030", "2040", "2050"],
         "EU ETS (US$bn)":[
-            impact_res_ex_so["ETS Compliance Costs in 2023 (US$)"].sum(),
-            impact_res_ex_so["ETS Compliance Costs in 2030 (US$)"].sum(),
+            round(impact_res_ex_so["ETS Compliance Costs in 2023 (US$)"].sum() / 1e9, 1),
+            round(impact_res_ex_so["ETS Compliance Costs in 2030 (US$)"].sum() / 1e9, 1),
             None, 
             None
         ],
         "IMO NZF (US$bn)":[
-            impact_res_ex_so["NZF Incremental Cost in 2023 (US$)"].sum(),
-            impact_res_ex_so["NZF Incremental Cost in 2030 (US$)"].sum(),
-            impact_res_ex_so["NZF Incremental Cost in 2040 (US$)"].sum(),
-            impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum()
+            round(impact_res_ex_so["NZF Incremental Cost in 2023 (US$)"].sum() / 1e9, 1),
+            round(impact_res_ex_so["NZF Incremental Cost in 2030 (US$)"].sum() / 1e9, 1),
+            round(impact_res_ex_so["NZF Incremental Cost in 2040 (US$)"].sum() / 1e9, 1),
+            round(impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum() / 1e9, 1)
         ]})
     
     st.write(combined_df)
