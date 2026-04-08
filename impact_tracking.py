@@ -101,7 +101,8 @@ elif ETS_NZF == "IMO NZF":
 
 else:
     st.header("General Results")
-    combined_df = pd.DataFrame({
+    combined_df_data = 
+    combined_df = pd.DataFrame(data={
         "EU ETS":[
             impact_res_ex_so["ETS Compliance Costs in 2023 (US$)"].sum(),
             impact_res_ex_so["ETS Compliance Costs in 2030 (US$)"].sum(),
@@ -113,7 +114,6 @@ else:
             impact_res_ex_so["NZF Incremental Cost in 2030 (US$)"].sum(),
             impact_res_ex_so["NZF Incremental Cost in 2040 (US$)"].sum(),
             impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum()
-        ],
-        index=["2023", "2030", "2040", "2050"]
-    })
+        ]},
+        index=["2023", "2030", "2040", "2050"])
     st.write(combined_df)
