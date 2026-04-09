@@ -4,6 +4,14 @@ import streamlit as st
 import altair as alt
 import time
 
+if st.session_state.iso_country == None:
+    # set as global variable
+    st.session_state.iso_country = "Albania"
+    st.session_state.iso_2 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_2.values[0]
+    st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_3.values[0]
+    st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
+
+
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
 # Re-write subset output scripts in terms country codes (e.g. '007') and include 'Disaggregation by Partner Countries'.
 
