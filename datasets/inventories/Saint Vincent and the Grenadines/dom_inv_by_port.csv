@@ -1,0 +1,7 @@
+port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Kingstown - Mustique,10,5,1976,1981,1971,1982,5683107,2075288,218,308,397,145,5,382
+Kingstown - Palm Island,15,6,1985,1974,1970,1971,14255167,5657367,80,3478,414,557,21,1547
+"Palm Island - Port Elizabeth, Bequia",4,2,1942,1962,1996,1985,720858,193179,31,89,127,81,2,156
+"Kingstown - Port Elizabeth, Bequia",5,3,1957,1951,1964,1964,5240997,1391344,325,1329,1410,1028,10,731
+"Port Elizabeth, Bequia - Campden Park",1,1,1923,1923,1923,1923,190884,209893,454,454,454,454,2,185
+Campden Park - Palm Island,1,1,1923,1923,1923,1923,447707,492293,1066,1066,1066,1066,2,182

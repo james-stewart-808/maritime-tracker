@@ -1,0 +1,6 @@
+port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Port Louis - Port Mathurin,80,5,1997,1994,1999,1999,178719178,160027585,361,649,504,456,70,5375
+Albion - Port Louis,26,21,2004,2005,2006,2006,154903750,192104933,103,194,174,167,33,2526
+Albion - Tamarin,2,2,2008,2008,2017,2017,61420389,70569733,787,787,1203,1208,0,25
+Tamarin - Port Louis,1,1,2017,2017,2017,2017,2855034,3283015,65,65,65,65,0,0
+Port Mathurin - Albion,1,1,1997,1997,1997,1997,1477708,1791410,356,356,356,356,0,30

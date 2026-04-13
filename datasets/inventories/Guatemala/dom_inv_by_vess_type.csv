@@ -1,0 +1,4 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Container,6,4,2006,2007,2006,2006,149084130,187433498,908,490,1031,1015,30,2318
+Chemical tanker,2,2,2011,2011,2007,2007,3156930,5105862,54,54,54,53,2,185
+Oil tanker,1,1,2000,2000,2000,2000,2104624,4071878,54,54,54,54,2,116

@@ -1,0 +1,4 @@
+int_dep_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Service - tug,1,1,1988,1988,1988,1988,186723,113142,791,791,791,791,1,47
+Container,1,1,1987,1987,1987,1987,8289995,8352520,205,205,205,205,1,66
+Offshore,1,1,2016,2016,2016,2016,569711,645505,157,157,157,157,0,13

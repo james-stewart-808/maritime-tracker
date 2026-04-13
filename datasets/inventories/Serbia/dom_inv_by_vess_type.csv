@@ -1,0 +1,5 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+General cargo,21,5,1965,1965,1965,1965,8325254,10559016,205,205,226,226,2,183
+Offshore,2,1,1984,1984,1984,1984,17535640,8703330,1402,1402,1402,1402,4,302
+Service - tug,2,1,1975,1975,1975,1975,53129,64867,77,77,77,77,0,11
+Service - other,1,1,1992,1992,1992,1992,3127476,1268638,490,490,490,490,1,108

@@ -1,0 +1,5 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Ferry-pax only,16,1,2007,2007,2007,2007,23195774,2195184,2053,2053,4573,4573,26,1959
+Service - other,1,1,2011,2011,2011,2011,562090,37473,9368,9368,9368,9368,5,403
+Chemical tanker,1,1,2007,2007,2007,2007,2722424,4602784,90,90,90,90,1,88
+Vehicle,1,1,2009,2009,2009,2009,11027141,3449024,225,225,225,225,1,71

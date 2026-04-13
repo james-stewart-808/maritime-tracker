@@ -1,0 +1,14 @@
+port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Port Purcell - Beef Island,2,1,1981,1981,1981,1981,30214,17073,52,52,52,52,0,14
+Norman Island - Virgin Gorda,2,2,2002,2002,1998,2006,242479,46782,58,58,54,61,1,76
+Jost Van Dyke - Virgin Gorda,6,3,1992,1992,1989,1990,686738,84115,48,54,48,48,3,228
+Norman Island - Anegada,1,1,2012,2012,2012,2012,116802,87323,185,185,185,185,0,17
+Sopers Hole - Jost Van Dyke,3,1,2012,2012,2012,2012,1665024,1244804,1047,1047,881,881,3,250
+Virgin Gorda - Beef Island,3,1,1999,1999,1999,1999,345131,508700,92,92,273,273,13,980
+Port Purcell - Virgin Gorda,50,7,1977,1983,1979,1977,2943429,3173890,66,60,63,76,23,1696
+Jost Van Dyke - Road Harbor,1,1,1982,1982,1982,1982,78473,136080,113,113,113,113,0,10
+Road Harbor - Port Purcell,9,4,1994,1985,1990,1988,1035076,1523747,19,256,41,57,3,204
+Jost Van Dyke - Beef Island,1,1,1985,1985,1985,1985,953664,99042,220,220,220,220,3,200
+Virgin Gorda - Sopers Hole,2,2,1988,1988,1987,1987,322603,36972,51,51,49,49,1,77
+Norman Island - Port Purcell,1,1,1975,1975,1975,1975,19751,13822,74,74,74,74,0,8
+Jost Van Dyke - Norman Island,1,1,1991,1991,1991,1991,119279,15572,52,52,52,52,0,29

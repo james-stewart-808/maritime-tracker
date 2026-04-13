@@ -1,0 +1,7 @@
+port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Buchanan - Monrovia,11,9,2003,2002,2010,2011,57558876,105276032,77,133,170,175,9,719
+Monrovia - River Cess,2,2,1997,1997,2011,2011,43069007,83069619,529,529,477,477,3,245
+River Cess - Harper,1,1,1983,1983,1983,1983,244914,260040,722,722,722,722,1,66
+Greenville - Buchanan,5,4,2012,2011,2011,2011,32928743,49541844,317,354,354,363,14,1026
+Buchanan - River Cess,7,5,2002,2001,2007,2007,47200010,85111252,184,969,193,188,5,395
+Greenville - River Cess,1,1,1976,1976,1976,1976,79027,37157,251,251,251,251,0,4

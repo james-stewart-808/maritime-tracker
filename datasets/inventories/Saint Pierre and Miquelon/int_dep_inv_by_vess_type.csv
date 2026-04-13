@@ -1,0 +1,4 @@
+int_dep_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Service - other,1,1,1963,1963,1963,1963,13632936,4623481,3958,3958,3958,3958,7,535
+Chemical tanker,1,1,2007,2007,2007,2007,10996746,15438385,1342,1342,1342,1342,3,212
+General cargo,2,1,2009,2009,2009,2009,8912368,13359498,1811,1811,1811,1811,3,210

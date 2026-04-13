@@ -1,0 +1,5 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Cruise,4,3,2002,2001,2003,2002,3560225,555536,139,139,139,139,2,185
+Chemical tanker,7,1,2009,2009,2009,2009,2255490,3296806,149,149,149,149,2,159
+Container,15,2,2006,2010,2007,2007,13868189,15909146,147,152,158,158,5,370
+Miscellaneous - fishing,2,1,1987,1987,1987,1987,245566,409277,620,620,620,620,2,122

@@ -1,0 +1,5 @@
+port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Ujpest - Lagymanyos,7,1,1996,1996,1996,1996,272155812,442508577,1054,1054,1613,1613,122,9420
+Dunaremete - Vac,1,1,1975,1975,1975,1975,30997,37846,90,90,90,90,0,6
+Vac - Harta,1,1,1975,1975,1975,1975,32460,39631,94,94,94,94,0,6
+Harta - Mohacs,1,1,1975,1975,1975,1975,22770,27800,66,66,66,66,0,12

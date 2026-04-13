@@ -1,0 +1,6 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+General cargo,5,5,2009,2009,2010,2010,8292132,10679349,103,140,157,152,4,317
+Service - tug,2,1,2012,2012,2012,2012,560762,452384,242,242,242,242,1,65
+Bulk carrier,10,10,2009,2009,2009,2008,29168481,51185753,90,90,93,94,12,894
+Miscellaneous - fishing,3,3,1999,1999,1983,1982,8714609,8887587,473,1670,3386,3698,6,425
+Refrigerated bulk,1,1,1995,1995,1995,1995,355414,292472,377,377,377,377,1,103

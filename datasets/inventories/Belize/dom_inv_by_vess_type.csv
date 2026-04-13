@@ -1,0 +1,5 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Chemical tanker,4,3,2008,2008,2009,2009,9729180,15119690,266,272,288,289,3,210
+Cruise,18,4,2013,2008,2013,2013,31395358,3137978,102,102,125,111,24,1845
+General cargo,3,3,2008,2008,2008,2008,7776128,10535056,343,320,338,337,4,340
+Bulk carrier,3,2,2001,2001,2001,2001,10718318,17571411,268,267,266,266,5,360

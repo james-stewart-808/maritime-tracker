@@ -1,0 +1,4 @@
+int_arr_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Cruise,4,4,2002,2002,2004,2005,155234221,18324146,1186,1205,1151,1157,43,3289
+Yacht,3,1,1968,1968,1968,1968,8513772,4748547,3212,3212,5839,5839,11,804
+General cargo,1,1,2013,2013,2013,2013,78569169,114087031,5347,5347,5347,5347,16,1236

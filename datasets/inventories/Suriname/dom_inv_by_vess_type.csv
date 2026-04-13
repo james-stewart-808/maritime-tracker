@@ -1,0 +1,4 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Oil tanker,9,1,2013,2013,2013,2013,5103128,7792987,107,107,122,122,5,362
+Offshore,10,2,1984,1984,1985,1984,985253,1694472,195,183,180,216,5,389
+General cargo,54,17,1997,2001,1997,1998,33537790,45766825,146,149,152,148,17,1277

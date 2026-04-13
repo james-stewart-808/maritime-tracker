@@ -1,0 +1,4 @@
+dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
+Container,14,7,1999,1999,2000,2000,68284198,82452492,126,255,295,294,15,1183
+General cargo,2,1,1976,1976,1976,1976,13204949,17741101,2217,2217,2217,2217,1,96
+Bulk carrier,2,2,1980,1980,1978,1978,26668554,37003258,624,624,515,514,6,475
