@@ -1,0 +1,725 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,690,Seychelles,250,France,16," Sausages, similar products of meat, meat offal & bloo",112580193.563,21794.240868,"France -  Sausages, similar products of meat, meat offal & bloo"
+1,690,Seychelles,826,United Kingdom,16," Sausages, similar products of meat, meat offal & bloo",69576307.519,13535.136889000001,"United Kingdom -  Sausages, similar products of meat, meat offal & bloo"
+2,690,Seychelles,392,Japan,03," Ornamental fish, live",51168064.938,8331.393951,"Japan -  Ornamental fish, live"
+3,690,Seychelles,724,Spain,03," Ornamental fish, live",48288572.66,24870.833476,"Spain -  Ornamental fish, live"
+4,690,Seychelles,764,Thailand,03," Ornamental fish, live",46687565.025,31953.026814,"Thailand -  Ornamental fish, live"
+5,690,Seychelles,480,Mauritius,03," Ornamental fish, live",40406334.822,26022.943857000002,"Mauritius -  Ornamental fish, live"
+6,690,Seychelles,380,Italy,16," Sausages, similar products of meat, meat offal & bloo",38122058.861,5628.120468,"Italy -  Sausages, similar products of meat, meat offal & bloo"
+7,690,Seychelles,528,Netherlands (Kingdom of the),16," Sausages, similar products of meat, meat offal & bloo",9113653.288,1657.6606029999998,"Netherlands (Kingdom of the) -  Sausages, similar products of meat, meat offal & bloo"
+8,690,Seychelles,250,France,27," Anthracite, not agglomerated",8399521.637,11537.971892000001,"France -  Anthracite, not agglomerated"
+9,690,Seychelles,792,Türkiye,03," Ornamental fish, live",8228573.0,5552.745,"Türkiye -  Ornamental fish, live"
+10,690,Seychelles,360,Indonesia,03," Ornamental fish, live",6026106.891,4006.2873259999997,"Indonesia -  Ornamental fish, live"
+11,690,Seychelles,036,Australia,15," Lard, other pig fat and poultry fat, rendered",5310866.27,2167.416816,"Australia -  Lard, other pig fat and poultry fat, rendered"
+12,690,Seychelles,410,"Korea, Republic of",03," Ornamental fish, live",4854410.716,1131.4787760000002,"Korea, Republic of -  Ornamental fish, live"
+13,690,Seychelles,788,Tunisia,03," Ornamental fish, live",4589473.51,2991.267883,"Tunisia -  Ornamental fish, live"
+14,690,Seychelles,320,Guatemala,03," Ornamental fish, live",4407370.4,2833.7110860000003,"Guatemala -  Ornamental fish, live"
+15,690,Seychelles,208,Denmark,16," Sausages, similar products of meat, meat offal & bloo",4206161.883,753.175605,"Denmark -  Sausages, similar products of meat, meat offal & bloo"
+16,690,Seychelles,450,Madagascar,03," Ornamental fish, live",3969844.514,2439.014,"Madagascar -  Ornamental fish, live"
+17,690,Seychelles,364,Iran (Islamic Republic of),03," Ornamental fish, live",3836163.554,2189.3585789999997,"Iran (Islamic Republic of) -  Ornamental fish, live"
+18,690,Seychelles,384,Côte d'Ivoire,03," Ornamental fish, live",3760581.396,4548.344,"Côte d'Ivoire -  Ornamental fish, live"
+19,690,Seychelles,392,Japan,23," Flour or meal, pellet of meat or offal for animal fee",3256469.844,2816.262051,"Japan -  Flour or meal, pellet of meat or offal for animal fee"
+20,690,Seychelles,620,Portugal,03," Ornamental fish, live",3226283.7,1425.207664,"Portugal -  Ornamental fish, live"
+21,690,Seychelles,364,Iran (Islamic Republic of),84, Nuclear reactors,3128374.105,24.338026000000003,Iran (Islamic Republic of) -  Nuclear reactors
+22,690,Seychelles,724,Spain,16," Sausages, similar products of meat, meat offal & bloo",2642803.767,377.0692,"Spain -  Sausages, similar products of meat, meat offal & bloo"
+23,690,Seychelles,170,Colombia,03," Ornamental fish, live",2592201.22,1703.352,"Colombia -  Ornamental fish, live"
+24,690,Seychelles,608,Philippines,88," Gliders, hang gliders",2474905.592,3.709111,"Philippines -  Gliders, hang gliders"
+25,690,Seychelles,840,United States of America,03," Ornamental fish, live",2317736.386,194.174963,"United States of America -  Ornamental fish, live"
+26,690,Seychelles,250,France,03," Ornamental fish, live",2150573.618,184.794088,"France -  Ornamental fish, live"
+27,690,Seychelles,442,Luxembourg,03," Ornamental fish, live",1953515.031,94.083,"Luxembourg -  Ornamental fish, live"
+28,690,Seychelles,834,"Tanzania, United Republic of",27," Anthracite, not agglomerated",1736155.512,3975.7718990000003,"Tanzania, United Republic of -  Anthracite, not agglomerated"
+29,690,Seychelles,246,Finland,16," Sausages, similar products of meat, meat offal & bloo",1512848.652,248.113,"Finland -  Sausages, similar products of meat, meat offal & bloo"
+30,690,Seychelles,276,Germany,90," Optical fibres, except for telecommunications",1510642.272,4.982816,"Germany -  Optical fibres, except for telecommunications"
+31,690,Seychelles,108,Burundi,40," Natural rubber latex, including prevulcanised",1286410.025,19.721601,"Burundi -  Natural rubber latex, including prevulcanised"
+32,690,Seychelles,144,Sri Lanka,03," Ornamental fish, live",1064761.381,872.472401,"Sri Lanka -  Ornamental fish, live"
+33,690,Seychelles,276,Germany,16," Sausages, similar products of meat, meat offal & bloo",1014974.704,212.02,"Germany -  Sausages, similar products of meat, meat offal & bloo"
+34,690,Seychelles,356,India,28, Chlorine,988606.792,953.5251800000001,India -  Chlorine
+35,690,Seychelles,392,Japan,90," Optical fibres, except for telecommunications",977141.543,0.605986,"Japan -  Optical fibres, except for telecommunications"
+36,690,Seychelles,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",902508.407,2773.5798050000003,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+37,690,Seychelles,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",879938.024,4.292479999999999,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+38,690,Seychelles,036,Australia,23," Flour or meal, pellet of meat or offal for animal fee",848508.734,821.75,"Australia -  Flour or meal, pellet of meat or offal for animal fee"
+39,690,Seychelles,380,Italy,03," Ornamental fish, live",846779.9,259.957712,"Italy -  Ornamental fish, live"
+40,690,Seychelles,222,El Salvador,03," Ornamental fish, live",842432.649,469.602967,"El Salvador -  Ornamental fish, live"
+41,690,Seychelles,504,Morocco,03," Ornamental fish, live",763919.523,484.54623300000003,"Morocco -  Ornamental fish, live"
+42,690,Seychelles,144,Sri Lanka,23," Flour or meal, pellet of meat or offal for animal fee",763501.132,731.753217,"Sri Lanka -  Flour or meal, pellet of meat or offal for animal fee"
+43,690,Seychelles,360,Indonesia,84, Nuclear reactors,749461.647,332.71797399999997,Indonesia -  Nuclear reactors
+44,690,Seychelles,348,Hungary,85, Electric motors of an output < 37.5 watts,726568.791,35.946421,Hungary -  Electric motors of an output < 37.5 watts
+45,690,Seychelles,352,Iceland,15," Lard, other pig fat and poultry fat, rendered",723206.62,360.126136,"Iceland -  Lard, other pig fat and poultry fat, rendered"
+46,690,Seychelles,120,Cameroon,27," Anthracite, not agglomerated",699765.383,3294.9451409999997,"Cameroon -  Anthracite, not agglomerated"
+47,690,Seychelles,196,Cyprus,16," Sausages, similar products of meat, meat offal & bloo",695063.305,132.28,"Cyprus -  Sausages, similar products of meat, meat offal & bloo"
+48,690,Seychelles,428,Latvia,16," Sausages, similar products of meat, meat offal & bloo",679657.092,99.045,"Latvia -  Sausages, similar products of meat, meat offal & bloo"
+49,690,Seychelles,356,India,40," Natural rubber latex, including prevulcanised",641085.13,393.842042,"India -  Natural rubber latex, including prevulcanised"
+50,690,Seychelles,604,Peru,03," Ornamental fish, live",578078.45,408.96957000000003,"Peru -  Ornamental fish, live"
+51,690,Seychelles,276,Germany,15," Lard, other pig fat and poultry fat, rendered",571293.823,63.2,"Germany -  Lard, other pig fat and poultry fat, rendered"
+52,690,Seychelles,188,Costa Rica,03," Ornamental fish, live",560821.93,346.580018,"Costa Rica -  Ornamental fish, live"
+53,690,Seychelles,826,United Kingdom,03," Ornamental fish, live",549630.892,49.236714,"United Kingdom -  Ornamental fish, live"
+54,690,Seychelles,800,Uganda,27," Anthracite, not agglomerated",521372.345,1281.1046450000001,"Uganda -  Anthracite, not agglomerated"
+55,690,Seychelles,356,India,85, Electric motors of an output < 37.5 watts,492902.88,170.495036,India -  Electric motors of an output < 37.5 watts
+56,690,Seychelles,694,Sierra Leone,72," Pig iron, non-alloy, <0.5% phosphorus",483501.827,712.268577,"Sierra Leone -  Pig iron, non-alloy, <0.5% phosphorus"
+57,690,Seychelles,840,United States of America,85, Electric motors of an output < 37.5 watts,456539.05,14.207031,United States of America -  Electric motors of an output < 37.5 watts
+58,690,Seychelles,470,Malta,16," Sausages, similar products of meat, meat offal & bloo",443902.309,66.562,"Malta -  Sausages, similar products of meat, meat offal & bloo"
+59,690,Seychelles,826,United Kingdom,73, Sheet piling of iron or steel,435265.41,210.996733,United Kingdom -  Sheet piling of iron or steel
+60,690,Seychelles,784,United Arab Emirates,03," Ornamental fish, live",397831.186,201.260692,"United Arab Emirates -  Ornamental fish, live"
+61,690,Seychelles,276,Germany,74, Copper mattes,394177.363,59.3,Germany -  Copper mattes
+62,690,Seychelles,586,Pakistan,72," Pig iron, non-alloy, <0.5% phosphorus",392349.086,1277.067432,"Pakistan -  Pig iron, non-alloy, <0.5% phosphorus"
+63,690,Seychelles,250,France,84, Nuclear reactors,366216.375,27.411009999999997,France -  Nuclear reactors
+64,690,Seychelles,250,France,15," Lard, other pig fat and poultry fat, rendered",363160.11,151.01692300000002,"France -  Lard, other pig fat and poultry fat, rendered"
+65,690,Seychelles,608,Philippines,48, Newsprint,331818.023,330.752085,Philippines -  Newsprint
+66,690,Seychelles,356,India,74, Copper mattes,299714.138,56.92953,India -  Copper mattes
+67,690,Seychelles,344,"China, Hong Kong SAR",23," Flour or meal, pellet of meat or offal for animal fee",299154.035,267.787528,"China, Hong Kong SAR -  Flour or meal, pellet of meat or offal for animal fee"
+68,690,Seychelles,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,294873.634,95.470576,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+69,690,Seychelles,840,United States of America,90," Optical fibres, except for telecommunications",286799.011,7.578037,"United States of America -  Optical fibres, except for telecommunications"
+70,690,Seychelles,344,"China, Hong Kong SAR",03," Ornamental fish, live",283545.943,7.206954,"China, Hong Kong SAR -  Ornamental fish, live"
+71,690,Seychelles,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,264095.589,110.397867,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+72,690,Seychelles,356,India,23," Flour or meal, pellet of meat or offal for animal fee",261257.695,198.26192,"India -  Flour or meal, pellet of meat or offal for animal fee"
+73,690,Seychelles,840,United States of America,71," Pearls natural, not permanently mounted or set",255183.897,4.595770000000001,"United States of America -  Pearls natural, not permanently mounted or set"
+74,690,Seychelles,703,Slovakia,94," Seats, aircraft",252914.277,22.222,"Slovakia -  Seats, aircraft"
+75,690,Seychelles,446,"China, Macao SAR",12, Soya beans,238708.386,0.063815,"China, Macao SAR -  Soya beans"
+76,690,Seychelles,036,Australia,90," Optical fibres, except for telecommunications",231374.444,6.519265000000001,"Australia -  Optical fibres, except for telecommunications"
+77,690,Seychelles,364,Iran (Islamic Republic of),40," Natural rubber latex, including prevulcanised",224867.398,10.126687,"Iran (Islamic Republic of) -  Natural rubber latex, including prevulcanised"
+78,690,Seychelles,144,Sri Lanka,40," Natural rubber latex, including prevulcanised",212564.193,233.307929,"Sri Lanka -  Natural rubber latex, including prevulcanised"
+79,690,Seychelles,480,Mauritius,56," Sanitary towels, diapers and similar articles",212004.66,18.5,"Mauritius -  Sanitary towels, diapers and similar articles"
+80,690,Seychelles,188,Costa Rica,90," Optical fibres, except for telecommunications",204673.579,0.240701,"Costa Rica -  Optical fibres, except for telecommunications"
+81,690,Seychelles,804,Ukraine,39, Polyethylene - specific gravity <0.94 in primary form,201101.494,624.45151,Ukraine -  Polyethylene - specific gravity <0.94 in primary form
+82,690,Seychelles,784,United Arab Emirates,22, Mineral and aerated waters not sweetened or flavoured,192642.983,31.412746,United Arab Emirates -  Mineral and aerated waters not sweetened or flavoured
+83,690,Seychelles,024,Angola,84, Nuclear reactors,190515.848,64.493599,Angola -  Nuclear reactors
+84,690,Seychelles,840,United States of America,95," Rideable wheeled toys, dolls carriages",190027.551,18.530846,"United States of America -  Rideable wheeled toys, dolls carriages"
+85,690,Seychelles,360,Indonesia,23," Flour or meal, pellet of meat or offal for animal fee",183165.51,158.33326,"Indonesia -  Flour or meal, pellet of meat or offal for animal fee"
+86,690,Seychelles,372,Ireland,25," Salt (sodium chloride) including solution, salt water",182718.516,58.579913999999995,"Ireland -  Salt (sodium chloride) including solution, salt water"
+87,690,Seychelles,036,Australia,73, Sheet piling of iron or steel,178527.836,82.28,Australia -  Sheet piling of iron or steel
+88,690,Seychelles,840,United States of America,40," Natural rubber latex, including prevulcanised",177944.218,27.919866000000003,"United States of America -  Natural rubber latex, including prevulcanised"
+89,690,Seychelles,840,United States of America,84, Nuclear reactors,175069.731,5.837344,United States of America -  Nuclear reactors
+90,690,Seychelles,012,Algeria,03," Ornamental fish, live",172271.835,90.485086,"Algeria -  Ornamental fish, live"
+91,690,Seychelles,840,United States of America,89," Cruise ships, excursion boats, ferry boats",171747.275,8.575287,"United States of America -  Cruise ships, excursion boats, ferry boats"
+92,690,Seychelles,450,Madagascar,23," Flour or meal, pellet of meat or offal for animal fee",160595.317,140.0,"Madagascar -  Flour or meal, pellet of meat or offal for animal fee"
+93,690,Seychelles,792,Türkiye,90," Optical fibres, except for telecommunications",153682.056,12.535597,"Türkiye -  Optical fibres, except for telecommunications"
+94,690,Seychelles,076,Brazil,73, Sheet piling of iron or steel,153003.0,49.9,Brazil -  Sheet piling of iron or steel
+95,690,Seychelles,840,United States of America,73, Sheet piling of iron or steel,149279.972,25.423644,United States of America -  Sheet piling of iron or steel
+96,690,Seychelles,643,Russian Federation,16," Sausages, similar products of meat, meat offal & bloo",147244.877,36.380737,"Russian Federation -  Sausages, similar products of meat, meat offal & bloo"
+97,690,Seychelles,724,Spain,85, Electric motors of an output < 37.5 watts,138866.541,3.527198,Spain -  Electric motors of an output < 37.5 watts
+98,690,Seychelles,724,Spain,84, Nuclear reactors,137784.122,40.344476,Spain -  Nuclear reactors
+99,690,Seychelles,376,Israel,38, Artificial graphite,132656.257,119.510718,Israel -  Artificial graphite
+100,690,Seychelles,056,Belgium,74, Copper mattes,119410.326,21.005169000000002,Belgium -  Copper mattes
+101,690,Seychelles,218,Ecuador,03," Ornamental fish, live",115151.78,79.901,"Ecuador -  Ornamental fish, live"
+102,690,Seychelles,643,Russian Federation,89," Cruise ships, excursion boats, ferry boats",112138.015,1308.0143770000002,"Russian Federation -  Cruise ships, excursion boats, ferry boats"
+103,690,Seychelles,643,Russian Federation,03," Ornamental fish, live",109498.189,7.297413,"Russian Federation -  Ornamental fish, live"
+104,690,Seychelles,840,United States of America,42," Saddlery and harness, of any material",109156.446,38.94307,"United States of America -  Saddlery and harness, of any material"
+105,690,Seychelles,752,Sweden,62," Mens, boys overcoats of wool or hair, not knit",108819.739,3.0,"Sweden -  Mens, boys overcoats of wool or hair, not knit"
+106,690,Seychelles,480,Mauritius,85, Electric motors of an output < 37.5 watts,107097.619,1.510373,Mauritius -  Electric motors of an output < 37.5 watts
+107,690,Seychelles,288,Ghana,84, Nuclear reactors,104780.032,1.939997,Ghana -  Nuclear reactors
+108,690,Seychelles,804,Ukraine,89," Cruise ships, excursion boats, ferry boats",101516.033,713.482168,"Ukraine -  Cruise ships, excursion boats, ferry boats"
+109,690,Seychelles,840,United States of America,96," Worked ivory, articles of ivory",97331.283,15.816613,"United States of America -  Worked ivory, articles of ivory"
+110,690,Seychelles,344,"China, Hong Kong SAR",91," Wrist-watch, precious metal, battery, with hands",95621.105,0.010294000000000001,"China, Hong Kong SAR -  Wrist-watch, precious metal, battery, with hands"
+111,690,Seychelles,840,United States of America,28, Chlorine,95616.272,237.83190299999998,United States of America -  Chlorine
+112,690,Seychelles,702,Singapore,85, Electric motors of an output < 37.5 watts,95146.056,0.700778,Singapore -  Electric motors of an output < 37.5 watts
+113,690,Seychelles,364,Iran (Islamic Republic of),59, Gum or amylaceous covered textiles for book covers et,89969.81,15.714853,Iran (Islamic Republic of) -  Gum or amylaceous covered textiles for book covers et
+114,690,Seychelles,276,Germany,84, Nuclear reactors,88484.272,3.0,Germany -  Nuclear reactors
+115,690,Seychelles,275,State of Palestine,38, Artificial graphite,87513.946,255.760671,State of Palestine -  Artificial graphite
+116,690,Seychelles,702,Singapore,84, Nuclear reactors,86784.522,0.951927,Singapore -  Nuclear reactors
+117,690,Seychelles,056,Belgium,15," Lard, other pig fat and poultry fat, rendered",85688.404,53.509108999999995,"Belgium -  Lard, other pig fat and poultry fat, rendered"
+118,690,Seychelles,352,Iceland,16," Sausages, similar products of meat, meat offal & bloo",84712.456,15.284424000000001,"Iceland -  Sausages, similar products of meat, meat offal & bloo"
+119,690,Seychelles,508,Mozambique,87, Pedestrian controlled tractors,78953.62,15.118,Mozambique -  Pedestrian controlled tractors
+120,690,Seychelles,480,Mauritius,84, Nuclear reactors,76098.35,7.499746,Mauritius -  Nuclear reactors
+121,690,Seychelles,036,Australia,27," Anthracite, not agglomerated",75830.751,94.0723,"Australia -  Anthracite, not agglomerated"
+122,690,Seychelles,818,Egypt,23," Flour or meal, pellet of meat or offal for animal fee",74440.886,50.013498,"Egypt -  Flour or meal, pellet of meat or offal for animal fee"
+123,690,Seychelles,840,United States of America,63, Electric blankets of textile material,74186.054,10.186598,United States of America -  Electric blankets of textile material
+124,690,Seychelles,686,Senegal,03," Ornamental fish, live",73065.231,81.935864,"Senegal -  Ornamental fish, live"
+125,690,Seychelles,724,Spain,56," Sanitary towels, diapers and similar articles",72810.466,333.78,"Spain -  Sanitary towels, diapers and similar articles"
+126,690,Seychelles,858,Uruguay,28, Chlorine,72674.72,268.0,Uruguay -  Chlorine
+127,690,Seychelles,450,Madagascar,84, Nuclear reactors,72171.914,0.809317,Madagascar -  Nuclear reactors
+128,690,Seychelles,056,Belgium,84, Nuclear reactors,71201.06,7.004865,Belgium -  Nuclear reactors
+129,690,Seychelles,344,"China, Hong Kong SAR",08," Coconuts, fresh or dried",69267.535,0.127019,"China, Hong Kong SAR -  Coconuts, fresh or dried"
+130,690,Seychelles,250,France,90," Optical fibres, except for telecommunications",68320.829,1.652447,"France -  Optical fibres, except for telecommunications"
+131,690,Seychelles,356,India,84, Nuclear reactors,67987.889,5.2586390000000005,India -  Nuclear reactors
+132,690,Seychelles,516,Namibia,44, Fuel wood,67281.816,27.054109,Namibia -  Fuel wood
+133,690,Seychelles,258,French Polynesia,16," Sausages, similar products of meat, meat offal & bloo",65606.571,5.838,"French Polynesia -  Sausages, similar products of meat, meat offal & bloo"
+134,690,Seychelles,288,Ghana,73, Sheet piling of iron or steel,65043.978,1.546654,Ghana -  Sheet piling of iron or steel
+135,690,Seychelles,643,Russian Federation,22, Mineral and aerated waters not sweetened or flavoured,64510.865,22.048298,Russian Federation -  Mineral and aerated waters not sweetened or flavoured
+136,690,Seychelles,203,Czechia,85, Electric motors of an output < 37.5 watts,64306.547,0.173535,Czechia -  Electric motors of an output < 37.5 watts
+137,690,Seychelles,826,United Kingdom,84, Nuclear reactors,63942.539,0.991721,United Kingdom -  Nuclear reactors
+138,690,Seychelles,040,Austria,84, Nuclear reactors,62409.678,3.2458090000000004,Austria -  Nuclear reactors
+139,690,Seychelles,702,Singapore,83, Padlocks of base metal,62372.753,17.794024,Singapore -  Padlocks of base metal
+140,690,Seychelles,840,United States of America,54, Sewing thread of synthetic filaments,61016.415,27.618548999999998,United States of America -  Sewing thread of synthetic filaments
+141,690,Seychelles,764,Thailand,89," Cruise ships, excursion boats, ferry boats",60287.358,15.0,"Thailand -  Cruise ships, excursion boats, ferry boats"
+142,690,Seychelles,356,India,29, Saturated acyclic hydrocarbons,59296.94,63.177485999999995,India -  Saturated acyclic hydrocarbons
+143,690,Seychelles,144,Sri Lanka,38, Artificial graphite,57202.41,11.802031000000001,Sri Lanka -  Artificial graphite
+144,690,Seychelles,056,Belgium,90," Optical fibres, except for telecommunications",55690.754,0.36405,"Belgium -  Optical fibres, except for telecommunications"
+145,690,Seychelles,384,Côte d'Ivoire,84, Nuclear reactors,55660.581,0.6763579999999999,Côte d'Ivoire -  Nuclear reactors
+146,690,Seychelles,356,India,76," Aluminium unwrought, not alloyed",55446.26,48.481095,"India -  Aluminium unwrought, not alloyed"
+147,690,Seychelles,380,Italy,85, Electric motors of an output < 37.5 watts,53832.202,0.002899,Italy -  Electric motors of an output < 37.5 watts
+148,690,Seychelles,764,Thailand,90," Optical fibres, except for telecommunications",53824.947,0.060509,"Thailand -  Optical fibres, except for telecommunications"
+149,690,Seychelles,586,Pakistan,63, Electric blankets of textile material,53511.967,424.290823,Pakistan -  Electric blankets of textile material
+150,690,Seychelles,288,Ghana,85, Electric motors of an output < 37.5 watts,52905.754,0.535759,Ghana -  Electric motors of an output < 37.5 watts
+151,690,Seychelles,694,Sierra Leone,27," Anthracite, not agglomerated",51213.103,97.823963,"Sierra Leone -  Anthracite, not agglomerated"
+152,690,Seychelles,144,Sri Lanka,55," Filament tow of nylon, polyamides",49969.726,2.792386,"Sri Lanka -  Filament tow of nylon, polyamides"
+153,690,Seychelles,100,Bulgaria,85, Electric motors of an output < 37.5 watts,47246.708,1.154874,Bulgaria -  Electric motors of an output < 37.5 watts
+154,690,Seychelles,762,Tajikistan,87, Pedestrian controlled tractors,47116.101,0.9099400000000001,Tajikistan -  Pedestrian controlled tractors
+155,690,Seychelles,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",46646.625,1.1896579999999999,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+156,690,Seychelles,784,United Arab Emirates,16," Sausages, similar products of meat, meat offal & bloo",46323.112,4.855518,"United Arab Emirates -  Sausages, similar products of meat, meat offal & bloo"
+157,690,Seychelles,250,France,39, Polyethylene - specific gravity <0.94 in primary form,46231.072,12.2808,France -  Polyethylene - specific gravity <0.94 in primary form
+158,690,Seychelles,032,Argentina,90," Optical fibres, except for telecommunications",45501.437,0.045448,"Argentina -  Optical fibres, except for telecommunications"
+159,690,Seychelles,276,Germany,82, Spades and shovels,45214.613,3.968,Germany -  Spades and shovels
+160,690,Seychelles,276,Germany,03," Ornamental fish, live",44741.026,3.747824,"Germany -  Ornamental fish, live"
+161,690,Seychelles,702,Singapore,33, Essential oils of bergamot,44234.333,2.013652,Singapore -  Essential oils of bergamot
+162,690,Seychelles,454,Malawi,39, Polyethylene - specific gravity <0.94 in primary form,43495.664,19.148705999999997,Malawi -  Polyethylene - specific gravity <0.94 in primary form
+163,690,Seychelles,826,United Kingdom,85, Electric motors of an output < 37.5 watts,41959.774,36.360065999999996,United Kingdom -  Electric motors of an output < 37.5 watts
+164,690,Seychelles,894,Zambia,84, Nuclear reactors,41731.815,0.158969,Zambia -  Nuclear reactors
+165,690,Seychelles,508,Mozambique,40," Natural rubber latex, including prevulcanised",41369.14,12.552275,"Mozambique -  Natural rubber latex, including prevulcanised"
+166,690,Seychelles,036,Australia,21," Coffee extracts, essences, concentrates, preparations",40638.662,0.247838,"Australia -  Coffee extracts, essences, concentrates, preparations"
+167,690,Seychelles,250,France,09," Coffee, not roasted, not decaffeinated",40543.021,10.601928,"France -  Coffee, not roasted, not decaffeinated"
+168,690,Seychelles,840,United States of America,66, Garden and similar umbrellas,39821.419,9.528808000000001,United States of America -  Garden and similar umbrellas
+169,690,Seychelles,826,United Kingdom,96," Worked ivory, articles of ivory",37994.666,0.5699690000000001,"United Kingdom -  Worked ivory, articles of ivory"
+170,690,Seychelles,288,Ghana,83, Padlocks of base metal,36832.109,0.336715,Ghana -  Padlocks of base metal
+171,690,Seychelles,152,Chile,90," Optical fibres, except for telecommunications",36668.262,0.174396,"Chile -  Optical fibres, except for telecommunications"
+172,690,Seychelles,702,Singapore,88," Gliders, hang gliders",36564.497,0.085342,"Singapore -  Gliders, hang gliders"
+173,690,Seychelles,566,Nigeria,35, Casein,36413.579,35.91,Nigeria -  Casein
+174,690,Seychelles,748,Eswatini,62," Mens, boys overcoats of wool or hair, not knit",36365.142,3.93846,"Eswatini -  Mens, boys overcoats of wool or hair, not knit"
+175,690,Seychelles,826,United Kingdom,08," Coconuts, fresh or dried",35932.888,4.118846,"United Kingdom -  Coconuts, fresh or dried"
+176,690,Seychelles,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",35664.154,14.569372,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+177,690,Seychelles,268,Georgia,33, Essential oils of bergamot,35184.154,5.525257,Georgia -  Essential oils of bergamot
+178,690,Seychelles,480,Mauritius,16," Sausages, similar products of meat, meat offal & bloo",35142.969,4.755,"Mauritius -  Sausages, similar products of meat, meat offal & bloo"
+179,690,Seychelles,250,France,88," Gliders, hang gliders",34919.831,0.058527,"France -  Gliders, hang gliders"
+180,690,Seychelles,716,Zimbabwe,85, Electric motors of an output < 37.5 watts,34721.904,213.47869200000002,Zimbabwe -  Electric motors of an output < 37.5 watts
+181,690,Seychelles,554,New Zealand,39, Polyethylene - specific gravity <0.94 in primary form,34401.946,14.629505,New Zealand -  Polyethylene - specific gravity <0.94 in primary form
+182,690,Seychelles,608,Philippines,27," Anthracite, not agglomerated",33417.531,68.921333,"Philippines -  Anthracite, not agglomerated"
+183,690,Seychelles,372,Ireland,19," Infant foods of cereals, flour, starch or milk, retai",33379.597,2.553405,"Ireland -  Infant foods of cereals, flour, starch or milk, retai"
+184,690,Seychelles,170,Colombia,90," Optical fibres, except for telecommunications",32625.52,0.13795,"Colombia -  Optical fibres, except for telecommunications"
+185,690,Seychelles,076,Brazil,87, Pedestrian controlled tractors,32589.0,1.659,Brazil -  Pedestrian controlled tractors
+186,690,Seychelles,562,Niger,29, Saturated acyclic hydrocarbons,31998.081,53.050076999999995,Niger -  Saturated acyclic hydrocarbons
+187,690,Seychelles,840,United States of America,94," Seats, aircraft",31672.646,5.641717,"United States of America -  Seats, aircraft"
+188,690,Seychelles,804,Ukraine,02," Bovine carcasses and half carcasses, fresh or chilled",30948.825,15.653435,"Ukraine -  Bovine carcasses and half carcasses, fresh or chilled"
+189,690,Seychelles,048,Bahrain,39, Polyethylene - specific gravity <0.94 in primary form,30742.188,4.398131,Bahrain -  Polyethylene - specific gravity <0.94 in primary form
+190,690,Seychelles,508,Mozambique,85, Electric motors of an output < 37.5 watts,30662.361,1.312545,Mozambique -  Electric motors of an output < 37.5 watts
+191,690,Seychelles,756,"Switzerland, Liechtenstein",96," Worked ivory, articles of ivory",30607.085,0.389,"Switzerland, Liechtenstein -  Worked ivory, articles of ivory"
+192,690,Seychelles,360,Indonesia,27," Anthracite, not agglomerated",30326.451,63.993190000000006,"Indonesia -  Anthracite, not agglomerated"
+193,690,Seychelles,410,"Korea, Republic of",82, Spades and shovels,29830.786,0.084443,"Korea, Republic of -  Spades and shovels"
+194,690,Seychelles,360,Indonesia,60," ""Long pile"" knit or crochet textile fabric",28079.336,3.583826,"Indonesia -  ""Long pile"" knit or crochet textile fabric"
+195,690,Seychelles,840,United States of America,87, Pedestrian controlled tractors,27778.764,2.358251,United States of America -  Pedestrian controlled tractors
+196,690,Seychelles,616,Poland,03," Ornamental fish, live",27711.588,1.665965,"Poland -  Ornamental fish, live"
+197,690,Seychelles,372,Ireland,84, Nuclear reactors,27665.388,1.810122,Ireland -  Nuclear reactors
+198,690,Seychelles,826,United Kingdom,59, Gum or amylaceous covered textiles for book covers et,27441.992,13.117709000000001,United Kingdom -  Gum or amylaceous covered textiles for book covers et
+199,690,Seychelles,250,France,85, Electric motors of an output < 37.5 watts,27419.891,0.886289,France -  Electric motors of an output < 37.5 watts
+200,690,Seychelles,288,Ghana,39, Polyethylene - specific gravity <0.94 in primary form,27315.119,13.302194,Ghana -  Polyethylene - specific gravity <0.94 in primary form
+201,690,Seychelles,450,Madagascar,89," Cruise ships, excursion boats, ferry boats",27102.785,108.0,"Madagascar -  Cruise ships, excursion boats, ferry boats"
+202,690,Seychelles,364,Iran (Islamic Republic of),39, Polyethylene - specific gravity <0.94 in primary form,26690.351,1.2056980000000002,Iran (Islamic Republic of) -  Polyethylene - specific gravity <0.94 in primary form
+203,690,Seychelles,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",26480.095,0.081771,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+204,690,Seychelles,076,Brazil,59, Gum or amylaceous covered textiles for book covers et,26392.0,7.97,Brazil -  Gum or amylaceous covered textiles for book covers et
+205,690,Seychelles,608,Philippines,39, Polyethylene - specific gravity <0.94 in primary form,26350.072,14.765027,Philippines -  Polyethylene - specific gravity <0.94 in primary form
+206,690,Seychelles,784,United Arab Emirates,90," Optical fibres, except for telecommunications",26103.861,0.12807300000000002,"United Arab Emirates -  Optical fibres, except for telecommunications"
+207,690,Seychelles,499,Montenegro,16," Sausages, similar products of meat, meat offal & bloo",25813.039,2.9375999999999998,"Montenegro -  Sausages, similar products of meat, meat offal & bloo"
+208,690,Seychelles,764,Thailand,15," Lard, other pig fat and poultry fat, rendered",25636.368,19.425,"Thailand -  Lard, other pig fat and poultry fat, rendered"
+209,690,Seychelles,528,Netherlands (Kingdom of the),87, Pedestrian controlled tractors,25612.166,2.3625920000000002,Netherlands (Kingdom of the) -  Pedestrian controlled tractors
+210,690,Seychelles,372,Ireland,85, Electric motors of an output < 37.5 watts,23941.377,0.935367,Ireland -  Electric motors of an output < 37.5 watts
+211,690,Seychelles,643,Russian Federation,90," Optical fibres, except for telecommunications",23941.21,0.023577999999999998,"Russian Federation -  Optical fibres, except for telecommunications"
+212,690,Seychelles,840,United States of America,81," Powders, tungsten (wolfram)",23846.426,17.545658,"United States of America -  Powders, tungsten (wolfram)"
+213,690,Seychelles,076,Brazil,29, Saturated acyclic hydrocarbons,23427.0,39.2,Brazil -  Saturated acyclic hydrocarbons
+214,690,Seychelles,840,United States of America,68," Stone setts, curbstones, flagstones (except slate)",23358.506,2.4526950000000003,"United States of America -  Stone setts, curbstones, flagstones (except slate)"
+215,690,Seychelles,268,Georgia,63, Electric blankets of textile material,23083.042,2.818699,Georgia -  Electric blankets of textile material
+216,690,Seychelles,764,Thailand,84, Nuclear reactors,22468.284,5.946619,Thailand -  Nuclear reactors
+217,690,Seychelles,800,Uganda,84, Nuclear reactors,22361.411,0.08413899999999999,Uganda -  Nuclear reactors
+218,690,Seychelles,144,Sri Lanka,27," Anthracite, not agglomerated",22297.069,43.294055,"Sri Lanka -  Anthracite, not agglomerated"
+219,690,Seychelles,616,Poland,90," Optical fibres, except for telecommunications",22229.854,0.043823,"Poland -  Optical fibres, except for telecommunications"
+220,690,Seychelles,120,Cameroon,87, Pedestrian controlled tractors,21995.814,2.220957,Cameroon -  Pedestrian controlled tractors
+221,690,Seychelles,056,Belgium,63, Electric blankets of textile material,21974.541,6.9377510000000004,Belgium -  Electric blankets of textile material
+222,690,Seychelles,480,Mauritius,39, Polyethylene - specific gravity <0.94 in primary form,21858.77,1.992703,Mauritius -  Polyethylene - specific gravity <0.94 in primary form
+223,690,Seychelles,840,United States of America,44, Fuel wood,21626.971,4.2216260000000005,United States of America -  Fuel wood
+224,690,Seychelles,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,21474.0,2.804,Czechia -  Polyethylene - specific gravity <0.94 in primary form
+225,690,Seychelles,528,Netherlands (Kingdom of the),84, Nuclear reactors,21365.98,0.330929,Netherlands (Kingdom of the) -  Nuclear reactors
+226,690,Seychelles,356,India,27," Anthracite, not agglomerated",20447.078,74.75099800000001,"India -  Anthracite, not agglomerated"
+227,690,Seychelles,414,Kuwait,90," Optical fibres, except for telecommunications",20324.593,0.182963,"Kuwait -  Optical fibres, except for telecommunications"
+228,690,Seychelles,410,"Korea, Republic of",90," Optical fibres, except for telecommunications",19585.863,0.06365699999999999,"Korea, Republic of -  Optical fibres, except for telecommunications"
+229,690,Seychelles,724,Spain,38, Artificial graphite,19570.907,12.062858,Spain -  Artificial graphite
+230,690,Seychelles,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,19472.911,1.6953230000000001,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+231,690,Seychelles,694,Sierra Leone,39, Polyethylene - specific gravity <0.94 in primary form,19393.692,10.498042,Sierra Leone -  Polyethylene - specific gravity <0.94 in primary form
+232,690,Seychelles,056,Belgium,03," Ornamental fish, live",19272.355,1.333157,"Belgium -  Ornamental fish, live"
+233,690,Seychelles,646,Rwanda,22, Mineral and aerated waters not sweetened or flavoured,19172.098,8.335732,Rwanda -  Mineral and aerated waters not sweetened or flavoured
+234,690,Seychelles,276,Germany,95," Rideable wheeled toys, dolls carriages",18843.084,0.335,"Germany -  Rideable wheeled toys, dolls carriages"
+235,690,Seychelles,508,Mozambique,84, Nuclear reactors,18641.344,2.2916909999999997,Mozambique -  Nuclear reactors
+236,690,Seychelles,144,Sri Lanka,84, Nuclear reactors,18025.241,1.703797,Sri Lanka -  Nuclear reactors
+237,690,Seychelles,480,Mauritius,73, Sheet piling of iron or steel,17983.647,13.543,Mauritius -  Sheet piling of iron or steel
+238,690,Seychelles,360,Indonesia,28, Chlorine,17930.272,19.032962,Indonesia -  Chlorine
+239,690,Seychelles,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",17104.551,0.846325,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+240,690,Seychelles,196,Cyprus,19," Infant foods of cereals, flour, starch or milk, retai",16603.215,2.924,"Cyprus -  Infant foods of cereals, flour, starch or milk, retai"
+241,690,Seychelles,376,Israel,03," Ornamental fish, live",16266.691,1.5193530000000002,"Israel -  Ornamental fish, live"
+242,690,Seychelles,222,El Salvador,90," Optical fibres, except for telecommunications",16258.383,0.030009,"El Salvador -  Optical fibres, except for telecommunications"
+243,690,Seychelles,694,Sierra Leone,69," Bricks, blocks and ceramic goods of siliceous earths",16198.066,26.598382,"Sierra Leone -  Bricks, blocks and ceramic goods of siliceous earths"
+244,690,Seychelles,724,Spain,61," Mens, boys overcoats, etc, of wool or hair, knit",16152.648,0.315,"Spain -  Mens, boys overcoats, etc, of wool or hair, knit"
+245,690,Seychelles,608,Philippines,85, Electric motors of an output < 37.5 watts,16135.069,25.315531,Philippines -  Electric motors of an output < 37.5 watts
+246,690,Seychelles,894,Zambia,90," Optical fibres, except for telecommunications",16116.84,0.036825000000000004,"Zambia -  Optical fibres, except for telecommunications"
+247,690,Seychelles,356,India,39, Polyethylene - specific gravity <0.94 in primary form,16005.26,4.945895999999999,India -  Polyethylene - specific gravity <0.94 in primary form
+248,690,Seychelles,360,Indonesia,85, Electric motors of an output < 37.5 watts,15758.02,9.823971,Indonesia -  Electric motors of an output < 37.5 watts
+249,690,Seychelles,204,Benin,83, Padlocks of base metal,15634.133,2.524,Benin -  Padlocks of base metal
+250,690,Seychelles,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",15288.291,0.095307,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+251,690,Seychelles,246,Finland,84, Nuclear reactors,15286.967,0.305499,Finland -  Nuclear reactors
+252,690,Seychelles,756,"Switzerland, Liechtenstein",88," Gliders, hang gliders",15107.47,0.000858,"Switzerland, Liechtenstein -  Gliders, hang gliders"
+253,690,Seychelles,840,United States of America,83, Padlocks of base metal,15044.306,1.2742360000000001,United States of America -  Padlocks of base metal
+254,690,Seychelles,462,Maldives,90," Optical fibres, except for telecommunications",14924.269,0.186331,"Maldives -  Optical fibres, except for telecommunications"
+255,690,Seychelles,144,Sri Lanka,28, Chlorine,14907.224,17.280565,Sri Lanka -  Chlorine
+256,690,Seychelles,036,Australia,85, Electric motors of an output < 37.5 watts,14412.898,0.140593,Australia -  Electric motors of an output < 37.5 watts
+257,690,Seychelles,462,Maldives,84, Nuclear reactors,13973.549,0.8205030000000001,Maldives -  Nuclear reactors
+258,690,Seychelles,108,Burundi,90," Optical fibres, except for telecommunications",13970.054,0.038618,"Burundi -  Optical fibres, except for telecommunications"
+259,690,Seychelles,702,Singapore,90," Optical fibres, except for telecommunications",13948.808,0.113108,"Singapore -  Optical fibres, except for telecommunications"
+260,690,Seychelles,376,Israel,67," Bird skins and feathers, articles therefrom",13780.661,0.054473999999999995,"Israel -  Bird skins and feathers, articles therefrom"
+261,690,Seychelles,578,Norway,84, Nuclear reactors,13771.526,1.281708,Norway -  Nuclear reactors
+262,690,Seychelles,454,Malawi,85, Electric motors of an output < 37.5 watts,13595.553,0.017932,Malawi -  Electric motors of an output < 37.5 watts
+263,690,Seychelles,048,Bahrain,16," Sausages, similar products of meat, meat offal & bloo",13381.412,1.382709,"Bahrain -  Sausages, similar products of meat, meat offal & bloo"
+264,690,Seychelles,858,Uruguay,90," Optical fibres, except for telecommunications",13260.0,0.013,"Uruguay -  Optical fibres, except for telecommunications"
+265,690,Seychelles,288,Ghana,40," Natural rubber latex, including prevulcanised",13020.178,0.296551,"Ghana -  Natural rubber latex, including prevulcanised"
+266,690,Seychelles,586,Pakistan,40," Natural rubber latex, including prevulcanised",12828.634,26.418918,"Pakistan -  Natural rubber latex, including prevulcanised"
+267,690,Seychelles,144,Sri Lanka,54, Sewing thread of synthetic filaments,12800.426,0.7387050000000001,Sri Lanka -  Sewing thread of synthetic filaments
+268,690,Seychelles,204,Benin,76," Aluminium unwrought, not alloyed",12720.893,2.245,"Benin -  Aluminium unwrought, not alloyed"
+269,690,Seychelles,120,Cameroon,16," Sausages, similar products of meat, meat offal & bloo",12705.488,4.098945,"Cameroon -  Sausages, similar products of meat, meat offal & bloo"
+270,690,Seychelles,804,Ukraine,32, Quebracho tanning extract,12583.987,4.453418,Ukraine -  Quebracho tanning extract
+271,690,Seychelles,250,France,87, Pedestrian controlled tractors,12101.691,0.965389,France -  Pedestrian controlled tractors
+272,690,Seychelles,108,Burundi,84, Nuclear reactors,11724.049,0.02932,Burundi -  Nuclear reactors
+273,690,Seychelles,729,Sudan,05," Hair, human, unworked, waste of human hair",11630.044,2.018068,"Sudan -  Hair, human, unworked, waste of human hair"
+274,690,Seychelles,586,Pakistan,85, Electric motors of an output < 37.5 watts,11566.493,0.063388,Pakistan -  Electric motors of an output < 37.5 watts
+275,690,Seychelles,364,Iran (Islamic Republic of),86," Rail locomotives, externally electrically powered",11469.607,12.803339,"Iran (Islamic Republic of) -  Rail locomotives, externally electrically powered"
+276,690,Seychelles,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",11356.278,0.534771,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+277,690,Seychelles,288,Ghana,56," Sanitary towels, diapers and similar articles",11024.137,3.403251,"Ghana -  Sanitary towels, diapers and similar articles"
+278,690,Seychelles,180,"Congo, Dem. Rep. of the",84, Nuclear reactors,10976.238,0.010868000000000001,"Congo, Dem. Rep. of the -  Nuclear reactors"
+279,690,Seychelles,268,Georgia,96," Worked ivory, articles of ivory",10911.879,0.9082870000000001,"Georgia -  Worked ivory, articles of ivory"
+280,690,Seychelles,826,United Kingdom,63, Electric blankets of textile material,10900.021,3.271352,United Kingdom -  Electric blankets of textile material
+281,690,Seychelles,276,Germany,85, Electric motors of an output < 37.5 watts,10648.715,0.021407,Germany -  Electric motors of an output < 37.5 watts
+282,690,Seychelles,056,Belgium,82, Spades and shovels,10387.644,0.9320499999999999,Belgium -  Spades and shovels
+283,690,Seychelles,716,Zimbabwe,84, Nuclear reactors,10362.457,0.009145,Zimbabwe -  Nuclear reactors
+284,690,Seychelles,764,Thailand,27," Anthracite, not agglomerated",10275.064,0.0847,"Thailand -  Anthracite, not agglomerated"
+285,690,Seychelles,024,Angola,86," Rail locomotives, externally electrically powered",9934.91,2.728,"Angola -  Rail locomotives, externally electrically powered"
+286,690,Seychelles,040,Austria,73, Sheet piling of iron or steel,9580.073,0.33129000000000003,Austria -  Sheet piling of iron or steel
+287,690,Seychelles,480,Mauritius,94," Seats, aircraft",9393.06,1.589,"Mauritius -  Seats, aircraft"
+288,690,Seychelles,724,Spain,90," Optical fibres, except for telecommunications",9381.991,0.5726140000000001,"Spain -  Optical fibres, except for telecommunications"
+289,690,Seychelles,344,"China, Hong Kong SAR",71," Pearls natural, not permanently mounted or set",9341.074,0.001828,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+290,690,Seychelles,646,Rwanda,84, Nuclear reactors,9121.141,0.012872,Rwanda -  Nuclear reactors
+291,690,Seychelles,380,Italy,88," Gliders, hang gliders",8940.284,0.118312,"Italy -  Gliders, hang gliders"
+292,690,Seychelles,528,Netherlands (Kingdom of the),03," Ornamental fish, live",8909.831,0.586272,"Netherlands (Kingdom of the) -  Ornamental fish, live"
+293,690,Seychelles,233,Estonia,22, Mineral and aerated waters not sweetened or flavoured,8875.304,4.027927,Estonia -  Mineral and aerated waters not sweetened or flavoured
+294,690,Seychelles,480,Mauritius,72," Pig iron, non-alloy, <0.5% phosphorus",8766.748,149.85,"Mauritius -  Pig iron, non-alloy, <0.5% phosphorus"
+295,690,Seychelles,024,Angola,85, Electric motors of an output < 37.5 watts,8756.228,0.35910000000000003,Angola -  Electric motors of an output < 37.5 watts
+296,690,Seychelles,462,Maldives,09," Coffee, not roasted, not decaffeinated",8733.7,0.582398,"Maldives -  Coffee, not roasted, not decaffeinated"
+297,690,Seychelles,268,Georgia,54, Sewing thread of synthetic filaments,8719.045,2.060327,Georgia -  Sewing thread of synthetic filaments
+298,690,Seychelles,268,Georgia,55," Filament tow of nylon, polyamides",8691.941,1.755208,"Georgia -  Filament tow of nylon, polyamides"
+299,690,Seychelles,360,Indonesia,94," Seats, aircraft",8433.819,13.150129999999999,"Indonesia -  Seats, aircraft"
+300,690,Seychelles,703,Slovakia,84, Nuclear reactors,8413.808,0.052135,Slovakia -  Nuclear reactors
+301,690,Seychelles,462,Maldives,39, Polyethylene - specific gravity <0.94 in primary form,8397.758,0.8515750000000001,Maldives -  Polyethylene - specific gravity <0.94 in primary form
+302,690,Seychelles,688,Serbia,90," Optical fibres, except for telecommunications",8368.446,0.018448,"Serbia -  Optical fibres, except for telecommunications"
+303,690,Seychelles,233,Estonia,16," Sausages, similar products of meat, meat offal & bloo",8194.148,0.9374020000000001,"Estonia -  Sausages, similar products of meat, meat offal & bloo"
+304,690,Seychelles,180,"Congo, Dem. Rep. of the",28, Chlorine,8176.837,20.5,"Congo, Dem. Rep. of the -  Chlorine"
+305,690,Seychelles,826,United Kingdom,94," Seats, aircraft",8042.34,2.185278,"United Kingdom -  Seats, aircraft"
+306,690,Seychelles,076,Brazil,85, Electric motors of an output < 37.5 watts,8020.556,0.371984,Brazil -  Electric motors of an output < 37.5 watts
+307,690,Seychelles,208,Denmark,85, Electric motors of an output < 37.5 watts,7976.347,0.027749,Denmark -  Electric motors of an output < 37.5 watts
+308,690,Seychelles,356,India,25," Salt (sodium chloride) including solution, salt water",7932.007,74.13277599999999,"India -  Salt (sodium chloride) including solution, salt water"
+309,690,Seychelles,422,Lebanon,90," Optical fibres, except for telecommunications",7635.558,0.045086,"Lebanon -  Optical fibres, except for telecommunications"
+310,690,Seychelles,156,China,03," Ornamental fish, live",7523.008,0.545606,"China -  Ornamental fish, live"
+311,690,Seychelles,144,Sri Lanka,57," Carpets of wool or fine animal hair, knotted",7470.336,2.312427,"Sri Lanka -  Carpets of wool or fine animal hair, knotted"
+312,690,Seychelles,462,Maldives,40," Natural rubber latex, including prevulcanised",7315.05,2.5764549999999997,"Maldives -  Natural rubber latex, including prevulcanised"
+313,690,Seychelles,304,Greenland,16," Sausages, similar products of meat, meat offal & bloo",7224.726,0.667763,"Greenland -  Sausages, similar products of meat, meat offal & bloo"
+314,690,Seychelles,404,Kenya,22, Mineral and aerated waters not sweetened or flavoured,7180.806,4.246569,Kenya -  Mineral and aerated waters not sweetened or flavoured
+315,690,Seychelles,380,Italy,90," Optical fibres, except for telecommunications",6995.763,0.019049,"Italy -  Optical fibres, except for telecommunications"
+316,690,Seychelles,826,United Kingdom,90," Optical fibres, except for telecommunications",6739.053,0.184572,"United Kingdom -  Optical fibres, except for telecommunications"
+317,690,Seychelles,372,Ireland,16," Sausages, similar products of meat, meat offal & bloo",6711.879,0.7741910000000001,"Ireland -  Sausages, similar products of meat, meat offal & bloo"
+318,690,Seychelles,360,Indonesia,73, Sheet piling of iron or steel,6609.446,0.233029,Indonesia -  Sheet piling of iron or steel
+319,690,Seychelles,100,Bulgaria,87, Pedestrian controlled tractors,6597.785,0.483418,Bulgaria -  Pedestrian controlled tractors
+320,690,Seychelles,826,United Kingdom,83, Padlocks of base metal,6539.926,0.272051,United Kingdom -  Padlocks of base metal
+321,690,Seychelles,360,Indonesia,68," Stone setts, curbstones, flagstones (except slate)",6256.213,6.137029999999999,"Indonesia -  Stone setts, curbstones, flagstones (except slate)"
+322,690,Seychelles,784,United Arab Emirates,94," Seats, aircraft",6157.102,4.438059,"United Arab Emirates -  Seats, aircraft"
+323,690,Seychelles,724,Spain,89," Cruise ships, excursion boats, ferry boats",5682.208,3.196,"Spain -  Cruise ships, excursion boats, ferry boats"
+324,690,Seychelles,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,5663.436,0.002662,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+325,690,Seychelles,466,Mali,85, Electric motors of an output < 37.5 watts,5573.939,0.08356100000000001,Mali -  Electric motors of an output < 37.5 watts
+326,690,Seychelles,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",5567.649,0.37,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+327,690,Seychelles,048,Bahrain,90," Optical fibres, except for telecommunications",5473.054,0.717327,"Bahrain -  Optical fibres, except for telecommunications"
+328,690,Seychelles,450,Madagascar,90," Optical fibres, except for telecommunications",5395.005,0.031553,"Madagascar -  Optical fibres, except for telecommunications"
+329,690,Seychelles,466,Mali,84, Nuclear reactors,5321.412,0.07696599999999999,Mali -  Nuclear reactors
+330,690,Seychelles,196,Cyprus,85, Electric motors of an output < 37.5 watts,5296.225,0.38,Cyprus -  Electric motors of an output < 37.5 watts
+331,690,Seychelles,508,Mozambique,69," Bricks, blocks and ceramic goods of siliceous earths",5267.34,23.891,"Mozambique -  Bricks, blocks and ceramic goods of siliceous earths"
+332,690,Seychelles,694,Sierra Leone,68," Stone setts, curbstones, flagstones (except slate)",5245.548,1.790583,"Sierra Leone -  Stone setts, curbstones, flagstones (except slate)"
+333,690,Seychelles,702,Singapore,30," Glands and other organs, dried, for therapeutic uses",5186.131,0.764532,"Singapore -  Glands and other organs, dried, for therapeutic uses"
+334,690,Seychelles,344,"China, Hong Kong SAR",22, Mineral and aerated waters not sweetened or flavoured,5098.382,0.757904,"China, Hong Kong SAR -  Mineral and aerated waters not sweetened or flavoured"
+335,690,Seychelles,826,United Kingdom,88," Gliders, hang gliders",5067.364,0.024509,"United Kingdom -  Gliders, hang gliders"
+336,690,Seychelles,508,Mozambique,37, X-ray plates and films,4941.957,0.004934,Mozambique -  X-ray plates and films
+337,690,Seychelles,324,Guinea,59, Gum or amylaceous covered textiles for book covers et,4892.485,1.034662,Guinea -  Gum or amylaceous covered textiles for book covers et
+338,690,Seychelles,036,Australia,84, Nuclear reactors,4858.213,0.125377,Australia -  Nuclear reactors
+339,690,Seychelles,756,"Switzerland, Liechtenstein",87, Pedestrian controlled tractors,4791.856,0.181,"Switzerland, Liechtenstein -  Pedestrian controlled tractors"
+340,690,Seychelles,784,United Arab Emirates,73, Sheet piling of iron or steel,4674.336,18.972062,United Arab Emirates -  Sheet piling of iron or steel
+341,690,Seychelles,480,Mauritius,90," Optical fibres, except for telecommunications",4671.052,0.059439,"Mauritius -  Optical fibres, except for telecommunications"
+342,690,Seychelles,784,United Arab Emirates,87, Pedestrian controlled tractors,4589.426,3.985088,United Arab Emirates -  Pedestrian controlled tractors
+343,690,Seychelles,040,Austria,44, Fuel wood,4474.512,11.683165,Austria -  Fuel wood
+344,690,Seychelles,120,Cameroon,21," Coffee extracts, essences, concentrates, preparations",4452.272,0.493116,"Cameroon -  Coffee extracts, essences, concentrates, preparations"
+345,690,Seychelles,246,Finland,08," Coconuts, fresh or dried",4450.779,1.92,"Finland -  Coconuts, fresh or dried"
+346,690,Seychelles,324,Guinea,38, Artificial graphite,4358.396,2.108689,Guinea -  Artificial graphite
+347,690,Seychelles,031,Azerbaijan,16," Sausages, similar products of meat, meat offal & bloo",4340.561,0.47633,"Azerbaijan -  Sausages, similar products of meat, meat offal & bloo"
+348,690,Seychelles,724,Spain,22, Mineral and aerated waters not sweetened or flavoured,4305.947,0.08186199999999999,Spain -  Mineral and aerated waters not sweetened or flavoured
+349,690,Seychelles,780,Trinidad and Tobago,22, Mineral and aerated waters not sweetened or flavoured,4305.26,0.959,Trinidad and Tobago -  Mineral and aerated waters not sweetened or flavoured
+350,690,Seychelles,702,Singapore,73, Sheet piling of iron or steel,4258.721,0.291675,Singapore -  Sheet piling of iron or steel
+351,690,Seychelles,250,France,82, Spades and shovels,4191.895,0.5477329999999999,France -  Spades and shovels
+352,690,Seychelles,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,4179.415,0.11964100000000001,Germany -  Polyethylene - specific gravity <0.94 in primary form
+353,690,Seychelles,499,Montenegro,03," Ornamental fish, live",4160.829,0.30983999999999995,"Montenegro -  Ornamental fish, live"
+354,690,Seychelles,040,Austria,85, Electric motors of an output < 37.5 watts,4140.187,0.21360099999999999,Austria -  Electric motors of an output < 37.5 watts
+355,690,Seychelles,250,France,62," Mens, boys overcoats of wool or hair, not knit",4128.845,0.136436,"France -  Mens, boys overcoats of wool or hair, not knit"
+356,690,Seychelles,643,Russian Federation,73, Sheet piling of iron or steel,4080.314,0.041095999999999994,Russian Federation -  Sheet piling of iron or steel
+357,690,Seychelles,324,Guinea,34," Soaps, for toilet use, solid",4066.998,1.9365899999999998,"Guinea -  Soaps, for toilet use, solid"
+358,690,Seychelles,792,Türkiye,39, Polyethylene - specific gravity <0.94 in primary form,4066.574,0.017765999999999997,Türkiye -  Polyethylene - specific gravity <0.94 in primary form
+359,690,Seychelles,608,Philippines,84, Nuclear reactors,4041.351,38.985944,Philippines -  Nuclear reactors
+360,690,Seychelles,724,Spain,73, Sheet piling of iron or steel,4020.421,8.431642,Spain -  Sheet piling of iron or steel
+361,690,Seychelles,462,Maldives,33, Essential oils of bergamot,3983.714,0.053162999999999995,Maldives -  Essential oils of bergamot
+362,690,Seychelles,764,Thailand,16," Sausages, similar products of meat, meat offal & bloo",3948.921,0.462694,"Thailand -  Sausages, similar products of meat, meat offal & bloo"
+363,690,Seychelles,784,United Arab Emirates,21," Coffee extracts, essences, concentrates, preparations",3947.01,1.348147,"United Arab Emirates -  Coffee extracts, essences, concentrates, preparations"
+364,690,Seychelles,826,United Kingdom,52," Cotton, not carded or combed",3923.145,0.023817,"United Kingdom -  Cotton, not carded or combed"
+365,690,Seychelles,756,"Switzerland, Liechtenstein",91," Wrist-watch, precious metal, battery, with hands",3919.058,0.040665999999999994,"Switzerland, Liechtenstein -  Wrist-watch, precious metal, battery, with hands"
+366,690,Seychelles,466,Mali,73, Sheet piling of iron or steel,3885.988,0.05817,Mali -  Sheet piling of iron or steel
+367,690,Seychelles,288,Ghana,90," Optical fibres, except for telecommunications",3837.68,0.091866,"Ghana -  Optical fibres, except for telecommunications"
+368,690,Seychelles,072,Botswana,85, Electric motors of an output < 37.5 watts,3720.519,0.027552,Botswana -  Electric motors of an output < 37.5 watts
+369,690,Seychelles,804,Ukraine,87, Pedestrian controlled tractors,3705.599,2.9136149999999996,Ukraine -  Pedestrian controlled tractors
+370,690,Seychelles,616,Poland,85, Electric motors of an output < 37.5 watts,3692.444,0.040712000000000005,Poland -  Electric motors of an output < 37.5 watts
+371,690,Seychelles,360,Indonesia,29, Saturated acyclic hydrocarbons,3638.144,1.098124,Indonesia -  Saturated acyclic hydrocarbons
+372,690,Seychelles,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,3521.65,3.047248,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+373,690,Seychelles,144,Sri Lanka,87, Pedestrian controlled tractors,3503.01,0.789736,Sri Lanka -  Pedestrian controlled tractors
+374,690,Seychelles,729,Sudan,62," Mens, boys overcoats of wool or hair, not knit",3486.757,0.852697,"Sudan -  Mens, boys overcoats of wool or hair, not knit"
+375,690,Seychelles,380,Italy,94," Seats, aircraft",3458.941,1.619471,"Italy -  Seats, aircraft"
+376,690,Seychelles,404,Kenya,25," Salt (sodium chloride) including solution, salt water",3386.546,3.7623409999999997,"Kenya -  Salt (sodium chloride) including solution, salt water"
+377,690,Seychelles,508,Mozambique,94," Seats, aircraft",3362.061,0.741312,"Mozambique -  Seats, aircraft"
+378,690,Seychelles,380,Italy,84, Nuclear reactors,3350.595,0.030276,Italy -  Nuclear reactors
+379,690,Seychelles,724,Spain,82, Spades and shovels,3340.479,0.337603,Spain -  Spades and shovels
+380,690,Seychelles,764,Thailand,83, Padlocks of base metal,3292.747,0.043863,Thailand -  Padlocks of base metal
+381,690,Seychelles,642,Romania,85, Electric motors of an output < 37.5 watts,3287.624,0.381228,Romania -  Electric motors of an output < 37.5 watts
+382,690,Seychelles,480,Mauritius,76," Aluminium unwrought, not alloyed",3280.295,0.450593,"Mauritius -  Aluminium unwrought, not alloyed"
+383,690,Seychelles,462,Maldives,73, Sheet piling of iron or steel,3242.173,0.826568,Maldives -  Sheet piling of iron or steel
+384,690,Seychelles,608,Philippines,60," ""Long pile"" knit or crochet textile fabric",3231.779,0.47626100000000005,"Philippines -  ""Long pile"" knit or crochet textile fabric"
+385,690,Seychelles,480,Mauritius,38, Artificial graphite,3220.229,0.254,Mauritius -  Artificial graphite
+386,690,Seychelles,694,Sierra Leone,84, Nuclear reactors,3207.248,6.23449,Sierra Leone -  Nuclear reactors
+387,690,Seychelles,694,Sierra Leone,73, Sheet piling of iron or steel,3153.396,2.711276,Sierra Leone -  Sheet piling of iron or steel
+388,690,Seychelles,048,Bahrain,19," Infant foods of cereals, flour, starch or milk, retai",3037.729,0.19189699999999998,"Bahrain -  Infant foods of cereals, flour, starch or milk, retai"
+389,690,Seychelles,840,United States of America,33, Essential oils of bergamot,3019.331,0.000978,United States of America -  Essential oils of bergamot
+390,690,Seychelles,276,Germany,94," Seats, aircraft",2949.543,0.886,"Germany -  Seats, aircraft"
+391,690,Seychelles,380,Italy,82, Spades and shovels,2929.524,0.18099500000000002,Italy -  Spades and shovels
+392,690,Seychelles,144,Sri Lanka,52," Cotton, not carded or combed",2876.878,0.593958,"Sri Lanka -  Cotton, not carded or combed"
+393,690,Seychelles,268,Georgia,58," Woven pile fabric of wool or fine animal hair, w >30c",2846.671,1.23672,"Georgia -  Woven pile fabric of wool or fine animal hair, w >30c"
+394,690,Seychelles,752,Sweden,82, Spades and shovels,2822.375,0.016414,Sweden -  Spades and shovels
+395,690,Seychelles,250,France,49," Brochures, leaflets and similar, in single sheets",2813.472,0.136839,"France -  Brochures, leaflets and similar, in single sheets"
+396,690,Seychelles,024,Angola,39, Polyethylene - specific gravity <0.94 in primary form,2721.996,0.257826,Angola -  Polyethylene - specific gravity <0.94 in primary form
+397,690,Seychelles,024,Angola,73, Sheet piling of iron or steel,2697.788,0.267447,Angola -  Sheet piling of iron or steel
+398,690,Seychelles,694,Sierra Leone,38, Artificial graphite,2651.44,1.7905,Sierra Leone -  Artificial graphite
+399,690,Seychelles,056,Belgium,16," Sausages, similar products of meat, meat offal & bloo",2608.434,0.520827,"Belgium -  Sausages, similar products of meat, meat offal & bloo"
+400,690,Seychelles,246,Finland,73, Sheet piling of iron or steel,2607.64,0.07741500000000001,Finland -  Sheet piling of iron or steel
+401,690,Seychelles,462,Maldives,34," Soaps, for toilet use, solid",2582.571,0.042811999999999996,"Maldives -  Soaps, for toilet use, solid"
+402,690,Seychelles,566,Nigeria,61," Mens, boys overcoats, etc, of wool or hair, knit",2542.417,0.17574,"Nigeria -  Mens, boys overcoats, etc, of wool or hair, knit"
+403,690,Seychelles,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",2535.031,0.078007,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+404,690,Seychelles,702,Singapore,29, Saturated acyclic hydrocarbons,2444.901,0.017349,Singapore -  Saturated acyclic hydrocarbons
+405,690,Seychelles,376,Israel,85, Electric motors of an output < 37.5 watts,2414.05,0.11580599999999999,Israel -  Electric motors of an output < 37.5 watts
+406,690,Seychelles,682,Saudi Arabia,90," Optical fibres, except for telecommunications",2374.32,0.08256100000000001,"Saudi Arabia -  Optical fibres, except for telecommunications"
+407,690,Seychelles,040,Austria,49," Brochures, leaflets and similar, in single sheets",2318.705,0.021127,"Austria -  Brochures, leaflets and similar, in single sheets"
+408,690,Seychelles,404,Kenya,85, Electric motors of an output < 37.5 watts,2316.857,0.001117,Kenya -  Electric motors of an output < 37.5 watts
+409,690,Seychelles,616,Poland,62," Mens, boys overcoats of wool or hair, not knit",2299.824,0.079589,"Poland -  Mens, boys overcoats of wool or hair, not knit"
+410,690,Seychelles,372,Ireland,21," Coffee extracts, essences, concentrates, preparations",2295.94,0.209051,"Ireland -  Coffee extracts, essences, concentrates, preparations"
+411,690,Seychelles,268,Georgia,39, Polyethylene - specific gravity <0.94 in primary form,2293.637,0.5154059999999999,Georgia -  Polyethylene - specific gravity <0.94 in primary form
+412,690,Seychelles,807,North Macedonia,16," Sausages, similar products of meat, meat offal & bloo",2283.13,0.238,"North Macedonia -  Sausages, similar products of meat, meat offal & bloo"
+413,690,Seychelles,480,Mauritius,27," Anthracite, not agglomerated",2273.989,0.308115,"Mauritius -  Anthracite, not agglomerated"
+414,690,Seychelles,348,Hungary,39, Polyethylene - specific gravity <0.94 in primary form,2165.587,1.449,Hungary -  Polyethylene - specific gravity <0.94 in primary form
+415,690,Seychelles,554,New Zealand,87, Pedestrian controlled tractors,2163.181,0.196128,New Zealand -  Pedestrian controlled tractors
+416,690,Seychelles,516,Namibia,95," Rideable wheeled toys, dolls carriages",2147.749,0.23528,"Namibia -  Rideable wheeled toys, dolls carriages"
+417,690,Seychelles,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,2119.177,0.096791,Austria -  Polyethylene - specific gravity <0.94 in primary form
+418,690,Seychelles,156,China,40," Natural rubber latex, including prevulcanised",2103.182,0.107977,"China -  Natural rubber latex, including prevulcanised"
+419,690,Seychelles,442,Luxembourg,39, Polyethylene - specific gravity <0.94 in primary form,2096.177,0.134,Luxembourg -  Polyethylene - specific gravity <0.94 in primary form
+420,690,Seychelles,826,United Kingdom,15," Lard, other pig fat and poultry fat, rendered",2092.367,0.239054,"United Kingdom -  Lard, other pig fat and poultry fat, rendered"
+421,690,Seychelles,040,Austria,63, Electric blankets of textile material,2092.16,0.372134,Austria -  Electric blankets of textile material
+422,690,Seychelles,360,Indonesia,54, Sewing thread of synthetic filaments,2063.117,0.314396,Indonesia -  Sewing thread of synthetic filaments
+423,690,Seychelles,646,Rwanda,85, Electric motors of an output < 37.5 watts,2057.883,0.00163,Rwanda -  Electric motors of an output < 37.5 watts
+424,690,Seychelles,450,Madagascar,16," Sausages, similar products of meat, meat offal & bloo",2044.485,1.81545,"Madagascar -  Sausages, similar products of meat, meat offal & bloo"
+425,690,Seychelles,442,Luxembourg,73, Sheet piling of iron or steel,2018.813,0.799778,Luxembourg -  Sheet piling of iron or steel
+426,690,Seychelles,360,Indonesia,56," Sanitary towels, diapers and similar articles",2014.955,3.7594589999999997,"Indonesia -  Sanitary towels, diapers and similar articles"
+427,690,Seychelles,156,China,90," Optical fibres, except for telecommunications",2011.22,0.0076040000000000005,"China -  Optical fibres, except for telecommunications"
+428,690,Seychelles,422,Lebanon,87, Pedestrian controlled tractors,2010.896,0.859035,Lebanon -  Pedestrian controlled tractors
+429,690,Seychelles,702,Singapore,16," Sausages, similar products of meat, meat offal & bloo",2009.359,0.15496100000000002,"Singapore -  Sausages, similar products of meat, meat offal & bloo"
+430,690,Seychelles,784,United Arab Emirates,84, Nuclear reactors,2008.384,0.045472,United Arab Emirates -  Nuclear reactors
+431,690,Seychelles,324,Guinea,39, Polyethylene - specific gravity <0.94 in primary form,2005.759,1.077667,Guinea -  Polyethylene - specific gravity <0.94 in primary form
+432,690,Seychelles,826,United Kingdom,28, Chlorine,1978.783,1.71395,United Kingdom -  Chlorine
+433,690,Seychelles,694,Sierra Leone,83, Padlocks of base metal,1901.676,11.435136,Sierra Leone -  Padlocks of base metal
+434,690,Seychelles,410,"Korea, Republic of",01," Horses, live pure-bred breeding",1859.608,9.7e-05,"Korea, Republic of -  Horses, live pure-bred breeding"
+435,690,Seychelles,191,Croatia,03," Ornamental fish, live",1845.301,0.131531,"Croatia -  Ornamental fish, live"
+436,690,Seychelles,072,Botswana,48, Newsprint,1845.289,0.021641999999999998,Botswana -  Newsprint
+437,690,Seychelles,480,Mauritius,48, Newsprint,1838.44,0.6297,Mauritius -  Newsprint
+438,690,Seychelles,756,"Switzerland, Liechtenstein",22, Mineral and aerated waters not sweetened or flavoured,1815.153,0.349,"Switzerland, Liechtenstein -  Mineral and aerated waters not sweetened or flavoured"
+439,690,Seychelles,834,"Tanzania, United Republic of",62," Mens, boys overcoats of wool or hair, not knit",1806.587,0.055318,"Tanzania, United Republic of -  Mens, boys overcoats of wool or hair, not knit"
+440,690,Seychelles,756,"Switzerland, Liechtenstein",84, Nuclear reactors,1781.38,0.013,"Switzerland, Liechtenstein -  Nuclear reactors"
+441,690,Seychelles,324,Guinea,40," Natural rubber latex, including prevulcanised",1778.811,0.9516570000000001,"Guinea -  Natural rubber latex, including prevulcanised"
+442,690,Seychelles,144,Sri Lanka,90," Optical fibres, except for telecommunications",1755.422,0.013682999999999999,"Sri Lanka -  Optical fibres, except for telecommunications"
+443,690,Seychelles,804,Ukraine,72," Pig iron, non-alloy, <0.5% phosphorus",1751.466,6.456171,"Ukraine -  Pig iron, non-alloy, <0.5% phosphorus"
+444,690,Seychelles,688,Serbia,34," Soaps, for toilet use, solid",1749.126,0.073684,"Serbia -  Soaps, for toilet use, solid"
+445,690,Seychelles,276,Germany,51," Greasy shorn wool, not carded or combed",1723.919,0.011,"Germany -  Greasy shorn wool, not carded or combed"
+446,690,Seychelles,268,Georgia,61," Mens, boys overcoats, etc, of wool or hair, knit",1713.328,0.103855,"Georgia -  Mens, boys overcoats, etc, of wool or hair, knit"
+447,690,Seychelles,250,France,83, Padlocks of base metal,1692.278,0.124721,France -  Padlocks of base metal
+448,690,Seychelles,604,Peru,87, Pedestrian controlled tractors,1638.24,0.20749,Peru -  Pedestrian controlled tractors
+449,690,Seychelles,276,Germany,48, Newsprint,1599.88,0.6063540000000001,Germany -  Newsprint
+450,690,Seychelles,410,"Korea, Republic of",49," Brochures, leaflets and similar, in single sheets",1593.031,0.418483,"Korea, Republic of -  Brochures, leaflets and similar, in single sheets"
+451,690,Seychelles,840,United States of America,49," Brochures, leaflets and similar, in single sheets",1577.599,0.00055,"United States of America -  Brochures, leaflets and similar, in single sheets"
+452,690,Seychelles,762,Tajikistan,30," Glands and other organs, dried, for therapeutic uses",1567.643,0.15082900000000002,"Tajikistan -  Glands and other organs, dried, for therapeutic uses"
+453,690,Seychelles,246,Finland,87, Pedestrian controlled tractors,1563.447,0.090908,Finland -  Pedestrian controlled tractors
+454,690,Seychelles,380,Italy,71," Pearls natural, not permanently mounted or set",1522.187,7.5e-05,"Italy -  Pearls natural, not permanently mounted or set"
+455,690,Seychelles,203,Czechia,95," Rideable wheeled toys, dolls carriages",1509.0,0.028,"Czechia -  Rideable wheeled toys, dolls carriages"
+456,690,Seychelles,496,Mongolia,84, Nuclear reactors,1490.52,0.038429000000000005,Mongolia -  Nuclear reactors
+457,690,Seychelles,566,Nigeria,90," Optical fibres, except for telecommunications",1480.028,0.018648,"Nigeria -  Optical fibres, except for telecommunications"
+458,690,Seychelles,056,Belgium,85, Electric motors of an output < 37.5 watts,1472.252,0.010891999999999999,Belgium -  Electric motors of an output < 37.5 watts
+459,690,Seychelles,250,France,34," Soaps, for toilet use, solid",1452.401,0.367016,"France -  Soaps, for toilet use, solid"
+460,690,Seychelles,729,Sudan,84, Nuclear reactors,1407.831,0.904077,Sudan -  Nuclear reactors
+461,690,Seychelles,586,Pakistan,84, Nuclear reactors,1402.615,0.037146,Pakistan -  Nuclear reactors
+462,690,Seychelles,826,United Kingdom,66, Garden and similar umbrellas,1395.017,0.184661,United Kingdom -  Garden and similar umbrellas
+463,690,Seychelles,218,Ecuador,40," Natural rubber latex, including prevulcanised",1382.27,0.07948000000000001,"Ecuador -  Natural rubber latex, including prevulcanised"
+464,690,Seychelles,372,Ireland,22, Mineral and aerated waters not sweetened or flavoured,1378.952,0.375173,Ireland -  Mineral and aerated waters not sweetened or flavoured
+465,690,Seychelles,218,Ecuador,73, Sheet piling of iron or steel,1354.71,0.005426,Ecuador -  Sheet piling of iron or steel
+466,690,Seychelles,324,Guinea,87, Pedestrian controlled tractors,1349.006,1.099368,Guinea -  Pedestrian controlled tractors
+467,690,Seychelles,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,1348.412,0.0013180000000000002,United Arab Emirates -  Electric motors of an output < 37.5 watts
+468,690,Seychelles,784,United Arab Emirates,95," Rideable wheeled toys, dolls carriages",1331.671,0.05621,"United Arab Emirates -  Rideable wheeled toys, dolls carriages"
+469,690,Seychelles,608,Philippines,90," Optical fibres, except for telecommunications",1305.273,2.822265,"Philippines -  Optical fibres, except for telecommunications"
+470,690,Seychelles,442,Luxembourg,62," Mens, boys overcoats of wool or hair, not knit",1302.995,0.041088,"Luxembourg -  Mens, boys overcoats of wool or hair, not knit"
+471,690,Seychelles,702,Singapore,27," Anthracite, not agglomerated",1301.422,38.979150999999995,"Singapore -  Anthracite, not agglomerated"
+472,690,Seychelles,826,United Kingdom,44, Fuel wood,1283.241,0.069385,United Kingdom -  Fuel wood
+473,690,Seychelles,566,Nigeria,62," Mens, boys overcoats of wool or hair, not knit",1278.358,0.21658000000000002,"Nigeria -  Mens, boys overcoats of wool or hair, not knit"
+474,690,Seychelles,250,France,89," Cruise ships, excursion boats, ferry boats",1274.055,0.11263899999999999,"France -  Cruise ships, excursion boats, ferry boats"
+475,690,Seychelles,376,Israel,90," Optical fibres, except for telecommunications",1258.107,0.025611000000000002,"Israel -  Optical fibres, except for telecommunications"
+476,690,Seychelles,040,Austria,07," Potatoes seed, fresh or chilled",1252.024,0.27325900000000003,"Austria -  Potatoes seed, fresh or chilled"
+477,690,Seychelles,204,Benin,40," Natural rubber latex, including prevulcanised",1221.042,0.241,"Benin -  Natural rubber latex, including prevulcanised"
+478,690,Seychelles,694,Sierra Leone,54, Sewing thread of synthetic filaments,1219.994,2.51098,Sierra Leone -  Sewing thread of synthetic filaments
+479,690,Seychelles,643,Russian Federation,48, Newsprint,1206.744,0.162712,Russian Federation -  Newsprint
+480,690,Seychelles,480,Mauritius,32, Quebracho tanning extract,1199.271,0.045947,Mauritius -  Quebracho tanning extract
+481,690,Seychelles,344,"China, Hong Kong SAR",44, Fuel wood,1197.097,0.893904,"China, Hong Kong SAR -  Fuel wood"
+482,690,Seychelles,566,Nigeria,85, Electric motors of an output < 37.5 watts,1179.143,0.000882,Nigeria -  Electric motors of an output < 37.5 watts
+483,690,Seychelles,646,Rwanda,83, Padlocks of base metal,1171.601,0.012228,Rwanda -  Padlocks of base metal
+484,690,Seychelles,466,Mali,59, Gum or amylaceous covered textiles for book covers et,1143.714,0.022213999999999998,Mali -  Gum or amylaceous covered textiles for book covers et
+485,690,Seychelles,144,Sri Lanka,68," Stone setts, curbstones, flagstones (except slate)",1133.929,0.78132,"Sri Lanka -  Stone setts, curbstones, flagstones (except slate)"
+486,690,Seychelles,410,"Korea, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,1132.777,0.021325,"Korea, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+487,690,Seychelles,203,Czechia,60," ""Long pile"" knit or crochet textile fabric",1102.0,0.018,"Czechia -  ""Long pile"" knit or crochet textile fabric"
+488,690,Seychelles,356,India,49," Brochures, leaflets and similar, in single sheets",1094.08,0.149686,"India -  Brochures, leaflets and similar, in single sheets"
+489,690,Seychelles,566,Nigeria,84, Nuclear reactors,1088.852,0.000791,Nigeria -  Nuclear reactors
+490,690,Seychelles,040,Austria,92," Upright pianos, including auto-players",1087.282,0.006644,"Austria -  Upright pianos, including auto-players"
+491,690,Seychelles,462,Maldives,04, Milk not concentrated nor sweetened < 1% fat,1082.622,0.030789,Maldives -  Milk not concentrated nor sweetened < 1% fat
+492,690,Seychelles,826,United Kingdom,22, Mineral and aerated waters not sweetened or flavoured,1079.291,0.155641,United Kingdom -  Mineral and aerated waters not sweetened or flavoured
+493,690,Seychelles,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",1077.824,0.044638,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+494,690,Seychelles,784,United Arab Emirates,83, Padlocks of base metal,1073.231,0.015589,United Arab Emirates -  Padlocks of base metal
+495,690,Seychelles,051,Armenia,84, Nuclear reactors,1057.684,0.010608000000000001,Armenia -  Nuclear reactors
+496,690,Seychelles,729,Sudan,33, Essential oils of bergamot,1040.732,0.33913600000000005,Sudan -  Essential oils of bergamot
+497,690,Seychelles,360,Indonesia,79," Zinc, not alloyed, unwrought, >99% pure",1028.214,0.232618,"Indonesia -  Zinc, not alloyed, unwrought, >99% pure"
+498,690,Seychelles,788,Tunisia,85, Electric motors of an output < 37.5 watts,1027.153,0.014329000000000001,Tunisia -  Electric motors of an output < 37.5 watts
+499,690,Seychelles,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",1011.569,0.021022,"Malaysia -  Mens, boys overcoats of wool or hair, not knit"
+500,690,Seychelles,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,1008.748,0.195539,Sri Lanka -  Electric motors of an output < 37.5 watts
+501,690,Seychelles,788,Tunisia,90," Optical fibres, except for telecommunications",1003.831,0.013135999999999998,"Tunisia -  Optical fibres, except for telecommunications"
+502,690,Seychelles,643,Russian Federation,39, Polyethylene - specific gravity <0.94 in primary form,998.316,0.032841,Russian Federation -  Polyethylene - specific gravity <0.94 in primary form
+503,690,Seychelles,646,Rwanda,49," Brochures, leaflets and similar, in single sheets",987.664,1.33,"Rwanda -  Brochures, leaflets and similar, in single sheets"
+504,690,Seychelles,052,Barbados,22, Mineral and aerated waters not sweetened or flavoured,964.829,0.193015,Barbados -  Mineral and aerated waters not sweetened or flavoured
+505,690,Seychelles,056,Belgium,08," Coconuts, fresh or dried",963.091,0.013826,"Belgium -  Coconuts, fresh or dried"
+506,690,Seychelles,048,Bahrain,84, Nuclear reactors,934.358,0.066026,Bahrain -  Nuclear reactors
+507,690,Seychelles,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,918.751,0.01,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+508,690,Seychelles,450,Madagascar,73, Sheet piling of iron or steel,909.291,0.019857,Madagascar -  Sheet piling of iron or steel
+509,690,Seychelles,288,Ghana,48, Newsprint,898.182,0.163411,Ghana -  Newsprint
+510,690,Seychelles,414,Kuwait,20," Cucumbers,gherkins, prepared or preserved by vinegar",893.754,0.11,"Kuwait -  Cucumbers,gherkins, prepared or preserved by vinegar"
+511,690,Seychelles,764,Thailand,40," Natural rubber latex, including prevulcanised",877.912,0.000962,"Thailand -  Natural rubber latex, including prevulcanised"
+512,690,Seychelles,616,Poland,87, Pedestrian controlled tractors,850.376,0.037014000000000005,Poland -  Pedestrian controlled tractors
+513,690,Seychelles,250,France,73, Sheet piling of iron or steel,841.626,0.113373,France -  Sheet piling of iron or steel
+514,690,Seychelles,180,"Congo, Dem. Rep. of the",85, Electric motors of an output < 37.5 watts,831.537,0.0012980000000000001,"Congo, Dem. Rep. of the -  Electric motors of an output < 37.5 watts"
+515,690,Seychelles,410,"Korea, Republic of",84, Nuclear reactors,829.727,5.589404,"Korea, Republic of -  Nuclear reactors"
+516,690,Seychelles,288,Ghana,82, Spades and shovels,810.45,0.06371399999999999,Ghana -  Spades and shovels
+517,690,Seychelles,036,Australia,33, Essential oils of bergamot,774.103,0.035819000000000004,Australia -  Essential oils of bergamot
+518,690,Seychelles,040,Austria,96," Worked ivory, articles of ivory",748.65,0.021804999999999998,"Austria -  Worked ivory, articles of ivory"
+519,690,Seychelles,414,Kuwait,87, Pedestrian controlled tractors,730.591,0.047361,Kuwait -  Pedestrian controlled tractors
+520,690,Seychelles,752,Sweden,95," Rideable wheeled toys, dolls carriages",713.709,0.07054099999999999,"Sweden -  Rideable wheeled toys, dolls carriages"
+521,690,Seychelles,203,Czechia,84, Nuclear reactors,709.0,0.003,Czechia -  Nuclear reactors
+522,690,Seychelles,410,"Korea, Republic of",73, Sheet piling of iron or steel,696.719,6.683243999999999,"Korea, Republic of -  Sheet piling of iron or steel"
+523,690,Seychelles,694,Sierra Leone,90," Optical fibres, except for telecommunications",685.795,0.941557,"Sierra Leone -  Optical fibres, except for telecommunications"
+524,690,Seychelles,414,Kuwait,15," Lard, other pig fat and poultry fat, rendered",680.381,0.075,"Kuwait -  Lard, other pig fat and poultry fat, rendered"
+525,690,Seychelles,724,Spain,87, Pedestrian controlled tractors,674.668,0.08136499999999999,Spain -  Pedestrian controlled tractors
+526,690,Seychelles,360,Indonesia,22, Mineral and aerated waters not sweetened or flavoured,673.258,0.023373,Indonesia -  Mineral and aerated waters not sweetened or flavoured
+527,690,Seychelles,144,Sri Lanka,34," Soaps, for toilet use, solid",667.642,0.933501,"Sri Lanka -  Soaps, for toilet use, solid"
+528,690,Seychelles,450,Madagascar,85, Electric motors of an output < 37.5 watts,664.946,0.02705,Madagascar -  Electric motors of an output < 37.5 watts
+529,690,Seychelles,480,Mauritius,96," Worked ivory, articles of ivory",664.418,0.052,"Mauritius -  Worked ivory, articles of ivory"
+530,690,Seychelles,324,Guinea,84, Nuclear reactors,663.583,0.485497,Guinea -  Nuclear reactors
+531,690,Seychelles,792,Türkiye,73, Sheet piling of iron or steel,658.0,0.018,Türkiye -  Sheet piling of iron or steel
+532,690,Seychelles,508,Mozambique,48, Newsprint,656.552,0.153222,Mozambique -  Newsprint
+533,690,Seychelles,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,655.161,0.140618,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+534,690,Seychelles,012,Algeria,16," Sausages, similar products of meat, meat offal & bloo",652.956,0.067963,"Algeria -  Sausages, similar products of meat, meat offal & bloo"
+535,690,Seychelles,208,Denmark,39, Polyethylene - specific gravity <0.94 in primary form,645.405,0.028982,Denmark -  Polyethylene - specific gravity <0.94 in primary form
+536,690,Seychelles,276,Germany,63, Electric blankets of textile material,645.313,0.025823,Germany -  Electric blankets of textile material
+537,690,Seychelles,554,New Zealand,85, Electric motors of an output < 37.5 watts,643.162,0.027863,New Zealand -  Electric motors of an output < 37.5 watts
+538,690,Seychelles,410,"Korea, Republic of",72," Pig iron, non-alloy, <0.5% phosphorus",631.568,0.36035500000000004,"Korea, Republic of -  Pig iron, non-alloy, <0.5% phosphorus"
+539,690,Seychelles,716,Zimbabwe,49," Brochures, leaflets and similar, in single sheets",628.336,0.001813,"Zimbabwe -  Brochures, leaflets and similar, in single sheets"
+540,690,Seychelles,414,Kuwait,18," Cocoa beans, whole or broken, raw or roasted",627.05,0.030664999999999998,"Kuwait -  Cocoa beans, whole or broken, raw or roasted"
+541,690,Seychelles,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",625.95,0.0034860000000000004,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+542,690,Seychelles,276,Germany,22, Mineral and aerated waters not sweetened or flavoured,620.26,0.061835999999999995,Germany -  Mineral and aerated waters not sweetened or flavoured
+543,690,Seychelles,398,Kazakhstan,84, Nuclear reactors,611.438,0.634189,Kazakhstan -  Nuclear reactors
+544,690,Seychelles,208,Denmark,87, Pedestrian controlled tractors,602.237,0.008214,Denmark -  Pedestrian controlled tractors
+545,690,Seychelles,414,Kuwait,07," Potatoes seed, fresh or chilled",599.484,0.066,"Kuwait -  Potatoes seed, fresh or chilled"
+546,690,Seychelles,616,Poland,39, Polyethylene - specific gravity <0.94 in primary form,599.337,0.013476,Poland -  Polyethylene - specific gravity <0.94 in primary form
+547,690,Seychelles,144,Sri Lanka,30," Glands and other organs, dried, for therapeutic uses",598.129,0.013102,"Sri Lanka -  Glands and other organs, dried, for therapeutic uses"
+548,690,Seychelles,694,Sierra Leone,63, Electric blankets of textile material,581.289,1.538756,Sierra Leone -  Electric blankets of textile material
+549,690,Seychelles,450,Madagascar,59, Gum or amylaceous covered textiles for book covers et,577.462,0.002473,Madagascar -  Gum or amylaceous covered textiles for book covers et
+550,690,Seychelles,250,France,42," Saddlery and harness, of any material",563.266,0.032826,"France -  Saddlery and harness, of any material"
+551,690,Seychelles,324,Guinea,85, Electric motors of an output < 37.5 watts,562.326,0.655473,Guinea -  Electric motors of an output < 37.5 watts
+552,690,Seychelles,076,Brazil,84, Nuclear reactors,557.168,0.004696,Brazil -  Nuclear reactors
+553,690,Seychelles,834,"Tanzania, United Republic of",96," Worked ivory, articles of ivory",554.191,0.035110999999999996,"Tanzania, United Republic of -  Worked ivory, articles of ivory"
+554,690,Seychelles,024,Angola,25," Salt (sodium chloride) including solution, salt water",553.96,0.000892,"Angola -  Salt (sodium chloride) including solution, salt water"
+555,690,Seychelles,764,Thailand,73, Sheet piling of iron or steel,547.595,0.026571,Thailand -  Sheet piling of iron or steel
+556,690,Seychelles,203,Czechia,03," Ornamental fish, live",538.0,0.028,"Czechia -  Ornamental fish, live"
+557,690,Seychelles,756,"Switzerland, Liechtenstein",06," Bulbs, tubers, corms, crowns and rhizomes, dormant",525.102,0.0029590000000000003,"Switzerland, Liechtenstein -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+558,690,Seychelles,203,Czechia,87, Pedestrian controlled tractors,521.483,0.012173,Czechia -  Pedestrian controlled tractors
+559,690,Seychelles,480,Mauritius,49," Brochures, leaflets and similar, in single sheets",521.067,0.224426,"Mauritius -  Brochures, leaflets and similar, in single sheets"
+560,690,Seychelles,792,Türkiye,84, Nuclear reactors,517.557,0.000954,Türkiye -  Nuclear reactors
+561,690,Seychelles,688,Serbia,85, Electric motors of an output < 37.5 watts,516.0,0.042,Serbia -  Electric motors of an output < 37.5 watts
+562,690,Seychelles,076,Brazil,90," Optical fibres, except for telecommunications",511.01,0.0008539999999999999,"Brazil -  Optical fibres, except for telecommunications"
+563,690,Seychelles,466,Mali,39, Polyethylene - specific gravity <0.94 in primary form,508.465,0.007755,Mali -  Polyethylene - specific gravity <0.94 in primary form
+564,690,Seychelles,784,United Arab Emirates,68," Stone setts, curbstones, flagstones (except slate)",493.282,0.352642,"United Arab Emirates -  Stone setts, curbstones, flagstones (except slate)"
+565,690,Seychelles,040,Austria,69," Bricks, blocks and ceramic goods of siliceous earths",492.094,0.7395170000000001,"Austria -  Bricks, blocks and ceramic goods of siliceous earths"
+566,690,Seychelles,040,Austria,20," Cucumbers,gherkins, prepared or preserved by vinegar",485.258,0.379012,"Austria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+567,690,Seychelles,748,Eswatini,61," Mens, boys overcoats, etc, of wool or hair, knit",482.267,0.05256,"Eswatini -  Mens, boys overcoats, etc, of wool or hair, knit"
+568,690,Seychelles,056,Belgium,87, Pedestrian controlled tractors,472.777,0.002464,Belgium -  Pedestrian controlled tractors
+569,690,Seychelles,524,Nepal,49," Brochures, leaflets and similar, in single sheets",469.599,0.050393,"Nepal -  Brochures, leaflets and similar, in single sheets"
+570,690,Seychelles,414,Kuwait,21," Coffee extracts, essences, concentrates, preparations",467.249,0.059,"Kuwait -  Coffee extracts, essences, concentrates, preparations"
+571,690,Seychelles,616,Poland,82, Spades and shovels,465.207,0.006027,Poland -  Spades and shovels
+572,690,Seychelles,250,France,51," Greasy shorn wool, not carded or combed",462.05,0.015594,"France -  Greasy shorn wool, not carded or combed"
+573,690,Seychelles,191,Croatia,40," Natural rubber latex, including prevulcanised",460.653,0.024956,"Croatia -  Natural rubber latex, including prevulcanised"
+574,690,Seychelles,724,Spain,63, Electric blankets of textile material,458.123,0.08814799999999999,Spain -  Electric blankets of textile material
+575,690,Seychelles,616,Poland,84, Nuclear reactors,454.804,0.002781,Poland -  Nuclear reactors
+576,690,Seychelles,764,Thailand,49," Brochures, leaflets and similar, in single sheets",453.472,0.080014,"Thailand -  Brochures, leaflets and similar, in single sheets"
+577,690,Seychelles,144,Sri Lanka,82, Spades and shovels,450.78,0.026445,Sri Lanka -  Spades and shovels
+578,690,Seychelles,694,Sierra Leone,94," Seats, aircraft",445.606,0.947902,"Sierra Leone -  Seats, aircraft"
+579,690,Seychelles,764,Thailand,39, Polyethylene - specific gravity <0.94 in primary form,436.441,0.021112,Thailand -  Polyethylene - specific gravity <0.94 in primary form
+580,690,Seychelles,554,New Zealand,73, Sheet piling of iron or steel,432.881,0.014381999999999999,New Zealand -  Sheet piling of iron or steel
+581,690,Seychelles,792,Türkiye,87, Pedestrian controlled tractors,432.0,0.011,Türkiye -  Pedestrian controlled tractors
+582,690,Seychelles,756,"Switzerland, Liechtenstein",44, Fuel wood,425.089,0.008239000000000002,"Switzerland, Liechtenstein -  Fuel wood"
+583,690,Seychelles,196,Cyprus,84, Nuclear reactors,423.413,0.092,Cyprus -  Nuclear reactors
+584,690,Seychelles,694,Sierra Leone,76," Aluminium unwrought, not alloyed",423.055,1.733752,"Sierra Leone -  Aluminium unwrought, not alloyed"
+585,690,Seychelles,250,France,29, Saturated acyclic hydrocarbons,422.875,0.011852999999999999,France -  Saturated acyclic hydrocarbons
+586,690,Seychelles,404,Kenya,84, Nuclear reactors,419.129,0.0005520000000000001,Kenya -  Nuclear reactors
+587,690,Seychelles,703,Slovakia,95," Rideable wheeled toys, dolls carriages",417.325,0.003579,"Slovakia -  Rideable wheeled toys, dolls carriages"
+588,690,Seychelles,048,Bahrain,61," Mens, boys overcoats, etc, of wool or hair, knit",415.63,0.0007199999999999999,"Bahrain -  Mens, boys overcoats, etc, of wool or hair, knit"
+589,690,Seychelles,156,China,84, Nuclear reactors,408.063,0.000941,China -  Nuclear reactors
+590,690,Seychelles,250,France,95," Rideable wheeled toys, dolls carriages",405.42,0.006432,"France -  Rideable wheeled toys, dolls carriages"
+591,690,Seychelles,288,Ghana,96," Worked ivory, articles of ivory",401.113,0.11774,"Ghana -  Worked ivory, articles of ivory"
+592,690,Seychelles,360,Indonesia,72," Pig iron, non-alloy, <0.5% phosphorus",399.954,0.5718099999999999,"Indonesia -  Pig iron, non-alloy, <0.5% phosphorus"
+593,690,Seychelles,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,350.364,0.034569,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+594,690,Seychelles,724,Spain,95," Rideable wheeled toys, dolls carriages",348.986,0.008882999999999999,"Spain -  Rideable wheeled toys, dolls carriages"
+595,690,Seychelles,156,China,85, Electric motors of an output < 37.5 watts,346.272,0.000182,China -  Electric motors of an output < 37.5 watts
+596,690,Seychelles,250,France,35, Casein,345.089,0.098552,France -  Casein
+597,690,Seychelles,616,Poland,95," Rideable wheeled toys, dolls carriages",342.751,0.006594,"Poland -  Rideable wheeled toys, dolls carriages"
+598,690,Seychelles,729,Sudan,83, Padlocks of base metal,342.241,0.14687899999999998,Sudan -  Padlocks of base metal
+599,690,Seychelles,056,Belgium,33, Essential oils of bergamot,335.937,0.004617,Belgium -  Essential oils of bergamot
+600,690,Seychelles,643,Russian Federation,87, Pedestrian controlled tractors,335.466,0.002197,Russian Federation -  Pedestrian controlled tractors
+601,690,Seychelles,784,United Arab Emirates,62," Mens, boys overcoats of wool or hair, not knit",334.638,0.00073,"United Arab Emirates -  Mens, boys overcoats of wool or hair, not knit"
+602,690,Seychelles,729,Sudan,09," Coffee, not roasted, not decaffeinated",332.527,0.10142799999999999,"Sudan -  Coffee, not roasted, not decaffeinated"
+603,690,Seychelles,180,"Congo, Dem. Rep. of the",90," Optical fibres, except for telecommunications",323.079,0.000584,"Congo, Dem. Rep. of the -  Optical fibres, except for telecommunications"
+604,690,Seychelles,784,United Arab Emirates,08," Coconuts, fresh or dried",319.892,0.004149,"United Arab Emirates -  Coconuts, fresh or dried"
+605,690,Seychelles,410,"Korea, Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",319.081,0.0005809999999999999,"Korea, Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+606,690,Seychelles,729,Sudan,73, Sheet piling of iron or steel,306.751,0.175079,Sudan -  Sheet piling of iron or steel
+607,690,Seychelles,784,United Arab Emirates,69," Bricks, blocks and ceramic goods of siliceous earths",306.046,0.000472,"United Arab Emirates -  Bricks, blocks and ceramic goods of siliceous earths"
+608,690,Seychelles,804,Ukraine,38, Artificial graphite,304.004,0.198578,Ukraine -  Artificial graphite
+609,690,Seychelles,372,Ireland,58," Woven pile fabric of wool or fine animal hair, w >30c",296.106,0.00159,"Ireland -  Woven pile fabric of wool or fine animal hair, w >30c"
+610,690,Seychelles,729,Sudan,39, Polyethylene - specific gravity <0.94 in primary form,294.429,0.214555,Sudan -  Polyethylene - specific gravity <0.94 in primary form
+611,690,Seychelles,702,Singapore,62," Mens, boys overcoats of wool or hair, not knit",286.614,0.011904,"Singapore -  Mens, boys overcoats of wool or hair, not knit"
+612,690,Seychelles,360,Indonesia,32, Quebracho tanning extract,285.574,0.027315000000000002,Indonesia -  Quebracho tanning extract
+613,690,Seychelles,646,Rwanda,70," Glass cullet, waste or scrap, glass in the mass",278.844,0.116,"Rwanda -  Glass cullet, waste or scrap, glass in the mass"
+614,690,Seychelles,724,Spain,28, Chlorine,269.551,0.0068070000000000006,Spain -  Chlorine
+615,690,Seychelles,246,Finland,62," Mens, boys overcoats of wool or hair, not knit",267.151,0.001,"Finland -  Mens, boys overcoats of wool or hair, not knit"
+616,690,Seychelles,616,Poland,73, Sheet piling of iron or steel,257.246,0.014405,Poland -  Sheet piling of iron or steel
+617,690,Seychelles,694,Sierra Leone,85, Electric motors of an output < 37.5 watts,246.981,0.6199969999999999,Sierra Leone -  Electric motors of an output < 37.5 watts
+618,690,Seychelles,702,Singapore,03," Ornamental fish, live",245.387,0.016457999999999997,"Singapore -  Ornamental fish, live"
+619,690,Seychelles,404,Kenya,39, Polyethylene - specific gravity <0.94 in primary form,243.497,0.00046100000000000004,Kenya -  Polyethylene - specific gravity <0.94 in primary form
+620,690,Seychelles,250,France,40," Natural rubber latex, including prevulcanised",235.543,0.020627,"France -  Natural rubber latex, including prevulcanised"
+621,690,Seychelles,040,Austria,94," Seats, aircraft",234.13,0.026914,"Austria -  Seats, aircraft"
+622,690,Seychelles,398,Kazakhstan,40," Natural rubber latex, including prevulcanised",232.725,0.025504000000000002,"Kazakhstan -  Natural rubber latex, including prevulcanised"
+623,690,Seychelles,268,Georgia,71," Pearls natural, not permanently mounted or set",231.741,0.039394,"Georgia -  Pearls natural, not permanently mounted or set"
+624,690,Seychelles,156,China,39, Polyethylene - specific gravity <0.94 in primary form,225.854,0.010157,China -  Polyethylene - specific gravity <0.94 in primary form
+625,690,Seychelles,056,Belgium,49," Brochures, leaflets and similar, in single sheets",225.471,0.008066,"Belgium -  Brochures, leaflets and similar, in single sheets"
+626,690,Seychelles,203,Czechia,61," Mens, boys overcoats, etc, of wool or hair, knit",221.0,0.003,"Czechia -  Mens, boys overcoats, etc, of wool or hair, knit"
+627,690,Seychelles,480,Mauritius,95," Rideable wheeled toys, dolls carriages",220.864,0.343,"Mauritius -  Rideable wheeled toys, dolls carriages"
+628,690,Seychelles,792,Türkiye,49," Brochures, leaflets and similar, in single sheets",214.99,0.017024,"Türkiye -  Brochures, leaflets and similar, in single sheets"
+629,690,Seychelles,208,Denmark,94," Seats, aircraft",211.869,0.027152000000000003,"Denmark -  Seats, aircraft"
+630,690,Seychelles,703,Slovakia,85, Electric motors of an output < 37.5 watts,210.109,0.000955,Slovakia -  Electric motors of an output < 37.5 watts
+631,690,Seychelles,702,Singapore,39, Polyethylene - specific gravity <0.94 in primary form,209.758,0.015851,Singapore -  Polyethylene - specific gravity <0.94 in primary form
+632,690,Seychelles,480,Mauritius,21," Coffee extracts, essences, concentrates, preparations",206.976,0.0297,"Mauritius -  Coffee extracts, essences, concentrates, preparations"
+633,690,Seychelles,480,Mauritius,42," Saddlery and harness, of any material",204.368,0.019573,"Mauritius -  Saddlery and harness, of any material"
+634,690,Seychelles,203,Czechia,73, Sheet piling of iron or steel,203.0,0.005,Czechia -  Sheet piling of iron or steel
+635,690,Seychelles,040,Austria,82, Spades and shovels,200.014,0.007732999999999999,Austria -  Spades and shovels
+636,690,Seychelles,203,Czechia,49," Brochures, leaflets and similar, in single sheets",199.939,0.0054210000000000005,"Czechia -  Brochures, leaflets and similar, in single sheets"
+637,690,Seychelles,620,Portugal,85, Electric motors of an output < 37.5 watts,199.041,0.01013,Portugal -  Electric motors of an output < 37.5 watts
+638,690,Seychelles,250,France,76," Aluminium unwrought, not alloyed",196.175,0.053633,"France -  Aluminium unwrought, not alloyed"
+639,690,Seychelles,324,Guinea,90," Optical fibres, except for telecommunications",186.982,0.409642,"Guinea -  Optical fibres, except for telecommunications"
+640,690,Seychelles,608,Philippines,73, Sheet piling of iron or steel,184.638,3.712814,Philippines -  Sheet piling of iron or steel
+641,690,Seychelles,524,Nepal,63, Electric blankets of textile material,183.775,0.000953,Nepal -  Electric blankets of textile material
+642,690,Seychelles,724,Spain,39, Polyethylene - specific gravity <0.94 in primary form,175.626,0.009607,Spain -  Polyethylene - specific gravity <0.94 in primary form
+643,690,Seychelles,764,Thailand,87, Pedestrian controlled tractors,174.743,0.023231,Thailand -  Pedestrian controlled tractors
+644,690,Seychelles,156,China,87, Pedestrian controlled tractors,172.421,0.016808,China -  Pedestrian controlled tractors
+645,690,Seychelles,040,Austria,40," Natural rubber latex, including prevulcanised",172.26,0.014426,"Austria -  Natural rubber latex, including prevulcanised"
+646,690,Seychelles,800,Uganda,85, Electric motors of an output < 37.5 watts,169.818,0.002564,Uganda -  Electric motors of an output < 37.5 watts
+647,690,Seychelles,566,Nigeria,93," Military weapons, other than hand guns, swords, etc",169.367,0.000129,"Nigeria -  Military weapons, other than hand guns, swords, etc"
+648,690,Seychelles,170,Colombia,73, Sheet piling of iron or steel,169.108,0.000979,Colombia -  Sheet piling of iron or steel
+649,690,Seychelles,608,Philippines,95," Rideable wheeled toys, dolls carriages",168.761,1.273719,"Philippines -  Rideable wheeled toys, dolls carriages"
+650,690,Seychelles,404,Kenya,73, Sheet piling of iron or steel,168.022,0.000399,Kenya -  Sheet piling of iron or steel
+651,690,Seychelles,360,Indonesia,90," Optical fibres, except for telecommunications",164.908,0.154114,"Indonesia -  Optical fibres, except for telecommunications"
+652,690,Seychelles,250,France,71," Pearls natural, not permanently mounted or set",162.244,0.00029499999999999996,"France -  Pearls natural, not permanently mounted or set"
+653,690,Seychelles,508,Mozambique,44, Fuel wood,157.64,0.022,Mozambique -  Fuel wood
+654,690,Seychelles,196,Cyprus,44, Fuel wood,155.789,0.001813,Cyprus -  Fuel wood
+655,690,Seychelles,702,Singapore,87, Pedestrian controlled tractors,150.508,0.010987,Singapore -  Pedestrian controlled tractors
+656,690,Seychelles,646,Rwanda,92," Upright pianos, including auto-players",149.043,0.062,"Rwanda -  Upright pianos, including auto-players"
+657,690,Seychelles,705,Slovenia,90," Optical fibres, except for telecommunications",147.884,0.00010899999999999999,"Slovenia -  Optical fibres, except for telecommunications"
+658,690,Seychelles,480,Mauritius,69," Bricks, blocks and ceramic goods of siliceous earths",147.243,0.01,"Mauritius -  Bricks, blocks and ceramic goods of siliceous earths"
+659,690,Seychelles,729,Sudan,67," Bird skins and feathers, articles therefrom",145.157,0.065801,"Sudan -  Bird skins and feathers, articles therefrom"
+660,690,Seychelles,144,Sri Lanka,16," Sausages, similar products of meat, meat offal & bloo",142.513,0.018993,"Sri Lanka -  Sausages, similar products of meat, meat offal & bloo"
+661,690,Seychelles,703,Slovakia,87, Pedestrian controlled tractors,139.26,0.025,Slovakia -  Pedestrian controlled tractors
+662,690,Seychelles,191,Croatia,85, Electric motors of an output < 37.5 watts,137.356,0.001879,Croatia -  Electric motors of an output < 37.5 watts
+663,690,Seychelles,480,Mauritius,22, Mineral and aerated waters not sweetened or flavoured,131.553,0.012249000000000001,Mauritius -  Mineral and aerated waters not sweetened or flavoured
+664,690,Seychelles,360,Indonesia,87, Pedestrian controlled tractors,131.177,0.007605000000000001,Indonesia -  Pedestrian controlled tractors
+665,690,Seychelles,012,Algeria,85, Electric motors of an output < 37.5 watts,127.453,0.000272,Algeria -  Electric motors of an output < 37.5 watts
+666,690,Seychelles,554,New Zealand,84, Nuclear reactors,125.62,0.0030510000000000003,New Zealand -  Nuclear reactors
+667,690,Seychelles,480,Mauritius,40," Natural rubber latex, including prevulcanised",124.273,0.01,"Mauritius -  Natural rubber latex, including prevulcanised"
+668,690,Seychelles,324,Guinea,27," Anthracite, not agglomerated",122.238,0.046310000000000004,"Guinea -  Anthracite, not agglomerated"
+669,690,Seychelles,804,Ukraine,73, Sheet piling of iron or steel,119.73,0.0012629999999999998,Ukraine -  Sheet piling of iron or steel
+670,690,Seychelles,566,Nigeria,95," Rideable wheeled toys, dolls carriages",118.219,8.3e-05,"Nigeria -  Rideable wheeled toys, dolls carriages"
+671,690,Seychelles,528,Netherlands (Kingdom of the),62," Mens, boys overcoats of wool or hair, not knit",116.779,0.000646,"Netherlands (Kingdom of the) -  Mens, boys overcoats of wool or hair, not knit"
+672,690,Seychelles,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",112.025,0.0031309999999999997,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+673,690,Seychelles,528,Netherlands (Kingdom of the),48, Newsprint,111.805,0.00091,Netherlands (Kingdom of the) -  Newsprint
+674,690,Seychelles,300,Greece,84, Nuclear reactors,110.383,0.001818,Greece -  Nuclear reactors
+675,690,Seychelles,040,Austria,76," Aluminium unwrought, not alloyed",110.214,0.021678,"Austria -  Aluminium unwrought, not alloyed"
+676,690,Seychelles,705,Slovenia,39, Polyethylene - specific gravity <0.94 in primary form,108.07,0.0006360000000000001,Slovenia -  Polyethylene - specific gravity <0.94 in primary form
+677,690,Seychelles,048,Bahrain,40," Natural rubber latex, including prevulcanised",107.672,0.001968,"Bahrain -  Natural rubber latex, including prevulcanised"
+678,690,Seychelles,784,United Arab Emirates,27," Anthracite, not agglomerated",104.877,0.004902999999999999,"United Arab Emirates -  Anthracite, not agglomerated"
+679,690,Seychelles,324,Guinea,28, Chlorine,102.001,0.113001,Guinea -  Chlorine
+680,690,Seychelles,705,Slovenia,87, Pedestrian controlled tractors,100.174,0.004333999999999999,Slovenia -  Pedestrian controlled tractors
+681,690,Seychelles,466,Mali,40," Natural rubber latex, including prevulcanised",99.783,0.001931,"Mali -  Natural rubber latex, including prevulcanised"
+682,690,Seychelles,470,Malta,61," Mens, boys overcoats, etc, of wool or hair, knit",99.577,0.003923,"Malta -  Mens, boys overcoats, etc, of wool or hair, knit"
+683,690,Seychelles,752,Sweden,33, Essential oils of bergamot,96.152,0.005776,Sweden -  Essential oils of bergamot
+684,690,Seychelles,180,"Congo, Dem. Rep. of the",95," Rideable wheeled toys, dolls carriages",90.721,0.00014000000000000001,"Congo, Dem. Rep. of the -  Rideable wheeled toys, dolls carriages"
+685,690,Seychelles,048,Bahrain,87, Pedestrian controlled tractors,90.538,0.048864,Bahrain -  Pedestrian controlled tractors
+686,690,Seychelles,586,Pakistan,42," Saddlery and harness, of any material",90.427,0.045314,"Pakistan -  Saddlery and harness, of any material"
+687,690,Seychelles,826,United Kingdom,71," Pearls natural, not permanently mounted or set",75.818,1.9e-05,"United Kingdom -  Pearls natural, not permanently mounted or set"
+688,690,Seychelles,466,Mali,83, Padlocks of base metal,69.37,0.000837,Mali -  Padlocks of base metal
+689,690,Seychelles,752,Sweden,85, Electric motors of an output < 37.5 watts,65.001,0.00019800000000000002,Sweden -  Electric motors of an output < 37.5 watts
+690,690,Seychelles,752,Sweden,30," Glands and other organs, dried, for therapeutic uses",62.591,0.00083,"Sweden -  Glands and other organs, dried, for therapeutic uses"
+691,690,Seychelles,040,Austria,91," Wrist-watch, precious metal, battery, with hands",62.388,0.000258,"Austria -  Wrist-watch, precious metal, battery, with hands"
+692,690,Seychelles,056,Belgium,71," Pearls natural, not permanently mounted or set",61.708,0.000365,"Belgium -  Pearls natural, not permanently mounted or set"
+693,690,Seychelles,608,Philippines,96," Worked ivory, articles of ivory",59.973,0.289734,"Philippines -  Worked ivory, articles of ivory"
+694,690,Seychelles,752,Sweden,71," Pearls natural, not permanently mounted or set",58.008,0.0020859999999999997,"Sweden -  Pearls natural, not permanently mounted or set"
+695,690,Seychelles,764,Thailand,85, Electric motors of an output < 37.5 watts,57.969,0.000669,Thailand -  Electric motors of an output < 37.5 watts
+696,690,Seychelles,324,Guinea,95," Rideable wheeled toys, dolls carriages",49.087,0.053164,"Guinea -  Rideable wheeled toys, dolls carriages"
+697,690,Seychelles,752,Sweden,38, Artificial graphite,48.991,0.000969,Sweden -  Artificial graphite
+698,690,Seychelles,450,Madagascar,56," Sanitary towels, diapers and similar articles",48.895,1.5,"Madagascar -  Sanitary towels, diapers and similar articles"
+699,690,Seychelles,344,"China, Hong Kong SAR",01," Horses, live pure-bred breeding",43.227,0.009260999999999998,"China, Hong Kong SAR -  Horses, live pure-bred breeding"
+700,690,Seychelles,144,Sri Lanka,88," Gliders, hang gliders",33.519,0.014683,"Sri Lanka -  Gliders, hang gliders"
+701,690,Seychelles,554,New Zealand,90," Optical fibres, except for telecommunications",8.611,7.000000000000001e-05,"New Zealand -  Optical fibres, except for telecommunications"
+702,690,Seychelles,012,Algeria,83, Padlocks of base metal,5.969,0.001571,Algeria -  Padlocks of base metal
+703,690,Seychelles,392,Japan,01," Horses, live pure-bred breeding",1.915,0.000311,"Japan -  Horses, live pure-bred breeding"
+704,690,Seychelles,480,Mauritius,01," Horses, live pure-bred breeding",0.699,0.000612,"Mauritius -  Horses, live pure-bred breeding"
+705,690,Seychelles,840,United States of America,01," Horses, live pure-bred breeding",0.398,0.00040500000000000003,"United States of America -  Horses, live pure-bred breeding"
+706,690,Seychelles,276,Germany,01," Horses, live pure-bred breeding",0.013,0.000384,"Germany -  Horses, live pure-bred breeding"
+707,690,Seychelles,724,Spain,01," Horses, live pure-bred breeding",0.0,0.0,"Spain -  Horses, live pure-bred breeding"
+708,690,Seychelles,144,Sri Lanka,31," Animal or vegetable fertilizers, in packs >10 kg",0.0,0.0,"Sri Lanka -  Animal or vegetable fertilizers, in packs >10 kg"
+709,690,Seychelles,144,Sri Lanka,29, Saturated acyclic hydrocarbons,0.0,0.0,Sri Lanka -  Saturated acyclic hydrocarbons
+710,690,Seychelles,144,Sri Lanka,42," Saddlery and harness, of any material",0.0,0.0,"Sri Lanka -  Saddlery and harness, of any material"
+711,690,Seychelles,144,Sri Lanka,48, Newsprint,0.0,0.0,Sri Lanka -  Newsprint
+712,690,Seychelles,144,Sri Lanka,72," Pig iron, non-alloy, <0.5% phosphorus",0.0,0.0,"Sri Lanka -  Pig iron, non-alloy, <0.5% phosphorus"
+713,690,Seychelles,144,Sri Lanka,60," ""Long pile"" knit or crochet textile fabric",0.0,0.0,"Sri Lanka -  ""Long pile"" knit or crochet textile fabric"
+714,690,Seychelles,144,Sri Lanka,62," Mens, boys overcoats of wool or hair, not knit",0.0,0.0,"Sri Lanka -  Mens, boys overcoats of wool or hair, not knit"
+715,690,Seychelles,144,Sri Lanka,63, Electric blankets of textile material,0.0,0.0,Sri Lanka -  Electric blankets of textile material
+716,690,Seychelles,729,Sudan,01," Horses, live pure-bred breeding",0.0,0.0,"Sudan -  Horses, live pure-bred breeding"
+717,690,Seychelles,144,Sri Lanka,73, Sheet piling of iron or steel,0.0,0.0,Sri Lanka -  Sheet piling of iron or steel
+718,690,Seychelles,144,Sri Lanka,76," Aluminium unwrought, not alloyed",0.0,0.0,"Sri Lanka -  Aluminium unwrought, not alloyed"
+719,690,Seychelles,144,Sri Lanka,22, Mineral and aerated waters not sweetened or flavoured,0.0,0.0,Sri Lanka -  Mineral and aerated waters not sweetened or flavoured
+720,690,Seychelles,144,Sri Lanka,25," Salt (sodium chloride) including solution, salt water",0.0,0.0,"Sri Lanka -  Salt (sodium chloride) including solution, salt water"
+721,690,Seychelles,659,Saint Kitts and Nevis,22, Mineral and aerated waters not sweetened or flavoured,0.0,0.0,Saint Kitts and Nevis -  Mineral and aerated waters not sweetened or flavoured
+722,690,Seychelles,144,Sri Lanka,94," Seats, aircraft",0.0,0.0,"Sri Lanka -  Seats, aircraft"
+723,690,Seychelles,764,Thailand,01," Horses, live pure-bred breeding",0.0,0.0,"Thailand -  Horses, live pure-bred breeding"

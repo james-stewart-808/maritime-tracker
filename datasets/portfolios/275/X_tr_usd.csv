@@ -1,0 +1,379 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,275,State of Palestine,400,Jordan,72," Pig iron, non-alloy, <0.5% phosphorus",12228942.098,30316.673331,"Jordan -  Pig iron, non-alloy, <0.5% phosphorus"
+1,275,State of Palestine,792,Türkiye,08," Coconuts, fresh or dried",4414953.0,1029.195,"Türkiye -  Coconuts, fresh or dried"
+2,275,State of Palestine,784,United Arab Emirates,68," Stone setts, curbstones, flagstones (except slate)",2894064.396,10301.427376,"United Arab Emirates -  Stone setts, curbstones, flagstones (except slate)"
+3,275,State of Palestine,682,Saudi Arabia,68," Stone setts, curbstones, flagstones (except slate)",1451004.503,5810.614772,"Saudi Arabia -  Stone setts, curbstones, flagstones (except slate)"
+4,275,State of Palestine,792,Türkiye,76," Aluminium unwrought, not alloyed",1038405.0,853.81,"Türkiye -  Aluminium unwrought, not alloyed"
+5,275,State of Palestine,840,United States of America,08," Coconuts, fresh or dried",883760.05,73.691623,"United States of America -  Coconuts, fresh or dried"
+6,275,State of Palestine,682,Saudi Arabia,15," Lard, other pig fat and poultry fat, rendered",688018.02,219.021652,"Saudi Arabia -  Lard, other pig fat and poultry fat, rendered"
+7,275,State of Palestine,792,Türkiye,41," Bovine skins, whole, raw",630974.0,857.169,"Türkiye -  Bovine skins, whole, raw"
+8,275,State of Palestine,840,United States of America,15," Lard, other pig fat and poultry fat, rendered",581855.991,71.68757799999999,"United States of America -  Lard, other pig fat and poultry fat, rendered"
+9,275,State of Palestine,400,Jordan,09," Coffee, not roasted, not decaffeinated",527041.876,50.087185,"Jordan -  Coffee, not roasted, not decaffeinated"
+10,275,State of Palestine,400,Jordan,68," Stone setts, curbstones, flagstones (except slate)",495302.71,654.0949740000001,"Jordan -  Stone setts, curbstones, flagstones (except slate)"
+11,275,State of Palestine,784,United Arab Emirates,15," Lard, other pig fat and poultry fat, rendered",424002.681,394.120978,"United Arab Emirates -  Lard, other pig fat and poultry fat, rendered"
+12,275,State of Palestine,840,United States of America,07," Potatoes seed, fresh or chilled",406550.791,46.196157,"United States of America -  Potatoes seed, fresh or chilled"
+13,275,State of Palestine,076,Brazil,08," Coconuts, fresh or dried",389827.0,64.0,"Brazil -  Coconuts, fresh or dried"
+14,275,State of Palestine,826,United Kingdom,15," Lard, other pig fat and poultry fat, rendered",351862.492,29.665119999999998,"United Kingdom -  Lard, other pig fat and poultry fat, rendered"
+15,275,State of Palestine,414,Kuwait,15," Lard, other pig fat and poultry fat, rendered",331032.483,111.87310400000001,"Kuwait -  Lard, other pig fat and poultry fat, rendered"
+16,275,State of Palestine,250,France,15," Lard, other pig fat and poultry fat, rendered",323389.986,64.447947,"France -  Lard, other pig fat and poultry fat, rendered"
+17,275,State of Palestine,528,Netherlands (Kingdom of the),15," Lard, other pig fat and poultry fat, rendered",303227.315,36.111287,"Netherlands (Kingdom of the) -  Lard, other pig fat and poultry fat, rendered"
+18,275,State of Palestine,012,Algeria,68," Stone setts, curbstones, flagstones (except slate)",250281.235,355.484133,"Algeria -  Stone setts, curbstones, flagstones (except slate)"
+19,275,State of Palestine,682,Saudi Arabia,09," Coffee, not roasted, not decaffeinated",249563.483,37.902771,"Saudi Arabia -  Coffee, not roasted, not decaffeinated"
+20,275,State of Palestine,392,Japan,15," Lard, other pig fat and poultry fat, rendered",234503.641,20.958174,"Japan -  Lard, other pig fat and poultry fat, rendered"
+21,275,State of Palestine,410,"Korea, Republic of",15," Lard, other pig fat and poultry fat, rendered",216586.219,14.642370000000001,"Korea, Republic of -  Lard, other pig fat and poultry fat, rendered"
+22,275,State of Palestine,724,Spain,08," Coconuts, fresh or dried",196555.482,25.08,"Spain -  Coconuts, fresh or dried"
+23,275,State of Palestine,392,Japan,68," Stone setts, curbstones, flagstones (except slate)",184388.618,270.83259999999996,"Japan -  Stone setts, curbstones, flagstones (except slate)"
+24,275,State of Palestine,400,Jordan,39, Polyethylene - specific gravity <0.94 in primary form,182226.835,30.345496,Jordan -  Polyethylene - specific gravity <0.94 in primary form
+25,275,State of Palestine,840,United States of America,12, Soya beans,177631.69,15.955978,United States of America -  Soya beans
+26,275,State of Palestine,276,Germany,15," Lard, other pig fat and poultry fat, rendered",163255.54,26.246325000000002,"Germany -  Lard, other pig fat and poultry fat, rendered"
+27,275,State of Palestine,887,Yemen,39, Polyethylene - specific gravity <0.94 in primary form,156191.8,1.6999190000000002,Yemen -  Polyethylene - specific gravity <0.94 in primary form
+28,275,State of Palestine,400,Jordan,94," Seats, aircraft",155882.059,50.887788,"Jordan -  Seats, aircraft"
+29,275,State of Palestine,400,Jordan,83, Padlocks of base metal,153937.735,73.90572999999999,Jordan -  Padlocks of base metal
+30,275,State of Palestine,276,Germany,08," Coconuts, fresh or dried",151136.907,16.860804,"Germany -  Coconuts, fresh or dried"
+31,275,State of Palestine,792,Türkiye,74, Copper mattes,148622.0,35.9,Türkiye -  Copper mattes
+32,275,State of Palestine,400,Jordan,84, Nuclear reactors,147149.44,16.601841,Jordan -  Nuclear reactors
+33,275,State of Palestine,400,Jordan,48, Newsprint,131137.104,33.668947,Jordan -  Newsprint
+34,275,State of Palestine,112,Belarus,30," Glands and other organs, dried, for therapeutic uses",104472.271,1.615963,"Belarus -  Glands and other organs, dried, for therapeutic uses"
+35,275,State of Palestine,360,Indonesia,08," Coconuts, fresh or dried",98456.05,13.429632,"Indonesia -  Coconuts, fresh or dried"
+36,275,State of Palestine,784,United Arab Emirates,12, Soya beans,95226.462,49.541439,United Arab Emirates -  Soya beans
+37,275,State of Palestine,276,Germany,12, Soya beans,95098.444,14.895344,Germany -  Soya beans
+38,275,State of Palestine,784,United Arab Emirates,04, Milk not concentrated nor sweetened < 1% fat,92930.744,43.039615,United Arab Emirates -  Milk not concentrated nor sweetened < 1% fat
+39,275,State of Palestine,586,Pakistan,72," Pig iron, non-alloy, <0.5% phosphorus",90887.316,158.57401800000002,"Pakistan -  Pig iron, non-alloy, <0.5% phosphorus"
+40,275,State of Palestine,784,United Arab Emirates,20," Cucumbers,gherkins, prepared or preserved by vinegar",84946.546,131.454524,"United Arab Emirates -  Cucumbers,gherkins, prepared or preserved by vinegar"
+41,275,State of Palestine,400,Jordan,34," Soaps, for toilet use, solid",79381.273,16.022586,"Jordan -  Soaps, for toilet use, solid"
+42,275,State of Palestine,682,Saudi Arabia,20," Cucumbers,gherkins, prepared or preserved by vinegar",76153.033,65.09413500000001,"Saudi Arabia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+43,275,State of Palestine,682,Saudi Arabia,28, Chlorine,72539.592,62.426368000000004,Saudi Arabia -  Chlorine
+44,275,State of Palestine,400,Jordan,76," Aluminium unwrought, not alloyed",65231.128,10.931984,"Jordan -  Aluminium unwrought, not alloyed"
+45,275,State of Palestine,784,United Arab Emirates,16," Sausages, similar products of meat, meat offal & bloo",63486.195,17.943129000000003,"United Arab Emirates -  Sausages, similar products of meat, meat offal & bloo"
+46,275,State of Palestine,400,Jordan,08," Coconuts, fresh or dried",63301.261,39.758888,"Jordan -  Coconuts, fresh or dried"
+47,275,State of Palestine,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",62102.23,26.80492,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+48,275,State of Palestine,250,France,08," Coconuts, fresh or dried",59376.199,29.016908,"France -  Coconuts, fresh or dried"
+49,275,State of Palestine,414,Kuwait,68," Stone setts, curbstones, flagstones (except slate)",59223.07,170.395,"Kuwait -  Stone setts, curbstones, flagstones (except slate)"
+50,275,State of Palestine,752,Sweden,15," Lard, other pig fat and poultry fat, rendered",58200.852,6.118175,"Sweden -  Lard, other pig fat and poultry fat, rendered"
+51,275,State of Palestine,250,France,69," Bricks, blocks and ceramic goods of siliceous earths",55628.733,16.257870999999998,"France -  Bricks, blocks and ceramic goods of siliceous earths"
+52,275,State of Palestine,784,United Arab Emirates,08," Coconuts, fresh or dried",54521.7,10.326993,"United Arab Emirates -  Coconuts, fresh or dried"
+53,275,State of Palestine,840,United States of America,95," Rideable wheeled toys, dolls carriages",53450.697,5.234935,"United States of America -  Rideable wheeled toys, dolls carriages"
+54,275,State of Palestine,214,Dominican Republic,84, Nuclear reactors,52469.444,4.53108,Dominican Republic -  Nuclear reactors
+55,275,State of Palestine,826,United Kingdom,08," Coconuts, fresh or dried",51696.426,5.895989999999999,"United Kingdom -  Coconuts, fresh or dried"
+56,275,State of Palestine,756,"Switzerland, Liechtenstein",15," Lard, other pig fat and poultry fat, rendered",51581.108,4.361935000000001,"Switzerland, Liechtenstein -  Lard, other pig fat and poultry fat, rendered"
+57,275,State of Palestine,422,Lebanon,08," Coconuts, fresh or dried",48014.861,4.618143,"Lebanon -  Coconuts, fresh or dried"
+58,275,State of Palestine,792,Türkiye,32, Quebracho tanning extract,47853.0,46.0,Türkiye -  Quebracho tanning extract
+59,275,State of Palestine,400,Jordan,16," Sausages, similar products of meat, meat offal & bloo",47509.144,15.024573,"Jordan -  Sausages, similar products of meat, meat offal & bloo"
+60,275,State of Palestine,356,India,78, Lead refined unwrought,47422.425,37.143325,India -  Lead refined unwrought
+61,275,State of Palestine,840,United States of America,09," Coffee, not roasted, not decaffeinated",46215.748,6.301514,"United States of America -  Coffee, not roasted, not decaffeinated"
+62,275,State of Palestine,840,United States of America,19," Infant foods of cereals, flour, starch or milk, retai",45827.726,10.420401,"United States of America -  Infant foods of cereals, flour, starch or milk, retai"
+63,275,State of Palestine,410,"Korea, Republic of",08," Coconuts, fresh or dried",43937.135,2.6431039999999997,"Korea, Republic of -  Coconuts, fresh or dried"
+64,275,State of Palestine,032,Argentina,08," Coconuts, fresh or dried",41257.822,4.907041,"Argentina -  Coconuts, fresh or dried"
+65,275,State of Palestine,380,Italy,19," Infant foods of cereals, flour, starch or milk, retai",39010.955,8.400029,"Italy -  Infant foods of cereals, flour, starch or milk, retai"
+66,275,State of Palestine,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",37088.518,9.478706,"Malaysia -  Lard, other pig fat and poultry fat, rendered"
+67,275,State of Palestine,840,United States of America,44, Fuel wood,36894.494,7.599539,United States of America -  Fuel wood
+68,275,State of Palestine,048,Bahrain,07," Potatoes seed, fresh or chilled",36852.852,25.846957,"Bahrain -  Potatoes seed, fresh or chilled"
+69,275,State of Palestine,246,Finland,20," Cucumbers,gherkins, prepared or preserved by vinegar",36650.937,7.012,"Finland -  Cucumbers,gherkins, prepared or preserved by vinegar"
+70,275,State of Palestine,784,United Arab Emirates,84, Nuclear reactors,34980.795,18.519748,United Arab Emirates -  Nuclear reactors
+71,275,State of Palestine,752,Sweden,09," Coffee, not roasted, not decaffeinated",34856.266,6.0,"Sweden -  Coffee, not roasted, not decaffeinated"
+72,275,State of Palestine,400,Jordan,73, Sheet piling of iron or steel,34387.385,16.584343,Jordan -  Sheet piling of iron or steel
+73,275,State of Palestine,056,Belgium,15," Lard, other pig fat and poultry fat, rendered",33201.434,2.6841280000000003,"Belgium -  Lard, other pig fat and poultry fat, rendered"
+74,275,State of Palestine,784,United Arab Emirates,09," Coffee, not roasted, not decaffeinated",31601.89,17.713151999999997,"United Arab Emirates -  Coffee, not roasted, not decaffeinated"
+75,275,State of Palestine,400,Jordan,12, Soya beans,30641.952,2.038085,Jordan -  Soya beans
+76,275,State of Palestine,752,Sweden,12, Soya beans,29235.009,3.0,Sweden -  Soya beans
+77,275,State of Palestine,048,Bahrain,15," Lard, other pig fat and poultry fat, rendered",28872.301,3.549546,"Bahrain -  Lard, other pig fat and poultry fat, rendered"
+78,275,State of Palestine,276,Germany,34," Soaps, for toilet use, solid",27179.893,2.8125120000000003,"Germany -  Soaps, for toilet use, solid"
+79,275,State of Palestine,724,Spain,94," Seats, aircraft",26272.166,7.888,"Spain -  Seats, aircraft"
+80,275,State of Palestine,400,Jordan,07," Potatoes seed, fresh or chilled",26231.939,29.368264,"Jordan -  Potatoes seed, fresh or chilled"
+81,275,State of Palestine,840,United States of America,64," Waterproof footwear (Wellingtons etc), metal toe cap",25896.306,0.828295,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+82,275,State of Palestine,792,Türkiye,94," Seats, aircraft",25585.0,8.625,"Türkiye -  Seats, aircraft"
+83,275,State of Palestine,784,United Arab Emirates,07," Potatoes seed, fresh or chilled",25348.586,36.34047,"United Arab Emirates -  Potatoes seed, fresh or chilled"
+84,275,State of Palestine,826,United Kingdom,20," Cucumbers,gherkins, prepared or preserved by vinegar",24504.727,2.788101,"United Kingdom -  Cucumbers,gherkins, prepared or preserved by vinegar"
+85,275,State of Palestine,276,Germany,20," Cucumbers,gherkins, prepared or preserved by vinegar",24286.465,3.12004,"Germany -  Cucumbers,gherkins, prepared or preserved by vinegar"
+86,275,State of Palestine,826,United Kingdom,19," Infant foods of cereals, flour, starch or milk, retai",24139.028,7.136808,"United Kingdom -  Infant foods of cereals, flour, starch or milk, retai"
+87,275,State of Palestine,703,Slovakia,22, Mineral and aerated waters not sweetened or flavoured,23035.659,19.004,Slovakia -  Mineral and aerated waters not sweetened or flavoured
+88,275,State of Palestine,410,"Korea, Republic of",64," Waterproof footwear (Wellingtons etc), metal toe cap",22665.781,0.872861,"Korea, Republic of -  Waterproof footwear (Wellingtons etc), metal toe cap"
+89,275,State of Palestine,752,Sweden,20," Cucumbers,gherkins, prepared or preserved by vinegar",22579.833,4.55366,"Sweden -  Cucumbers,gherkins, prepared or preserved by vinegar"
+90,275,State of Palestine,276,Germany,44, Fuel wood,22531.843,0.6070549999999999,Germany -  Fuel wood
+91,275,State of Palestine,400,Jordan,64," Waterproof footwear (Wellingtons etc), metal toe cap",22528.54,4.039406,"Jordan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+92,275,State of Palestine,400,Jordan,15," Lard, other pig fat and poultry fat, rendered",22359.719,5.789012,"Jordan -  Lard, other pig fat and poultry fat, rendered"
+93,275,State of Palestine,840,United States of America,22, Mineral and aerated waters not sweetened or flavoured,22130.653,4.28559,United States of America -  Mineral and aerated waters not sweetened or flavoured
+94,275,State of Palestine,512,Oman,68," Stone setts, curbstones, flagstones (except slate)",21329.841,32.601762,"Oman -  Stone setts, curbstones, flagstones (except slate)"
+95,275,State of Palestine,400,Jordan,29, Saturated acyclic hydrocarbons,21126.764,0.22126200000000001,Jordan -  Saturated acyclic hydrocarbons
+96,275,State of Palestine,410,"Korea, Republic of",76," Aluminium unwrought, not alloyed",20928.142,22.247482,"Korea, Republic of -  Aluminium unwrought, not alloyed"
+97,275,State of Palestine,276,Germany,09," Coffee, not roasted, not decaffeinated",20033.724,3.157951,"Germany -  Coffee, not roasted, not decaffeinated"
+98,275,State of Palestine,040,Austria,15," Lard, other pig fat and poultry fat, rendered",18597.356,1.688051,"Austria -  Lard, other pig fat and poultry fat, rendered"
+99,275,State of Palestine,682,Saudi Arabia,16," Sausages, similar products of meat, meat offal & bloo",15161.079,7.425087,"Saudi Arabia -  Sausages, similar products of meat, meat offal & bloo"
+100,275,State of Palestine,012,Algeria,30," Glands and other organs, dried, for therapeutic uses",14778.533,0.313461,"Algeria -  Glands and other organs, dried, for therapeutic uses"
+101,275,State of Palestine,400,Jordan,44, Fuel wood,14706.202,2.77993,Jordan -  Fuel wood
+102,275,State of Palestine,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,14530.849,2.910096,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+103,275,State of Palestine,250,France,12, Soya beans,14216.697,2.738438,France -  Soya beans
+104,275,State of Palestine,682,Saudi Arabia,07," Potatoes seed, fresh or chilled",13647.039,20.16884,"Saudi Arabia -  Potatoes seed, fresh or chilled"
+105,275,State of Palestine,643,Russian Federation,12, Soya beans,13474.161,2.248437,Russian Federation -  Soya beans
+106,275,State of Palestine,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,13351.235,3.390498,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+107,275,State of Palestine,048,Bahrain,68," Stone setts, curbstones, flagstones (except slate)",12930.382,57.015096,"Bahrain -  Stone setts, curbstones, flagstones (except slate)"
+108,275,State of Palestine,400,Jordan,20," Cucumbers,gherkins, prepared or preserved by vinegar",12610.903,8.982405,"Jordan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+109,275,State of Palestine,414,Kuwait,69," Bricks, blocks and ceramic goods of siliceous earths",12445.627,3.379,"Kuwait -  Bricks, blocks and ceramic goods of siliceous earths"
+110,275,State of Palestine,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",12298.915,0.20989,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+111,275,State of Palestine,246,Finland,15," Lard, other pig fat and poultry fat, rendered",12234.358,0.915,"Finland -  Lard, other pig fat and poultry fat, rendered"
+112,275,State of Palestine,048,Bahrain,09," Coffee, not roasted, not decaffeinated",11912.443,1.276705,"Bahrain -  Coffee, not roasted, not decaffeinated"
+113,275,State of Palestine,792,Türkiye,85, Electric motors of an output < 37.5 watts,11720.0,3.169,Türkiye -  Electric motors of an output < 37.5 watts
+114,275,State of Palestine,400,Jordan,87, Pedestrian controlled tractors,11644.988,0.866167,Jordan -  Pedestrian controlled tractors
+115,275,State of Palestine,752,Sweden,19," Infant foods of cereals, flour, starch or milk, retai",11644.6,3.238351,"Sweden -  Infant foods of cereals, flour, starch or milk, retai"
+116,275,State of Palestine,703,Slovakia,40," Natural rubber latex, including prevulcanised",11543.203,2.244,"Slovakia -  Natural rubber latex, including prevulcanised"
+117,275,State of Palestine,400,Jordan,69," Bricks, blocks and ceramic goods of siliceous earths",11270.277,2.40903,"Jordan -  Bricks, blocks and ceramic goods of siliceous earths"
+118,275,State of Palestine,400,Jordan,32, Quebracho tanning extract,11250.66,1.47356,Jordan -  Quebracho tanning extract
+119,275,State of Palestine,246,Finland,08," Coconuts, fresh or dried",11046.591,0.986,"Finland -  Coconuts, fresh or dried"
+120,275,State of Palestine,578,Norway,15," Lard, other pig fat and poultry fat, rendered",11044.211,1.182474,"Norway -  Lard, other pig fat and poultry fat, rendered"
+121,275,State of Palestine,380,Italy,08," Coconuts, fresh or dried",10643.758,0.887788,"Italy -  Coconuts, fresh or dried"
+122,275,State of Palestine,446,"China, Macao SAR",30," Glands and other organs, dried, for therapeutic uses",10293.279,0.395,"China, Macao SAR -  Glands and other organs, dried, for therapeutic uses"
+123,275,State of Palestine,250,France,09," Coffee, not roasted, not decaffeinated",9868.85,1.738694,"France -  Coffee, not roasted, not decaffeinated"
+124,275,State of Palestine,250,France,34," Soaps, for toilet use, solid",9705.115,4.099808,"France -  Soaps, for toilet use, solid"
+125,275,State of Palestine,818,Egypt,54, Sewing thread of synthetic filaments,9670.311,1.1882739999999998,Egypt -  Sewing thread of synthetic filaments
+126,275,State of Palestine,156,China,76," Aluminium unwrought, not alloyed",9217.588,11.250365,"China -  Aluminium unwrought, not alloyed"
+127,275,State of Palestine,818,Egypt,38, Artificial graphite,9122.784,3.581692,Egypt -  Artificial graphite
+128,275,State of Palestine,458,Malaysia,08," Coconuts, fresh or dried",9009.798,1.3629639999999998,"Malaysia -  Coconuts, fresh or dried"
+129,275,State of Palestine,840,United States of America,11, Wheat or meslin flour,8684.391,1.6232929999999999,United States of America -  Wheat or meslin flour
+130,275,State of Palestine,682,Saudi Arabia,94," Seats, aircraft",8560.671,5.293897,"Saudi Arabia -  Seats, aircraft"
+131,275,State of Palestine,276,Germany,95," Rideable wheeled toys, dolls carriages",8507.928,0.154,"Germany -  Rideable wheeled toys, dolls carriages"
+132,275,State of Palestine,682,Saudi Arabia,12, Soya beans,8507.913,1.2168189999999999,Saudi Arabia -  Soya beans
+133,275,State of Palestine,792,Türkiye,39, Polyethylene - specific gravity <0.94 in primary form,8490.0,2.524,Türkiye -  Polyethylene - specific gravity <0.94 in primary form
+134,275,State of Palestine,170,Colombia,84, Nuclear reactors,8100.717,0.233206,Colombia -  Nuclear reactors
+135,275,State of Palestine,400,Jordan,22, Mineral and aerated waters not sweetened or flavoured,7832.164,23.133225,Jordan -  Mineral and aerated waters not sweetened or flavoured
+136,275,State of Palestine,784,United Arab Emirates,22, Mineral and aerated waters not sweetened or flavoured,7807.214,41.614571000000005,United Arab Emirates -  Mineral and aerated waters not sweetened or flavoured
+137,275,State of Palestine,682,Saudi Arabia,64," Waterproof footwear (Wellingtons etc), metal toe cap",7682.15,1.1493499999999999,"Saudi Arabia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+138,275,State of Palestine,400,Jordan,27," Anthracite, not agglomerated",7650.27,0.821063,"Jordan -  Anthracite, not agglomerated"
+139,275,State of Palestine,840,United States of America,85, Electric motors of an output < 37.5 watts,7601.041,2.725055,United States of America -  Electric motors of an output < 37.5 watts
+140,275,State of Palestine,276,Germany,19," Infant foods of cereals, flour, starch or milk, retai",7593.86,2.2400230000000003,"Germany -  Infant foods of cereals, flour, starch or milk, retai"
+141,275,State of Palestine,276,Germany,21," Coffee extracts, essences, concentrates, preparations",7078.855,0.316669,"Germany -  Coffee extracts, essences, concentrates, preparations"
+142,275,State of Palestine,250,France,48, Newsprint,6814.131,3.351812,France -  Newsprint
+143,275,State of Palestine,250,France,68," Stone setts, curbstones, flagstones (except slate)",6791.065,7.170259,"France -  Stone setts, curbstones, flagstones (except slate)"
+144,275,State of Palestine,840,United States of America,04, Milk not concentrated nor sweetened < 1% fat,6675.207,0.714433,United States of America -  Milk not concentrated nor sweetened < 1% fat
+145,275,State of Palestine,276,Germany,07," Potatoes seed, fresh or chilled",6646.756,0.786361,"Germany -  Potatoes seed, fresh or chilled"
+146,275,State of Palestine,392,Japan,22, Mineral and aerated waters not sweetened or flavoured,6374.251,1.561441,Japan -  Mineral and aerated waters not sweetened or flavoured
+147,275,State of Palestine,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,6275.464,0.073809,Saudi Arabia -  Electric motors of an output < 37.5 watts
+148,275,State of Palestine,196,Cyprus,33, Essential oils of bergamot,6274.754,0.9,Cyprus -  Essential oils of bergamot
+149,275,State of Palestine,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",6212.621,0.895688,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+150,275,State of Palestine,400,Jordan,61," Mens, boys overcoats, etc, of wool or hair, knit",6005.008,0.750678,"Jordan -  Mens, boys overcoats, etc, of wool or hair, knit"
+151,275,State of Palestine,400,Jordan,33, Essential oils of bergamot,5960.766,0.871912,Jordan -  Essential oils of bergamot
+152,275,State of Palestine,756,"Switzerland, Liechtenstein",95," Rideable wheeled toys, dolls carriages",5859.347,0.28012099999999995,"Switzerland, Liechtenstein -  Rideable wheeled toys, dolls carriages"
+153,275,State of Palestine,398,Kazakhstan,30," Glands and other organs, dried, for therapeutic uses",5652.275,0.038417,"Kazakhstan -  Glands and other organs, dried, for therapeutic uses"
+154,275,State of Palestine,826,United Kingdom,44, Fuel wood,5619.214,0.113702,United Kingdom -  Fuel wood
+155,275,State of Palestine,818,Egypt,48, Newsprint,5522.3,3.289939,Egypt -  Newsprint
+156,275,State of Palestine,818,Egypt,84, Nuclear reactors,5490.214,0.8288719999999999,Egypt -  Nuclear reactors
+157,275,State of Palestine,392,Japan,17," Raw sugar, cane",5378.599,0.24337999999999999,"Japan -  Raw sugar, cane"
+158,275,State of Palestine,620,Portugal,52," Cotton, not carded or combed",5186.719,10.0,"Portugal -  Cotton, not carded or combed"
+159,275,State of Palestine,528,Netherlands (Kingdom of the),08," Coconuts, fresh or dried",5085.36,0.710018,"Netherlands (Kingdom of the) -  Coconuts, fresh or dried"
+160,275,State of Palestine,840,United States of America,34," Soaps, for toilet use, solid",5070.633,0.921076,"United States of America -  Soaps, for toilet use, solid"
+161,275,State of Palestine,400,Jordan,86," Rail locomotives, externally electrically powered",5058.1,1.159905,"Jordan -  Rail locomotives, externally electrically powered"
+162,275,State of Palestine,410,"Korea, Republic of",34," Soaps, for toilet use, solid",5014.548,0.96394,"Korea, Republic of -  Soaps, for toilet use, solid"
+163,275,State of Palestine,682,Saudi Arabia,84, Nuclear reactors,4971.087,1.049974,Saudi Arabia -  Nuclear reactors
+164,275,State of Palestine,250,France,44, Fuel wood,4964.26,0.8190599999999999,France -  Fuel wood
+165,275,State of Palestine,400,Jordan,17," Raw sugar, cane",4920.815,0.65862,"Jordan -  Raw sugar, cane"
+166,275,State of Palestine,380,Italy,15," Lard, other pig fat and poultry fat, rendered",4752.698,0.48035,"Italy -  Lard, other pig fat and poultry fat, rendered"
+167,275,State of Palestine,752,Sweden,34," Soaps, for toilet use, solid",4697.348,2.250143,"Sweden -  Soaps, for toilet use, solid"
+168,275,State of Palestine,818,Egypt,52," Cotton, not carded or combed",4603.024,1.515059,"Egypt -  Cotton, not carded or combed"
+169,275,State of Palestine,752,Sweden,21," Coffee extracts, essences, concentrates, preparations",4596.42,1.2042249999999999,"Sweden -  Coffee extracts, essences, concentrates, preparations"
+170,275,State of Palestine,400,Jordan,95," Rideable wheeled toys, dolls carriages",4592.529,0.24894,"Jordan -  Rideable wheeled toys, dolls carriages"
+171,275,State of Palestine,784,United Arab Emirates,44, Fuel wood,4521.584,0.175907,United Arab Emirates -  Fuel wood
+172,275,State of Palestine,682,Saudi Arabia,04, Milk not concentrated nor sweetened < 1% fat,4463.607,3.811292,Saudi Arabia -  Milk not concentrated nor sweetened < 1% fat
+173,275,State of Palestine,400,Jordan,21," Coffee extracts, essences, concentrates, preparations",4427.916,1.029674,"Jordan -  Coffee extracts, essences, concentrates, preparations"
+174,275,State of Palestine,068,Bolivia (Plurinational State of),30," Glands and other organs, dried, for therapeutic uses",4286.402,0.264336,"Bolivia (Plurinational State of) -  Glands and other organs, dried, for therapeutic uses"
+175,275,State of Palestine,203,Czechia,84, Nuclear reactors,4259.011,0.007951,Czechia -  Nuclear reactors
+176,275,State of Palestine,703,Slovakia,73, Sheet piling of iron or steel,4148.305,1.186018,Slovakia -  Sheet piling of iron or steel
+177,275,State of Palestine,792,Türkiye,84, Nuclear reactors,4056.0,1.121,Türkiye -  Nuclear reactors
+178,275,State of Palestine,504,Morocco,08," Coconuts, fresh or dried",3949.164,0.534636,"Morocco -  Coconuts, fresh or dried"
+179,275,State of Palestine,616,Poland,30," Glands and other organs, dried, for therapeutic uses",3935.659,0.017228999999999998,"Poland -  Glands and other organs, dried, for therapeutic uses"
+180,275,State of Palestine,784,United Arab Emirates,25," Salt (sodium chloride) including solution, salt water",3916.946,3.875636,"United Arab Emirates -  Salt (sodium chloride) including solution, salt water"
+181,275,State of Palestine,414,Kuwait,08," Coconuts, fresh or dried",3710.513,0.5,"Kuwait -  Coconuts, fresh or dried"
+182,275,State of Palestine,196,Cyprus,48, Newsprint,3610.176,1.771,Cyprus -  Newsprint
+183,275,State of Palestine,643,Russian Federation,44, Fuel wood,3501.498,0.091127,Russian Federation -  Fuel wood
+184,275,State of Palestine,558,Nicaragua,15," Lard, other pig fat and poultry fat, rendered",3303.615,0.989853,"Nicaragua -  Lard, other pig fat and poultry fat, rendered"
+185,275,State of Palestine,826,United Kingdom,21," Coffee extracts, essences, concentrates, preparations",3218.739,0.46978,"United Kingdom -  Coffee extracts, essences, concentrates, preparations"
+186,275,State of Palestine,578,Norway,22, Mineral and aerated waters not sweetened or flavoured,3091.957,1.593357,Norway -  Mineral and aerated waters not sweetened or flavoured
+187,275,State of Palestine,643,Russian Federation,08," Coconuts, fresh or dried",2944.895,2.382648,"Russian Federation -  Coconuts, fresh or dried"
+188,275,State of Palestine,170,Colombia,39, Polyethylene - specific gravity <0.94 in primary form,2821.519,0.030118,Colombia -  Polyethylene - specific gravity <0.94 in primary form
+189,275,State of Palestine,826,United Kingdom,25," Salt (sodium chloride) including solution, salt water",2819.002,3.0101750000000003,"United Kingdom -  Salt (sodium chloride) including solution, salt water"
+190,275,State of Palestine,643,Russian Federation,15," Lard, other pig fat and poultry fat, rendered",2658.957,0.25262,"Russian Federation -  Lard, other pig fat and poultry fat, rendered"
+191,275,State of Palestine,380,Italy,44, Fuel wood,2656.607,0.018795000000000003,Italy -  Fuel wood
+192,275,State of Palestine,400,Jordan,63, Electric blankets of textile material,2596.199,1.075591,Jordan -  Electric blankets of textile material
+193,275,State of Palestine,887,Yemen,40," Natural rubber latex, including prevulcanised",2554.96,0.023661,"Yemen -  Natural rubber latex, including prevulcanised"
+194,275,State of Palestine,048,Bahrain,12, Soya beans,2552.375,0.168191,Bahrain -  Soya beans
+195,275,State of Palestine,682,Saudi Arabia,08," Coconuts, fresh or dried",2527.527,3.078712,"Saudi Arabia -  Coconuts, fresh or dried"
+196,275,State of Palestine,643,Russian Federation,09," Coffee, not roasted, not decaffeinated",2373.042,0.370141,"Russian Federation -  Coffee, not roasted, not decaffeinated"
+197,275,State of Palestine,752,Sweden,08," Coconuts, fresh or dried",2323.018,0.310156,"Sweden -  Coconuts, fresh or dried"
+198,275,State of Palestine,372,Ireland,12, Soya beans,2306.433,0.478584,Ireland -  Soya beans
+199,275,State of Palestine,703,Slovakia,39, Polyethylene - specific gravity <0.94 in primary form,2291.643,1.122247,Slovakia -  Polyethylene - specific gravity <0.94 in primary form
+200,275,State of Palestine,784,United Arab Emirates,73, Sheet piling of iron or steel,2276.201,0.596007,United Arab Emirates -  Sheet piling of iron or steel
+201,275,State of Palestine,578,Norway,08," Coconuts, fresh or dried",2223.616,0.27813600000000005,"Norway -  Coconuts, fresh or dried"
+202,275,State of Palestine,012,Algeria,85, Electric motors of an output < 37.5 watts,2217.405,0.039615000000000004,Algeria -  Electric motors of an output < 37.5 watts
+203,275,State of Palestine,048,Bahrain,76," Aluminium unwrought, not alloyed",2135.085,0.7367659999999999,"Bahrain -  Aluminium unwrought, not alloyed"
+204,275,State of Palestine,250,France,21," Coffee extracts, essences, concentrates, preparations",2094.558,0.5165339999999999,"France -  Coffee extracts, essences, concentrates, preparations"
+205,275,State of Palestine,276,Germany,71," Pearls natural, not permanently mounted or set",1963.436,0.012,"Germany -  Pearls natural, not permanently mounted or set"
+206,275,State of Palestine,400,Jordan,30," Glands and other organs, dried, for therapeutic uses",1957.097,0.07316800000000001,"Jordan -  Glands and other organs, dried, for therapeutic uses"
+207,275,State of Palestine,818,Egypt,64," Waterproof footwear (Wellingtons etc), metal toe cap",1907.024,0.078459,"Egypt -  Waterproof footwear (Wellingtons etc), metal toe cap"
+208,275,State of Palestine,048,Bahrain,16," Sausages, similar products of meat, meat offal & bloo",1880.882,0.229496,"Bahrain -  Sausages, similar products of meat, meat offal & bloo"
+209,275,State of Palestine,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,1874.188,0.117712,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+210,275,State of Palestine,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",1857.265,0.18700999999999998,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+211,275,State of Palestine,372,Ireland,25," Salt (sodium chloride) including solution, salt water",1834.188,11.933111,"Ireland -  Salt (sodium chloride) including solution, salt water"
+212,275,State of Palestine,250,France,96," Worked ivory, articles of ivory",1822.694,0.022564,"France -  Worked ivory, articles of ivory"
+213,275,State of Palestine,276,Germany,73, Sheet piling of iron or steel,1815.668,0.201583,Germany -  Sheet piling of iron or steel
+214,275,State of Palestine,040,Austria,08," Coconuts, fresh or dried",1690.156,0.281545,"Austria -  Coconuts, fresh or dried"
+215,275,State of Palestine,196,Cyprus,44, Fuel wood,1684.196,0.9,Cyprus -  Fuel wood
+216,275,State of Palestine,528,Netherlands (Kingdom of the),09," Coffee, not roasted, not decaffeinated",1659.521,0.21744300000000003,"Netherlands (Kingdom of the) -  Coffee, not roasted, not decaffeinated"
+217,275,State of Palestine,048,Bahrain,20," Cucumbers,gherkins, prepared or preserved by vinegar",1649.153,0.353284,"Bahrain -  Cucumbers,gherkins, prepared or preserved by vinegar"
+218,275,State of Palestine,040,Austria,20," Cucumbers,gherkins, prepared or preserved by vinegar",1642.429,0.330384,"Austria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+219,275,State of Palestine,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",1630.094,0.08343600000000001,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+220,275,State of Palestine,031,Azerbaijan,08," Coconuts, fresh or dried",1603.313,0.423767,"Azerbaijan -  Coconuts, fresh or dried"
+221,275,State of Palestine,360,Indonesia,15," Lard, other pig fat and poultry fat, rendered",1510.544,0.5192089999999999,"Indonesia -  Lard, other pig fat and poultry fat, rendered"
+222,275,State of Palestine,586,Pakistan,32, Quebracho tanning extract,1497.45,0.8665,Pakistan -  Quebracho tanning extract
+223,275,State of Palestine,051,Armenia,30," Glands and other organs, dried, for therapeutic uses",1437.116,0.047781,"Armenia -  Glands and other organs, dried, for therapeutic uses"
+224,275,State of Palestine,784,United Arab Emirates,19," Infant foods of cereals, flour, starch or milk, retai",1411.195,0.7283350000000001,"United Arab Emirates -  Infant foods of cereals, flour, starch or milk, retai"
+225,275,State of Palestine,784,United Arab Emirates,11, Wheat or meslin flour,1361.966,1.3337739999999998,United Arab Emirates -  Wheat or meslin flour
+226,275,State of Palestine,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",1302.47,0.290171,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+227,275,State of Palestine,188,Costa Rica,35, Casein,1302.431,0.116244,Costa Rica -  Casein
+228,275,State of Palestine,400,Jordan,19," Infant foods of cereals, flour, starch or milk, retai",1277.949,0.565292,"Jordan -  Infant foods of cereals, flour, starch or milk, retai"
+229,275,State of Palestine,031,Azerbaijan,30," Glands and other organs, dried, for therapeutic uses",1247.645,0.051561,"Azerbaijan -  Glands and other organs, dried, for therapeutic uses"
+230,275,State of Palestine,048,Bahrain,69," Bricks, blocks and ceramic goods of siliceous earths",1245.534,0.678053,"Bahrain -  Bricks, blocks and ceramic goods of siliceous earths"
+231,275,State of Palestine,586,Pakistan,84, Nuclear reactors,1231.268,0.075692,Pakistan -  Nuclear reactors
+232,275,State of Palestine,752,Sweden,62," Mens, boys overcoats of wool or hair, not knit",1170.199,0.039887,"Sweden -  Mens, boys overcoats of wool or hair, not knit"
+233,275,State of Palestine,682,Saudi Arabia,42," Saddlery and harness, of any material",1119.409,0.10856199999999999,"Saudi Arabia -  Saddlery and harness, of any material"
+234,275,State of Palestine,764,Thailand,15," Lard, other pig fat and poultry fat, rendered",1114.858,0.330324,"Thailand -  Lard, other pig fat and poultry fat, rendered"
+235,275,State of Palestine,156,China,85, Electric motors of an output < 37.5 watts,950.804,0.008897,China -  Electric motors of an output < 37.5 watts
+236,275,State of Palestine,250,France,07," Potatoes seed, fresh or chilled",943.873,0.305487,"France -  Potatoes seed, fresh or chilled"
+237,275,State of Palestine,756,"Switzerland, Liechtenstein",19," Infant foods of cereals, flour, starch or milk, retai",933.265,0.156062,"Switzerland, Liechtenstein -  Infant foods of cereals, flour, starch or milk, retai"
+238,275,State of Palestine,826,United Kingdom,48, Newsprint,924.455,0.0005719999999999999,United Kingdom -  Newsprint
+239,275,State of Palestine,380,Italy,64," Waterproof footwear (Wellingtons etc), metal toe cap",900.954,0.035204,"Italy -  Waterproof footwear (Wellingtons etc), metal toe cap"
+240,275,State of Palestine,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",883.66,0.030341,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+241,275,State of Palestine,528,Netherlands (Kingdom of the),12, Soya beans,882.403,0.188972,Netherlands (Kingdom of the) -  Soya beans
+242,275,State of Palestine,682,Saudi Arabia,90," Optical fibres, except for telecommunications",864.76,0.008929,"Saudi Arabia -  Optical fibres, except for telecommunications"
+243,275,State of Palestine,562,Niger,07," Potatoes seed, fresh or chilled",815.382,0.077503,"Niger -  Potatoes seed, fresh or chilled"
+244,275,State of Palestine,724,Spain,44, Fuel wood,776.163,0.026046,Spain -  Fuel wood
+245,275,State of Palestine,112,Belarus,21," Coffee extracts, essences, concentrates, preparations",744.477,0.024169,"Belarus -  Coffee extracts, essences, concentrates, preparations"
+246,275,State of Palestine,208,Denmark,22, Mineral and aerated waters not sweetened or flavoured,720.448,0.237338,Denmark -  Mineral and aerated waters not sweetened or flavoured
+247,275,State of Palestine,784,United Arab Emirates,21," Coffee extracts, essences, concentrates, preparations",699.048,0.378401,"United Arab Emirates -  Coffee extracts, essences, concentrates, preparations"
+248,275,State of Palestine,400,Jordan,02," Bovine carcasses and half carcasses, fresh or chilled",681.541,0.07483,"Jordan -  Bovine carcasses and half carcasses, fresh or chilled"
+249,275,State of Palestine,826,United Kingdom,11, Wheat or meslin flour,672.731,0.19494399999999998,United Kingdom -  Wheat or meslin flour
+250,275,State of Palestine,304,Greenland,85, Electric motors of an output < 37.5 watts,671.335,0.009173,Greenland -  Electric motors of an output < 37.5 watts
+251,275,State of Palestine,048,Bahrain,64," Waterproof footwear (Wellingtons etc), metal toe cap",655.987,0.018645,"Bahrain -  Waterproof footwear (Wellingtons etc), metal toe cap"
+252,275,State of Palestine,400,Jordan,04, Milk not concentrated nor sweetened < 1% fat,653.675,0.6450710000000001,Jordan -  Milk not concentrated nor sweetened < 1% fat
+253,275,State of Palestine,400,Jordan,85, Electric motors of an output < 37.5 watts,634.839,0.063064,Jordan -  Electric motors of an output < 37.5 watts
+254,275,State of Palestine,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",588.083,0.001385,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+255,275,State of Palestine,818,Egypt,58," Woven pile fabric of wool or fine animal hair, w >30c",576.446,0.08581,"Egypt -  Woven pile fabric of wool or fine animal hair, w >30c"
+256,275,State of Palestine,724,Spain,83, Padlocks of base metal,572.012,0.019354,Spain -  Padlocks of base metal
+257,275,State of Palestine,887,Yemen,30," Glands and other organs, dried, for therapeutic uses",566.454,0.008158,"Yemen -  Glands and other organs, dried, for therapeutic uses"
+258,275,State of Palestine,682,Saudi Arabia,73, Sheet piling of iron or steel,545.769,0.042233,Saudi Arabia -  Sheet piling of iron or steel
+259,275,State of Palestine,340,Honduras,07," Potatoes seed, fresh or chilled",536.725,0.165858,"Honduras -  Potatoes seed, fresh or chilled"
+260,275,State of Palestine,196,Cyprus,71," Pearls natural, not permanently mounted or set",514.618,0.3,"Cyprus -  Pearls natural, not permanently mounted or set"
+261,275,State of Palestine,056,Belgium,08," Coconuts, fresh or dried",503.369,0.04549,"Belgium -  Coconuts, fresh or dried"
+262,275,State of Palestine,188,Costa Rica,39, Polyethylene - specific gravity <0.94 in primary form,502.6,0.048678,Costa Rica -  Polyethylene - specific gravity <0.94 in primary form
+263,275,State of Palestine,048,Bahrain,95," Rideable wheeled toys, dolls carriages",498.981,0.42807799999999996,"Bahrain -  Rideable wheeled toys, dolls carriages"
+264,275,State of Palestine,250,France,70," Glass cullet, waste or scrap, glass in the mass",494.155,0.128095,"France -  Glass cullet, waste or scrap, glass in the mass"
+265,275,State of Palestine,682,Saudi Arabia,13, Lac,485.259,0.156263,Saudi Arabia -  Lac
+266,275,State of Palestine,156,China,82, Spades and shovels,484.971,0.327894,China -  Spades and shovels
+267,275,State of Palestine,048,Bahrain,34," Soaps, for toilet use, solid",465.667,0.054452,"Bahrain -  Soaps, for toilet use, solid"
+268,275,State of Palestine,056,Belgium,17," Raw sugar, cane",454.559,0.097614,"Belgium -  Raw sugar, cane"
+269,275,State of Palestine,060,Bermuda,62," Mens, boys overcoats of wool or hair, not knit",450.205,0.018674,"Bermuda -  Mens, boys overcoats of wool or hair, not knit"
+270,275,State of Palestine,112,Belarus,33, Essential oils of bergamot,436.283,0.005719999999999999,Belarus -  Essential oils of bergamot
+271,275,State of Palestine,752,Sweden,07," Potatoes seed, fresh or chilled",435.932,0.133638,"Sweden -  Potatoes seed, fresh or chilled"
+272,275,State of Palestine,076,Brazil,84, Nuclear reactors,427.912,0.004541000000000001,Brazil -  Nuclear reactors
+273,275,State of Palestine,250,France,42," Saddlery and harness, of any material",421.826,0.014213,"France -  Saddlery and harness, of any material"
+274,275,State of Palestine,887,Yemen,68," Stone setts, curbstones, flagstones (except slate)",414.887,0.37447800000000003,"Yemen -  Stone setts, curbstones, flagstones (except slate)"
+275,275,State of Palestine,380,Italy,42," Saddlery and harness, of any material",409.218,0.01463,"Italy -  Saddlery and harness, of any material"
+276,275,State of Palestine,414,Kuwait,21," Coffee extracts, essences, concentrates, preparations",407.509,0.10336,"Kuwait -  Coffee extracts, essences, concentrates, preparations"
+277,275,State of Palestine,214,Dominican Republic,32, Quebracho tanning extract,389.48,0.020492999999999997,Dominican Republic -  Quebracho tanning extract
+278,275,State of Palestine,028,Antigua and Barbuda,85, Electric motors of an output < 37.5 watts,386.483,0.0030259999999999996,Antigua and Barbuda -  Electric motors of an output < 37.5 watts
+279,275,State of Palestine,578,Norway,33, Essential oils of bergamot,380.933,0.023994,Norway -  Essential oils of bergamot
+280,275,State of Palestine,340,Honduras,08," Coconuts, fresh or dried",349.349,0.084783,"Honduras -  Coconuts, fresh or dried"
+281,275,State of Palestine,784,United Arab Emirates,94," Seats, aircraft",342.021,0.584252,"United Arab Emirates -  Seats, aircraft"
+282,275,State of Palestine,380,Italy,90," Optical fibres, except for telecommunications",341.441,0.000356,"Italy -  Optical fibres, except for telecommunications"
+283,275,State of Palestine,076,Brazil,90," Optical fibres, except for telecommunications",336.622,0.012638,"Brazil -  Optical fibres, except for telecommunications"
+284,275,State of Palestine,414,Kuwait,87, Pedestrian controlled tractors,333.0,0.028,Kuwait -  Pedestrian controlled tractors
+285,275,State of Palestine,586,Pakistan,85, Electric motors of an output < 37.5 watts,312.079,0.034027999999999996,Pakistan -  Electric motors of an output < 37.5 watts
+286,275,State of Palestine,048,Bahrain,13, Lac,310.379,0.094917,Bahrain -  Lac
+287,275,State of Palestine,840,United States of America,65," Hat-forms, etc of felt, not shaped, no formed brim",305.876,0.046340000000000006,"United States of America -  Hat-forms, etc of felt, not shaped, no formed brim"
+288,275,State of Palestine,048,Bahrain,11, Wheat or meslin flour,304.737,0.057288,Bahrain -  Wheat or meslin flour
+289,275,State of Palestine,100,Bulgaria,15," Lard, other pig fat and poultry fat, rendered",286.741,0.284274,"Bulgaria -  Lard, other pig fat and poultry fat, rendered"
+290,275,State of Palestine,188,Costa Rica,70," Glass cullet, waste or scrap, glass in the mass",275.682,0.014605,"Costa Rica -  Glass cullet, waste or scrap, glass in the mass"
+291,275,State of Palestine,300,Greece,44, Fuel wood,274.975,0.012303000000000001,Greece -  Fuel wood
+292,275,State of Palestine,470,Malta,30," Glands and other organs, dried, for therapeutic uses",274.676,0.021502,"Malta -  Glands and other organs, dried, for therapeutic uses"
+293,275,State of Palestine,643,Russian Federation,07," Potatoes seed, fresh or chilled",263.199,0.039164000000000004,"Russian Federation -  Potatoes seed, fresh or chilled"
+294,275,State of Palestine,250,France,45," Natural cork, raw or simply prepared",256.658,0.009816,"France -  Natural cork, raw or simply prepared"
+295,275,State of Palestine,400,Jordan,18," Cocoa beans, whole or broken, raw or roasted",249.398,0.119703,"Jordan -  Cocoa beans, whole or broken, raw or roasted"
+296,275,State of Palestine,784,United Arab Emirates,90," Optical fibres, except for telecommunications",248.192,0.096072,"United Arab Emirates -  Optical fibres, except for telecommunications"
+297,275,State of Palestine,788,Tunisia,30," Glands and other organs, dried, for therapeutic uses",235.412,0.0037240000000000003,"Tunisia -  Glands and other organs, dried, for therapeutic uses"
+298,275,State of Palestine,682,Saudi Arabia,95," Rideable wheeled toys, dolls carriages",233.121,0.009983,"Saudi Arabia -  Rideable wheeled toys, dolls carriages"
+299,275,State of Palestine,214,Dominican Republic,85, Electric motors of an output < 37.5 watts,227.395,0.019686,Dominican Republic -  Electric motors of an output < 37.5 watts
+300,275,State of Palestine,208,Denmark,08," Coconuts, fresh or dried",222.068,0.060274,"Denmark -  Coconuts, fresh or dried"
+301,275,State of Palestine,784,United Arab Emirates,33, Essential oils of bergamot,218.873,0.361626,United Arab Emirates -  Essential oils of bergamot
+302,275,State of Palestine,826,United Kingdom,84, Nuclear reactors,215.18,0.00449,United Kingdom -  Nuclear reactors
+303,275,State of Palestine,414,Kuwait,48, Newsprint,214.357,0.114,Kuwait -  Newsprint
+304,275,State of Palestine,203,Czechia,08," Coconuts, fresh or dried",202.877,0.030414,"Czechia -  Coconuts, fresh or dried"
+305,275,State of Palestine,818,Egypt,39, Polyethylene - specific gravity <0.94 in primary form,200.736,0.06826,Egypt -  Polyethylene - specific gravity <0.94 in primary form
+306,275,State of Palestine,048,Bahrain,08," Coconuts, fresh or dried",199.182,0.017471,"Bahrain -  Coconuts, fresh or dried"
+307,275,State of Palestine,682,Saudi Arabia,21," Coffee extracts, essences, concentrates, preparations",198.388,0.054137,"Saudi Arabia -  Coffee extracts, essences, concentrates, preparations"
+308,275,State of Palestine,380,Italy,86," Rail locomotives, externally electrically powered",196.359,0.010985,"Italy -  Rail locomotives, externally electrically powered"
+309,275,State of Palestine,586,Pakistan,40," Natural rubber latex, including prevulcanised",189.833,0.011766,"Pakistan -  Natural rubber latex, including prevulcanised"
+310,275,State of Palestine,756,"Switzerland, Liechtenstein",21," Coffee extracts, essences, concentrates, preparations",182.346,0.012879,"Switzerland, Liechtenstein -  Coffee extracts, essences, concentrates, preparations"
+311,275,State of Palestine,600,Paraguay,82, Spades and shovels,177.943,0.005127,Paraguay -  Spades and shovels
+312,275,State of Palestine,756,"Switzerland, Liechtenstein",65," Hat-forms, etc of felt, not shaped, no formed brim",171.989,0.00076,"Switzerland, Liechtenstein -  Hat-forms, etc of felt, not shaped, no formed brim"
+313,275,State of Palestine,586,Pakistan,47, Mechanical wood pulp,167.168,3.401444,Pakistan -  Mechanical wood pulp
+314,275,State of Palestine,380,Italy,85, Electric motors of an output < 37.5 watts,156.529,0.000229,Italy -  Electric motors of an output < 37.5 watts
+315,275,State of Palestine,724,Spain,69," Bricks, blocks and ceramic goods of siliceous earths",150.411,0.0052910000000000006,"Spain -  Bricks, blocks and ceramic goods of siliceous earths"
+316,275,State of Palestine,724,Spain,18," Cocoa beans, whole or broken, raw or roasted",144.719,0.007555,"Spain -  Cocoa beans, whole or broken, raw or roasted"
+317,275,State of Palestine,756,"Switzerland, Liechtenstein",34," Soaps, for toilet use, solid",140.355,0.012985,"Switzerland, Liechtenstein -  Soaps, for toilet use, solid"
+318,275,State of Palestine,616,Poland,44, Fuel wood,138.351,0.001813,Poland -  Fuel wood
+319,275,State of Palestine,214,Dominican Republic,40," Natural rubber latex, including prevulcanised",131.1,0.009,"Dominican Republic -  Natural rubber latex, including prevulcanised"
+320,275,State of Palestine,214,Dominican Republic,70," Glass cullet, waste or scrap, glass in the mass",126.56,0.007872,"Dominican Republic -  Glass cullet, waste or scrap, glass in the mass"
+321,275,State of Palestine,554,New Zealand,44, Fuel wood,125.103,0.027346,New Zealand -  Fuel wood
+322,275,State of Palestine,250,France,19," Infant foods of cereals, flour, starch or milk, retai",123.293,0.042277,"France -  Infant foods of cereals, flour, starch or milk, retai"
+323,275,State of Palestine,414,Kuwait,84, Nuclear reactors,121.847,0.001595,Kuwait -  Nuclear reactors
+324,275,State of Palestine,788,Tunisia,82, Spades and shovels,115.661,0.0081,Tunisia -  Spades and shovels
+325,275,State of Palestine,250,France,62," Mens, boys overcoats of wool or hair, not knit",112.944,0.002963,"France -  Mens, boys overcoats of wool or hair, not knit"
+326,275,State of Palestine,196,Cyprus,63, Electric blankets of textile material,108.2,0.05,Cyprus -  Electric blankets of textile material
+327,275,State of Palestine,784,United Arab Emirates,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",104.161,0.137943,"United Arab Emirates -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+328,275,State of Palestine,784,United Arab Emirates,17," Raw sugar, cane",98.977,0.085316,"United Arab Emirates -  Raw sugar, cane"
+329,275,State of Palestine,682,Saudi Arabia,76," Aluminium unwrought, not alloyed",89.873,0.003143,"Saudi Arabia -  Aluminium unwrought, not alloyed"
+330,275,State of Palestine,100,Bulgaria,20," Cucumbers,gherkins, prepared or preserved by vinegar",86.946,0.083721,"Bulgaria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+331,275,State of Palestine,156,China,52," Cotton, not carded or combed",86.49,0.04468,"China -  Cotton, not carded or combed"
+332,275,State of Palestine,214,Dominican Republic,87, Pedestrian controlled tractors,82.19,0.001671,Dominican Republic -  Pedestrian controlled tractors
+333,275,State of Palestine,214,Dominican Republic,73, Sheet piling of iron or steel,77.395,0.002133,Dominican Republic -  Sheet piling of iron or steel
+334,275,State of Palestine,756,"Switzerland, Liechtenstein",63, Electric blankets of textile material,72.437,0.0036269999999999996,"Switzerland, Liechtenstein -  Electric blankets of textile material"
+335,275,State of Palestine,360,Indonesia,73, Sheet piling of iron or steel,64.153,0.0023940000000000003,Indonesia -  Sheet piling of iron or steel
+336,275,State of Palestine,578,Norway,34," Soaps, for toilet use, solid",63.368,0.00307,"Norway -  Soaps, for toilet use, solid"
+337,275,State of Palestine,203,Czechia,64," Waterproof footwear (Wellingtons etc), metal toe cap",59.496,0.0019399999999999999,"Czechia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+338,275,State of Palestine,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",55.332,0.002556,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+339,275,State of Palestine,784,United Arab Emirates,64," Waterproof footwear (Wellingtons etc), metal toe cap",55.083,0.02077,"United Arab Emirates -  Waterproof footwear (Wellingtons etc), metal toe cap"
+340,275,State of Palestine,528,Netherlands (Kingdom of the),07," Potatoes seed, fresh or chilled",53.526,0.0045449999999999996,"Netherlands (Kingdom of the) -  Potatoes seed, fresh or chilled"
+341,275,State of Palestine,586,Pakistan,69," Bricks, blocks and ceramic goods of siliceous earths",53.017,0.028687,"Pakistan -  Bricks, blocks and ceramic goods of siliceous earths"
+342,275,State of Palestine,682,Saudi Arabia,19," Infant foods of cereals, flour, starch or milk, retai",46.596,0.039415,"Saudi Arabia -  Infant foods of cereals, flour, starch or milk, retai"
+343,275,State of Palestine,214,Dominican Republic,49," Brochures, leaflets and similar, in single sheets",45.28,0.021075,"Dominican Republic -  Brochures, leaflets and similar, in single sheets"
+344,275,State of Palestine,616,Poland,34," Soaps, for toilet use, solid",41.6,0.010881,"Poland -  Soaps, for toilet use, solid"
+345,275,State of Palestine,170,Colombia,61," Mens, boys overcoats, etc, of wool or hair, knit",38.992,0.003535,"Colombia -  Mens, boys overcoats, etc, of wool or hair, knit"
+346,275,State of Palestine,528,Netherlands (Kingdom of the),11, Wheat or meslin flour,35.56,0.036826,Netherlands (Kingdom of the) -  Wheat or meslin flour
+347,275,State of Palestine,250,France,94," Seats, aircraft",34.001,0.002395,"France -  Seats, aircraft"
+348,275,State of Palestine,784,United Arab Emirates,34," Soaps, for toilet use, solid",33.683,0.007129,"United Arab Emirates -  Soaps, for toilet use, solid"
+349,275,State of Palestine,528,Netherlands (Kingdom of the),49," Brochures, leaflets and similar, in single sheets",33.323,0.004618000000000001,"Netherlands (Kingdom of the) -  Brochures, leaflets and similar, in single sheets"
+350,275,State of Palestine,040,Austria,33, Essential oils of bergamot,31.877,0.000366,Austria -  Essential oils of bergamot
+351,275,State of Palestine,586,Pakistan,82, Spades and shovels,30.412,0.017315,Pakistan -  Spades and shovels
+352,275,State of Palestine,214,Dominican Republic,90," Optical fibres, except for telecommunications",29.747,0.0032229999999999997,"Dominican Republic -  Optical fibres, except for telecommunications"
+353,275,State of Palestine,250,France,83, Padlocks of base metal,27.867,0.00131,France -  Padlocks of base metal
+354,275,State of Palestine,586,Pakistan,29, Saturated acyclic hydrocarbons,27.693,0.001145,Pakistan -  Saturated acyclic hydrocarbons
+355,275,State of Palestine,784,United Arab Emirates,13, Lac,27.032,0.008079000000000001,United Arab Emirates -  Lac
+356,275,State of Palestine,616,Poland,90," Optical fibres, except for telecommunications",26.957,0.001046,"Poland -  Optical fibres, except for telecommunications"
+357,275,State of Palestine,788,Tunisia,49," Brochures, leaflets and similar, in single sheets",26.49,0.054618,"Tunisia -  Brochures, leaflets and similar, in single sheets"
+358,275,State of Palestine,600,Paraguay,84, Nuclear reactors,26.464,0.0010760000000000001,Paraguay -  Nuclear reactors
+359,275,State of Palestine,040,Austria,82, Spades and shovels,23.798,0.001727,Austria -  Spades and shovels
+360,275,State of Palestine,300,Greece,49," Brochures, leaflets and similar, in single sheets",22.411,0.003306,"Greece -  Brochures, leaflets and similar, in single sheets"
+361,275,State of Palestine,586,Pakistan,38, Artificial graphite,18.118,0.001173,Pakistan -  Artificial graphite
+362,275,State of Palestine,250,France,85, Electric motors of an output < 37.5 watts,17.605,0.000124,France -  Electric motors of an output < 37.5 watts
+363,275,State of Palestine,688,Serbia,33, Essential oils of bergamot,12.673,0.0011639999999999999,Serbia -  Essential oils of bergamot
+364,275,State of Palestine,724,Spain,85, Electric motors of an output < 37.5 watts,11.372,0.000328,Spain -  Electric motors of an output < 37.5 watts
+365,275,State of Palestine,400,Jordan,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",7.697,0.002298,"Jordan -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+366,275,State of Palestine,504,Morocco,61," Mens, boys overcoats, etc, of wool or hair, knit",7.603,0.000207,"Morocco -  Mens, boys overcoats, etc, of wool or hair, knit"
+367,275,State of Palestine,156,China,41," Bovine skins, whole, raw",7.416,9.7e-05,"China -  Bovine skins, whole, raw"
+368,275,State of Palestine,276,Germany,49," Brochures, leaflets and similar, in single sheets",4.885,0.000104,"Germany -  Brochures, leaflets and similar, in single sheets"
+369,275,State of Palestine,826,United Kingdom,10, Durum wheat,2.967,0.000358,United Kingdom -  Durum wheat
+370,275,State of Palestine,764,Thailand,62," Mens, boys overcoats of wool or hair, not knit",2.892,2.6e-05,"Thailand -  Mens, boys overcoats of wool or hair, not knit"
+371,275,State of Palestine,156,China,90," Optical fibres, except for telecommunications",2.196,7.9e-05,"China -  Optical fibres, except for telecommunications"
+372,275,State of Palestine,528,Netherlands (Kingdom of the),10, Durum wheat,2.005,0.0044610000000000006,Netherlands (Kingdom of the) -  Durum wheat
+373,275,State of Palestine,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",1.439,6.6e-05,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+374,275,State of Palestine,756,"Switzerland, Liechtenstein",10, Durum wheat,1.081,0.000129,"Switzerland, Liechtenstein -  Durum wheat"
+375,275,State of Palestine,703,Slovakia,62," Mens, boys overcoats of wool or hair, not knit",0.642,4e-06,"Slovakia -  Mens, boys overcoats of wool or hair, not knit"
+376,275,State of Palestine,400,Jordan,25," Salt (sodium chloride) including solution, salt water",0.013,3.1e-05,"Jordan -  Salt (sodium chloride) including solution, salt water"
+377,275,State of Palestine,400,Jordan,41," Bovine skins, whole, raw",0.004,1e-06,"Jordan -  Bovine skins, whole, raw"

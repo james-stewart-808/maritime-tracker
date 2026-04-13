@@ -1,0 +1,651 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,096,Brunei Darussalam,392,Japan,27," Anthracite, not agglomerated",1401330168.271,3350850.1295890003,"Japan -  Anthracite, not agglomerated"
+1,096,Brunei Darussalam,764,Thailand,27," Anthracite, not agglomerated",796689501.742,1632455.9,"Thailand -  Anthracite, not agglomerated"
+2,096,Brunei Darussalam,036,Australia,27," Anthracite, not agglomerated",565259573.806,1196889.9,"Australia -  Anthracite, not agglomerated"
+3,096,Brunei Darussalam,410,"Korea, Republic of",27," Anthracite, not agglomerated",367954385.101,898680.453969,"Korea, Republic of -  Anthracite, not agglomerated"
+4,096,Brunei Darussalam,702,Singapore,27," Anthracite, not agglomerated",328516849.225,707059.818875,"Singapore -  Anthracite, not agglomerated"
+5,096,Brunei Darussalam,356,India,27," Anthracite, not agglomerated",263739676.22,598022.142169,"India -  Anthracite, not agglomerated"
+6,096,Brunei Darussalam,156,China,29, Saturated acyclic hydrocarbons,92332352.943,288261.115259,China -  Saturated acyclic hydrocarbons
+7,096,Brunei Darussalam,156,China,27," Anthracite, not agglomerated",77222499.807,167920.408037,"China -  Anthracite, not agglomerated"
+8,096,Brunei Darussalam,840,United States of America,27," Anthracite, not agglomerated",43332209.867,104328.663197,"United States of America -  Anthracite, not agglomerated"
+9,096,Brunei Darussalam,764,Thailand,29, Saturated acyclic hydrocarbons,26490005.426,72163.68,Thailand -  Saturated acyclic hydrocarbons
+10,096,Brunei Darussalam,704,Viet Nam,29, Saturated acyclic hydrocarbons,20193340.526,63127.858328,Viet Nam -  Saturated acyclic hydrocarbons
+11,096,Brunei Darussalam,608,Philippines,27," Anthracite, not agglomerated",16791546.475,39835.07385,"Philippines -  Anthracite, not agglomerated"
+12,096,Brunei Darussalam,392,Japan,29, Saturated acyclic hydrocarbons,12196690.539,36562.446271,Japan -  Saturated acyclic hydrocarbons
+13,096,Brunei Darussalam,608,Philippines,29, Saturated acyclic hydrocarbons,9456013.509,24998.339121,Philippines -  Saturated acyclic hydrocarbons
+14,096,Brunei Darussalam,704,Viet Nam,72," Pig iron, non-alloy, <0.5% phosphorus",7987591.242,28440.036567000003,"Viet Nam -  Pig iron, non-alloy, <0.5% phosphorus"
+15,096,Brunei Darussalam,840,United States of America,73, Sheet piling of iron or steel,7195162.625,10443.58459,United States of America -  Sheet piling of iron or steel
+16,096,Brunei Darussalam,410,"Korea, Republic of",29, Saturated acyclic hydrocarbons,5978389.605,18023.300449000002,"Korea, Republic of -  Saturated acyclic hydrocarbons"
+17,096,Brunei Darussalam,702,Singapore,73, Sheet piling of iron or steel,5678752.019,631.874919,Singapore -  Sheet piling of iron or steel
+18,096,Brunei Darussalam,702,Singapore,29, Saturated acyclic hydrocarbons,5135118.893,14280.021847999998,Singapore -  Saturated acyclic hydrocarbons
+19,096,Brunei Darussalam,360,Indonesia,73, Sheet piling of iron or steel,5029380.923,299.849938,Indonesia -  Sheet piling of iron or steel
+20,096,Brunei Darussalam,360,Indonesia,72," Pig iron, non-alloy, <0.5% phosphorus",3751800.557,12025.772599,"Indonesia -  Pig iron, non-alloy, <0.5% phosphorus"
+21,096,Brunei Darussalam,360,Indonesia,29, Saturated acyclic hydrocarbons,3371928.007,11833.378679,Indonesia -  Saturated acyclic hydrocarbons
+22,096,Brunei Darussalam,458,Malaysia,27," Anthracite, not agglomerated",3199704.342,6056.994842,"Malaysia -  Anthracite, not agglomerated"
+23,096,Brunei Darussalam,036,Australia,03," Ornamental fish, live",2747186.973,212.719,"Australia -  Ornamental fish, live"
+24,096,Brunei Darussalam,702,Singapore,72," Pig iron, non-alloy, <0.5% phosphorus",2317590.422,6393.812598,"Singapore -  Pig iron, non-alloy, <0.5% phosphorus"
+25,096,Brunei Darussalam,156,China,47, Mechanical wood pulp,2035100.096,11177.123625,China -  Mechanical wood pulp
+26,096,Brunei Darussalam,608,Philippines,76," Aluminium unwrought, not alloyed",1846316.295,306.800771,"Philippines -  Aluminium unwrought, not alloyed"
+27,096,Brunei Darussalam,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,1815100.148,4924.238091,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+28,096,Brunei Darussalam,360,Indonesia,87, Pedestrian controlled tractors,1550915.084,341.799927,Indonesia -  Pedestrian controlled tractors
+29,096,Brunei Darussalam,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,1536388.359,760.302345,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+30,096,Brunei Darussalam,702,Singapore,84, Nuclear reactors,1226122.541,67.940467,Singapore -  Nuclear reactors
+31,096,Brunei Darussalam,764,Thailand,72," Pig iron, non-alloy, <0.5% phosphorus",1219050.393,4061.2,"Thailand -  Pig iron, non-alloy, <0.5% phosphorus"
+32,096,Brunei Darussalam,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",1207837.368,41.123917999999996,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+33,096,Brunei Darussalam,458,Malaysia,73, Sheet piling of iron or steel,1053276.222,1581.049375,Malaysia -  Sheet piling of iron or steel
+34,096,Brunei Darussalam,156,China,03," Ornamental fish, live",853590.799,431.40400900000003,"China -  Ornamental fish, live"
+35,096,Brunei Darussalam,344,"China, Hong Kong SAR",61," Mens, boys overcoats, etc, of wool or hair, knit",723942.34,32.534861,"China, Hong Kong SAR -  Mens, boys overcoats, etc, of wool or hair, knit"
+36,096,Brunei Darussalam,458,Malaysia,44, Fuel wood,694887.625,535.046163,Malaysia -  Fuel wood
+37,096,Brunei Darussalam,356,India,38, Artificial graphite,615638.861,279.72652,India -  Artificial graphite
+38,096,Brunei Darussalam,458,Malaysia,84, Nuclear reactors,508066.608,93.924613,Malaysia -  Nuclear reactors
+39,096,Brunei Darussalam,702,Singapore,21," Coffee extracts, essences, concentrates, preparations",488160.326,35.291103,"Singapore -  Coffee extracts, essences, concentrates, preparations"
+40,096,Brunei Darussalam,702,Singapore,71," Pearls natural, not permanently mounted or set",456551.705,7.5341949999999995,"Singapore -  Pearls natural, not permanently mounted or set"
+41,096,Brunei Darussalam,410,"Korea, Republic of",84, Nuclear reactors,369237.287,211.635704,"Korea, Republic of -  Nuclear reactors"
+42,096,Brunei Darussalam,392,Japan,21," Coffee extracts, essences, concentrates, preparations",367618.599,2.0467429999999998,"Japan -  Coffee extracts, essences, concentrates, preparations"
+43,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",357972.831,0.11,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+44,096,Brunei Darussalam,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",353799.331,13.824438,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+45,096,Brunei Darussalam,458,Malaysia,03," Ornamental fish, live",348628.23,54.275614000000004,"Malaysia -  Ornamental fish, live"
+46,096,Brunei Darussalam,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",285342.774,11.086554,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+47,096,Brunei Darussalam,410,"Korea, Republic of",44, Fuel wood,285167.254,286.546309,"Korea, Republic of -  Fuel wood"
+48,096,Brunei Darussalam,344,"China, Hong Kong SAR",49," Brochures, leaflets and similar, in single sheets",264142.637,3.4186,"China, Hong Kong SAR -  Brochures, leaflets and similar, in single sheets"
+49,096,Brunei Darussalam,818,Egypt,09," Coffee, not roasted, not decaffeinated",254421.147,115.604736,"Egypt -  Coffee, not roasted, not decaffeinated"
+50,096,Brunei Darussalam,392,Japan,03," Ornamental fish, live",211507.03,204.531712,"Japan -  Ornamental fish, live"
+51,096,Brunei Darussalam,404,Kenya,21," Coffee extracts, essences, concentrates, preparations",198201.323,37.744593,"Kenya -  Coffee extracts, essences, concentrates, preparations"
+52,096,Brunei Darussalam,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",188780.511,342.114821,"Malaysia -  Flour or meal, pellet of meat or offal for animal fee"
+53,096,Brunei Darussalam,036,Australia,73, Sheet piling of iron or steel,178540.778,6.791291,Australia -  Sheet piling of iron or steel
+54,096,Brunei Darussalam,076,Brazil,84, Nuclear reactors,155712.0,39.509,Brazil -  Nuclear reactors
+55,096,Brunei Darussalam,458,Malaysia,48, Newsprint,154441.337,390.390962,Malaysia -  Newsprint
+56,096,Brunei Darussalam,826,United Kingdom,94," Seats, aircraft",151928.946,55.253495,"United Kingdom -  Seats, aircraft"
+57,096,Brunei Darussalam,626,Timor-Leste,27," Anthracite, not agglomerated",139235.041,115.655283,"Timor-Leste -  Anthracite, not agglomerated"
+58,096,Brunei Darussalam,702,Singapore,85, Electric motors of an output < 37.5 watts,137036.024,15.812777,Singapore -  Electric motors of an output < 37.5 watts
+59,096,Brunei Darussalam,462,Maldives,89," Cruise ships, excursion boats, ferry boats",134122.921,7.134708,"Maldives -  Cruise ships, excursion boats, ferry boats"
+60,096,Brunei Darussalam,764,Thailand,47, Mechanical wood pulp,133033.468,1130.68,Thailand -  Mechanical wood pulp
+61,096,Brunei Darussalam,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",131116.302,2.875,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+62,096,Brunei Darussalam,458,Malaysia,34," Soaps, for toilet use, solid",129878.301,179.12650299999999,"Malaysia -  Soaps, for toilet use, solid"
+63,096,Brunei Darussalam,410,"Korea, Republic of",89," Cruise ships, excursion boats, ferry boats",127659.12,567.170819,"Korea, Republic of -  Cruise ships, excursion boats, ferry boats"
+64,096,Brunei Darussalam,826,United Kingdom,88," Gliders, hang gliders",117261.868,0.464566,"United Kingdom -  Gliders, hang gliders"
+65,096,Brunei Darussalam,356,India,84, Nuclear reactors,113341.883,8.83474,India -  Nuclear reactors
+66,096,Brunei Darussalam,360,Indonesia,84, Nuclear reactors,111331.405,182.025774,Indonesia -  Nuclear reactors
+67,096,Brunei Darussalam,840,United States of America,87, Pedestrian controlled tractors,110271.324,20.246268,United States of America -  Pedestrian controlled tractors
+68,096,Brunei Darussalam,276,Germany,74, Copper mattes,107118.487,20.36,Germany -  Copper mattes
+69,096,Brunei Darussalam,702,Singapore,47, Mechanical wood pulp,103879.091,828.8055420000001,Singapore -  Mechanical wood pulp
+70,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",64," Waterproof footwear (Wellingtons etc), metal toe cap",103672.898,1.127,"Switzerland, Liechtenstein -  Waterproof footwear (Wellingtons etc), metal toe cap"
+71,096,Brunei Darussalam,250,France,07," Potatoes seed, fresh or chilled",102915.095,86.844831,"France -  Potatoes seed, fresh or chilled"
+72,096,Brunei Darussalam,702,Singapore,88," Gliders, hang gliders",102341.709,0.33251,"Singapore -  Gliders, hang gliders"
+73,096,Brunei Darussalam,458,Malaysia,94," Seats, aircraft",87691.897,30.067134,"Malaysia -  Seats, aircraft"
+74,096,Brunei Darussalam,458,Malaysia,38, Artificial graphite,86308.624,242.699133,Malaysia -  Artificial graphite
+75,096,Brunei Darussalam,356,India,41," Bovine skins, whole, raw",82961.886,104.14457,"India -  Bovine skins, whole, raw"
+76,096,Brunei Darussalam,704,Viet Nam,03," Ornamental fish, live",78856.957,56.743828,"Viet Nam -  Ornamental fish, live"
+77,096,Brunei Darussalam,458,Malaysia,63, Electric blankets of textile material,76843.757,30.600938999999997,Malaysia -  Electric blankets of textile material
+78,096,Brunei Darussalam,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",74816.12,0.857687,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+79,096,Brunei Darussalam,702,Singapore,90," Optical fibres, except for telecommunications",69521.102,1.608377,"Singapore -  Optical fibres, except for telecommunications"
+80,096,Brunei Darussalam,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",68046.595,19.209701000000003,"Malaysia -  Infant foods of cereals, flour, starch or milk, retai"
+81,096,Brunei Darussalam,528,Netherlands (Kingdom of the),88," Gliders, hang gliders",60705.361,0.04199,"Netherlands (Kingdom of the) -  Gliders, hang gliders"
+82,096,Brunei Darussalam,360,Indonesia,47, Mechanical wood pulp,59991.379,237.34408,Indonesia -  Mechanical wood pulp
+83,096,Brunei Darussalam,356,India,29, Saturated acyclic hydrocarbons,58350.903,29.43439,India -  Saturated acyclic hydrocarbons
+84,096,Brunei Darussalam,840,United States of America,85, Electric motors of an output < 37.5 watts,56854.404,7.455997999999999,United States of America -  Electric motors of an output < 37.5 watts
+85,096,Brunei Darussalam,458,Malaysia,90," Optical fibres, except for telecommunications",56480.503,1.0654860000000002,"Malaysia -  Optical fibres, except for telecommunications"
+86,096,Brunei Darussalam,104,Myanmar,29, Saturated acyclic hydrocarbons,55927.805,95.56,Myanmar -  Saturated acyclic hydrocarbons
+87,096,Brunei Darussalam,458,Malaysia,32, Quebracho tanning extract,55441.286,18.144852,Malaysia -  Quebracho tanning extract
+88,096,Brunei Darussalam,250,France,62," Mens, boys overcoats of wool or hair, not knit",55420.933,1.6185260000000001,"France -  Mens, boys overcoats of wool or hair, not knit"
+89,096,Brunei Darussalam,288,Ghana,38, Artificial graphite,55216.497,38.167303999999994,Ghana -  Artificial graphite
+90,096,Brunei Darussalam,380,Italy,84, Nuclear reactors,53980.065,1.14683,Italy -  Nuclear reactors
+91,096,Brunei Darussalam,826,United Kingdom,84, Nuclear reactors,53714.706,0.128802,United Kingdom -  Nuclear reactors
+92,096,Brunei Darussalam,702,Singapore,35, Casein,51617.725,4.492913,Singapore -  Casein
+93,096,Brunei Darussalam,076,Brazil,85, Electric motors of an output < 37.5 watts,49747.0,0.458347,Brazil -  Electric motors of an output < 37.5 watts
+94,096,Brunei Darussalam,724,Spain,90," Optical fibres, except for telecommunications",47909.308,0.883,"Spain -  Optical fibres, except for telecommunications"
+95,096,Brunei Darussalam,764,Thailand,85, Electric motors of an output < 37.5 watts,46544.998,9.201,Thailand -  Electric motors of an output < 37.5 watts
+96,096,Brunei Darussalam,704,Viet Nam,73, Sheet piling of iron or steel,46391.566,42.371189,Viet Nam -  Sheet piling of iron or steel
+97,096,Brunei Darussalam,104,Myanmar,73, Sheet piling of iron or steel,46061.721,14.48779,Myanmar -  Sheet piling of iron or steel
+98,096,Brunei Darussalam,344,"China, Hong Kong SAR",15," Lard, other pig fat and poultry fat, rendered",43004.919,49.329885000000004,"China, Hong Kong SAR -  Lard, other pig fat and poultry fat, rendered"
+99,096,Brunei Darussalam,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,42931.546,1.382469,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+100,096,Brunei Darussalam,344,"China, Hong Kong SAR",90," Optical fibres, except for telecommunications",42273.292,0.593081,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+101,096,Brunei Darussalam,792,Türkiye,15," Lard, other pig fat and poultry fat, rendered",40564.0,47.04,"Türkiye -  Lard, other pig fat and poultry fat, rendered"
+102,096,Brunei Darussalam,818,Egypt,62," Mens, boys overcoats of wool or hair, not knit",39315.142,0.111589,"Egypt -  Mens, boys overcoats of wool or hair, not knit"
+103,096,Brunei Darussalam,344,"China, Hong Kong SAR",03," Ornamental fish, live",39241.584,1.176654,"China, Hong Kong SAR -  Ornamental fish, live"
+104,096,Brunei Darussalam,380,Italy,54, Sewing thread of synthetic filaments,37945.309,13.079034,Italy -  Sewing thread of synthetic filaments
+105,096,Brunei Darussalam,764,Thailand,87, Pedestrian controlled tractors,37893.762,2.93,Thailand -  Pedestrian controlled tractors
+106,096,Brunei Darussalam,250,France,08," Coconuts, fresh or dried",36418.116,24.667581,"France -  Coconuts, fresh or dried"
+107,096,Brunei Darussalam,076,Brazil,73, Sheet piling of iron or steel,36372.0,11.552,Brazil -  Sheet piling of iron or steel
+108,096,Brunei Darussalam,764,Thailand,84, Nuclear reactors,36218.889,5.39181,Thailand -  Nuclear reactors
+109,096,Brunei Darussalam,036,Australia,76," Aluminium unwrought, not alloyed",35928.746,4.269023,"Australia -  Aluminium unwrought, not alloyed"
+110,096,Brunei Darussalam,458,Malaysia,85, Electric motors of an output < 37.5 watts,35774.401,7.9119340000000005,Malaysia -  Electric motors of an output < 37.5 watts
+111,096,Brunei Darussalam,566,Nigeria,62," Mens, boys overcoats of wool or hair, not knit",34943.106,1.486,"Nigeria -  Mens, boys overcoats of wool or hair, not knit"
+112,096,Brunei Darussalam,616,Poland,55," Filament tow of nylon, polyamides",34413.372,14.185379000000001,"Poland -  Filament tow of nylon, polyamides"
+113,096,Brunei Darussalam,076,Brazil,87, Pedestrian controlled tractors,34368.0,11.368,Brazil -  Pedestrian controlled tractors
+114,096,Brunei Darussalam,702,Singapore,86," Rail locomotives, externally electrically powered",34000.545,15.649825,"Singapore -  Rail locomotives, externally electrically powered"
+115,096,Brunei Darussalam,104,Myanmar,16," Sausages, similar products of meat, meat offal & bloo",33154.284,10.3545,"Myanmar -  Sausages, similar products of meat, meat offal & bloo"
+116,096,Brunei Darussalam,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,30591.283,10.698661,Malaysia -  Polyethylene - specific gravity <0.94 in primary form
+117,096,Brunei Darussalam,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",29773.765,8.462515999999999,"Malaysia -  Coffee extracts, essences, concentrates, preparations"
+118,096,Brunei Darussalam,410,"Korea, Republic of",47, Mechanical wood pulp,28238.591,87.28103599999999,"Korea, Republic of -  Mechanical wood pulp"
+119,096,Brunei Darussalam,356,India,73, Sheet piling of iron or steel,28159.958,54.484256,India -  Sheet piling of iron or steel
+120,096,Brunei Darussalam,356,India,47, Mechanical wood pulp,27458.827,191.107552,India -  Mechanical wood pulp
+121,096,Brunei Darussalam,410,"Korea, Republic of",73, Sheet piling of iron or steel,27382.045,231.117111,"Korea, Republic of -  Sheet piling of iron or steel"
+122,096,Brunei Darussalam,218,Ecuador,29, Saturated acyclic hydrocarbons,26470.0,25.181,Ecuador -  Saturated acyclic hydrocarbons
+123,096,Brunei Darussalam,702,Singapore,60," ""Long pile"" knit or crochet textile fabric",26184.96,2.262921,"Singapore -  ""Long pile"" knit or crochet textile fabric"
+124,096,Brunei Darussalam,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",26128.18,0.852,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+125,096,Brunei Darussalam,616,Poland,60," ""Long pile"" knit or crochet textile fabric",25577.228,8.75072,"Poland -  ""Long pile"" knit or crochet textile fabric"
+126,096,Brunei Darussalam,036,Australia,47, Mechanical wood pulp,25207.743,72.45,Australia -  Mechanical wood pulp
+127,096,Brunei Darussalam,818,Egypt,64," Waterproof footwear (Wellingtons etc), metal toe cap",23700.283,0.947846,"Egypt -  Waterproof footwear (Wellingtons etc), metal toe cap"
+128,096,Brunei Darussalam,376,Israel,09," Coffee, not roasted, not decaffeinated",23208.133,9.123521,"Israel -  Coffee, not roasted, not decaffeinated"
+129,096,Brunei Darussalam,826,United Kingdom,73, Sheet piling of iron or steel,22914.72,0.251028,United Kingdom -  Sheet piling of iron or steel
+130,096,Brunei Darussalam,702,Singapore,74, Copper mattes,22596.576,6.6368469999999995,Singapore -  Copper mattes
+131,096,Brunei Darussalam,040,Austria,84, Nuclear reactors,22456.54,5.8432070000000005,Austria -  Nuclear reactors
+132,096,Brunei Darussalam,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,22379.627,4.703162,Malaysia -  Milk not concentrated nor sweetened < 1% fat
+133,096,Brunei Darussalam,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,21944.158,24.762,Germany -  Polyethylene - specific gravity <0.94 in primary form
+134,096,Brunei Darussalam,410,"Korea, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,21612.822,39.329463000000004,"Korea, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+135,096,Brunei Darussalam,764,Thailand,32, Quebracho tanning extract,21496.9,3.649,Thailand -  Quebracho tanning extract
+136,096,Brunei Darussalam,100,Bulgaria,73, Sheet piling of iron or steel,20435.186,6.502035,Bulgaria -  Sheet piling of iron or steel
+137,096,Brunei Darussalam,360,Indonesia,41," Bovine skins, whole, raw",19480.168,36.20406,"Indonesia -  Bovine skins, whole, raw"
+138,096,Brunei Darussalam,702,Singapore,28, Chlorine,19296.702,36.712193,Singapore -  Chlorine
+139,096,Brunei Darussalam,060,Bermuda,30," Glands and other organs, dried, for therapeutic uses",19101.349,0.10246599999999999,"Bermuda -  Glands and other organs, dried, for therapeutic uses"
+140,096,Brunei Darussalam,360,Indonesia,82, Spades and shovels,18805.075,0.275329,Indonesia -  Spades and shovels
+141,096,Brunei Darussalam,344,"China, Hong Kong SAR",21," Coffee extracts, essences, concentrates, preparations",18301.55,0.614979,"China, Hong Kong SAR -  Coffee extracts, essences, concentrates, preparations"
+142,096,Brunei Darussalam,204,Benin,20," Cucumbers,gherkins, prepared or preserved by vinegar",17921.623,26.16,"Benin -  Cucumbers,gherkins, prepared or preserved by vinegar"
+143,096,Brunei Darussalam,702,Singapore,49," Brochures, leaflets and similar, in single sheets",17907.847,2.44267,"Singapore -  Brochures, leaflets and similar, in single sheets"
+144,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",17907.209,0.17016,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+145,096,Brunei Darussalam,276,Germany,90," Optical fibres, except for telecommunications",17800.164,0.073,"Germany -  Optical fibres, except for telecommunications"
+146,096,Brunei Darussalam,528,Netherlands (Kingdom of the),84, Nuclear reactors,17763.031,3.574363,Netherlands (Kingdom of the) -  Nuclear reactors
+147,096,Brunei Darussalam,702,Singapore,64," Waterproof footwear (Wellingtons etc), metal toe cap",17695.146,0.987201,"Singapore -  Waterproof footwear (Wellingtons etc), metal toe cap"
+148,096,Brunei Darussalam,686,Senegal,87, Pedestrian controlled tractors,17629.579,2.177653,Senegal -  Pedestrian controlled tractors
+149,096,Brunei Darussalam,608,Philippines,15," Lard, other pig fat and poultry fat, rendered",17517.446,20.747729,"Philippines -  Lard, other pig fat and poultry fat, rendered"
+150,096,Brunei Darussalam,608,Philippines,84, Nuclear reactors,17479.348,1.549544,Philippines -  Nuclear reactors
+151,096,Brunei Darussalam,410,"Korea, Republic of",28, Chlorine,17218.512,1.006383,"Korea, Republic of -  Chlorine"
+152,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",16578.106,0.244901,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+153,096,Brunei Darussalam,512,Oman,38, Artificial graphite,16537.565,10.637692999999999,Oman -  Artificial graphite
+154,096,Brunei Darussalam,040,Austria,62," Mens, boys overcoats of wool or hair, not knit",16387.193,0.567046,"Austria -  Mens, boys overcoats of wool or hair, not knit"
+155,096,Brunei Darussalam,608,Philippines,73, Sheet piling of iron or steel,15817.318,6.387682,Philippines -  Sheet piling of iron or steel
+156,096,Brunei Darussalam,840,United States of America,84, Nuclear reactors,15815.524,0.708641,United States of America -  Nuclear reactors
+157,096,Brunei Darussalam,458,Malaysia,87, Pedestrian controlled tractors,15814.967,1.7898859999999999,Malaysia -  Pedestrian controlled tractors
+158,096,Brunei Darussalam,764,Thailand,69," Bricks, blocks and ceramic goods of siliceous earths",15718.043,4.431,"Thailand -  Bricks, blocks and ceramic goods of siliceous earths"
+159,096,Brunei Darussalam,392,Japan,44, Fuel wood,15438.918,24.511131000000002,Japan -  Fuel wood
+160,096,Brunei Darussalam,702,Singapore,82, Spades and shovels,15092.82,1.364932,Singapore -  Spades and shovels
+161,096,Brunei Darussalam,784,United Arab Emirates,94," Seats, aircraft",14958.762,7.445037,"United Arab Emirates -  Seats, aircraft"
+162,096,Brunei Darussalam,702,Singapore,44, Fuel wood,14949.277,23.281743,Singapore -  Fuel wood
+163,096,Brunei Darussalam,104,Myanmar,84, Nuclear reactors,14826.386,2.455923,Myanmar -  Nuclear reactors
+164,096,Brunei Darussalam,258,French Polynesia,90," Optical fibres, except for telecommunications",14286.139,0.43846199999999996,"French Polynesia -  Optical fibres, except for telecommunications"
+165,096,Brunei Darussalam,826,United Kingdom,87, Pedestrian controlled tractors,13776.774,2.435569,United Kingdom -  Pedestrian controlled tractors
+166,096,Brunei Darussalam,144,Sri Lanka,27," Anthracite, not agglomerated",13516.827,27.262314,"Sri Lanka -  Anthracite, not agglomerated"
+167,096,Brunei Darussalam,818,Egypt,61," Mens, boys overcoats, etc, of wool or hair, knit",13404.267,0.341227,"Egypt -  Mens, boys overcoats, etc, of wool or hair, knit"
+168,096,Brunei Darussalam,380,Italy,60," ""Long pile"" knit or crochet textile fabric",12708.889,8.345450999999999,"Italy -  ""Long pile"" knit or crochet textile fabric"
+169,096,Brunei Darussalam,458,Malaysia,81," Powders, tungsten (wolfram)",12554.184,180.030491,"Malaysia -  Powders, tungsten (wolfram)"
+170,096,Brunei Darussalam,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,12552.867,0.051296999999999995,Saudi Arabia -  Electric motors of an output < 37.5 watts
+171,096,Brunei Darussalam,036,Australia,84, Nuclear reactors,12248.218,0.797018,Australia -  Nuclear reactors
+172,096,Brunei Darussalam,702,Singapore,39, Polyethylene - specific gravity <0.94 in primary form,12236.698,5.434982,Singapore -  Polyethylene - specific gravity <0.94 in primary form
+173,096,Brunei Darussalam,702,Singapore,33, Essential oils of bergamot,12183.437,1.166809,Singapore -  Essential oils of bergamot
+174,096,Brunei Darussalam,422,Lebanon,15," Lard, other pig fat and poultry fat, rendered",12079.445,16.911405,"Lebanon -  Lard, other pig fat and poultry fat, rendered"
+175,096,Brunei Darussalam,356,India,90," Optical fibres, except for telecommunications",12057.094,0.007776,"India -  Optical fibres, except for telecommunications"
+176,096,Brunei Darussalam,144,Sri Lanka,94," Seats, aircraft",11955.531,0.308209,"Sri Lanka -  Seats, aircraft"
+177,096,Brunei Darussalam,764,Thailand,63, Electric blankets of textile material,11872.75,2.719,Thailand -  Electric blankets of textile material
+178,096,Brunei Darussalam,392,Japan,84, Nuclear reactors,11759.781,0.01382,Japan -  Nuclear reactors
+179,096,Brunei Darussalam,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",11433.542,0.328692,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+180,096,Brunei Darussalam,764,Thailand,82, Spades and shovels,11144.785,2.915,Thailand -  Spades and shovels
+181,096,Brunei Darussalam,458,Malaysia,28, Chlorine,11143.828,13.979479,Malaysia -  Chlorine
+182,096,Brunei Darussalam,554,New Zealand,10, Durum wheat,11065.739,14.021327,New Zealand -  Durum wheat
+183,096,Brunei Darussalam,702,Singapore,19," Infant foods of cereals, flour, starch or milk, retai",11032.693,0.644034,"Singapore -  Infant foods of cereals, flour, starch or milk, retai"
+184,096,Brunei Darussalam,702,Singapore,83, Padlocks of base metal,10962.079,1.578468,Singapore -  Padlocks of base metal
+185,096,Brunei Darussalam,458,Malaysia,95," Rideable wheeled toys, dolls carriages",10894.815,6.730998,"Malaysia -  Rideable wheeled toys, dolls carriages"
+186,096,Brunei Darussalam,458,Malaysia,76," Aluminium unwrought, not alloyed",10756.064,15.268113,"Malaysia -  Aluminium unwrought, not alloyed"
+187,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,10240.063,1.205,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+188,096,Brunei Darussalam,690,Seychelles,94," Seats, aircraft",10066.243,20.70668,"Seychelles -  Seats, aircraft"
+189,096,Brunei Darussalam,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",9868.226,1.318312,"Malaysia -  Sausages, similar products of meat, meat offal & bloo"
+190,096,Brunei Darussalam,410,"Korea, Republic of",72," Pig iron, non-alloy, <0.5% phosphorus",9665.914,74.872946,"Korea, Republic of -  Pig iron, non-alloy, <0.5% phosphorus"
+191,096,Brunei Darussalam,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",9509.542,5.639267,"Malaysia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+192,096,Brunei Darussalam,344,"China, Hong Kong SAR",60," ""Long pile"" knit or crochet textile fabric",9316.455,1.060334,"China, Hong Kong SAR -  ""Long pile"" knit or crochet textile fabric"
+193,096,Brunei Darussalam,682,Saudi Arabia,84, Nuclear reactors,9087.932,0.115358,Saudi Arabia -  Nuclear reactors
+194,096,Brunei Darussalam,288,Ghana,84, Nuclear reactors,9022.426,0.456816,Ghana -  Nuclear reactors
+195,096,Brunei Darussalam,020,Andorra,64," Waterproof footwear (Wellingtons etc), metal toe cap",8725.022,0.23482499999999998,"Andorra -  Waterproof footwear (Wellingtons etc), metal toe cap"
+196,096,Brunei Darussalam,826,United Kingdom,85, Electric motors of an output < 37.5 watts,8609.03,0.07242900000000001,United Kingdom -  Electric motors of an output < 37.5 watts
+197,096,Brunei Darussalam,392,Japan,22, Mineral and aerated waters not sweetened or flavoured,8570.812,22.41347,Japan -  Mineral and aerated waters not sweetened or flavoured
+198,096,Brunei Darussalam,344,"China, Hong Kong SAR",40," Natural rubber latex, including prevulcanised",8537.827,10.988211999999999,"China, Hong Kong SAR -  Natural rubber latex, including prevulcanised"
+199,096,Brunei Darussalam,840,United States of America,90," Optical fibres, except for telecommunications",8534.332,0.101589,"United States of America -  Optical fibres, except for telecommunications"
+200,096,Brunei Darussalam,414,Kuwait,94," Seats, aircraft",8481.688,1.198,"Kuwait -  Seats, aircraft"
+201,096,Brunei Darussalam,702,Singapore,89," Cruise ships, excursion boats, ferry boats",8377.528,0.909884,"Singapore -  Cruise ships, excursion boats, ferry boats"
+202,096,Brunei Darussalam,826,United Kingdom,90," Optical fibres, except for telecommunications",8228.689,0.114113,"United Kingdom -  Optical fibres, except for telecommunications"
+203,096,Brunei Darussalam,840,United States of America,74, Copper mattes,8118.125,0.9727290000000001,United States of America -  Copper mattes
+204,096,Brunei Darussalam,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",8079.993,0.37814800000000004,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+205,096,Brunei Darussalam,608,Philippines,68," Stone setts, curbstones, flagstones (except slate)",7945.287,21.609593,"Philippines -  Stone setts, curbstones, flagstones (except slate)"
+206,096,Brunei Darussalam,400,Jordan,15," Lard, other pig fat and poultry fat, rendered",7873.401,12.336606,"Jordan -  Lard, other pig fat and poultry fat, rendered"
+207,096,Brunei Darussalam,764,Thailand,94," Seats, aircraft",7821.606,6.963,"Thailand -  Seats, aircraft"
+208,096,Brunei Darussalam,276,Germany,82, Spades and shovels,7816.555,0.032,Germany -  Spades and shovels
+209,096,Brunei Darussalam,840,United States of America,95," Rideable wheeled toys, dolls carriages",7716.05,1.231511,"United States of America -  Rideable wheeled toys, dolls carriages"
+210,096,Brunei Darussalam,818,Egypt,12, Soya beans,7409.037,2.127098,Egypt -  Soya beans
+211,096,Brunei Darussalam,392,Japan,92," Upright pianos, including auto-players",7371.882,0.027941,"Japan -  Upright pianos, including auto-players"
+212,096,Brunei Darussalam,392,Japan,74, Copper mattes,7206.186,1.898738,Japan -  Copper mattes
+213,096,Brunei Darussalam,626,Timor-Leste,29, Saturated acyclic hydrocarbons,7071.106,4.766234000000001,Timor-Leste -  Saturated acyclic hydrocarbons
+214,096,Brunei Darussalam,104,Myanmar,38, Artificial graphite,6974.927,13.529,Myanmar -  Artificial graphite
+215,096,Brunei Darussalam,702,Singapore,40," Natural rubber latex, including prevulcanised",6972.532,1.72892,"Singapore -  Natural rubber latex, including prevulcanised"
+216,096,Brunei Darussalam,404,Kenya,84, Nuclear reactors,6884.302,0.141952,Kenya -  Nuclear reactors
+217,096,Brunei Darussalam,410,"Korea, Republic of",74, Copper mattes,6839.662,1.953303,"Korea, Republic of -  Copper mattes"
+218,096,Brunei Darussalam,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",6818.01,0.507564,"Malaysia -  Mens, boys overcoats of wool or hair, not knit"
+219,096,Brunei Darussalam,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,6741.706,0.639625,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+220,096,Brunei Darussalam,156,China,33, Essential oils of bergamot,6718.986,0.309488,China -  Essential oils of bergamot
+221,096,Brunei Darussalam,608,Philippines,33, Essential oils of bergamot,6704.734,0.364144,Philippines -  Essential oils of bergamot
+222,096,Brunei Darussalam,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",6623.029,0.002684,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+223,096,Brunei Darussalam,156,China,19," Infant foods of cereals, flour, starch or milk, retai",6446.415,1.650941,"China -  Infant foods of cereals, flour, starch or milk, retai"
+224,096,Brunei Darussalam,826,United Kingdom,86," Rail locomotives, externally electrically powered",6352.928,0.318202,"United Kingdom -  Rail locomotives, externally electrically powered"
+225,096,Brunei Darussalam,246,Finland,61," Mens, boys overcoats, etc, of wool or hair, knit",6248.999,0.053031,"Finland -  Mens, boys overcoats, etc, of wool or hair, knit"
+226,096,Brunei Darussalam,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,6214.519,1.105355,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+227,096,Brunei Darussalam,466,Mali,32, Quebracho tanning extract,6161.934,1.0564559999999998,Mali -  Quebracho tanning extract
+228,096,Brunei Darussalam,360,Indonesia,85, Electric motors of an output < 37.5 watts,5804.608,18.45141,Indonesia -  Electric motors of an output < 37.5 watts
+229,096,Brunei Darussalam,120,Cameroon,87, Pedestrian controlled tractors,5612.452,21.628329,Cameroon -  Pedestrian controlled tractors
+230,096,Brunei Darussalam,376,Israel,95," Rideable wheeled toys, dolls carriages",5487.29,0.346982,"Israel -  Rideable wheeled toys, dolls carriages"
+231,096,Brunei Darussalam,356,India,44, Fuel wood,5473.712,9.990775,India -  Fuel wood
+232,096,Brunei Darussalam,276,Germany,42," Saddlery and harness, of any material",5462.449,0.285,"Germany -  Saddlery and harness, of any material"
+233,096,Brunei Darussalam,784,United Arab Emirates,84, Nuclear reactors,5289.052,0.166116,United Arab Emirates -  Nuclear reactors
+234,096,Brunei Darussalam,414,Kuwait,71," Pearls natural, not permanently mounted or set",5270.9,0.001234,"Kuwait -  Pearls natural, not permanently mounted or set"
+235,096,Brunei Darussalam,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",5258.964,0.695919,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+236,096,Brunei Darussalam,682,Saudi Arabia,33, Essential oils of bergamot,5142.057,3.2965169999999997,Saudi Arabia -  Essential oils of bergamot
+237,096,Brunei Darussalam,051,Armenia,64," Waterproof footwear (Wellingtons etc), metal toe cap",5013.398,0.0861,"Armenia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+238,096,Brunei Darussalam,156,China,21," Coffee extracts, essences, concentrates, preparations",4830.511,1.233352,"China -  Coffee extracts, essences, concentrates, preparations"
+239,096,Brunei Darussalam,156,China,16," Sausages, similar products of meat, meat offal & bloo",4830.396,0.653086,"China -  Sausages, similar products of meat, meat offal & bloo"
+240,096,Brunei Darussalam,608,Philippines,85, Electric motors of an output < 37.5 watts,4701.594,0.514965,Philippines -  Electric motors of an output < 37.5 watts
+241,096,Brunei Darussalam,060,Bermuda,38, Artificial graphite,4560.739,0.041109,Bermuda -  Artificial graphite
+242,096,Brunei Darussalam,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",4543.551,0.24206899999999998,"Malaysia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+243,096,Brunei Darussalam,608,Philippines,83, Padlocks of base metal,4539.05,1.3961700000000001,Philippines -  Padlocks of base metal
+244,096,Brunei Darussalam,784,United Arab Emirates,95," Rideable wheeled toys, dolls carriages",4464.373,2.6295770000000003,"United Arab Emirates -  Rideable wheeled toys, dolls carriages"
+245,096,Brunei Darussalam,392,Japan,28, Chlorine,4416.473,19.903658,Japan -  Chlorine
+246,096,Brunei Darussalam,752,Sweden,84, Nuclear reactors,4335.976,0.012942,Sweden -  Nuclear reactors
+247,096,Brunei Darussalam,270,Gambia,87, Pedestrian controlled tractors,4204.406,6.0,Gambia -  Pedestrian controlled tractors
+248,096,Brunei Darussalam,702,Singapore,12, Soya beans,4187.194,0.098238,Singapore -  Soya beans
+249,096,Brunei Darussalam,826,United Kingdom,63, Electric blankets of textile material,4154.885,0.7237680000000001,United Kingdom -  Electric blankets of textile material
+250,096,Brunei Darussalam,144,Sri Lanka,52," Cotton, not carded or combed",3991.346,0.205977,"Sri Lanka -  Cotton, not carded or combed"
+251,096,Brunei Darussalam,214,Dominican Republic,40," Natural rubber latex, including prevulcanised",3987.0,0.10862000000000001,"Dominican Republic -  Natural rubber latex, including prevulcanised"
+252,096,Brunei Darussalam,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",3953.904,2.324831,"Malaysia -  Cruise ships, excursion boats, ferry boats"
+253,096,Brunei Darussalam,702,Singapore,94," Seats, aircraft",3939.285,0.382179,"Singapore -  Seats, aircraft"
+254,096,Brunei Darussalam,608,Philippines,39, Polyethylene - specific gravity <0.94 in primary form,3874.844,0.292173,Philippines -  Polyethylene - specific gravity <0.94 in primary form
+255,096,Brunei Darussalam,586,Pakistan,02," Bovine carcasses and half carcasses, fresh or chilled",3744.741,0.885289,"Pakistan -  Bovine carcasses and half carcasses, fresh or chilled"
+256,096,Brunei Darussalam,191,Croatia,85, Electric motors of an output < 37.5 watts,3629.41,1.281857,Croatia -  Electric motors of an output < 37.5 watts
+257,096,Brunei Darussalam,246,Finland,85, Electric motors of an output < 37.5 watts,3531.618,0.006,Finland -  Electric motors of an output < 37.5 watts
+258,096,Brunei Darussalam,348,Hungary,95," Rideable wheeled toys, dolls carriages",3524.829,1.438059,"Hungary -  Rideable wheeled toys, dolls carriages"
+259,096,Brunei Darussalam,702,Singapore,20," Cucumbers,gherkins, prepared or preserved by vinegar",3464.364,0.139579,"Singapore -  Cucumbers,gherkins, prepared or preserved by vinegar"
+260,096,Brunei Darussalam,344,"China, Hong Kong SAR",84, Nuclear reactors,3382.904,6.149356,"China, Hong Kong SAR -  Nuclear reactors"
+261,096,Brunei Darussalam,764,Thailand,44, Fuel wood,3348.77,0.612,Thailand -  Fuel wood
+262,096,Brunei Darussalam,380,Italy,52," Cotton, not carded or combed",3034.359,0.210917,"Italy -  Cotton, not carded or combed"
+263,096,Brunei Darussalam,616,Poland,64," Waterproof footwear (Wellingtons etc), metal toe cap",2919.769,0.08069799999999999,"Poland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+264,096,Brunei Darussalam,702,Singapore,56," Sanitary towels, diapers and similar articles",2910.483,0.378106,"Singapore -  Sanitary towels, diapers and similar articles"
+265,096,Brunei Darussalam,344,"China, Hong Kong SAR",39, Polyethylene - specific gravity <0.94 in primary form,2846.187,1.05176,"China, Hong Kong SAR -  Polyethylene - specific gravity <0.94 in primary form"
+266,096,Brunei Darussalam,826,United Kingdom,71," Pearls natural, not permanently mounted or set",2832.67,0.096791,"United Kingdom -  Pearls natural, not permanently mounted or set"
+267,096,Brunei Darussalam,250,France,73, Sheet piling of iron or steel,2825.622,0.380341,France -  Sheet piling of iron or steel
+268,096,Brunei Darussalam,764,Thailand,25," Salt (sodium chloride) including solution, salt water",2814.212,21.6,"Thailand -  Salt (sodium chloride) including solution, salt water"
+269,096,Brunei Darussalam,512,Oman,25," Salt (sodium chloride) including solution, salt water",2806.288,4.552319000000001,"Oman -  Salt (sodium chloride) including solution, salt water"
+270,096,Brunei Darussalam,360,Indonesia,40," Natural rubber latex, including prevulcanised",2787.128,0.210982,"Indonesia -  Natural rubber latex, including prevulcanised"
+271,096,Brunei Darussalam,156,China,72," Pig iron, non-alloy, <0.5% phosphorus",2777.089,4.74973,"China -  Pig iron, non-alloy, <0.5% phosphorus"
+272,096,Brunei Darussalam,458,Malaysia,96," Worked ivory, articles of ivory",2759.582,0.743297,"Malaysia -  Worked ivory, articles of ivory"
+273,096,Brunei Darussalam,458,Malaysia,82, Spades and shovels,2752.644,5.3329960000000005,Malaysia -  Spades and shovels
+274,096,Brunei Darussalam,180,"Congo, Dem. Rep. of the",85, Electric motors of an output < 37.5 watts,2700.723,4.673857,"Congo, Dem. Rep. of the -  Electric motors of an output < 37.5 watts"
+275,096,Brunei Darussalam,682,Saudi Arabia,30," Glands and other organs, dried, for therapeutic uses",2675.112,0.124974,"Saudi Arabia -  Glands and other organs, dried, for therapeutic uses"
+276,096,Brunei Darussalam,466,Mali,84, Nuclear reactors,2667.546,0.08058,Mali -  Nuclear reactors
+277,096,Brunei Darussalam,554,New Zealand,87, Pedestrian controlled tractors,2580.723,0.11475199999999999,New Zealand -  Pedestrian controlled tractors
+278,096,Brunei Darussalam,156,China,95," Rideable wheeled toys, dolls carriages",2561.395,0.004556,"China -  Rideable wheeled toys, dolls carriages"
+279,096,Brunei Darussalam,764,Thailand,28, Chlorine,2486.096,13.05,Thailand -  Chlorine
+280,096,Brunei Darussalam,792,Türkiye,85, Electric motors of an output < 37.5 watts,2465.045,0.006475,Türkiye -  Electric motors of an output < 37.5 watts
+281,096,Brunei Darussalam,818,Egypt,95," Rideable wheeled toys, dolls carriages",2450.187,0.12987,"Egypt -  Rideable wheeled toys, dolls carriages"
+282,096,Brunei Darussalam,344,"China, Hong Kong SAR",88," Gliders, hang gliders",2436.044,0.6349389999999999,"China, Hong Kong SAR -  Gliders, hang gliders"
+283,096,Brunei Darussalam,410,"Korea, Republic of",33, Essential oils of bergamot,2414.828,0.033027,"Korea, Republic of -  Essential oils of bergamot"
+284,096,Brunei Darussalam,380,Italy,39, Polyethylene - specific gravity <0.94 in primary form,2414.696,0.092921,Italy -  Polyethylene - specific gravity <0.94 in primary form
+285,096,Brunei Darussalam,764,Thailand,39, Polyethylene - specific gravity <0.94 in primary form,2403.712,26.308,Thailand -  Polyethylene - specific gravity <0.94 in primary form
+286,096,Brunei Darussalam,528,Netherlands (Kingdom of the),87, Pedestrian controlled tractors,2403.595,0.342156,Netherlands (Kingdom of the) -  Pedestrian controlled tractors
+287,096,Brunei Darussalam,203,Czechia,62," Mens, boys overcoats of wool or hair, not knit",2402.0,0.038,"Czechia -  Mens, boys overcoats of wool or hair, not knit"
+288,096,Brunei Darussalam,360,Indonesia,28, Chlorine,2256.898,0.128805,Indonesia -  Chlorine
+289,096,Brunei Darussalam,764,Thailand,95," Rideable wheeled toys, dolls carriages",2227.558,0.4,"Thailand -  Rideable wheeled toys, dolls carriages"
+290,096,Brunei Darussalam,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,2187.694,2.736864,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+291,096,Brunei Darussalam,056,Belgium,85, Electric motors of an output < 37.5 watts,2186.89,0.041191000000000005,Belgium -  Electric motors of an output < 37.5 watts
+292,096,Brunei Darussalam,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",2177.179,0.040178,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+293,096,Brunei Darussalam,686,Senegal,21," Coffee extracts, essences, concentrates, preparations",2166.449,0.7393,"Senegal -  Coffee extracts, essences, concentrates, preparations"
+294,096,Brunei Darussalam,764,Thailand,62," Mens, boys overcoats of wool or hair, not knit",2144.796,0.61,"Thailand -  Mens, boys overcoats of wool or hair, not knit"
+295,096,Brunei Darussalam,764,Thailand,90," Optical fibres, except for telecommunications",2139.417,0.057871,"Thailand -  Optical fibres, except for telecommunications"
+296,096,Brunei Darussalam,156,China,08," Coconuts, fresh or dried",2119.513,0.27230200000000004,"China -  Coconuts, fresh or dried"
+297,096,Brunei Darussalam,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",2081.555,0.245763,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+298,096,Brunei Darussalam,208,Denmark,85, Electric motors of an output < 37.5 watts,2080.936,0.005031,Denmark -  Electric motors of an output < 37.5 watts
+299,096,Brunei Darussalam,704,Viet Nam,63, Electric blankets of textile material,2061.503,0.72687,Viet Nam -  Electric blankets of textile material
+300,096,Brunei Darussalam,608,Philippines,88," Gliders, hang gliders",2031.369,0.048073,"Philippines -  Gliders, hang gliders"
+301,096,Brunei Darussalam,250,France,84, Nuclear reactors,2018.245,0.32941699999999996,France -  Nuclear reactors
+302,096,Brunei Darussalam,784,United Arab Emirates,64," Waterproof footwear (Wellingtons etc), metal toe cap",1994.199,0.137762,"United Arab Emirates -  Waterproof footwear (Wellingtons etc), metal toe cap"
+303,096,Brunei Darussalam,724,Spain,61," Mens, boys overcoats, etc, of wool or hair, knit",1986.954,0.036093,"Spain -  Mens, boys overcoats, etc, of wool or hair, knit"
+304,096,Brunei Darussalam,586,Pakistan,84, Nuclear reactors,1985.145,0.160091,Pakistan -  Nuclear reactors
+305,096,Brunei Darussalam,704,Viet Nam,90," Optical fibres, except for telecommunications",1934.791,0.041579,"Viet Nam -  Optical fibres, except for telecommunications"
+306,096,Brunei Darussalam,208,Denmark,94," Seats, aircraft",1819.877,0.154554,"Denmark -  Seats, aircraft"
+307,096,Brunei Darussalam,554,New Zealand,84, Nuclear reactors,1795.914,0.139932,New Zealand -  Nuclear reactors
+308,096,Brunei Darussalam,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,1764.754,0.019288,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+309,096,Brunei Darussalam,156,China,90," Optical fibres, except for telecommunications",1747.968,0.376282,"China -  Optical fibres, except for telecommunications"
+310,096,Brunei Darussalam,442,Luxembourg,82, Spades and shovels,1730.234,0.18109999999999998,Luxembourg -  Spades and shovels
+311,096,Brunei Darussalam,682,Saudi Arabia,73, Sheet piling of iron or steel,1720.982,0.031091999999999998,Saudi Arabia -  Sheet piling of iron or steel
+312,096,Brunei Darussalam,442,Luxembourg,39, Polyethylene - specific gravity <0.94 in primary form,1697.711,0.211,Luxembourg -  Polyethylene - specific gravity <0.94 in primary form
+313,096,Brunei Darussalam,458,Malaysia,02," Bovine carcasses and half carcasses, fresh or chilled",1659.506,95.074607,"Malaysia -  Bovine carcasses and half carcasses, fresh or chilled"
+314,096,Brunei Darussalam,174,Comoros,94," Seats, aircraft",1642.545,1.34,"Comoros -  Seats, aircraft"
+315,096,Brunei Darussalam,076,Brazil,76," Aluminium unwrought, not alloyed",1640.0,1.348,"Brazil -  Aluminium unwrought, not alloyed"
+316,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,1638.394,0.134,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+317,096,Brunei Darussalam,384,Côte d'Ivoire,48, Newsprint,1634.02,0.154,Côte d'Ivoire -  Newsprint
+318,096,Brunei Darussalam,702,Singapore,68," Stone setts, curbstones, flagstones (except slate)",1612.646,1.248669,"Singapore -  Stone setts, curbstones, flagstones (except slate)"
+319,096,Brunei Darussalam,702,Singapore,92," Upright pianos, including auto-players",1612.433,0.04292,"Singapore -  Upright pianos, including auto-players"
+320,096,Brunei Darussalam,203,Czechia,84, Nuclear reactors,1546.073,0.001,Czechia -  Nuclear reactors
+321,096,Brunei Darussalam,458,Malaysia,42," Saddlery and harness, of any material",1538.651,0.696491,"Malaysia -  Saddlery and harness, of any material"
+322,096,Brunei Darussalam,104,Myanmar,42," Saddlery and harness, of any material",1494.915,0.007195,"Myanmar -  Saddlery and harness, of any material"
+323,096,Brunei Darussalam,702,Singapore,38, Artificial graphite,1463.533,0.019234,Singapore -  Artificial graphite
+324,096,Brunei Darussalam,566,Nigeria,69," Bricks, blocks and ceramic goods of siliceous earths",1434.643,28.497,"Nigeria -  Bricks, blocks and ceramic goods of siliceous earths"
+325,096,Brunei Darussalam,682,Saudi Arabia,90," Optical fibres, except for telecommunications",1430.92,0.004423,"Saudi Arabia -  Optical fibres, except for telecommunications"
+326,096,Brunei Darussalam,276,Germany,85, Electric motors of an output < 37.5 watts,1428.741,0.004,Germany -  Electric motors of an output < 37.5 watts
+327,096,Brunei Darussalam,784,United Arab Emirates,57," Carpets of wool or fine animal hair, knotted",1415.218,1.260122,"United Arab Emirates -  Carpets of wool or fine animal hair, knotted"
+328,096,Brunei Darussalam,764,Thailand,21," Coffee extracts, essences, concentrates, preparations",1405.065,0.38,"Thailand -  Coffee extracts, essences, concentrates, preparations"
+329,096,Brunei Darussalam,702,Singapore,87, Pedestrian controlled tractors,1370.173,0.181892,Singapore -  Pedestrian controlled tractors
+330,096,Brunei Darussalam,174,Comoros,11, Wheat or meslin flour,1303.386,3.14,Comoros -  Wheat or meslin flour
+331,096,Brunei Darussalam,764,Thailand,49," Brochures, leaflets and similar, in single sheets",1302.612,0.577,"Thailand -  Brochures, leaflets and similar, in single sheets"
+332,096,Brunei Darussalam,764,Thailand,73, Sheet piling of iron or steel,1287.991,0.843,Thailand -  Sheet piling of iron or steel
+333,096,Brunei Darussalam,682,Saudi Arabia,61," Mens, boys overcoats, etc, of wool or hair, knit",1256.315,0.16572499999999998,"Saudi Arabia -  Mens, boys overcoats, etc, of wool or hair, knit"
+334,096,Brunei Darussalam,242,Fiji,29, Saturated acyclic hydrocarbons,1242.236,0.6462559999999999,Fiji -  Saturated acyclic hydrocarbons
+335,096,Brunei Darussalam,276,Germany,33, Essential oils of bergamot,1240.298,0.15,Germany -  Essential oils of bergamot
+336,096,Brunei Darussalam,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",1228.068,0.233488,"Malaysia -  Mens, boys overcoats, etc, of wool or hair, knit"
+337,096,Brunei Darussalam,458,Malaysia,78, Lead refined unwrought,1226.21,0.486947,Malaysia -  Lead refined unwrought
+338,096,Brunei Darussalam,804,Ukraine,64," Waterproof footwear (Wellingtons etc), metal toe cap",1224.45,0.064116,"Ukraine -  Waterproof footwear (Wellingtons etc), metal toe cap"
+339,096,Brunei Darussalam,704,Viet Nam,84, Nuclear reactors,1218.577,0.116931,Viet Nam -  Nuclear reactors
+340,096,Brunei Darussalam,608,Philippines,61," Mens, boys overcoats, etc, of wool or hair, knit",1201.374,0.056018,"Philippines -  Mens, boys overcoats, etc, of wool or hair, knit"
+341,096,Brunei Darussalam,360,Indonesia,48, Newsprint,1198.704,0.159047,Indonesia -  Newsprint
+342,096,Brunei Darussalam,392,Japan,38, Artificial graphite,1191.385,0.001917,Japan -  Artificial graphite
+343,096,Brunei Darussalam,208,Denmark,90," Optical fibres, except for telecommunications",1166.875,0.008271,"Denmark -  Optical fibres, except for telecommunications"
+344,096,Brunei Darussalam,826,United Kingdom,89," Cruise ships, excursion boats, ferry boats",1135.36,0.036885,"United Kingdom -  Cruise ships, excursion boats, ferry boats"
+345,096,Brunei Darussalam,702,Singapore,61," Mens, boys overcoats, etc, of wool or hair, knit",1133.674,0.044738,"Singapore -  Mens, boys overcoats, etc, of wool or hair, knit"
+346,096,Brunei Darussalam,703,Slovakia,61," Mens, boys overcoats, etc, of wool or hair, knit",1121.157,0.164,"Slovakia -  Mens, boys overcoats, etc, of wool or hair, knit"
+347,096,Brunei Darussalam,156,China,62," Mens, boys overcoats of wool or hair, not knit",1111.334,0.023566,"China -  Mens, boys overcoats of wool or hair, not knit"
+348,096,Brunei Darussalam,458,Malaysia,67," Bird skins and feathers, articles therefrom",1095.115,0.282587,"Malaysia -  Bird skins and feathers, articles therefrom"
+349,096,Brunei Darussalam,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",1089.227,2.450101,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+350,096,Brunei Darussalam,156,China,39, Polyethylene - specific gravity <0.94 in primary form,1062.774,0.08585,China -  Polyethylene - specific gravity <0.94 in primary form
+351,096,Brunei Darussalam,048,Bahrain,62," Mens, boys overcoats of wool or hair, not knit",1060.352,0.626679,"Bahrain -  Mens, boys overcoats of wool or hair, not knit"
+352,096,Brunei Darussalam,203,Czechia,64," Waterproof footwear (Wellingtons etc), metal toe cap",1048.0,0.056,"Czechia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+353,096,Brunei Darussalam,826,United Kingdom,83, Padlocks of base metal,1040.318,0.003169,United Kingdom -  Padlocks of base metal
+354,096,Brunei Darussalam,174,Comoros,87, Pedestrian controlled tractors,1034.725,0.105,Comoros -  Pedestrian controlled tractors
+355,096,Brunei Darussalam,690,Seychelles,91," Wrist-watch, precious metal, battery, with hands",1030.501,4.40332,"Seychelles -  Wrist-watch, precious metal, battery, with hands"
+356,096,Brunei Darussalam,246,Finland,03," Ornamental fish, live",1019.008,0.09,"Finland -  Ornamental fish, live"
+357,096,Brunei Darussalam,414,Kuwait,90," Optical fibres, except for telecommunications",1018.416,0.006053,"Kuwait -  Optical fibres, except for telecommunications"
+358,096,Brunei Darussalam,528,Netherlands (Kingdom of the),61," Mens, boys overcoats, etc, of wool or hair, knit",1002.95,0.42497199999999996,"Netherlands (Kingdom of the) -  Mens, boys overcoats, etc, of wool or hair, knit"
+359,096,Brunei Darussalam,410,"Korea, Republic of",63, Electric blankets of textile material,986.268,1.169681,"Korea, Republic of -  Electric blankets of textile material"
+360,096,Brunei Darussalam,360,Indonesia,49," Brochures, leaflets and similar, in single sheets",962.934,0.196439,"Indonesia -  Brochures, leaflets and similar, in single sheets"
+361,096,Brunei Darussalam,616,Poland,84, Nuclear reactors,947.325,0.002543,Poland -  Nuclear reactors
+362,096,Brunei Darussalam,288,Ghana,94," Seats, aircraft",942.833,1.3070920000000001,"Ghana -  Seats, aircraft"
+363,096,Brunei Darussalam,414,Kuwait,84, Nuclear reactors,931.953,0.0028380000000000002,Kuwait -  Nuclear reactors
+364,096,Brunei Darussalam,466,Mali,39, Polyethylene - specific gravity <0.94 in primary form,931.154,0.006252,Mali -  Polyethylene - specific gravity <0.94 in primary form
+365,096,Brunei Darussalam,702,Singapore,34," Soaps, for toilet use, solid",923.635,0.869139,"Singapore -  Soaps, for toilet use, solid"
+366,096,Brunei Darussalam,458,Malaysia,57," Carpets of wool or fine animal hair, knotted",920.974,0.320517,"Malaysia -  Carpets of wool or fine animal hair, knotted"
+367,096,Brunei Darussalam,646,Rwanda,69," Bricks, blocks and ceramic goods of siliceous earths",892.422,1.461683,"Rwanda -  Bricks, blocks and ceramic goods of siliceous earths"
+368,096,Brunei Darussalam,834,"Tanzania, United Republic of",49," Brochures, leaflets and similar, in single sheets",889.847,0.040792,"Tanzania, United Republic of -  Brochures, leaflets and similar, in single sheets"
+369,096,Brunei Darussalam,702,Singapore,78, Lead refined unwrought,885.154,0.539042,Singapore -  Lead refined unwrought
+370,096,Brunei Darussalam,203,Czechia,61," Mens, boys overcoats, etc, of wool or hair, knit",884.0,0.032,"Czechia -  Mens, boys overcoats, etc, of wool or hair, knit"
+371,096,Brunei Darussalam,246,Finland,63, Electric blankets of textile material,881.17,0.03,Finland -  Electric blankets of textile material
+372,096,Brunei Darussalam,826,United Kingdom,48, Newsprint,878.213,0.000857,United Kingdom -  Newsprint
+373,096,Brunei Darussalam,040,Austria,85, Electric motors of an output < 37.5 watts,870.244,0.017288,Austria -  Electric motors of an output < 37.5 watts
+374,096,Brunei Darussalam,410,"Korea, Republic of",95," Rideable wheeled toys, dolls carriages",869.914,0.012962,"Korea, Republic of -  Rideable wheeled toys, dolls carriages"
+375,096,Brunei Darussalam,156,China,84, Nuclear reactors,853.003,0.067592,China -  Nuclear reactors
+376,096,Brunei Darussalam,156,China,49," Brochures, leaflets and similar, in single sheets",848.77,0.042908999999999996,"China -  Brochures, leaflets and similar, in single sheets"
+377,096,Brunei Darussalam,360,Indonesia,76," Aluminium unwrought, not alloyed",839.855,0.076311,"Indonesia -  Aluminium unwrought, not alloyed"
+378,096,Brunei Darussalam,818,Egypt,46, Plaits and products of plaiting materials,837.18,0.205844,Egypt -  Plaits and products of plaiting materials
+379,096,Brunei Darussalam,608,Philippines,48, Newsprint,836.945,0.110526,Philippines -  Newsprint
+380,096,Brunei Darussalam,250,France,85, Electric motors of an output < 37.5 watts,805.414,0.019486,France -  Electric motors of an output < 37.5 watts
+381,096,Brunei Darussalam,578,Norway,84, Nuclear reactors,805.232,0.0066159999999999995,Norway -  Nuclear reactors
+382,096,Brunei Darussalam,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",803.769,0.539411,"Malaysia -  Stone setts, curbstones, flagstones (except slate)"
+383,096,Brunei Darussalam,608,Philippines,35, Casein,797.819,0.598413,Philippines -  Casein
+384,096,Brunei Darussalam,360,Indonesia,90," Optical fibres, except for telecommunications",796.35,0.217909,"Indonesia -  Optical fibres, except for telecommunications"
+385,096,Brunei Darussalam,458,Malaysia,83, Padlocks of base metal,784.504,0.20736000000000002,Malaysia -  Padlocks of base metal
+386,096,Brunei Darussalam,826,United Kingdom,91," Wrist-watch, precious metal, battery, with hands",781.688,0.043542000000000004,"United Kingdom -  Wrist-watch, precious metal, battery, with hands"
+387,096,Brunei Darussalam,804,Ukraine,08," Coconuts, fresh or dried",773.98,1.030703,"Ukraine -  Coconuts, fresh or dried"
+388,096,Brunei Darussalam,704,Viet Nam,68," Stone setts, curbstones, flagstones (except slate)",767.086,0.8543229999999999,"Viet Nam -  Stone setts, curbstones, flagstones (except slate)"
+389,096,Brunei Darussalam,250,France,42," Saddlery and harness, of any material",762.475,0.046744999999999995,"France -  Saddlery and harness, of any material"
+390,096,Brunei Darussalam,344,"China, Hong Kong SAR",42," Saddlery and harness, of any material",762.058,0.001288,"China, Hong Kong SAR -  Saddlery and harness, of any material"
+391,096,Brunei Darussalam,608,Philippines,87, Pedestrian controlled tractors,756.601,0.571765,Philippines -  Pedestrian controlled tractors
+392,096,Brunei Darussalam,703,Slovakia,83, Padlocks of base metal,752.946,0.01,Slovakia -  Padlocks of base metal
+393,096,Brunei Darussalam,784,United Arab Emirates,82, Spades and shovels,744.91,0.053380000000000004,United Arab Emirates -  Spades and shovels
+394,096,Brunei Darussalam,242,Fiji,90," Optical fibres, except for telecommunications",742.153,0.003074,"Fiji -  Optical fibres, except for telecommunications"
+395,096,Brunei Darussalam,104,Myanmar,44, Fuel wood,734.881,0.9,Myanmar -  Fuel wood
+396,096,Brunei Darussalam,180,"Congo, Dem. Rep. of the",18," Cocoa beans, whole or broken, raw or roasted",722.53,0.36,"Congo, Dem. Rep. of the -  Cocoa beans, whole or broken, raw or roasted"
+397,096,Brunei Darussalam,702,Singapore,42," Saddlery and harness, of any material",710.222,0.06286,"Singapore -  Saddlery and harness, of any material"
+398,096,Brunei Darussalam,466,Mali,85, Electric motors of an output < 37.5 watts,698.522,0.012294000000000001,Mali -  Electric motors of an output < 37.5 watts
+399,096,Brunei Darussalam,052,Barbados,30," Glands and other organs, dried, for therapeutic uses",693.685,0.0026160000000000003,"Barbados -  Glands and other organs, dried, for therapeutic uses"
+400,096,Brunei Darussalam,418,Lao People's Dem. Rep.,69," Bricks, blocks and ceramic goods of siliceous earths",693.081,0.320328,"Lao People's Dem. Rep. -  Bricks, blocks and ceramic goods of siliceous earths"
+401,096,Brunei Darussalam,040,Austria,09," Coffee, not roasted, not decaffeinated",692.188,0.115307,"Austria -  Coffee, not roasted, not decaffeinated"
+402,096,Brunei Darussalam,764,Thailand,92," Upright pianos, including auto-players",689.699,0.055,"Thailand -  Upright pianos, including auto-players"
+403,096,Brunei Darussalam,104,Myanmar,39, Polyethylene - specific gravity <0.94 in primary form,689.341,1.1744400000000002,Myanmar -  Polyethylene - specific gravity <0.94 in primary form
+404,096,Brunei Darussalam,246,Finland,64," Waterproof footwear (Wellingtons etc), metal toe cap",679.305,0.01,"Finland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+405,096,Brunei Darussalam,156,China,70," Glass cullet, waste or scrap, glass in the mass",676.197,0.14510499999999998,"China -  Glass cullet, waste or scrap, glass in the mass"
+406,096,Brunei Darussalam,380,Italy,90," Optical fibres, except for telecommunications",662.096,0.012695999999999999,"Italy -  Optical fibres, except for telecommunications"
+407,096,Brunei Darussalam,792,Türkiye,42," Saddlery and harness, of any material",644.0,0.006,"Türkiye -  Saddlery and harness, of any material"
+408,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",87, Pedestrian controlled tractors,643.96,0.013,"Switzerland, Liechtenstein -  Pedestrian controlled tractors"
+409,096,Brunei Darussalam,764,Thailand,68," Stone setts, curbstones, flagstones (except slate)",639.225,0.709561,"Thailand -  Stone setts, curbstones, flagstones (except slate)"
+410,096,Brunei Darussalam,156,China,04, Milk not concentrated nor sweetened < 1% fat,634.3,0.121354,China -  Milk not concentrated nor sweetened < 1% fat
+411,096,Brunei Darussalam,380,Italy,85, Electric motors of an output < 37.5 watts,626.678,0.043909,Italy -  Electric motors of an output < 37.5 watts
+412,096,Brunei Darussalam,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",616.792,2.357138,"Malaysia -  Salt (sodium chloride) including solution, salt water"
+413,096,Brunei Darussalam,834,"Tanzania, United Republic of",39, Polyethylene - specific gravity <0.94 in primary form,604.863,0.048597,"Tanzania, United Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+414,096,Brunei Darussalam,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",603.49,0.847425,"Malaysia -  Lard, other pig fat and poultry fat, rendered"
+415,096,Brunei Darussalam,360,Indonesia,19," Infant foods of cereals, flour, starch or milk, retai",601.584,0.061083,"Indonesia -  Infant foods of cereals, flour, starch or milk, retai"
+416,096,Brunei Darussalam,480,Mauritius,73, Sheet piling of iron or steel,591.415,0.014,Mauritius -  Sheet piling of iron or steel
+417,096,Brunei Darussalam,608,Philippines,82, Spades and shovels,583.127,0.093212,Philippines -  Spades and shovels
+418,096,Brunei Darussalam,372,Ireland,61," Mens, boys overcoats, etc, of wool or hair, knit",581.557,0.007646,"Ireland -  Mens, boys overcoats, etc, of wool or hair, knit"
+419,096,Brunei Darussalam,643,Russian Federation,62," Mens, boys overcoats of wool or hair, not knit",579.872,0.020755,"Russian Federation -  Mens, boys overcoats of wool or hair, not knit"
+420,096,Brunei Darussalam,566,Nigeria,63, Electric blankets of textile material,573.619,12.521,Nigeria -  Electric blankets of textile material
+421,096,Brunei Darussalam,156,China,34," Soaps, for toilet use, solid",567.433,0.124607,"China -  Soaps, for toilet use, solid"
+422,096,Brunei Darussalam,826,United Kingdom,30," Glands and other organs, dried, for therapeutic uses",557.713,0.018497,"United Kingdom -  Glands and other organs, dried, for therapeutic uses"
+423,096,Brunei Darussalam,156,China,58," Woven pile fabric of wool or fine animal hair, w >30c",550.473,0.055022,"China -  Woven pile fabric of wool or fine animal hair, w >30c"
+424,096,Brunei Darussalam,764,Thailand,22, Mineral and aerated waters not sweetened or flavoured,538.995,0.477,Thailand -  Mineral and aerated waters not sweetened or flavoured
+425,096,Brunei Darussalam,242,Fiji,20," Cucumbers,gherkins, prepared or preserved by vinegar",536.856,0.255014,"Fiji -  Cucumbers,gherkins, prepared or preserved by vinegar"
+426,096,Brunei Darussalam,104,Myanmar,62," Mens, boys overcoats of wool or hair, not knit",524.975,0.043996,"Myanmar -  Mens, boys overcoats of wool or hair, not knit"
+427,096,Brunei Darussalam,174,Comoros,62," Mens, boys overcoats of wool or hair, not knit",518.709,0.15,"Comoros -  Mens, boys overcoats of wool or hair, not knit"
+428,096,Brunei Darussalam,156,China,48, Newsprint,517.866,0.162108,China -  Newsprint
+429,096,Brunei Darussalam,458,Malaysia,29, Saturated acyclic hydrocarbons,515.537,0.19987200000000002,Malaysia -  Saturated acyclic hydrocarbons
+430,096,Brunei Darussalam,356,India,40," Natural rubber latex, including prevulcanised",510.554,0.015224,"India -  Natural rubber latex, including prevulcanised"
+431,096,Brunei Darussalam,174,Comoros,33, Essential oils of bergamot,510.031,0.18,Comoros -  Essential oils of bergamot
+432,096,Brunei Darussalam,422,Lebanon,61," Mens, boys overcoats, etc, of wool or hair, knit",506.409,0.017079999999999998,"Lebanon -  Mens, boys overcoats, etc, of wool or hair, knit"
+433,096,Brunei Darussalam,348,Hungary,70," Glass cullet, waste or scrap, glass in the mass",498.878,0.018,"Hungary -  Glass cullet, waste or scrap, glass in the mass"
+434,096,Brunei Darussalam,682,Saudi Arabia,76," Aluminium unwrought, not alloyed",495.488,0.004523,"Saudi Arabia -  Aluminium unwrought, not alloyed"
+435,096,Brunei Darussalam,246,Finland,84, Nuclear reactors,492.981,0.01,Finland -  Nuclear reactors
+436,096,Brunei Darussalam,440,Lithuania,64," Waterproof footwear (Wellingtons etc), metal toe cap",469.543,0.002695,"Lithuania -  Waterproof footwear (Wellingtons etc), metal toe cap"
+437,096,Brunei Darussalam,104,Myanmar,94," Seats, aircraft",467.932,0.119006,"Myanmar -  Seats, aircraft"
+438,096,Brunei Darussalam,174,Comoros,20," Cucumbers,gherkins, prepared or preserved by vinegar",466.927,2.23,"Comoros -  Cucumbers,gherkins, prepared or preserved by vinegar"
+439,096,Brunei Darussalam,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",455.988,0.053075000000000004,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+440,096,Brunei Darussalam,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,453.303,0.069256,Austria -  Polyethylene - specific gravity <0.94 in primary form
+441,096,Brunei Darussalam,392,Japan,85, Electric motors of an output < 37.5 watts,448.349,0.0015049999999999998,Japan -  Electric motors of an output < 37.5 watts
+442,096,Brunei Darussalam,554,New Zealand,88," Gliders, hang gliders",446.892,0.00147,"New Zealand -  Gliders, hang gliders"
+443,096,Brunei Darussalam,764,Thailand,33, Essential oils of bergamot,442.699,0.111,Thailand -  Essential oils of bergamot
+444,096,Brunei Darussalam,410,"Korea, Republic of",56," Sanitary towels, diapers and similar articles",436.628,0.6703450000000001,"Korea, Republic of -  Sanitary towels, diapers and similar articles"
+445,096,Brunei Darussalam,156,China,85, Electric motors of an output < 37.5 watts,431.359,0.012778000000000001,China -  Electric motors of an output < 37.5 watts
+446,096,Brunei Darussalam,458,Malaysia,40," Natural rubber latex, including prevulcanised",424.121,0.145679,"Malaysia -  Natural rubber latex, including prevulcanised"
+447,096,Brunei Darussalam,156,China,20," Cucumbers,gherkins, prepared or preserved by vinegar",418.616,0.167614,"China -  Cucumbers,gherkins, prepared or preserved by vinegar"
+448,096,Brunei Darussalam,174,Comoros,39, Polyethylene - specific gravity <0.94 in primary form,416.784,0.57,Comoros -  Polyethylene - specific gravity <0.94 in primary form
+449,096,Brunei Darussalam,458,Malaysia,65," Hat-forms, etc of felt, not shaped, no formed brim",411.826,0.062627,"Malaysia -  Hat-forms, etc of felt, not shaped, no formed brim"
+450,096,Brunei Darussalam,156,China,22, Mineral and aerated waters not sweetened or flavoured,411.136,0.11669199999999999,China -  Mineral and aerated waters not sweetened or flavoured
+451,096,Brunei Darussalam,258,French Polynesia,61," Mens, boys overcoats, etc, of wool or hair, knit",406.688,0.01,"French Polynesia -  Mens, boys overcoats, etc, of wool or hair, knit"
+452,096,Brunei Darussalam,702,Singapore,62," Mens, boys overcoats of wool or hair, not knit",406.435,0.024556,"Singapore -  Mens, boys overcoats of wool or hair, not knit"
+453,096,Brunei Darussalam,724,Spain,62," Mens, boys overcoats of wool or hair, not knit",394.375,0.004991,"Spain -  Mens, boys overcoats of wool or hair, not knit"
+454,096,Brunei Darussalam,702,Singapore,91," Wrist-watch, precious metal, battery, with hands",388.645,0.000304,"Singapore -  Wrist-watch, precious metal, battery, with hands"
+455,096,Brunei Darussalam,458,Malaysia,09," Coffee, not roasted, not decaffeinated",385.81,0.037058999999999995,"Malaysia -  Coffee, not roasted, not decaffeinated"
+456,096,Brunei Darussalam,360,Indonesia,25," Salt (sodium chloride) including solution, salt water",385.407,0.048113,"Indonesia -  Salt (sodium chloride) including solution, salt water"
+457,096,Brunei Darussalam,458,Malaysia,17," Raw sugar, cane",381.661,0.126456,"Malaysia -  Raw sugar, cane"
+458,096,Brunei Darussalam,174,Comoros,85, Electric motors of an output < 37.5 watts,380.555,0.38,Comoros -  Electric motors of an output < 37.5 watts
+459,096,Brunei Darussalam,682,Saudi Arabia,95," Rideable wheeled toys, dolls carriages",372.312,0.0039900000000000005,"Saudi Arabia -  Rideable wheeled toys, dolls carriages"
+460,096,Brunei Darussalam,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,364.083,0.012532999999999999,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+461,096,Brunei Darussalam,466,Mali,30," Glands and other organs, dried, for therapeutic uses",360.158,0.006869,"Mali -  Glands and other organs, dried, for therapeutic uses"
+462,096,Brunei Darussalam,048,Bahrain,63, Electric blankets of textile material,336.143,0.15094200000000002,Bahrain -  Electric blankets of textile material
+463,096,Brunei Darussalam,174,Comoros,07," Potatoes seed, fresh or chilled",327.184,0.8,"Comoros -  Potatoes seed, fresh or chilled"
+464,096,Brunei Darussalam,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,325.014,0.023081,United Arab Emirates -  Electric motors of an output < 37.5 watts
+465,096,Brunei Darussalam,566,Nigeria,39, Polyethylene - specific gravity <0.94 in primary form,321.911,5.531,Nigeria -  Polyethylene - specific gravity <0.94 in primary form
+466,096,Brunei Darussalam,562,Niger,04, Milk not concentrated nor sweetened < 1% fat,313.341,0.495879,Niger -  Milk not concentrated nor sweetened < 1% fat
+467,096,Brunei Darussalam,356,India,28, Chlorine,308.403,0.834333,India -  Chlorine
+468,096,Brunei Darussalam,578,Norway,90," Optical fibres, except for telecommunications",302.704,0.006634999999999999,"Norway -  Optical fibres, except for telecommunications"
+469,096,Brunei Darussalam,826,United Kingdom,82, Spades and shovels,301.467,0.000475,United Kingdom -  Spades and shovels
+470,096,Brunei Darussalam,233,Estonia,61," Mens, boys overcoats, etc, of wool or hair, knit",297.571,0.0026,"Estonia -  Mens, boys overcoats, etc, of wool or hair, knit"
+471,096,Brunei Darussalam,040,Austria,64," Waterproof footwear (Wellingtons etc), metal toe cap",296.201,0.010556,"Austria -  Waterproof footwear (Wellingtons etc), metal toe cap"
+472,096,Brunei Darussalam,682,Saudi Arabia,82, Spades and shovels,295.6,0.056587000000000005,Saudi Arabia -  Spades and shovels
+473,096,Brunei Darussalam,784,United Arab Emirates,15," Lard, other pig fat and poultry fat, rendered",293.67,0.421299,"United Arab Emirates -  Lard, other pig fat and poultry fat, rendered"
+474,096,Brunei Darussalam,764,Thailand,57," Carpets of wool or fine animal hair, knotted",288.603,0.011,"Thailand -  Carpets of wool or fine animal hair, knotted"
+475,096,Brunei Darussalam,702,Singapore,15," Lard, other pig fat and poultry fat, rendered",283.684,0.026823,"Singapore -  Lard, other pig fat and poultry fat, rendered"
+476,096,Brunei Darussalam,380,Italy,62," Mens, boys overcoats of wool or hair, not knit",278.79,0.0014370000000000001,"Italy -  Mens, boys overcoats of wool or hair, not knit"
+477,096,Brunei Darussalam,174,Comoros,22, Mineral and aerated waters not sweetened or flavoured,276.855,1.29,Comoros -  Mineral and aerated waters not sweetened or flavoured
+478,096,Brunei Darussalam,578,Norway,64," Waterproof footwear (Wellingtons etc), metal toe cap",276.416,0.012816000000000001,"Norway -  Waterproof footwear (Wellingtons etc), metal toe cap"
+479,096,Brunei Darussalam,418,Lao People's Dem. Rep.,85, Electric motors of an output < 37.5 watts,264.382,0.043587,Lao People's Dem. Rep. -  Electric motors of an output < 37.5 watts
+480,096,Brunei Darussalam,174,Comoros,27," Anthracite, not agglomerated",259.756,0.36,"Comoros -  Anthracite, not agglomerated"
+481,096,Brunei Darussalam,882,Samoa,48, Newsprint,259.081,0.07936499999999999,Samoa -  Newsprint
+482,096,Brunei Darussalam,840,United States of America,40," Natural rubber latex, including prevulcanised",255.893,0.039906,"United States of America -  Natural rubber latex, including prevulcanised"
+483,096,Brunei Darussalam,702,Singapore,96," Worked ivory, articles of ivory",253.616,0.018935,"Singapore -  Worked ivory, articles of ivory"
+484,096,Brunei Darussalam,156,China,73, Sheet piling of iron or steel,249.242,0.20048500000000002,China -  Sheet piling of iron or steel
+485,096,Brunei Darussalam,818,Egypt,42," Saddlery and harness, of any material",248.833,0.013176,"Egypt -  Saddlery and harness, of any material"
+486,096,Brunei Darussalam,344,"China, Hong Kong SAR",71," Pearls natural, not permanently mounted or set",247.556,4.2000000000000004e-05,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+487,096,Brunei Darussalam,422,Lebanon,64," Waterproof footwear (Wellingtons etc), metal toe cap",242.867,0.015576000000000001,"Lebanon -  Waterproof footwear (Wellingtons etc), metal toe cap"
+488,096,Brunei Darussalam,156,China,42," Saddlery and harness, of any material",240.753,0.023512,"China -  Saddlery and harness, of any material"
+489,096,Brunei Darussalam,702,Singapore,76," Aluminium unwrought, not alloyed",234.161,0.087198,"Singapore -  Aluminium unwrought, not alloyed"
+490,096,Brunei Darussalam,360,Indonesia,62," Mens, boys overcoats of wool or hair, not knit",231.917,0.0027589999999999997,"Indonesia -  Mens, boys overcoats of wool or hair, not knit"
+491,096,Brunei Darussalam,104,Myanmar,69," Bricks, blocks and ceramic goods of siliceous earths",229.904,0.8218799999999999,"Myanmar -  Bricks, blocks and ceramic goods of siliceous earths"
+492,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",65," Hat-forms, etc of felt, not shaped, no formed brim",229.077,0.002499,"Switzerland, Liechtenstein -  Hat-forms, etc of felt, not shaped, no formed brim"
+493,096,Brunei Darussalam,410,"Korea, Republic of",40," Natural rubber latex, including prevulcanised",227.978,0.18193399999999998,"Korea, Republic of -  Natural rubber latex, including prevulcanised"
+494,096,Brunei Darussalam,360,Indonesia,83, Padlocks of base metal,227.811,0.004729,Indonesia -  Padlocks of base metal
+495,096,Brunei Darussalam,242,Fiji,96," Worked ivory, articles of ivory",222.202,0.022743,"Fiji -  Worked ivory, articles of ivory"
+496,096,Brunei Darussalam,360,Indonesia,64," Waterproof footwear (Wellingtons etc), metal toe cap",221.785,0.02714,"Indonesia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+497,096,Brunei Darussalam,498,"Moldova, Republic of",64," Waterproof footwear (Wellingtons etc), metal toe cap",219.369,0.005,"Moldova, Republic of -  Waterproof footwear (Wellingtons etc), metal toe cap"
+498,096,Brunei Darussalam,360,Indonesia,21," Coffee extracts, essences, concentrates, preparations",218.224,0.044598,"Indonesia -  Coffee extracts, essences, concentrates, preparations"
+499,096,Brunei Darussalam,104,Myanmar,48, Newsprint,208.11,0.436,Myanmar -  Newsprint
+500,096,Brunei Darussalam,068,Bolivia (Plurinational State of),25," Salt (sodium chloride) including solution, salt water",207.0,0.3,"Bolivia (Plurinational State of) -  Salt (sodium chloride) including solution, salt water"
+501,096,Brunei Darussalam,586,Pakistan,87, Pedestrian controlled tractors,206.772,0.026636,Pakistan -  Pedestrian controlled tractors
+502,096,Brunei Darussalam,048,Bahrain,64," Waterproof footwear (Wellingtons etc), metal toe cap",206.51,0.097304,"Bahrain -  Waterproof footwear (Wellingtons etc), metal toe cap"
+503,096,Brunei Darussalam,356,India,85, Electric motors of an output < 37.5 watts,202.841,0.015501,India -  Electric motors of an output < 37.5 watts
+504,096,Brunei Darussalam,764,Thailand,61," Mens, boys overcoats, etc, of wool or hair, knit",199.482,0.013,"Thailand -  Mens, boys overcoats, etc, of wool or hair, knit"
+505,096,Brunei Darussalam,120,Cameroon,84, Nuclear reactors,195.561,0.067184,Cameroon -  Nuclear reactors
+506,096,Brunei Darussalam,807,North Macedonia,61," Mens, boys overcoats, etc, of wool or hair, knit",190.535,0.002,"North Macedonia -  Mens, boys overcoats, etc, of wool or hair, knit"
+507,096,Brunei Darussalam,616,Poland,73, Sheet piling of iron or steel,189.59,0.036446,Poland -  Sheet piling of iron or steel
+508,096,Brunei Darussalam,056,Belgium,90," Optical fibres, except for telecommunications",188.086,0.016864999999999998,"Belgium -  Optical fibres, except for telecommunications"
+509,096,Brunei Darussalam,702,Singapore,30," Glands and other organs, dried, for therapeutic uses",179.769,0.013815,"Singapore -  Glands and other organs, dried, for therapeutic uses"
+510,096,Brunei Darussalam,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",176.862,0.063561,"Malaysia -  Glands and other organs, dried, for therapeutic uses"
+511,096,Brunei Darussalam,156,China,94," Seats, aircraft",173.743,0.010467,"China -  Seats, aircraft"
+512,096,Brunei Darussalam,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",170.355,0.00509,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+513,096,Brunei Darussalam,818,Egypt,65," Hat-forms, etc of felt, not shaped, no formed brim",164.148,0.006448000000000001,"Egypt -  Hat-forms, etc of felt, not shaped, no formed brim"
+514,096,Brunei Darussalam,372,Ireland,62," Mens, boys overcoats of wool or hair, not knit",163.781,0.001218,"Ireland -  Mens, boys overcoats of wool or hair, not knit"
+515,096,Brunei Darussalam,288,Ghana,42," Saddlery and harness, of any material",161.857,0.003298,"Ghana -  Saddlery and harness, of any material"
+516,096,Brunei Darussalam,585,Palau,95," Rideable wheeled toys, dolls carriages",157.082,0.001976,"Palau -  Rideable wheeled toys, dolls carriages"
+517,096,Brunei Darussalam,120,Cameroon,85, Electric motors of an output < 37.5 watts,156.912,0.057985,Cameroon -  Electric motors of an output < 37.5 watts
+518,096,Brunei Darussalam,702,Singapore,95," Rideable wheeled toys, dolls carriages",155.656,0.003646,"Singapore -  Rideable wheeled toys, dolls carriages"
+519,096,Brunei Darussalam,090,Solomon Islands,90," Optical fibres, except for telecommunications",148.709,0.0008129999999999999,"Solomon Islands -  Optical fibres, except for telecommunications"
+520,096,Brunei Darussalam,480,Mauritius,49," Brochures, leaflets and similar, in single sheets",147.243,0.021,"Mauritius -  Brochures, leaflets and similar, in single sheets"
+521,096,Brunei Darussalam,218,Ecuador,62," Mens, boys overcoats of wool or hair, not knit",144.0,0.004,"Ecuador -  Mens, boys overcoats of wool or hair, not knit"
+522,096,Brunei Darussalam,418,Lao People's Dem. Rep.,63, Electric blankets of textile material,143.716,0.21174500000000002,Lao People's Dem. Rep. -  Electric blankets of textile material
+523,096,Brunei Darussalam,764,Thailand,34," Soaps, for toilet use, solid",142.638,0.121,"Thailand -  Soaps, for toilet use, solid"
+524,096,Brunei Darussalam,250,France,95," Rideable wheeled toys, dolls carriages",141.272,0.015026,"France -  Rideable wheeled toys, dolls carriages"
+525,096,Brunei Darussalam,250,France,56," Sanitary towels, diapers and similar articles",139.994,0.023779,"France -  Sanitary towels, diapers and similar articles"
+526,096,Brunei Darussalam,554,New Zealand,64," Waterproof footwear (Wellingtons etc), metal toe cap",137.245,0.008596,"New Zealand -  Waterproof footwear (Wellingtons etc), metal toe cap"
+527,096,Brunei Darussalam,528,Netherlands (Kingdom of the),49," Brochures, leaflets and similar, in single sheets",136.575,0.012484,"Netherlands (Kingdom of the) -  Brochures, leaflets and similar, in single sheets"
+528,096,Brunei Darussalam,360,Indonesia,56," Sanitary towels, diapers and similar articles",136.114,0.012161,"Indonesia -  Sanitary towels, diapers and similar articles"
+529,096,Brunei Darussalam,818,Egypt,66, Garden and similar umbrellas,135.8,0.033275,Egypt -  Garden and similar umbrellas
+530,096,Brunei Darussalam,554,New Zealand,62," Mens, boys overcoats of wool or hair, not knit",133.305,0.0027719999999999997,"New Zealand -  Mens, boys overcoats of wool or hair, not knit"
+531,096,Brunei Darussalam,360,Indonesia,55," Filament tow of nylon, polyamides",132.82,0.00756,"Indonesia -  Filament tow of nylon, polyamides"
+532,096,Brunei Darussalam,040,Austria,30," Glands and other organs, dried, for therapeutic uses",128.983,0.004037,"Austria -  Glands and other organs, dried, for therapeutic uses"
+533,096,Brunei Darussalam,562,Niger,70," Glass cullet, waste or scrap, glass in the mass",128.569,0.056691000000000005,"Niger -  Glass cullet, waste or scrap, glass in the mass"
+534,096,Brunei Darussalam,174,Comoros,34," Soaps, for toilet use, solid",128.038,0.25,"Comoros -  Soaps, for toilet use, solid"
+535,096,Brunei Darussalam,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",127.784,0.05843,"Malaysia -  Wrist-watch, precious metal, battery, with hands"
+536,096,Brunei Darussalam,360,Indonesia,61," Mens, boys overcoats, etc, of wool or hair, knit",127.017,0.006056,"Indonesia -  Mens, boys overcoats, etc, of wool or hair, knit"
+537,096,Brunei Darussalam,156,China,18," Cocoa beans, whole or broken, raw or roasted",125.796,0.032750999999999995,"China -  Cocoa beans, whole or broken, raw or roasted"
+538,096,Brunei Darussalam,504,Morocco,64," Waterproof footwear (Wellingtons etc), metal toe cap",124.805,0.009153,"Morocco -  Waterproof footwear (Wellingtons etc), metal toe cap"
+539,096,Brunei Darussalam,152,Chile,49," Brochures, leaflets and similar, in single sheets",123.659,0.003943,"Chile -  Brochures, leaflets and similar, in single sheets"
+540,096,Brunei Darussalam,020,Andorra,62," Mens, boys overcoats of wool or hair, not knit",122.446,0.0006760000000000001,"Andorra -  Mens, boys overcoats of wool or hair, not knit"
+541,096,Brunei Darussalam,756,"Switzerland, Liechtenstein",46, Plaits and products of plaiting materials,117.325,0.006,"Switzerland, Liechtenstein -  Plaits and products of plaiting materials"
+542,096,Brunei Darussalam,104,Myanmar,82, Spades and shovels,117.118,0.11094,Myanmar -  Spades and shovels
+543,096,Brunei Darussalam,360,Indonesia,52," Cotton, not carded or combed",116.06,0.007123999999999999,"Indonesia -  Cotton, not carded or combed"
+544,096,Brunei Darussalam,704,Viet Nam,40," Natural rubber latex, including prevulcanised",114.713,0.009557,"Viet Nam -  Natural rubber latex, including prevulcanised"
+545,096,Brunei Darussalam,344,"China, Hong Kong SAR",91," Wrist-watch, precious metal, battery, with hands",112.263,0.000225,"China, Hong Kong SAR -  Wrist-watch, precious metal, battery, with hands"
+546,096,Brunei Darussalam,410,"Korea, Republic of",19," Infant foods of cereals, flour, starch or milk, retai",111.013,0.000867,"Korea, Republic of -  Infant foods of cereals, flour, starch or milk, retai"
+547,096,Brunei Darussalam,250,France,39, Polyethylene - specific gravity <0.94 in primary form,109.626,0.014169000000000001,France -  Polyethylene - specific gravity <0.94 in primary form
+548,096,Brunei Darussalam,764,Thailand,70," Glass cullet, waste or scrap, glass in the mass",108.526,0.025,"Thailand -  Glass cullet, waste or scrap, glass in the mass"
+549,096,Brunei Darussalam,250,France,63, Electric blankets of textile material,108.098,0.014536,France -  Electric blankets of textile material
+550,096,Brunei Darussalam,764,Thailand,64," Waterproof footwear (Wellingtons etc), metal toe cap",107.827,0.02,"Thailand -  Waterproof footwear (Wellingtons etc), metal toe cap"
+551,096,Brunei Darussalam,752,Sweden,63, Electric blankets of textile material,105.483,0.015554,Sweden -  Electric blankets of textile material
+552,096,Brunei Darussalam,752,Sweden,61," Mens, boys overcoats, etc, of wool or hair, knit",104.161,0.0045060000000000005,"Sweden -  Mens, boys overcoats, etc, of wool or hair, knit"
+553,096,Brunei Darussalam,418,Lao People's Dem. Rep.,90," Optical fibres, except for telecommunications",104.01,0.0022890000000000002,"Lao People's Dem. Rep. -  Optical fibres, except for telecommunications"
+554,096,Brunei Darussalam,646,Rwanda,63, Electric blankets of textile material,103.945,0.02528,Rwanda -  Electric blankets of textile material
+555,096,Brunei Darussalam,144,Sri Lanka,70," Glass cullet, waste or scrap, glass in the mass",101.66,0.000638,"Sri Lanka -  Glass cullet, waste or scrap, glass in the mass"
+556,096,Brunei Darussalam,516,Namibia,84, Nuclear reactors,100.506,0.007889,Namibia -  Nuclear reactors
+557,096,Brunei Darussalam,440,Lithuania,61," Mens, boys overcoats, etc, of wool or hair, knit",100.02,0.00010499999999999999,"Lithuania -  Mens, boys overcoats, etc, of wool or hair, knit"
+558,096,Brunei Darussalam,288,Ghana,76," Aluminium unwrought, not alloyed",98.993,0.070677,"Ghana -  Aluminium unwrought, not alloyed"
+559,096,Brunei Darussalam,410,"Korea, Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",98.528,0.009015,"Korea, Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+560,096,Brunei Darussalam,418,Lao People's Dem. Rep.,95," Rideable wheeled toys, dolls carriages",97.696,0.011382,"Lao People's Dem. Rep. -  Rideable wheeled toys, dolls carriages"
+561,096,Brunei Darussalam,104,Myanmar,92," Upright pianos, including auto-players",97.445,0.0027,"Myanmar -  Upright pianos, including auto-players"
+562,096,Brunei Darussalam,616,Poland,82, Spades and shovels,97.194,0.006084,Poland -  Spades and shovels
+563,096,Brunei Darussalam,360,Indonesia,69," Bricks, blocks and ceramic goods of siliceous earths",94.534,0.015641,"Indonesia -  Bricks, blocks and ceramic goods of siliceous earths"
+564,096,Brunei Darussalam,524,Nepal,62," Mens, boys overcoats of wool or hair, not knit",93.36,0.003648,"Nepal -  Mens, boys overcoats of wool or hair, not knit"
+565,096,Brunei Darussalam,752,Sweden,22, Mineral and aerated waters not sweetened or flavoured,91.813,0.015368,Sweden -  Mineral and aerated waters not sweetened or flavoured
+566,096,Brunei Darussalam,344,"China, Hong Kong SAR",62," Mens, boys overcoats of wool or hair, not knit",91.724,0.002948,"China, Hong Kong SAR -  Mens, boys overcoats of wool or hair, not knit"
+567,096,Brunei Darussalam,562,Niger,87, Pedestrian controlled tractors,90.091,0.083535,Niger -  Pedestrian controlled tractors
+568,096,Brunei Darussalam,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",89.558,0.001649,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+569,096,Brunei Darussalam,764,Thailand,38, Artificial graphite,89.175,0.675,Thailand -  Artificial graphite
+570,096,Brunei Darussalam,156,China,15," Lard, other pig fat and poultry fat, rendered",84.688,0.010060000000000001,"China -  Lard, other pig fat and poultry fat, rendered"
+571,096,Brunei Darussalam,524,Nepal,85, Electric motors of an output < 37.5 watts,82.015,0.008622,Nepal -  Electric motors of an output < 37.5 watts
+572,096,Brunei Darussalam,818,Egypt,73, Sheet piling of iron or steel,79.956,0.060188000000000005,Egypt -  Sheet piling of iron or steel
+573,096,Brunei Darussalam,144,Sri Lanka,87, Pedestrian controlled tractors,75.839,0.007574,Sri Lanka -  Pedestrian controlled tractors
+574,096,Brunei Darussalam,608,Philippines,90," Optical fibres, except for telecommunications",71.5,0.0019119999999999999,"Philippines -  Optical fibres, except for telecommunications"
+575,096,Brunei Darussalam,784,United Arab Emirates,83, Padlocks of base metal,71.416,0.008979,United Arab Emirates -  Padlocks of base metal
+576,096,Brunei Darussalam,834,"Tanzania, United Republic of",63, Electric blankets of textile material,69.199,0.010728,"Tanzania, United Republic of -  Electric blankets of textile material"
+577,096,Brunei Darussalam,840,United States of America,71," Pearls natural, not permanently mounted or set",68.0,0.00027,"United States of America -  Pearls natural, not permanently mounted or set"
+578,096,Brunei Darussalam,288,Ghana,44, Fuel wood,63.799,0.016032,Ghana -  Fuel wood
+579,096,Brunei Darussalam,288,Ghana,49," Brochures, leaflets and similar, in single sheets",62.731,0.090722,"Ghana -  Brochures, leaflets and similar, in single sheets"
+580,096,Brunei Darussalam,642,Romania,61," Mens, boys overcoats, etc, of wool or hair, knit",60.433,5.2e-05,"Romania -  Mens, boys overcoats, etc, of wool or hair, knit"
+581,096,Brunei Darussalam,020,Andorra,61," Mens, boys overcoats, etc, of wool or hair, knit",60.118,0.000472,"Andorra -  Mens, boys overcoats, etc, of wool or hair, knit"
+582,096,Brunei Darussalam,360,Indonesia,74, Copper mattes,59.24,0.0006670000000000001,Indonesia -  Copper mattes
+583,096,Brunei Darussalam,554,New Zealand,90," Optical fibres, except for telecommunications",58.429,0.000207,"New Zealand -  Optical fibres, except for telecommunications"
+584,096,Brunei Darussalam,784,United Arab Emirates,73, Sheet piling of iron or steel,58.39,0.063502,United Arab Emirates -  Sheet piling of iron or steel
+585,096,Brunei Darussalam,702,Singapore,48, Newsprint,57.603,0.9238160000000001,Singapore -  Newsprint
+586,096,Brunei Darussalam,040,Austria,49," Brochures, leaflets and similar, in single sheets",56.348,0.000539,"Austria -  Brochures, leaflets and similar, in single sheets"
+587,096,Brunei Darussalam,360,Indonesia,95," Rideable wheeled toys, dolls carriages",54.281,0.0006630000000000001,"Indonesia -  Rideable wheeled toys, dolls carriages"
+588,096,Brunei Darussalam,516,Namibia,61," Mens, boys overcoats, etc, of wool or hair, knit",52.516,0.0025139999999999997,"Namibia -  Mens, boys overcoats, etc, of wool or hair, knit"
+589,096,Brunei Darussalam,250,France,66, Garden and similar umbrellas,51.114,0.040877000000000004,France -  Garden and similar umbrellas
+590,096,Brunei Darussalam,410,"Korea, Republic of",76," Aluminium unwrought, not alloyed",50.862,0.062276000000000005,"Korea, Republic of -  Aluminium unwrought, not alloyed"
+591,096,Brunei Darussalam,784,United Arab Emirates,62," Mens, boys overcoats of wool or hair, not knit",50.015,0.004344000000000001,"United Arab Emirates -  Mens, boys overcoats of wool or hair, not knit"
+592,096,Brunei Darussalam,120,Cameroon,63, Electric blankets of textile material,48.946,0.022484999999999998,Cameroon -  Electric blankets of textile material
+593,096,Brunei Darussalam,524,Nepal,84, Nuclear reactors,48.545,0.003966,Nepal -  Nuclear reactors
+594,096,Brunei Darussalam,704,Viet Nam,85, Electric motors of an output < 37.5 watts,47.922,0.0010329999999999998,Viet Nam -  Electric motors of an output < 37.5 watts
+595,096,Brunei Darussalam,642,Romania,62," Mens, boys overcoats of wool or hair, not knit",44.258,4.1e-05,"Romania -  Mens, boys overcoats of wool or hair, not knit"
+596,096,Brunei Darussalam,120,Cameroon,90," Optical fibres, except for telecommunications",41.519,0.021255,"Cameroon -  Optical fibres, except for telecommunications"
+597,096,Brunei Darussalam,410,"Korea, Republic of",90," Optical fibres, except for telecommunications",41.372,0.000472,"Korea, Republic of -  Optical fibres, except for telecommunications"
+598,096,Brunei Darussalam,174,Comoros,82, Spades and shovels,39.266,1.95,Comoros -  Spades and shovels
+599,096,Brunei Darussalam,616,Poland,65," Hat-forms, etc of felt, not shaped, no formed brim",39.192,0.000328,"Poland -  Hat-forms, etc of felt, not shaped, no formed brim"
+600,096,Brunei Darussalam,512,Oman,84, Nuclear reactors,34.437,0.005234,Oman -  Nuclear reactors
+601,096,Brunei Darussalam,360,Indonesia,42," Saddlery and harness, of any material",33.653,0.000896,"Indonesia -  Saddlery and harness, of any material"
+602,096,Brunei Darussalam,372,Ireland,90," Optical fibres, except for telecommunications",32.205,0.001768,"Ireland -  Optical fibres, except for telecommunications"
+603,096,Brunei Darussalam,410,"Korea, Republic of",87, Pedestrian controlled tractors,32.147,0.017772,"Korea, Republic of -  Pedestrian controlled tractors"
+604,096,Brunei Darussalam,702,Singapore,65," Hat-forms, etc of felt, not shaped, no formed brim",29.815,0.001123,"Singapore -  Hat-forms, etc of felt, not shaped, no formed brim"
+605,096,Brunei Darussalam,643,Russian Federation,90," Optical fibres, except for telecommunications",29.489,0.000419,"Russian Federation -  Optical fibres, except for telecommunications"
+606,096,Brunei Darussalam,616,Poland,42," Saddlery and harness, of any material",29.392,0.00177,"Poland -  Saddlery and harness, of any material"
+607,096,Brunei Darussalam,528,Netherlands (Kingdom of the),42," Saddlery and harness, of any material",25.982,0.000191,"Netherlands (Kingdom of the) -  Saddlery and harness, of any material"
+608,096,Brunei Darussalam,752,Sweden,62," Mens, boys overcoats of wool or hair, not knit",24.36,0.000856,"Sweden -  Mens, boys overcoats of wool or hair, not knit"
+609,096,Brunei Darussalam,120,Cameroon,95," Rideable wheeled toys, dolls carriages",24.24,0.007719999999999999,"Cameroon -  Rideable wheeled toys, dolls carriages"
+610,096,Brunei Darussalam,512,Oman,85, Electric motors of an output < 37.5 watts,23.608,0.0042569999999999995,Oman -  Electric motors of an output < 37.5 watts
+611,096,Brunei Darussalam,784,United Arab Emirates,90," Optical fibres, except for telecommunications",22.579,0.0025009999999999998,"United Arab Emirates -  Optical fibres, except for telecommunications"
+612,096,Brunei Darussalam,048,Bahrain,07," Potatoes seed, fresh or chilled",22.454,0.000608,"Bahrain -  Potatoes seed, fresh or chilled"
+613,096,Brunei Darussalam,608,Philippines,95," Rideable wheeled toys, dolls carriages",22.026,0.001026,"Philippines -  Rideable wheeled toys, dolls carriages"
+614,096,Brunei Darussalam,702,Singapore,63, Electric blankets of textile material,21.758,0.038518000000000004,Singapore -  Electric blankets of textile material
+615,096,Brunei Darussalam,372,Ireland,42," Saddlery and harness, of any material",21.642,0.000566,"Ireland -  Saddlery and harness, of any material"
+616,096,Brunei Darussalam,524,Nepal,71," Pearls natural, not permanently mounted or set",21.183,2e-06,"Nepal -  Pearls natural, not permanently mounted or set"
+617,096,Brunei Darussalam,840,United States of America,91," Wrist-watch, precious metal, battery, with hands",20.399,0.00442,"United States of America -  Wrist-watch, precious metal, battery, with hands"
+618,096,Brunei Darussalam,528,Netherlands (Kingdom of the),64," Waterproof footwear (Wellingtons etc), metal toe cap",19.182,0.000497,"Netherlands (Kingdom of the) -  Waterproof footwear (Wellingtons etc), metal toe cap"
+619,096,Brunei Darussalam,144,Sri Lanka,60," ""Long pile"" knit or crochet textile fabric",17.201,0.003198,"Sri Lanka -  ""Long pile"" knit or crochet textile fabric"
+620,096,Brunei Darussalam,056,Belgium,62," Mens, boys overcoats of wool or hair, not knit",14.892,0.000201,"Belgium -  Mens, boys overcoats of wool or hair, not knit"
+621,096,Brunei Darussalam,152,Chile,85, Electric motors of an output < 37.5 watts,13.107,1.7999999999999997e-05,Chile -  Electric motors of an output < 37.5 watts
+622,096,Brunei Darussalam,516,Namibia,62," Mens, boys overcoats of wool or hair, not knit",12.468,0.000614,"Namibia -  Mens, boys overcoats of wool or hair, not knit"
+623,096,Brunei Darussalam,524,Nepal,63, Electric blankets of textile material,12.109,0.290824,Nepal -  Electric blankets of textile material
+624,096,Brunei Darussalam,404,Kenya,63, Electric blankets of textile material,10.696,0.028648,Kenya -  Electric blankets of textile material
+625,096,Brunei Darussalam,562,Niger,07," Potatoes seed, fresh or chilled",10.152,0.015149,"Niger -  Potatoes seed, fresh or chilled"
+626,096,Brunei Darussalam,288,Ghana,63, Electric blankets of textile material,9.483,0.01506,Ghana -  Electric blankets of textile material
+627,096,Brunei Darussalam,288,Ghana,85, Electric motors of an output < 37.5 watts,9.022,0.002605,Ghana -  Electric motors of an output < 37.5 watts
+628,096,Brunei Darussalam,372,Ireland,84, Nuclear reactors,7.939,0.000104,Ireland -  Nuclear reactors
+629,096,Brunei Darussalam,144,Sri Lanka,29, Saturated acyclic hydrocarbons,6.498,0.0024980000000000002,Sri Lanka -  Saturated acyclic hydrocarbons
+630,096,Brunei Darussalam,528,Netherlands (Kingdom of the),71," Pearls natural, not permanently mounted or set",6.223,0.000187,"Netherlands (Kingdom of the) -  Pearls natural, not permanently mounted or set"
+631,096,Brunei Darussalam,458,Malaysia,92," Upright pianos, including auto-players",4.498,0.00034,"Malaysia -  Upright pianos, including auto-players"
+632,096,Brunei Darussalam,686,Senegal,85, Electric motors of an output < 37.5 watts,1.438,0.000855,Senegal -  Electric motors of an output < 37.5 watts
+633,096,Brunei Darussalam,144,Sri Lanka,35, Casein,0.999,4e-05,Sri Lanka -  Casein
+634,096,Brunei Darussalam,144,Sri Lanka,84, Nuclear reactors,0.682,0.000252,Sri Lanka -  Nuclear reactors
+635,096,Brunei Darussalam,144,Sri Lanka,90," Optical fibres, except for telecommunications",0.01,0.0,"Sri Lanka -  Optical fibres, except for telecommunications"
+636,096,Brunei Darussalam,840,United States of America,01," Horses, live pure-bred breeding",0.006,0.0,"United States of America -  Horses, live pure-bred breeding"
+637,096,Brunei Darussalam,410,"Korea, Republic of",01," Horses, live pure-bred breeding",0.001,0.0,"Korea, Republic of -  Horses, live pure-bred breeding"
+638,096,Brunei Darussalam,144,Sri Lanka,91," Wrist-watch, precious metal, battery, with hands",0.0,0.0,"Sri Lanka -  Wrist-watch, precious metal, battery, with hands"
+639,096,Brunei Darussalam,528,Netherlands (Kingdom of the),01," Horses, live pure-bred breeding",0.0,0.0,"Netherlands (Kingdom of the) -  Horses, live pure-bred breeding"
+640,096,Brunei Darussalam,458,Malaysia,01," Horses, live pure-bred breeding",0.0,0.0,"Malaysia -  Horses, live pure-bred breeding"
+641,096,Brunei Darussalam,826,United Kingdom,01," Horses, live pure-bred breeding",0.0,0.0,"United Kingdom -  Horses, live pure-bred breeding"
+642,096,Brunei Darussalam,144,Sri Lanka,01," Horses, live pure-bred breeding",0.0,0.0,"Sri Lanka -  Horses, live pure-bred breeding"
+643,096,Brunei Darussalam,784,United Arab Emirates,01," Horses, live pure-bred breeding",0.0,0.0,"United Arab Emirates -  Horses, live pure-bred breeding"
+644,096,Brunei Darussalam,144,Sri Lanka,28, Chlorine,0.0,0.0,Sri Lanka -  Chlorine
+645,096,Brunei Darussalam,144,Sri Lanka,73, Sheet piling of iron or steel,0.0,0.0,Sri Lanka -  Sheet piling of iron or steel
+646,096,Brunei Darussalam,360,Indonesia,01," Horses, live pure-bred breeding",0.0,0.0,"Indonesia -  Horses, live pure-bred breeding"
+647,096,Brunei Darussalam,144,Sri Lanka,63, Electric blankets of textile material,0.0,0.0,Sri Lanka -  Electric blankets of textile material
+648,096,Brunei Darussalam,144,Sri Lanka,49," Brochures, leaflets and similar, in single sheets",0.0,0.0,"Sri Lanka -  Brochures, leaflets and similar, in single sheets"
+649,096,Brunei Darussalam,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,0.0,0.0,Sri Lanka -  Electric motors of an output < 37.5 watts

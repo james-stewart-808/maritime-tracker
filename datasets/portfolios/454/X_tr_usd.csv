@@ -1,0 +1,672 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,454,Malawi,840,United States of America,24," Tobacco, unmanufactured, not stemmed or stripped",19614040.742,5318.324627,"United States of America -  Tobacco, unmanufactured, not stemmed or stripped"
+1,454,Malawi,840,United States of America,09," Coffee, not roasted, not decaffeinated",13297964.872,5653.6828399999995,"United States of America -  Coffee, not roasted, not decaffeinated"
+2,454,Malawi,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",10970730.781,3842.809499,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+3,454,Malawi,276,Germany,09," Coffee, not roasted, not decaffeinated",7346553.875,3023.666154,"Germany -  Coffee, not roasted, not decaffeinated"
+4,454,Malawi,840,United States of America,08," Coconuts, fresh or dried",7335244.235,511.029147,"United States of America -  Coconuts, fresh or dried"
+5,454,Malawi,392,Japan,08," Coconuts, fresh or dried",5672027.36,354.447373,"Japan -  Coconuts, fresh or dried"
+6,454,Malawi,392,Japan,24," Tobacco, unmanufactured, not stemmed or stripped",5338949.183,1395.279906,"Japan -  Tobacco, unmanufactured, not stemmed or stripped"
+7,454,Malawi,608,Philippines,24," Tobacco, unmanufactured, not stemmed or stripped",4806408.908,2084.876713,"Philippines -  Tobacco, unmanufactured, not stemmed or stripped"
+8,454,Malawi,840,United States of America,17," Raw sugar, cane",3864096.399,9944.869011,"United States of America -  Raw sugar, cane"
+9,454,Malawi,724,Spain,17," Raw sugar, cane",3681499.235,5124.0,"Spain -  Raw sugar, cane"
+10,454,Malawi,356,India,07," Potatoes seed, fresh or chilled",2983899.745,5070.261992,"India -  Potatoes seed, fresh or chilled"
+11,454,Malawi,214,Dominican Republic,24," Tobacco, unmanufactured, not stemmed or stripped",2827321.203,605.88,"Dominican Republic -  Tobacco, unmanufactured, not stemmed or stripped"
+12,454,Malawi,356,India,12, Soya beans,2725256.972,4297.042527,India -  Soya beans
+13,454,Malawi,616,Poland,09," Coffee, not roasted, not decaffeinated",2160045.896,776.3195890000001,"Poland -  Coffee, not roasted, not decaffeinated"
+14,454,Malawi,380,Italy,17," Raw sugar, cane",2098613.727,2876.129328,"Italy -  Raw sugar, cane"
+15,454,Malawi,056,Belgium,17," Raw sugar, cane",1824168.722,2730.633075,"Belgium -  Raw sugar, cane"
+16,454,Malawi,276,Germany,17," Raw sugar, cane",1690903.393,2372.950836,"Germany -  Raw sugar, cane"
+17,454,Malawi,528,Netherlands (Kingdom of the),08," Coconuts, fresh or dried",1663339.645,89.760716,"Netherlands (Kingdom of the) -  Coconuts, fresh or dried"
+18,454,Malawi,480,Mauritius,52," Cotton, not carded or combed",1660152.852,815.237,"Mauritius -  Cotton, not carded or combed"
+19,454,Malawi,834,"Tanzania, United Republic of",17," Raw sugar, cane",1651581.481,2712.363167,"Tanzania, United Republic of -  Raw sugar, cane"
+20,454,Malawi,586,Pakistan,09," Coffee, not roasted, not decaffeinated",1612726.925,752.198613,"Pakistan -  Coffee, not roasted, not decaffeinated"
+21,454,Malawi,076,Brazil,24," Tobacco, unmanufactured, not stemmed or stripped",1346780.0,297.0,"Brazil -  Tobacco, unmanufactured, not stemmed or stripped"
+22,454,Malawi,826,United Kingdom,17," Raw sugar, cane",1204911.223,1969.1154339999998,"United Kingdom -  Raw sugar, cane"
+23,454,Malawi,752,Sweden,17," Raw sugar, cane",1036082.836,1344.0,"Sweden -  Raw sugar, cane"
+24,454,Malawi,724,Spain,24," Tobacco, unmanufactured, not stemmed or stripped",1029511.433,155.29,"Spain -  Tobacco, unmanufactured, not stemmed or stripped"
+25,454,Malawi,643,Russian Federation,09," Coffee, not roasted, not decaffeinated",1025878.532,498.728705,"Russian Federation -  Coffee, not roasted, not decaffeinated"
+26,454,Malawi,450,Madagascar,24," Tobacco, unmanufactured, not stemmed or stripped",866746.5,356.04,"Madagascar -  Tobacco, unmanufactured, not stemmed or stripped"
+27,454,Malawi,392,Japan,09," Coffee, not roasted, not decaffeinated",831447.132,375.32575199999997,"Japan -  Coffee, not roasted, not decaffeinated"
+28,454,Malawi,784,United Arab Emirates,09," Coffee, not roasted, not decaffeinated",797716.846,273.843277,"United Arab Emirates -  Coffee, not roasted, not decaffeinated"
+29,454,Malawi,834,"Tanzania, United Republic of",44, Fuel wood,771228.728,1741.3766640000001,"Tanzania, United Republic of -  Fuel wood"
+30,454,Malawi,703,Slovakia,17," Raw sugar, cane",759103.963,634.56,"Slovakia -  Raw sugar, cane"
+31,454,Malawi,566,Nigeria,09," Coffee, not roasted, not decaffeinated",697005.733,345.22,"Nigeria -  Coffee, not roasted, not decaffeinated"
+32,454,Malawi,642,Romania,24," Tobacco, unmanufactured, not stemmed or stripped",694526.837,191.625176,"Romania -  Tobacco, unmanufactured, not stemmed or stripped"
+33,454,Malawi,858,Uruguay,24," Tobacco, unmanufactured, not stemmed or stripped",661278.2,158.4,"Uruguay -  Tobacco, unmanufactured, not stemmed or stripped"
+34,454,Malawi,156,China,09," Coffee, not roasted, not decaffeinated",654386.935,265.01084299999997,"China -  Coffee, not roasted, not decaffeinated"
+35,454,Malawi,682,Saudi Arabia,09," Coffee, not roasted, not decaffeinated",609964.148,211.816775,"Saudi Arabia -  Coffee, not roasted, not decaffeinated"
+36,454,Malawi,724,Spain,09," Coffee, not roasted, not decaffeinated",603580.858,301.619,"Spain -  Coffee, not roasted, not decaffeinated"
+37,454,Malawi,646,Rwanda,17," Raw sugar, cane",586187.514,1439.833365,"Rwanda -  Raw sugar, cane"
+38,454,Malawi,344,"China, Hong Kong SAR",08," Coconuts, fresh or dried",585284.118,39.160295,"China, Hong Kong SAR -  Coconuts, fresh or dried"
+39,454,Malawi,246,Finland,17," Raw sugar, cane",540586.857,609.222,"Finland -  Raw sugar, cane"
+40,454,Malawi,600,Paraguay,24," Tobacco, unmanufactured, not stemmed or stripped",539225.549,130.858063,"Paraguay -  Tobacco, unmanufactured, not stemmed or stripped"
+41,454,Malawi,818,Egypt,09," Coffee, not roasted, not decaffeinated",488294.076,159.790037,"Egypt -  Coffee, not roasted, not decaffeinated"
+42,454,Malawi,470,Malta,09," Coffee, not roasted, not decaffeinated",474709.153,207.22,"Malta -  Coffee, not roasted, not decaffeinated"
+43,454,Malawi,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",448677.924,41.135428,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+44,454,Malawi,894,Zambia,39, Polyethylene - specific gravity <0.94 in primary form,402006.133,58.612571,Zambia -  Polyethylene - specific gravity <0.94 in primary form
+45,454,Malawi,834,"Tanzania, United Republic of",23," Flour or meal, pellet of meat or offal for animal fee",401215.811,251.439851,"Tanzania, United Republic of -  Flour or meal, pellet of meat or offal for animal fee"
+46,454,Malawi,834,"Tanzania, United Republic of",72," Pig iron, non-alloy, <0.5% phosphorus",394210.723,3722.020573,"Tanzania, United Republic of -  Pig iron, non-alloy, <0.5% phosphorus"
+47,454,Malawi,702,Singapore,07," Potatoes seed, fresh or chilled",388446.649,463.26448999999997,"Singapore -  Potatoes seed, fresh or chilled"
+48,454,Malawi,056,Belgium,09," Coffee, not roasted, not decaffeinated",372706.843,127.75322,"Belgium -  Coffee, not roasted, not decaffeinated"
+49,454,Malawi,356,India,09," Coffee, not roasted, not decaffeinated",356411.704,137.633887,"India -  Coffee, not roasted, not decaffeinated"
+50,454,Malawi,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",352180.038,0.07760299999999999,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+51,454,Malawi,792,Türkiye,12, Soya beans,348543.0,303.7,Türkiye -  Soya beans
+52,454,Malawi,716,Zimbabwe,12, Soya beans,337716.917,43.427485999999995,Zimbabwe -  Soya beans
+53,454,Malawi,404,Kenya,23," Flour or meal, pellet of meat or offal for animal fee",333122.321,286.133009,"Kenya -  Flour or meal, pellet of meat or offal for animal fee"
+54,454,Malawi,826,United Kingdom,07," Potatoes seed, fresh or chilled",321016.709,299.77137300000004,"United Kingdom -  Potatoes seed, fresh or chilled"
+55,454,Malawi,356,India,84, Nuclear reactors,254563.436,26.252368999999998,India -  Nuclear reactors
+56,454,Malawi,716,Zimbabwe,39, Polyethylene - specific gravity <0.94 in primary form,254231.259,115.602478,Zimbabwe -  Polyethylene - specific gravity <0.94 in primary form
+57,454,Malawi,156,China,78, Lead refined unwrought,219259.324,178.64263200000002,China -  Lead refined unwrought
+58,454,Malawi,392,Japan,78, Lead refined unwrought,209546.221,118.201244,Japan -  Lead refined unwrought
+59,454,Malawi,554,New Zealand,24," Tobacco, unmanufactured, not stemmed or stripped",206862.102,52.529244,"New Zealand -  Tobacco, unmanufactured, not stemmed or stripped"
+60,454,Malawi,784,United Arab Emirates,07," Potatoes seed, fresh or chilled",206251.663,289.79682199999996,"United Arab Emirates -  Potatoes seed, fresh or chilled"
+61,454,Malawi,376,Israel,08," Coconuts, fresh or dried",198983.186,10.128169,"Israel -  Coconuts, fresh or dried"
+62,454,Malawi,458,Malaysia,07," Potatoes seed, fresh or chilled",190742.47,226.194848,"Malaysia -  Potatoes seed, fresh or chilled"
+63,454,Malawi,372,Ireland,09," Coffee, not roasted, not decaffeinated",185779.433,62.658972999999996,"Ireland -  Coffee, not roasted, not decaffeinated"
+64,454,Malawi,250,France,24," Tobacco, unmanufactured, not stemmed or stripped",184759.799,236.835557,"France -  Tobacco, unmanufactured, not stemmed or stripped"
+65,454,Malawi,894,Zambia,84, Nuclear reactors,178683.134,43.631757,Zambia -  Nuclear reactors
+66,454,Malawi,410,"Korea, Republic of",17," Raw sugar, cane",163624.018,101.15970200000001,"Korea, Republic of -  Raw sugar, cane"
+67,454,Malawi,072,Botswana,09," Coffee, not roasted, not decaffeinated",161786.271,29.086179,"Botswana -  Coffee, not roasted, not decaffeinated"
+68,454,Malawi,894,Zambia,28, Chlorine,144448.872,36.635177000000006,Zambia -  Chlorine
+69,454,Malawi,440,Lithuania,17," Raw sugar, cane",144211.004,228.263701,"Lithuania -  Raw sugar, cane"
+70,454,Malawi,690,Seychelles,24," Tobacco, unmanufactured, not stemmed or stripped",132830.26,19.78,"Seychelles -  Tobacco, unmanufactured, not stemmed or stripped"
+71,454,Malawi,566,Nigeria,24," Tobacco, unmanufactured, not stemmed or stripped",120522.63,30.3466,"Nigeria -  Tobacco, unmanufactured, not stemmed or stripped"
+72,454,Malawi,826,United Kingdom,08," Coconuts, fresh or dried",119484.574,6.259687,"United Kingdom -  Coconuts, fresh or dried"
+73,454,Malawi,250,France,09," Coffee, not roasted, not decaffeinated",112856.0,28.387749,"France -  Coffee, not roasted, not decaffeinated"
+74,454,Malawi,096,Brunei Darussalam,85, Electric motors of an output < 37.5 watts,111343.694,18.567228,Brunei Darussalam -  Electric motors of an output < 37.5 watts
+75,454,Malawi,578,Norway,17," Raw sugar, cane",109263.48,60.710006,"Norway -  Raw sugar, cane"
+76,454,Malawi,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",108691.345,382.93453600000004,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+77,454,Malawi,404,Kenya,44, Fuel wood,107481.967,124.970844,Kenya -  Fuel wood
+78,454,Malawi,203,Czechia,17," Raw sugar, cane",106504.488,137.461467,"Czechia -  Raw sugar, cane"
+79,454,Malawi,702,Singapore,08," Coconuts, fresh or dried",104562.568,6.6628810000000005,"Singapore -  Coconuts, fresh or dried"
+80,454,Malawi,242,Fiji,07," Potatoes seed, fresh or chilled",100431.677,145.881166,"Fiji -  Potatoes seed, fresh or chilled"
+81,454,Malawi,196,Cyprus,17," Raw sugar, cane",94615.755,147.0,"Cyprus -  Raw sugar, cane"
+82,454,Malawi,528,Netherlands (Kingdom of the),09," Coffee, not roasted, not decaffeinated",93049.867,26.219756,"Netherlands (Kingdom of the) -  Coffee, not roasted, not decaffeinated"
+83,454,Malawi,764,Thailand,07," Potatoes seed, fresh or chilled",72334.994,147.0,"Thailand -  Potatoes seed, fresh or chilled"
+84,454,Malawi,834,"Tanzania, United Republic of",87, Pedestrian controlled tractors,71283.49,58.80885,"Tanzania, United Republic of -  Pedestrian controlled tractors"
+85,454,Malawi,356,India,08," Coconuts, fresh or dried",69043.367,37.491641,"India -  Coconuts, fresh or dried"
+86,454,Malawi,276,Germany,24," Tobacco, unmanufactured, not stemmed or stripped",67558.499,18.542248999999998,"Germany -  Tobacco, unmanufactured, not stemmed or stripped"
+87,454,Malawi,646,Rwanda,84, Nuclear reactors,66298.218,6.627439000000001,Rwanda -  Nuclear reactors
+88,454,Malawi,894,Zambia,09," Coffee, not roasted, not decaffeinated",64954.702,25.463372,"Zambia -  Coffee, not roasted, not decaffeinated"
+89,454,Malawi,716,Zimbabwe,87, Pedestrian controlled tractors,64881.8,20.058508999999997,Zimbabwe -  Pedestrian controlled tractors
+90,454,Malawi,894,Zambia,72," Pig iron, non-alloy, <0.5% phosphorus",58207.37,718.8359399999999,"Zambia -  Pig iron, non-alloy, <0.5% phosphorus"
+91,454,Malawi,524,Nepal,07," Potatoes seed, fresh or chilled",58089.123,78.086421,"Nepal -  Potatoes seed, fresh or chilled"
+92,454,Malawi,716,Zimbabwe,84, Nuclear reactors,56551.58,5.720235,Zimbabwe -  Nuclear reactors
+93,454,Malawi,380,Italy,12, Soya beans,55427.831,23.068051999999998,Italy -  Soya beans
+94,454,Malawi,894,Zambia,62," Mens, boys overcoats of wool or hair, not knit",52203.511,4.740554,"Zambia -  Mens, boys overcoats of wool or hair, not knit"
+95,454,Malawi,826,United Kingdom,33, Essential oils of bergamot,50832.165,4.358814000000001,United Kingdom -  Essential oils of bergamot
+96,454,Malawi,586,Pakistan,72," Pig iron, non-alloy, <0.5% phosphorus",48375.804,286.15880200000004,"Pakistan -  Pig iron, non-alloy, <0.5% phosphorus"
+97,454,Malawi,276,Germany,08," Coconuts, fresh or dried",47421.526,3.1896709999999997,"Germany -  Coconuts, fresh or dried"
+98,454,Malawi,480,Mauritius,07," Potatoes seed, fresh or chilled",46196.398,101.195,"Mauritius -  Potatoes seed, fresh or chilled"
+99,454,Malawi,840,United States of America,85, Electric motors of an output < 37.5 watts,44879.697,1.1607729999999998,United States of America -  Electric motors of an output < 37.5 watts
+100,454,Malawi,040,Austria,09," Coffee, not roasted, not decaffeinated",44582.111,2.828036,"Austria -  Coffee, not roasted, not decaffeinated"
+101,454,Malawi,410,"Korea, Republic of",09," Coffee, not roasted, not decaffeinated",43063.847,5.376079,"Korea, Republic of -  Coffee, not roasted, not decaffeinated"
+102,454,Malawi,620,Portugal,82, Spades and shovels,41492.901,2.086,Portugal -  Spades and shovels
+103,454,Malawi,646,Rwanda,12, Soya beans,40970.453,67.44490300000001,Rwanda -  Soya beans
+104,454,Malawi,894,Zambia,87, Pedestrian controlled tractors,40705.232,10.587134,Zambia -  Pedestrian controlled tractors
+105,454,Malawi,716,Zimbabwe,23," Flour or meal, pellet of meat or offal for animal fee",40155.025,206.67943499999998,"Zimbabwe -  Flour or meal, pellet of meat or offal for animal fee"
+106,454,Malawi,191,Croatia,94," Seats, aircraft",37867.089,1.355729,"Croatia -  Seats, aircraft"
+107,454,Malawi,096,Brunei Darussalam,07," Potatoes seed, fresh or chilled",37474.981,43.38,"Brunei Darussalam -  Potatoes seed, fresh or chilled"
+108,454,Malawi,643,Russian Federation,24," Tobacco, unmanufactured, not stemmed or stripped",35824.747,10.686321,"Russian Federation -  Tobacco, unmanufactured, not stemmed or stripped"
+109,454,Malawi,894,Zambia,63, Electric blankets of textile material,35219.642,10.258327999999999,Zambia -  Electric blankets of textile material
+110,454,Malawi,516,Namibia,44, Fuel wood,35011.904,63.058363,Namibia -  Fuel wood
+111,454,Malawi,250,France,85, Electric motors of an output < 37.5 watts,33399.459,1.547747,France -  Electric motors of an output < 37.5 watts
+112,454,Malawi,826,United Kingdom,94," Seats, aircraft",33258.69,19.82934,"United Kingdom -  Seats, aircraft"
+113,454,Malawi,276,Germany,90," Optical fibres, except for telecommunications",32963.792,0.105012,"Germany -  Optical fibres, except for telecommunications"
+114,454,Malawi,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,31609.734,2.4597379999999998,Germany -  Polyethylene - specific gravity <0.94 in primary form
+115,454,Malawi,276,Germany,12, Soya beans,31276.578,13.544109,Germany -  Soya beans
+116,454,Malawi,834,"Tanzania, United Republic of",40," Natural rubber latex, including prevulcanised",30095.848,15.270393,"Tanzania, United Republic of -  Natural rubber latex, including prevulcanised"
+117,454,Malawi,716,Zimbabwe,48, Newsprint,29372.213,69.092742,Zimbabwe -  Newsprint
+118,454,Malawi,800,Uganda,72," Pig iron, non-alloy, <0.5% phosphorus",27933.363,99.571086,"Uganda -  Pig iron, non-alloy, <0.5% phosphorus"
+119,454,Malawi,634,Qatar,07," Potatoes seed, fresh or chilled",27268.419,35.802682999999995,"Qatar -  Potatoes seed, fresh or chilled"
+120,454,Malawi,716,Zimbabwe,44, Fuel wood,27191.978,17.331185,Zimbabwe -  Fuel wood
+121,454,Malawi,840,United States of America,07," Potatoes seed, fresh or chilled",26708.306,37.089855,"United States of America -  Potatoes seed, fresh or chilled"
+122,454,Malawi,554,New Zealand,09," Coffee, not roasted, not decaffeinated",25352.611,5.13442,"New Zealand -  Coffee, not roasted, not decaffeinated"
+123,454,Malawi,288,Ghana,72," Pig iron, non-alloy, <0.5% phosphorus",25108.412,16.981827000000003,"Ghana -  Pig iron, non-alloy, <0.5% phosphorus"
+124,454,Malawi,096,Brunei Darussalam,39, Polyethylene - specific gravity <0.94 in primary form,24796.441,2.333,Brunei Darussalam -  Polyethylene - specific gravity <0.94 in primary form
+125,454,Malawi,840,United States of America,46, Plaits and products of plaiting materials,24707.964,5.462149999999999,United States of America -  Plaits and products of plaiting materials
+126,454,Malawi,250,France,96," Worked ivory, articles of ivory",24559.932,1.80948,"France -  Worked ivory, articles of ivory"
+127,454,Malawi,036,Australia,09," Coffee, not roasted, not decaffeinated",23806.925,4.7805,"Australia -  Coffee, not roasted, not decaffeinated"
+128,454,Malawi,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",23243.725,23.885447,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+129,454,Malawi,380,Italy,09," Coffee, not roasted, not decaffeinated",23178.959,4.579655,"Italy -  Coffee, not roasted, not decaffeinated"
+130,454,Malawi,716,Zimbabwe,85, Electric motors of an output < 37.5 watts,23008.923,3.560047,Zimbabwe -  Electric motors of an output < 37.5 watts
+131,454,Malawi,276,Germany,03," Ornamental fish, live",22915.397,0.13224799999999998,"Germany -  Ornamental fish, live"
+132,454,Malawi,834,"Tanzania, United Republic of",22, Mineral and aerated waters not sweetened or flavoured,22465.676,43.480275,"Tanzania, United Republic of -  Mineral and aerated waters not sweetened or flavoured"
+133,454,Malawi,586,Pakistan,23," Flour or meal, pellet of meat or offal for animal fee",21168.731,464.75140999999996,"Pakistan -  Flour or meal, pellet of meat or offal for animal fee"
+134,454,Malawi,834,"Tanzania, United Republic of",39, Polyethylene - specific gravity <0.94 in primary form,21088.624,5.749156,"Tanzania, United Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+135,454,Malawi,643,Russian Federation,17," Raw sugar, cane",20499.655,35.328133,"Russian Federation -  Raw sugar, cane"
+136,454,Malawi,414,Kuwait,09," Coffee, not roasted, not decaffeinated",20456.969,5.0,"Kuwait -  Coffee, not roasted, not decaffeinated"
+137,454,Malawi,356,India,85, Electric motors of an output < 37.5 watts,20094.765,4.95419,India -  Electric motors of an output < 37.5 watts
+138,454,Malawi,096,Brunei Darussalam,09," Coffee, not roasted, not decaffeinated",19784.567,8.92,"Brunei Darussalam -  Coffee, not roasted, not decaffeinated"
+139,454,Malawi,344,"China, Hong Kong SAR",03," Ornamental fish, live",19661.53,0.223939,"China, Hong Kong SAR -  Ornamental fish, live"
+140,454,Malawi,072,Botswana,87, Pedestrian controlled tractors,19360.184,1.8765630000000002,Botswana -  Pedestrian controlled tractors
+141,454,Malawi,894,Zambia,29, Saturated acyclic hydrocarbons,19050.573,1.696592,Zambia -  Saturated acyclic hydrocarbons
+142,454,Malawi,188,Costa Rica,84, Nuclear reactors,18782.984,2.45107,Costa Rica -  Nuclear reactors
+143,454,Malawi,096,Brunei Darussalam,70," Glass cullet, waste or scrap, glass in the mass",18613.665,14.981181000000001,"Brunei Darussalam -  Glass cullet, waste or scrap, glass in the mass"
+144,454,Malawi,894,Zambia,40," Natural rubber latex, including prevulcanised",18331.234,3.028476,"Zambia -  Natural rubber latex, including prevulcanised"
+145,454,Malawi,894,Zambia,44, Fuel wood,17721.036,7.532831,Zambia -  Fuel wood
+146,454,Malawi,840,United States of America,33, Essential oils of bergamot,17583.823,1.525623,United States of America -  Essential oils of bergamot
+147,454,Malawi,826,United Kingdom,12, Soya beans,17365.99,25.607490000000002,United Kingdom -  Soya beans
+148,454,Malawi,250,France,03," Ornamental fish, live",16474.039,0.189638,"France -  Ornamental fish, live"
+149,454,Malawi,096,Brunei Darussalam,96," Worked ivory, articles of ivory",16387.33,3.058,"Brunei Darussalam -  Worked ivory, articles of ivory"
+150,454,Malawi,894,Zambia,15," Lard, other pig fat and poultry fat, rendered",16335.96,9.954124,"Zambia -  Lard, other pig fat and poultry fat, rendered"
+151,454,Malawi,376,Israel,09," Coffee, not roasted, not decaffeinated",16040.076,3.273067,"Israel -  Coffee, not roasted, not decaffeinated"
+152,454,Malawi,208,Denmark,03," Ornamental fish, live",16034.622,0.942837,"Denmark -  Ornamental fish, live"
+153,454,Malawi,686,Senegal,84, Nuclear reactors,15701.938,23.703723999999998,Senegal -  Nuclear reactors
+154,454,Malawi,250,France,94," Seats, aircraft",15297.453,3.799183,"France -  Seats, aircraft"
+155,454,Malawi,840,United States of America,94," Seats, aircraft",14137.86,3.3304899999999997,"United States of America -  Seats, aircraft"
+156,454,Malawi,620,Portugal,84, Nuclear reactors,14109.91,6.267467,Portugal -  Nuclear reactors
+157,454,Malawi,372,Ireland,17," Raw sugar, cane",13057.443,16.545612000000002,"Ireland -  Raw sugar, cane"
+158,454,Malawi,620,Portugal,72," Pig iron, non-alloy, <0.5% phosphorus",13033.366,1.053,"Portugal -  Pig iron, non-alloy, <0.5% phosphorus"
+159,454,Malawi,716,Zimbabwe,64," Waterproof footwear (Wellingtons etc), metal toe cap",12221.564,5.949287,"Zimbabwe -  Waterproof footwear (Wellingtons etc), metal toe cap"
+160,454,Malawi,203,Czechia,09," Coffee, not roasted, not decaffeinated",11873.836,0.800265,"Czechia -  Coffee, not roasted, not decaffeinated"
+161,454,Malawi,288,Ghana,80, Tin not alloyed unwrought,11693.721,24.768166,Ghana -  Tin not alloyed unwrought
+162,454,Malawi,716,Zimbabwe,28, Chlorine,11672.424,1.009558,Zimbabwe -  Chlorine
+163,454,Malawi,894,Zambia,85, Electric motors of an output < 37.5 watts,11463.138,8.985227,Zambia -  Electric motors of an output < 37.5 watts
+164,454,Malawi,072,Botswana,90," Optical fibres, except for telecommunications",11397.092,0.025779,"Botswana -  Optical fibres, except for telecommunications"
+165,454,Malawi,096,Brunei Darussalam,48, Newsprint,11265.951,3.138,Brunei Darussalam -  Newsprint
+166,454,Malawi,404,Kenya,84, Nuclear reactors,10889.515,0.6857519999999999,Kenya -  Nuclear reactors
+167,454,Malawi,620,Portugal,85, Electric motors of an output < 37.5 watts,10715.648,0.033,Portugal -  Electric motors of an output < 37.5 watts
+168,454,Malawi,250,France,08," Coconuts, fresh or dried",10666.963,1.127899,"France -  Coconuts, fresh or dried"
+169,454,Malawi,392,Japan,17," Raw sugar, cane",10527.989,1.018281,"Japan -  Raw sugar, cane"
+170,454,Malawi,096,Brunei Darussalam,08," Coconuts, fresh or dried",10522.396,0.151,"Brunei Darussalam -  Coconuts, fresh or dried"
+171,454,Malawi,826,United Kingdom,03," Ornamental fish, live",10440.442,0.7780990000000001,"United Kingdom -  Ornamental fish, live"
+172,454,Malawi,616,Poland,17," Raw sugar, cane",10427.736,4.496509,"Poland -  Raw sugar, cane"
+173,454,Malawi,478,Mauritania,84, Nuclear reactors,10197.813,3.023842,Mauritania -  Nuclear reactors
+174,454,Malawi,826,United Kingdom,10, Durum wheat,9967.398,6.534185000000001,United Kingdom -  Durum wheat
+175,454,Malawi,203,Czechia,87, Pedestrian controlled tractors,9862.04,0.7885209999999999,Czechia -  Pedestrian controlled tractors
+176,454,Malawi,376,Israel,07," Potatoes seed, fresh or chilled",9835.15,5.6209359999999995,"Israel -  Potatoes seed, fresh or chilled"
+177,454,Malawi,752,Sweden,94," Seats, aircraft",9788.209,2.0,"Sweden -  Seats, aircraft"
+178,454,Malawi,156,China,25," Salt (sodium chloride) including solution, salt water",9627.451,74.583364,"China -  Salt (sodium chloride) including solution, salt water"
+179,454,Malawi,616,Poland,24," Tobacco, unmanufactured, not stemmed or stripped",9591.393,2.3314090000000003,"Poland -  Tobacco, unmanufactured, not stemmed or stripped"
+180,454,Malawi,894,Zambia,94," Seats, aircraft",9548.892,1.072613,"Zambia -  Seats, aircraft"
+181,454,Malawi,096,Brunei Darussalam,22, Mineral and aerated waters not sweetened or flavoured,9365.637,17.3,Brunei Darussalam -  Mineral and aerated waters not sweetened or flavoured
+182,454,Malawi,752,Sweden,46, Plaits and products of plaiting materials,9321.223,2.0,Sweden -  Plaits and products of plaiting materials
+183,454,Malawi,834,"Tanzania, United Republic of",07," Potatoes seed, fresh or chilled",9296.566,11.17241,"Tanzania, United Republic of -  Potatoes seed, fresh or chilled"
+184,454,Malawi,724,Spain,94," Seats, aircraft",9254.651,0.956,"Spain -  Seats, aircraft"
+185,454,Malawi,804,Ukraine,24," Tobacco, unmanufactured, not stemmed or stripped",9205.457,1.849058,"Ukraine -  Tobacco, unmanufactured, not stemmed or stripped"
+186,454,Malawi,356,India,39, Polyethylene - specific gravity <0.94 in primary form,9078.883,5.755828,India -  Polyethylene - specific gravity <0.94 in primary form
+187,454,Malawi,894,Zambia,12, Soya beans,9060.087,2.045951,Zambia -  Soya beans
+188,454,Malawi,834,"Tanzania, United Republic of",84, Nuclear reactors,8763.627,7.003483,"Tanzania, United Republic of -  Nuclear reactors"
+189,454,Malawi,792,Türkiye,09," Coffee, not roasted, not decaffeinated",8664.0,1.824,"Türkiye -  Coffee, not roasted, not decaffeinated"
+190,454,Malawi,800,Uganda,94," Seats, aircraft",8555.983,1.10036,"Uganda -  Seats, aircraft"
+191,454,Malawi,620,Portugal,73, Sheet piling of iron or steel,8454.376,0.915,Portugal -  Sheet piling of iron or steel
+192,454,Malawi,826,United Kingdom,73, Sheet piling of iron or steel,8390.968,0.041578000000000004,United Kingdom -  Sheet piling of iron or steel
+193,454,Malawi,040,Austria,90," Optical fibres, except for telecommunications",8386.891,0.021865,"Austria -  Optical fibres, except for telecommunications"
+194,454,Malawi,716,Zimbabwe,36, Propellent powders,8377.807,1.866333,Zimbabwe -  Propellent powders
+195,454,Malawi,686,Senegal,73, Sheet piling of iron or steel,8123.077,11.672009,Senegal -  Sheet piling of iron or steel
+196,454,Malawi,620,Portugal,90," Optical fibres, except for telecommunications",7953.67,0.055022,"Portugal -  Optical fibres, except for telecommunications"
+197,454,Malawi,834,"Tanzania, United Republic of",12, Soya beans,7857.373,3.0752800000000002,"Tanzania, United Republic of -  Soya beans"
+198,454,Malawi,894,Zambia,73, Sheet piling of iron or steel,7414.582,2.482126,Zambia -  Sheet piling of iron or steel
+199,454,Malawi,356,India,94," Seats, aircraft",7341.508,4.041436,"India -  Seats, aircraft"
+200,454,Malawi,040,Austria,85, Electric motors of an output < 37.5 watts,7207.145,0.028985,Austria -  Electric motors of an output < 37.5 watts
+201,454,Malawi,356,India,90," Optical fibres, except for telecommunications",7136.499,0.08333499999999999,"India -  Optical fibres, except for telecommunications"
+202,454,Malawi,834,"Tanzania, United Republic of",73, Sheet piling of iron or steel,6512.871,4.929491,"Tanzania, United Republic of -  Sheet piling of iron or steel"
+203,454,Malawi,528,Netherlands (Kingdom of the),94," Seats, aircraft",6434.835,0.893709,"Netherlands (Kingdom of the) -  Seats, aircraft"
+204,454,Malawi,620,Portugal,54, Sewing thread of synthetic filaments,6162.37,0.297,Portugal -  Sewing thread of synthetic filaments
+205,454,Malawi,894,Zambia,34," Soaps, for toilet use, solid",6115.182,8.169645000000001,"Zambia -  Soaps, for toilet use, solid"
+206,454,Malawi,894,Zambia,48, Newsprint,6065.13,2.492312,Zambia -  Newsprint
+207,454,Malawi,072,Botswana,39, Polyethylene - specific gravity <0.94 in primary form,5877.301,1.067918,Botswana -  Polyethylene - specific gravity <0.94 in primary form
+208,454,Malawi,894,Zambia,23," Flour or meal, pellet of meat or offal for animal fee",5813.177,1.372775,"Zambia -  Flour or meal, pellet of meat or offal for animal fee"
+209,454,Malawi,834,"Tanzania, United Republic of",10, Durum wheat,5531.645,1.891519,"Tanzania, United Republic of -  Durum wheat"
+210,454,Malawi,156,China,12, Soya beans,5341.627,7.372514,China -  Soya beans
+211,454,Malawi,834,"Tanzania, United Republic of",70," Glass cullet, waste or scrap, glass in the mass",5297.479,114.06076399999999,"Tanzania, United Republic of -  Glass cullet, waste or scrap, glass in the mass"
+212,454,Malawi,144,Sri Lanka,03," Ornamental fish, live",5277.848,2.544969,"Sri Lanka -  Ornamental fish, live"
+213,454,Malawi,716,Zimbabwe,40," Natural rubber latex, including prevulcanised",5117.882,1.261204,"Zimbabwe -  Natural rubber latex, including prevulcanised"
+214,454,Malawi,250,France,39, Polyethylene - specific gravity <0.94 in primary form,4892.343,1.342395,France -  Polyethylene - specific gravity <0.94 in primary form
+215,454,Malawi,203,Czechia,85, Electric motors of an output < 37.5 watts,4842.175,0.06285199999999999,Czechia -  Electric motors of an output < 37.5 watts
+216,454,Malawi,188,Costa Rica,85, Electric motors of an output < 37.5 watts,4839.238,0.851332,Costa Rica -  Electric motors of an output < 37.5 watts
+217,454,Malawi,276,Germany,48, Newsprint,4722.205,0.430035,Germany -  Newsprint
+218,454,Malawi,418,Lao People's Dem. Rep.,24," Tobacco, unmanufactured, not stemmed or stripped",4638.835,0.263565,"Lao People's Dem. Rep. -  Tobacco, unmanufactured, not stemmed or stripped"
+219,454,Malawi,834,"Tanzania, United Republic of",27," Anthracite, not agglomerated",4486.168,39.169438,"Tanzania, United Republic of -  Anthracite, not agglomerated"
+220,454,Malawi,040,Austria,08," Coconuts, fresh or dried",4418.358,0.269586,"Austria -  Coconuts, fresh or dried"
+221,454,Malawi,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,4316.01,0.282981,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+222,454,Malawi,032,Argentina,12, Soya beans,4306.253,1.049247,Argentina -  Soya beans
+223,454,Malawi,840,United States of America,44, Fuel wood,4303.16,1.988506,United States of America -  Fuel wood
+224,454,Malawi,784,United Arab Emirates,94," Seats, aircraft",4036.188,0.829932,"United Arab Emirates -  Seats, aircraft"
+225,454,Malawi,352,Iceland,09," Coffee, not roasted, not decaffeinated",4030.449,0.47107499999999997,"Iceland -  Coffee, not roasted, not decaffeinated"
+226,454,Malawi,800,Uganda,87, Pedestrian controlled tractors,3527.149,0.6336470000000001,Uganda -  Pedestrian controlled tractors
+227,454,Malawi,578,Norway,08," Coconuts, fresh or dried",3525.174,0.129748,"Norway -  Coconuts, fresh or dried"
+228,454,Malawi,304,Greenland,17," Raw sugar, cane",3348.23,1.787235,"Greenland -  Raw sugar, cane"
+229,454,Malawi,764,Thailand,71," Pearls natural, not permanently mounted or set",3212.112,0.109756,"Thailand -  Pearls natural, not permanently mounted or set"
+230,454,Malawi,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,3100.539,0.00604,United Arab Emirates -  Electric motors of an output < 37.5 watts
+231,454,Malawi,716,Zimbabwe,73, Sheet piling of iron or steel,3038.385,7.055201,Zimbabwe -  Sheet piling of iron or steel
+232,454,Malawi,894,Zambia,64," Waterproof footwear (Wellingtons etc), metal toe cap",2907.855,2.58334,"Zambia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+233,454,Malawi,800,Uganda,23," Flour or meal, pellet of meat or offal for animal fee",2753.515,1.9633219999999998,"Uganda -  Flour or meal, pellet of meat or offal for animal fee"
+234,454,Malawi,352,Iceland,17," Raw sugar, cane",2728.32,0.8012630000000001,"Iceland -  Raw sugar, cane"
+235,454,Malawi,840,United States of America,25," Salt (sodium chloride) including solution, salt water",2642.419,15.572301,"United States of America -  Salt (sodium chloride) including solution, salt water"
+236,454,Malawi,646,Rwanda,85, Electric motors of an output < 37.5 watts,2602.987,0.077139,Rwanda -  Electric motors of an output < 37.5 watts
+237,454,Malawi,203,Czechia,84, Nuclear reactors,2567.036,0.062287,Czechia -  Nuclear reactors
+238,454,Malawi,804,Ukraine,09," Coffee, not roasted, not decaffeinated",2543.829,0.359351,"Ukraine -  Coffee, not roasted, not decaffeinated"
+239,454,Malawi,056,Belgium,24," Tobacco, unmanufactured, not stemmed or stripped",2516.937,0.806817,"Belgium -  Tobacco, unmanufactured, not stemmed or stripped"
+240,454,Malawi,784,United Arab Emirates,84, Nuclear reactors,2476.825,0.088934,United Arab Emirates -  Nuclear reactors
+241,454,Malawi,156,China,03," Ornamental fish, live",2386.379,0.271648,"China -  Ornamental fish, live"
+242,454,Malawi,380,Italy,84, Nuclear reactors,2362.79,0.480208,Italy -  Nuclear reactors
+243,454,Malawi,356,India,28, Chlorine,2307.625,0.387494,India -  Chlorine
+244,454,Malawi,036,Australia,87, Pedestrian controlled tractors,2272.874,0.275306,Australia -  Pedestrian controlled tractors
+245,454,Malawi,894,Zambia,51," Greasy shorn wool, not carded or combed",2233.344,0.42008100000000004,"Zambia -  Greasy shorn wool, not carded or combed"
+246,454,Malawi,834,"Tanzania, United Republic of",94," Seats, aircraft",2031.304,1.507702,"Tanzania, United Republic of -  Seats, aircraft"
+247,454,Malawi,276,Germany,84, Nuclear reactors,2011.115,0.007846,Germany -  Nuclear reactors
+248,454,Malawi,156,China,24," Tobacco, unmanufactured, not stemmed or stripped",1999.464,0.33877999999999997,"China -  Tobacco, unmanufactured, not stemmed or stripped"
+249,454,Malawi,458,Malaysia,82, Spades and shovels,1962.201,0.475755,Malaysia -  Spades and shovels
+250,454,Malawi,894,Zambia,76," Aluminium unwrought, not alloyed",1961.387,0.25036400000000003,"Zambia -  Aluminium unwrought, not alloyed"
+251,454,Malawi,716,Zimbabwe,76," Aluminium unwrought, not alloyed",1953.537,4.58646,"Zimbabwe -  Aluminium unwrought, not alloyed"
+252,454,Malawi,156,China,85, Electric motors of an output < 37.5 watts,1914.98,0.001917,China -  Electric motors of an output < 37.5 watts
+253,454,Malawi,578,Norway,09," Coffee, not roasted, not decaffeinated",1913.617,0.181367,"Norway -  Coffee, not roasted, not decaffeinated"
+254,454,Malawi,716,Zimbabwe,38, Artificial graphite,1903.861,0.034788,Zimbabwe -  Artificial graphite
+255,454,Malawi,288,Ghana,02," Bovine carcasses and half carcasses, fresh or chilled",1875.166,3.0497170000000002,"Ghana -  Bovine carcasses and half carcasses, fresh or chilled"
+256,454,Malawi,818,Egypt,24," Tobacco, unmanufactured, not stemmed or stripped",1864.061,0.576429,"Egypt -  Tobacco, unmanufactured, not stemmed or stripped"
+257,454,Malawi,076,Brazil,09," Coffee, not roasted, not decaffeinated",1839.0,0.23,"Brazil -  Coffee, not roasted, not decaffeinated"
+258,454,Malawi,288,Ghana,33, Essential oils of bergamot,1825.294,0.271844,Ghana -  Essential oils of bergamot
+259,454,Malawi,840,United States of America,84, Nuclear reactors,1824.7,0.161089,United States of America -  Nuclear reactors
+260,454,Malawi,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,1808.661,0.111196,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+261,454,Malawi,716,Zimbabwe,63, Electric blankets of textile material,1783.593,0.6232409999999999,Zimbabwe -  Electric blankets of textile material
+262,454,Malawi,716,Zimbabwe,94," Seats, aircraft",1781.671,0.561542,"Zimbabwe -  Seats, aircraft"
+263,454,Malawi,616,Poland,44, Fuel wood,1737.377,1.440239,Poland -  Fuel wood
+264,454,Malawi,826,United Kingdom,63, Electric blankets of textile material,1686.093,0.361611,United Kingdom -  Electric blankets of textile material
+265,454,Malawi,528,Netherlands (Kingdom of the),76," Aluminium unwrought, not alloyed",1674.597,0.634028,"Netherlands (Kingdom of the) -  Aluminium unwrought, not alloyed"
+266,454,Malawi,056,Belgium,12, Soya beans,1660.028,0.204593,Belgium -  Soya beans
+267,454,Malawi,276,Germany,71," Pearls natural, not permanently mounted or set",1640.51,0.051506,"Germany -  Pearls natural, not permanently mounted or set"
+268,454,Malawi,096,Brunei Darussalam,34," Soaps, for toilet use, solid",1603.859,6.4,"Brunei Darussalam -  Soaps, for toilet use, solid"
+269,454,Malawi,096,Brunei Darussalam,94," Seats, aircraft",1586.985,0.527919,"Brunei Darussalam -  Seats, aircraft"
+270,454,Malawi,360,Indonesia,07," Potatoes seed, fresh or chilled",1581.563,1.3037100000000001,"Indonesia -  Potatoes seed, fresh or chilled"
+271,454,Malawi,404,Kenya,09," Coffee, not roasted, not decaffeinated",1579.133,1.452183,"Kenya -  Coffee, not roasted, not decaffeinated"
+272,454,Malawi,894,Zambia,90," Optical fibres, except for telecommunications",1574.478,0.664985,"Zambia -  Optical fibres, except for telecommunications"
+273,454,Malawi,360,Indonesia,24," Tobacco, unmanufactured, not stemmed or stripped",1547.832,0.407636,"Indonesia -  Tobacco, unmanufactured, not stemmed or stripped"
+274,454,Malawi,826,United Kingdom,87, Pedestrian controlled tractors,1531.247,0.685805,United Kingdom -  Pedestrian controlled tractors
+275,454,Malawi,752,Sweden,85, Electric motors of an output < 37.5 watts,1528.39,0.027468,Sweden -  Electric motors of an output < 37.5 watts
+276,454,Malawi,231,Ethiopia,73, Sheet piling of iron or steel,1516.482,0.083276,Ethiopia -  Sheet piling of iron or steel
+277,454,Malawi,288,Ghana,34," Soaps, for toilet use, solid",1511.675,4.96804,"Ghana -  Soaps, for toilet use, solid"
+278,454,Malawi,682,Saudi Arabia,94," Seats, aircraft",1448.41,0.035737000000000005,"Saudi Arabia -  Seats, aircraft"
+279,454,Malawi,250,France,38, Artificial graphite,1437.375,0.41283600000000004,France -  Artificial graphite
+280,454,Malawi,784,United Arab Emirates,24," Tobacco, unmanufactured, not stemmed or stripped",1418.913,0.42888299999999996,"United Arab Emirates -  Tobacco, unmanufactured, not stemmed or stripped"
+281,454,Malawi,716,Zimbabwe,20," Cucumbers,gherkins, prepared or preserved by vinegar",1404.832,0.931858,"Zimbabwe -  Cucumbers,gherkins, prepared or preserved by vinegar"
+282,454,Malawi,144,Sri Lanka,12, Soya beans,1393.932,3.307196,Sri Lanka -  Soya beans
+283,454,Malawi,250,France,84, Nuclear reactors,1380.532,0.002621,France -  Nuclear reactors
+284,454,Malawi,756,"Switzerland, Liechtenstein",84, Nuclear reactors,1379.863,0.0026230000000000003,"Switzerland, Liechtenstein -  Nuclear reactors"
+285,454,Malawi,040,Austria,73, Sheet piling of iron or steel,1377.765,0.004777999999999999,Austria -  Sheet piling of iron or steel
+286,454,Malawi,826,United Kingdom,42," Saddlery and harness, of any material",1300.334,1.1876220000000002,"United Kingdom -  Saddlery and harness, of any material"
+287,454,Malawi,554,New Zealand,07," Potatoes seed, fresh or chilled",1287.69,1.381033,"New Zealand -  Potatoes seed, fresh or chilled"
+288,454,Malawi,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,1282.587,0.387976,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+289,454,Malawi,724,Spain,07," Potatoes seed, fresh or chilled",1279.42,0.78,"Spain -  Potatoes seed, fresh or chilled"
+290,454,Malawi,028,Antigua and Barbuda,04, Milk not concentrated nor sweetened < 1% fat,1263.755,0.095,Antigua and Barbuda -  Milk not concentrated nor sweetened < 1% fat
+291,454,Malawi,792,Türkiye,24," Tobacco, unmanufactured, not stemmed or stripped",1235.18,0.295238,"Türkiye -  Tobacco, unmanufactured, not stemmed or stripped"
+292,454,Malawi,250,France,90," Optical fibres, except for telecommunications",1209.061,0.014993000000000001,"France -  Optical fibres, except for telecommunications"
+293,454,Malawi,608,Philippines,09," Coffee, not roasted, not decaffeinated",1184.185,0.078722,"Philippines -  Coffee, not roasted, not decaffeinated"
+294,454,Malawi,072,Botswana,94," Seats, aircraft",1165.316,0.051804,"Botswana -  Seats, aircraft"
+295,454,Malawi,218,Ecuador,76," Aluminium unwrought, not alloyed",1154.057,0.192089,"Ecuador -  Aluminium unwrought, not alloyed"
+296,454,Malawi,826,United Kingdom,85, Electric motors of an output < 37.5 watts,1111.876,0.015,United Kingdom -  Electric motors of an output < 37.5 watts
+297,454,Malawi,616,Poland,85, Electric motors of an output < 37.5 watts,1101.962,0.008672000000000001,Poland -  Electric motors of an output < 37.5 watts
+298,454,Malawi,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,1071.125,0.028159,Czechia -  Polyethylene - specific gravity <0.94 in primary form
+299,454,Malawi,276,Germany,33, Essential oils of bergamot,1069.655,0.07181699999999999,Germany -  Essential oils of bergamot
+300,454,Malawi,894,Zambia,27," Anthracite, not agglomerated",1051.479,0.07785399999999999,"Zambia -  Anthracite, not agglomerated"
+301,454,Malawi,380,Italy,85, Electric motors of an output < 37.5 watts,1047.192,0.004261,Italy -  Electric motors of an output < 37.5 watts
+302,454,Malawi,528,Netherlands (Kingdom of the),24," Tobacco, unmanufactured, not stemmed or stripped",1045.038,0.242001,"Netherlands (Kingdom of the) -  Tobacco, unmanufactured, not stemmed or stripped"
+303,454,Malawi,276,Germany,85, Electric motors of an output < 37.5 watts,1040.868,0.039956000000000005,Germany -  Electric motors of an output < 37.5 watts
+304,454,Malawi,096,Brunei Darussalam,40," Natural rubber latex, including prevulcanised",1001.62,0.045,"Brunei Darussalam -  Natural rubber latex, including prevulcanised"
+305,454,Malawi,752,Sweden,38, Artificial graphite,995.737,0.31156799999999996,Sweden -  Artificial graphite
+306,454,Malawi,834,"Tanzania, United Republic of",74, Copper mattes,984.754,11.229062,"Tanzania, United Republic of -  Copper mattes"
+307,454,Malawi,442,Luxembourg,17," Raw sugar, cane",981.307,1.741061,"Luxembourg -  Raw sugar, cane"
+308,454,Malawi,384,Côte d'Ivoire,42," Saddlery and harness, of any material",976.634,0.342,"Côte d'Ivoire -  Saddlery and harness, of any material"
+309,454,Malawi,620,Portugal,39, Polyethylene - specific gravity <0.94 in primary form,972.752,0.09,Portugal -  Polyethylene - specific gravity <0.94 in primary form
+310,454,Malawi,250,France,71," Pearls natural, not permanently mounted or set",963.973,0.026386,"France -  Pearls natural, not permanently mounted or set"
+311,454,Malawi,250,France,70," Glass cullet, waste or scrap, glass in the mass",946.803,0.209637,"France -  Glass cullet, waste or scrap, glass in the mass"
+312,454,Malawi,702,Singapore,20," Cucumbers,gherkins, prepared or preserved by vinegar",919.754,0.068425,"Singapore -  Cucumbers,gherkins, prepared or preserved by vinegar"
+313,454,Malawi,894,Zambia,33, Essential oils of bergamot,885.275,0.19695,Zambia -  Essential oils of bergamot
+314,454,Malawi,051,Armenia,24," Tobacco, unmanufactured, not stemmed or stripped",884.28,0.257226,"Armenia -  Tobacco, unmanufactured, not stemmed or stripped"
+315,454,Malawi,144,Sri Lanka,07," Potatoes seed, fresh or chilled",879.615,0.870597,"Sri Lanka -  Potatoes seed, fresh or chilled"
+316,454,Malawi,834,"Tanzania, United Republic of",86," Rail locomotives, externally electrically powered",869.567,0.56753,"Tanzania, United Republic of -  Rail locomotives, externally electrically powered"
+317,454,Malawi,384,Côte d'Ivoire,84, Nuclear reactors,857.211,0.168289,Côte d'Ivoire -  Nuclear reactors
+318,454,Malawi,702,Singapore,29, Saturated acyclic hydrocarbons,853.453,0.26964,Singapore -  Saturated acyclic hydrocarbons
+319,454,Malawi,040,Austria,84, Nuclear reactors,817.374,0.034129,Austria -  Nuclear reactors
+320,454,Malawi,400,Jordan,24," Tobacco, unmanufactured, not stemmed or stripped",782.115,0.157303,"Jordan -  Tobacco, unmanufactured, not stemmed or stripped"
+321,454,Malawi,894,Zambia,83, Padlocks of base metal,779.153,0.279447,Zambia -  Padlocks of base metal
+322,454,Malawi,276,Germany,07," Potatoes seed, fresh or chilled",731.167,0.260975,"Germany -  Potatoes seed, fresh or chilled"
+323,454,Malawi,716,Zimbabwe,10, Durum wheat,718.16,0.073792,Zimbabwe -  Durum wheat
+324,454,Malawi,566,Nigeria,85, Electric motors of an output < 37.5 watts,714.361,0.14147,Nigeria -  Electric motors of an output < 37.5 watts
+325,454,Malawi,643,Russian Federation,61," Mens, boys overcoats, etc, of wool or hair, knit",702.967,0.035989,"Russian Federation -  Mens, boys overcoats, etc, of wool or hair, knit"
+326,454,Malawi,800,Uganda,33, Essential oils of bergamot,698.586,0.186904,Uganda -  Essential oils of bergamot
+327,454,Malawi,646,Rwanda,94," Seats, aircraft",688.504,0.432895,"Rwanda -  Seats, aircraft"
+328,454,Malawi,276,Germany,20," Cucumbers,gherkins, prepared or preserved by vinegar",676.109,0.058612000000000004,"Germany -  Cucumbers,gherkins, prepared or preserved by vinegar"
+329,454,Malawi,414,Kuwait,21," Coffee extracts, essences, concentrates, preparations",655.765,0.06,"Kuwait -  Coffee extracts, essences, concentrates, preparations"
+330,454,Malawi,516,Namibia,09," Coffee, not roasted, not decaffeinated",655.744,0.16397,"Namibia -  Coffee, not roasted, not decaffeinated"
+331,454,Malawi,250,France,12, Soya beans,640.192,0.144861,France -  Soya beans
+332,454,Malawi,203,Czechia,40," Natural rubber latex, including prevulcanised",638.894,0.012587999999999998,"Czechia -  Natural rubber latex, including prevulcanised"
+333,454,Malawi,894,Zambia,04, Milk not concentrated nor sweetened < 1% fat,633.585,0.19231,Zambia -  Milk not concentrated nor sweetened < 1% fat
+334,454,Malawi,384,Côte d'Ivoire,94," Seats, aircraft",625.397,0.14030099999999998,"Côte d'Ivoire -  Seats, aircraft"
+335,454,Malawi,516,Namibia,94," Seats, aircraft",614.679,0.178574,"Namibia -  Seats, aircraft"
+336,454,Malawi,250,France,18," Cocoa beans, whole or broken, raw or roasted",602.963,0.284098,"France -  Cocoa beans, whole or broken, raw or roasted"
+337,454,Malawi,096,Brunei Darussalam,33, Essential oils of bergamot,593.649,0.206,Brunei Darussalam -  Essential oils of bergamot
+338,454,Malawi,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",583.54,0.11882599999999999,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+339,454,Malawi,800,Uganda,05," Hair, human, unworked, waste of human hair",579.616,5.581203,"Uganda -  Hair, human, unworked, waste of human hair"
+340,454,Malawi,702,Singapore,85, Electric motors of an output < 37.5 watts,579.244,0.076594,Singapore -  Electric motors of an output < 37.5 watts
+341,454,Malawi,250,France,07," Potatoes seed, fresh or chilled",578.617,0.290875,"France -  Potatoes seed, fresh or chilled"
+342,454,Malawi,156,China,39, Polyethylene - specific gravity <0.94 in primary form,576.681,0.097593,China -  Polyethylene - specific gravity <0.94 in primary form
+343,454,Malawi,800,Uganda,85, Electric motors of an output < 37.5 watts,574.746,0.12343000000000001,Uganda -  Electric motors of an output < 37.5 watts
+344,454,Malawi,894,Zambia,96," Worked ivory, articles of ivory",573.413,0.062505,"Zambia -  Worked ivory, articles of ivory"
+345,454,Malawi,203,Czechia,71," Pearls natural, not permanently mounted or set",560.898,1.290079,"Czechia -  Pearls natural, not permanently mounted or set"
+346,454,Malawi,392,Japan,84, Nuclear reactors,552.846,0.011483,Japan -  Nuclear reactors
+347,454,Malawi,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",543.105,0.030543,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+348,454,Malawi,348,Hungary,85, Electric motors of an output < 37.5 watts,533.54,0.101309,Hungary -  Electric motors of an output < 37.5 watts
+349,454,Malawi,024,Angola,82, Spades and shovels,529.18,0.20866900000000002,Angola -  Spades and shovels
+350,454,Malawi,566,Nigeria,42," Saddlery and harness, of any material",528.385,0.018201000000000002,"Nigeria -  Saddlery and harness, of any material"
+351,454,Malawi,208,Denmark,24," Tobacco, unmanufactured, not stemmed or stripped",527.386,0.133159,"Denmark -  Tobacco, unmanufactured, not stemmed or stripped"
+352,454,Malawi,426,Lesotho,52," Cotton, not carded or combed",521.328,0.23432,"Lesotho -  Cotton, not carded or combed"
+353,454,Malawi,702,Singapore,90," Optical fibres, except for telecommunications",509.588,0.004051,"Singapore -  Optical fibres, except for telecommunications"
+354,454,Malawi,716,Zimbabwe,11, Wheat or meslin flour,509.419,0.396137,Zimbabwe -  Wheat or meslin flour
+355,454,Malawi,620,Portugal,63, Electric blankets of textile material,507.243,0.021,Portugal -  Electric blankets of textile material
+356,454,Malawi,410,"Korea, Republic of",24," Tobacco, unmanufactured, not stemmed or stripped",506.82,0.152312,"Korea, Republic of -  Tobacco, unmanufactured, not stemmed or stripped"
+357,454,Malawi,586,Pakistan,26," Iron ore, concentrate, not iron pyrites,unagglomerate",488.789,8.610709,"Pakistan -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+358,454,Malawi,076,Brazil,12, Soya beans,487.0,0.05,Brazil -  Soya beans
+359,454,Malawi,404,Kenya,12, Soya beans,480.446,0.641262,Kenya -  Soya beans
+360,454,Malawi,566,Nigeria,84, Nuclear reactors,461.381,0.37089,Nigeria -  Nuclear reactors
+361,454,Malawi,478,Mauritania,39, Polyethylene - specific gravity <0.94 in primary form,455.63,0.008561,Mauritania -  Polyethylene - specific gravity <0.94 in primary form
+362,454,Malawi,250,France,21," Coffee extracts, essences, concentrates, preparations",444.427,0.06950100000000001,"France -  Coffee extracts, essences, concentrates, preparations"
+363,454,Malawi,384,Côte d'Ivoire,76," Aluminium unwrought, not alloyed",435.59,0.135,"Côte d'Ivoire -  Aluminium unwrought, not alloyed"
+364,454,Malawi,894,Zambia,32, Quebracho tanning extract,423.116,0.250434,Zambia -  Quebracho tanning extract
+365,454,Malawi,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",416.495,0.055134999999999997,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+366,454,Malawi,752,Sweden,83, Padlocks of base metal,416.38,0.161662,Sweden -  Padlocks of base metal
+367,454,Malawi,384,Côte d'Ivoire,39, Polyethylene - specific gravity <0.94 in primary form,414.349,0.126,Côte d'Ivoire -  Polyethylene - specific gravity <0.94 in primary form
+368,454,Malawi,384,Côte d'Ivoire,82, Spades and shovels,413.903,0.144,Côte d'Ivoire -  Spades and shovels
+369,454,Malawi,156,China,87, Pedestrian controlled tractors,409.449,0.012150000000000001,China -  Pedestrian controlled tractors
+370,454,Malawi,108,Burundi,32, Quebracho tanning extract,396.232,0.014398999999999999,Burundi -  Quebracho tanning extract
+371,454,Malawi,048,Bahrain,07," Potatoes seed, fresh or chilled",380.015,0.346171,"Bahrain -  Potatoes seed, fresh or chilled"
+372,454,Malawi,072,Botswana,85, Electric motors of an output < 37.5 watts,379.598,0.00041099999999999996,Botswana -  Electric motors of an output < 37.5 watts
+373,454,Malawi,478,Mauritania,85, Electric motors of an output < 37.5 watts,375.878,0.00294,Mauritania -  Electric motors of an output < 37.5 watts
+374,454,Malawi,716,Zimbabwe,33, Essential oils of bergamot,374.272,0.112795,Zimbabwe -  Essential oils of bergamot
+375,454,Malawi,384,Côte d'Ivoire,68," Stone setts, curbstones, flagstones (except slate)",370.937,0.108,"Côte d'Ivoire -  Stone setts, curbstones, flagstones (except slate)"
+376,454,Malawi,826,United Kingdom,90," Optical fibres, except for telecommunications",364.742,0.015676,"United Kingdom -  Optical fibres, except for telecommunications"
+377,454,Malawi,384,Côte d'Ivoire,70," Glass cullet, waste or scrap, glass in the mass",363.691,0.108,"Côte d'Ivoire -  Glass cullet, waste or scrap, glass in the mass"
+378,454,Malawi,344,"China, Hong Kong SAR",71," Pearls natural, not permanently mounted or set",358.774,0.008275000000000001,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+379,454,Malawi,384,Côte d'Ivoire,83, Padlocks of base metal,357.813,0.117,Côte d'Ivoire -  Padlocks of base metal
+380,454,Malawi,834,"Tanzania, United Republic of",63, Electric blankets of textile material,356.803,0.323144,"Tanzania, United Republic of -  Electric blankets of textile material"
+381,454,Malawi,404,Kenya,63, Electric blankets of textile material,352.066,0.233566,Kenya -  Electric blankets of textile material
+382,454,Malawi,250,France,44, Fuel wood,350.472,2.950108,France -  Fuel wood
+383,454,Malawi,414,Kuwait,08," Coconuts, fresh or dried",350.313,0.06703,"Kuwait -  Coconuts, fresh or dried"
+384,454,Malawi,384,Côte d'Ivoire,49," Brochures, leaflets and similar, in single sheets",347.743,0.108,"Côte d'Ivoire -  Brochures, leaflets and similar, in single sheets"
+385,454,Malawi,384,Côte d'Ivoire,48, Newsprint,328.976,0.099,Côte d'Ivoire -  Newsprint
+386,454,Malawi,300,Greece,24," Tobacco, unmanufactured, not stemmed or stripped",325.11,0.130467,"Greece -  Tobacco, unmanufactured, not stemmed or stripped"
+387,454,Malawi,608,Philippines,94," Seats, aircraft",319.834,0.117515,"Philippines -  Seats, aircraft"
+388,454,Malawi,380,Italy,24," Tobacco, unmanufactured, not stemmed or stripped",318.569,0.087619,"Italy -  Tobacco, unmanufactured, not stemmed or stripped"
+389,454,Malawi,384,Côte d'Ivoire,61," Mens, boys overcoats, etc, of wool or hair, knit",314.664,0.5256369999999999,"Côte d'Ivoire -  Mens, boys overcoats, etc, of wool or hair, knit"
+390,454,Malawi,784,United Arab Emirates,08," Coconuts, fresh or dried",308.691,0.173526,"United Arab Emirates -  Coconuts, fresh or dried"
+391,454,Malawi,800,Uganda,41," Bovine skins, whole, raw",305.252,4.824483,"Uganda -  Bovine skins, whole, raw"
+392,454,Malawi,840,United States of America,71," Pearls natural, not permanently mounted or set",302.312,0.007727,"United States of America -  Pearls natural, not permanently mounted or set"
+393,454,Malawi,554,New Zealand,85, Electric motors of an output < 37.5 watts,294.902,0.010695999999999999,New Zealand -  Electric motors of an output < 37.5 watts
+394,454,Malawi,410,"Korea, Republic of",42," Saddlery and harness, of any material",291.228,0.0008060000000000001,"Korea, Republic of -  Saddlery and harness, of any material"
+395,454,Malawi,894,Zambia,10, Durum wheat,286.589,0.042664,Zambia -  Durum wheat
+396,454,Malawi,716,Zimbabwe,07," Potatoes seed, fresh or chilled",285.28,0.084173,"Zimbabwe -  Potatoes seed, fresh or chilled"
+397,454,Malawi,384,Côte d'Ivoire,95," Rideable wheeled toys, dolls carriages",285.211,0.103,"Côte d'Ivoire -  Rideable wheeled toys, dolls carriages"
+398,454,Malawi,288,Ghana,63, Electric blankets of textile material,272.336,0.075082,Ghana -  Electric blankets of textile material
+399,454,Malawi,504,Morocco,24," Tobacco, unmanufactured, not stemmed or stripped",271.487,0.070277,"Morocco -  Tobacco, unmanufactured, not stemmed or stripped"
+400,454,Malawi,784,United Arab Emirates,17," Raw sugar, cane",271.32,0.07395499999999999,"United Arab Emirates -  Raw sugar, cane"
+401,454,Malawi,894,Zambia,20," Cucumbers,gherkins, prepared or preserved by vinegar",271.198,0.25759699999999996,"Zambia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+402,454,Malawi,716,Zimbabwe,21," Coffee extracts, essences, concentrates, preparations",261.87,0.060171999999999996,"Zimbabwe -  Coffee extracts, essences, concentrates, preparations"
+403,454,Malawi,096,Brunei Darussalam,30," Glands and other organs, dried, for therapeutic uses",261.678,0.016795,"Brunei Darussalam -  Glands and other organs, dried, for therapeutic uses"
+404,454,Malawi,800,Uganda,30," Glands and other organs, dried, for therapeutic uses",260.098,0.000536,"Uganda -  Glands and other organs, dried, for therapeutic uses"
+405,454,Malawi,826,United Kingdom,82, Spades and shovels,255.409,0.025966,United Kingdom -  Spades and shovels
+406,454,Malawi,716,Zimbabwe,62," Mens, boys overcoats of wool or hair, not knit",255.09,0.007318,"Zimbabwe -  Mens, boys overcoats of wool or hair, not knit"
+407,454,Malawi,826,United Kingdom,24," Tobacco, unmanufactured, not stemmed or stripped",250.252,0.057143,"United Kingdom -  Tobacco, unmanufactured, not stemmed or stripped"
+408,454,Malawi,410,"Korea, Republic of",94," Seats, aircraft",243.597,0.000124,"Korea, Republic of -  Seats, aircraft"
+409,454,Malawi,356,India,73, Sheet piling of iron or steel,241.944,0.024232,India -  Sheet piling of iron or steel
+410,454,Malawi,156,China,71," Pearls natural, not permanently mounted or set",240.072,2.983955,"China -  Pearls natural, not permanently mounted or set"
+411,454,Malawi,096,Brunei Darussalam,21," Coffee extracts, essences, concentrates, preparations",236.031,0.061,"Brunei Darussalam -  Coffee extracts, essences, concentrates, preparations"
+412,454,Malawi,478,Mauritania,73, Sheet piling of iron or steel,228.874,0.002353,Mauritania -  Sheet piling of iron or steel
+413,454,Malawi,646,Rwanda,39, Polyethylene - specific gravity <0.94 in primary form,224.052,0.231544,Rwanda -  Polyethylene - specific gravity <0.94 in primary form
+414,454,Malawi,404,Kenya,94," Seats, aircraft",221.259,0.560575,"Kenya -  Seats, aircraft"
+415,454,Malawi,288,Ghana,48, Newsprint,220.401,0.07990699999999999,Ghana -  Newsprint
+416,454,Malawi,756,"Switzerland, Liechtenstein",24," Tobacco, unmanufactured, not stemmed or stripped",218.436,0.051815,"Switzerland, Liechtenstein -  Tobacco, unmanufactured, not stemmed or stripped"
+417,454,Malawi,716,Zimbabwe,37, X-ray plates and films,216.212,0.146351,Zimbabwe -  X-ray plates and films
+418,454,Malawi,288,Ghana,94," Seats, aircraft",210.017,0.33131299999999997,"Ghana -  Seats, aircraft"
+419,454,Malawi,352,Iceland,07," Potatoes seed, fresh or chilled",206.822,0.045670999999999996,"Iceland -  Potatoes seed, fresh or chilled"
+420,454,Malawi,356,India,71," Pearls natural, not permanently mounted or set",206.361,0.131906,"India -  Pearls natural, not permanently mounted or set"
+421,454,Malawi,834,"Tanzania, United Republic of",76," Aluminium unwrought, not alloyed",203.501,1.399747,"Tanzania, United Republic of -  Aluminium unwrought, not alloyed"
+422,454,Malawi,144,Sri Lanka,09," Coffee, not roasted, not decaffeinated",198.668,0.107122,"Sri Lanka -  Coffee, not roasted, not decaffeinated"
+423,454,Malawi,620,Portugal,76," Aluminium unwrought, not alloyed",196.419,0.035,"Portugal -  Aluminium unwrought, not alloyed"
+424,454,Malawi,250,France,69," Bricks, blocks and ceramic goods of siliceous earths",195.497,0.058669,"France -  Bricks, blocks and ceramic goods of siliceous earths"
+425,454,Malawi,578,Norway,94," Seats, aircraft",194.763,0.019856000000000002,"Norway -  Seats, aircraft"
+426,454,Malawi,208,Denmark,85, Electric motors of an output < 37.5 watts,192.887,0.002502,Denmark -  Electric motors of an output < 37.5 watts
+427,454,Malawi,894,Zambia,38, Artificial graphite,189.355,0.001029,Zambia -  Artificial graphite
+428,454,Malawi,398,Kazakhstan,24," Tobacco, unmanufactured, not stemmed or stripped",186.503,0.062066,"Kazakhstan -  Tobacco, unmanufactured, not stemmed or stripped"
+429,454,Malawi,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",183.932,0.015805,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+430,454,Malawi,196,Cyprus,69," Bricks, blocks and ceramic goods of siliceous earths",183.859,0.019821000000000002,"Cyprus -  Bricks, blocks and ceramic goods of siliceous earths"
+431,454,Malawi,250,France,22, Mineral and aerated waters not sweetened or flavoured,181.89,0.539249,France -  Mineral and aerated waters not sweetened or flavoured
+432,454,Malawi,620,Portugal,24," Tobacco, unmanufactured, not stemmed or stripped",180.942,0.079887,"Portugal -  Tobacco, unmanufactured, not stemmed or stripped"
+433,454,Malawi,608,Philippines,85, Electric motors of an output < 37.5 watts,179.389,0.011907,Philippines -  Electric motors of an output < 37.5 watts
+434,454,Malawi,716,Zimbabwe,90," Optical fibres, except for telecommunications",175.11,0.5798909999999999,"Zimbabwe -  Optical fibres, except for telecommunications"
+435,454,Malawi,356,India,82, Spades and shovels,173.063,0.0026320000000000002,India -  Spades and shovels
+436,454,Malawi,566,Nigeria,21," Coffee extracts, essences, concentrates, preparations",172.617,0.12095,"Nigeria -  Coffee extracts, essences, concentrates, preparations"
+437,454,Malawi,288,Ghana,95," Rideable wheeled toys, dolls carriages",172.223,0.22075999999999998,"Ghana -  Rideable wheeled toys, dolls carriages"
+438,454,Malawi,250,France,46, Plaits and products of plaiting materials,172.138,0.031651,France -  Plaits and products of plaiting materials
+439,454,Malawi,384,Côte d'Ivoire,90," Optical fibres, except for telecommunications",172.038,0.003206,"Côte d'Ivoire -  Optical fibres, except for telecommunications"
+440,454,Malawi,716,Zimbabwe,34," Soaps, for toilet use, solid",167.401,0.06735,"Zimbabwe -  Soaps, for toilet use, solid"
+441,454,Malawi,112,Belarus,09," Coffee, not roasted, not decaffeinated",166.769,0.031902,"Belarus -  Coffee, not roasted, not decaffeinated"
+442,454,Malawi,894,Zambia,70," Glass cullet, waste or scrap, glass in the mass",164.208,0.07647,"Zambia -  Glass cullet, waste or scrap, glass in the mass"
+443,454,Malawi,716,Zimbabwe,61," Mens, boys overcoats, etc, of wool or hair, knit",162.908,0.013117,"Zimbabwe -  Mens, boys overcoats, etc, of wool or hair, knit"
+444,454,Malawi,800,Uganda,63, Electric blankets of textile material,162.515,0.041494,Uganda -  Electric blankets of textile material
+445,454,Malawi,894,Zambia,74, Copper mattes,161.299,0.249714,Zambia -  Copper mattes
+446,454,Malawi,208,Denmark,69," Bricks, blocks and ceramic goods of siliceous earths",160.871,0.051414,"Denmark -  Bricks, blocks and ceramic goods of siliceous earths"
+447,454,Malawi,258,French Polynesia,17," Raw sugar, cane",156.281,0.086,"French Polynesia -  Raw sugar, cane"
+448,454,Malawi,826,United Kingdom,69," Bricks, blocks and ceramic goods of siliceous earths",154.141,0.08744299999999999,"United Kingdom -  Bricks, blocks and ceramic goods of siliceous earths"
+449,454,Malawi,422,Lebanon,09," Coffee, not roasted, not decaffeinated",153.008,0.0013089999999999998,"Lebanon -  Coffee, not roasted, not decaffeinated"
+450,454,Malawi,144,Sri Lanka,71," Pearls natural, not permanently mounted or set",146.866,0.00036899999999999997,"Sri Lanka -  Pearls natural, not permanently mounted or set"
+451,454,Malawi,894,Zambia,42," Saddlery and harness, of any material",142.007,0.004916,"Zambia -  Saddlery and harness, of any material"
+452,454,Malawi,040,Austria,40," Natural rubber latex, including prevulcanised",136.52,0.054889,"Austria -  Natural rubber latex, including prevulcanised"
+453,454,Malawi,834,"Tanzania, United Republic of",29, Saturated acyclic hydrocarbons,131.037,0.124278,"Tanzania, United Republic of -  Saturated acyclic hydrocarbons"
+454,454,Malawi,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,130.741,0.002558,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+455,454,Malawi,716,Zimbabwe,27," Anthracite, not agglomerated",130.541,0.005808,"Zimbabwe -  Anthracite, not agglomerated"
+456,454,Malawi,716,Zimbabwe,68," Stone setts, curbstones, flagstones (except slate)",130.203,0.030118,"Zimbabwe -  Stone setts, curbstones, flagstones (except slate)"
+457,454,Malawi,384,Côte d'Ivoire,69," Bricks, blocks and ceramic goods of siliceous earths",122.771,0.0031739999999999997,"Côte d'Ivoire -  Bricks, blocks and ceramic goods of siliceous earths"
+458,454,Malawi,214,Dominican Republic,84, Nuclear reactors,122.714,0.004371000000000001,Dominican Republic -  Nuclear reactors
+459,454,Malawi,372,Ireland,83, Padlocks of base metal,122.098,0.000933,Ireland -  Padlocks of base metal
+460,454,Malawi,170,Colombia,09," Coffee, not roasted, not decaffeinated",119.554,0.0025009999999999998,"Colombia -  Coffee, not roasted, not decaffeinated"
+461,454,Malawi,231,Ethiopia,87, Pedestrian controlled tractors,117.592,0.039051,Ethiopia -  Pedestrian controlled tractors
+462,454,Malawi,348,Hungary,24," Tobacco, unmanufactured, not stemmed or stripped",113.323,0.02894,"Hungary -  Tobacco, unmanufactured, not stemmed or stripped"
+463,454,Malawi,642,Romania,85, Electric motors of an output < 37.5 watts,112.613,1.9e-05,Romania -  Electric motors of an output < 37.5 watts
+464,454,Malawi,288,Ghana,85, Electric motors of an output < 37.5 watts,108.705,0.072795,Ghana -  Electric motors of an output < 37.5 watts
+465,454,Malawi,422,Lebanon,94," Seats, aircraft",107.63,0.025050999999999997,"Lebanon -  Seats, aircraft"
+466,454,Malawi,752,Sweden,44, Fuel wood,106.903,0.043286,Sweden -  Fuel wood
+467,454,Malawi,646,Rwanda,30," Glands and other organs, dried, for therapeutic uses",105.928,0.000634,"Rwanda -  Glands and other organs, dried, for therapeutic uses"
+468,454,Malawi,646,Rwanda,95," Rideable wheeled toys, dolls carriages",104.867,0.082791,"Rwanda -  Rideable wheeled toys, dolls carriages"
+469,454,Malawi,716,Zimbabwe,83, Padlocks of base metal,102.366,0.051514000000000004,Zimbabwe -  Padlocks of base metal
+470,454,Malawi,662,Saint Lucia,85, Electric motors of an output < 37.5 watts,100.414,0.008417999999999998,Saint Lucia -  Electric motors of an output < 37.5 watts
+471,454,Malawi,724,Spain,85, Electric motors of an output < 37.5 watts,95.856,0.005767,Spain -  Electric motors of an output < 37.5 watts
+472,454,Malawi,716,Zimbabwe,95," Rideable wheeled toys, dolls carriages",94.785,0.002787,"Zimbabwe -  Rideable wheeled toys, dolls carriages"
+473,454,Malawi,404,Kenya,85, Electric motors of an output < 37.5 watts,94.385,0.011037000000000002,Kenya -  Electric motors of an output < 37.5 watts
+474,454,Malawi,528,Netherlands (Kingdom of the),12, Soya beans,93.269,0.125255,Netherlands (Kingdom of the) -  Soya beans
+475,454,Malawi,748,Eswatini,07," Potatoes seed, fresh or chilled",92.39,0.025678999999999997,"Eswatini -  Potatoes seed, fresh or chilled"
+476,454,Malawi,218,Ecuador,37, X-ray plates and films,91.337,0.003407,Ecuador -  X-ray plates and films
+477,454,Malawi,120,Cameroon,33, Essential oils of bergamot,90.663,0.112672,Cameroon -  Essential oils of bergamot
+478,454,Malawi,826,United Kingdom,84, Nuclear reactors,90.397,0.000292,United Kingdom -  Nuclear reactors
+479,454,Malawi,752,Sweden,84, Nuclear reactors,89.298,0.008261,Sweden -  Nuclear reactors
+480,454,Malawi,834,"Tanzania, United Republic of",85, Electric motors of an output < 37.5 watts,89.246,0.679803,"Tanzania, United Republic of -  Electric motors of an output < 37.5 watts"
+481,454,Malawi,231,Ethiopia,95," Rideable wheeled toys, dolls carriages",88.165,0.032239,"Ethiopia -  Rideable wheeled toys, dolls carriages"
+482,454,Malawi,643,Russian Federation,85, Electric motors of an output < 37.5 watts,85.962,5.7e-05,Russian Federation -  Electric motors of an output < 37.5 watts
+483,454,Malawi,404,Kenya,95," Rideable wheeled toys, dolls carriages",84.381,0.053009,"Kenya -  Rideable wheeled toys, dolls carriages"
+484,454,Malawi,480,Mauritius,90," Optical fibres, except for telecommunications",82.289,0.000322,"Mauritius -  Optical fibres, except for telecommunications"
+485,454,Malawi,716,Zimbabwe,82, Spades and shovels,79.511,0.026799,Zimbabwe -  Spades and shovels
+486,454,Malawi,250,France,40," Natural rubber latex, including prevulcanised",78.446,0.00422,"France -  Natural rubber latex, including prevulcanised"
+487,454,Malawi,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,78.43,0.000235,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+488,454,Malawi,716,Zimbabwe,09," Coffee, not roasted, not decaffeinated",78.162,0.095932,"Zimbabwe -  Coffee, not roasted, not decaffeinated"
+489,454,Malawi,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",77.854,0.016408000000000002,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+490,454,Malawi,748,Eswatini,33, Essential oils of bergamot,77.598,0.004073,Eswatini -  Essential oils of bergamot
+491,454,Malawi,116,Cambodia,24," Tobacco, unmanufactured, not stemmed or stripped",76.177,0.10648300000000001,"Cambodia -  Tobacco, unmanufactured, not stemmed or stripped"
+492,454,Malawi,834,"Tanzania, United Republic of",09," Coffee, not roasted, not decaffeinated",73.779,0.058239,"Tanzania, United Republic of -  Coffee, not roasted, not decaffeinated"
+493,454,Malawi,156,China,42," Saddlery and harness, of any material",73.462,0.004902,"China -  Saddlery and harness, of any material"
+494,454,Malawi,528,Netherlands (Kingdom of the),84, Nuclear reactors,73.054,0.00074,Netherlands (Kingdom of the) -  Nuclear reactors
+495,454,Malawi,756,"Switzerland, Liechtenstein",16," Sausages, similar products of meat, meat offal & bloo",72.752,0.007197,"Switzerland, Liechtenstein -  Sausages, similar products of meat, meat offal & bloo"
+496,454,Malawi,231,Ethiopia,92," Upright pianos, including auto-players",72.069,0.024253,"Ethiopia -  Upright pianos, including auto-players"
+497,454,Malawi,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,70.336,0.003078,Austria -  Polyethylene - specific gravity <0.94 in primary form
+498,454,Malawi,646,Rwanda,63, Electric blankets of textile material,69.618,0.04269,Rwanda -  Electric blankets of textile material
+499,454,Malawi,516,Namibia,12, Soya beans,68.859,0.017398,Namibia -  Soya beans
+500,454,Malawi,410,"Korea, Republic of",84, Nuclear reactors,68.52,0.000803,"Korea, Republic of -  Nuclear reactors"
+501,454,Malawi,800,Uganda,84, Nuclear reactors,68.219,0.002872,Uganda -  Nuclear reactors
+502,454,Malawi,380,Italy,71," Pearls natural, not permanently mounted or set",67.955,0.007489,"Italy -  Pearls natural, not permanently mounted or set"
+503,454,Malawi,826,United Kingdom,46, Plaits and products of plaiting materials,66.273,1.513209,United Kingdom -  Plaits and products of plaiting materials
+504,454,Malawi,440,Lithuania,24," Tobacco, unmanufactured, not stemmed or stripped",64.952,0.016890000000000002,"Lithuania -  Tobacco, unmanufactured, not stemmed or stripped"
+505,454,Malawi,894,Zambia,52," Cotton, not carded or combed",64.693,0.0019039999999999999,"Zambia -  Cotton, not carded or combed"
+506,454,Malawi,528,Netherlands (Kingdom of the),10, Durum wheat,62.843,0.002126,Netherlands (Kingdom of the) -  Durum wheat
+507,454,Malawi,682,Saudi Arabia,08," Coconuts, fresh or dried",61.688,0.043968,"Saudi Arabia -  Coconuts, fresh or dried"
+508,454,Malawi,072,Botswana,44, Fuel wood,60.616,0.0016519999999999998,Botswana -  Fuel wood
+509,454,Malawi,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",58.361,0.004318,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+510,454,Malawi,208,Denmark,12, Soya beans,58.177,0.242233,Denmark -  Soya beans
+511,454,Malawi,764,Thailand,69," Bricks, blocks and ceramic goods of siliceous earths",57.592,0.008506,"Thailand -  Bricks, blocks and ceramic goods of siliceous earths"
+512,454,Malawi,860,Uzbekistan,24," Tobacco, unmanufactured, not stemmed or stripped",56.553,0.013243,"Uzbekistan -  Tobacco, unmanufactured, not stemmed or stripped"
+513,454,Malawi,716,Zimbabwe,30," Glands and other organs, dried, for therapeutic uses",56.489,0.001403,"Zimbabwe -  Glands and other organs, dried, for therapeutic uses"
+514,454,Malawi,894,Zambia,49," Brochures, leaflets and similar, in single sheets",55.437,0.002691,"Zambia -  Brochures, leaflets and similar, in single sheets"
+515,454,Malawi,372,Ireland,85, Electric motors of an output < 37.5 watts,54.97,0.001814,Ireland -  Electric motors of an output < 37.5 watts
+516,454,Malawi,528,Netherlands (Kingdom of the),39, Polyethylene - specific gravity <0.94 in primary form,53.586,0.000522,Netherlands (Kingdom of the) -  Polyethylene - specific gravity <0.94 in primary form
+517,454,Malawi,072,Botswana,84, Nuclear reactors,51.793,0.0017829999999999999,Botswana -  Nuclear reactors
+518,454,Malawi,788,Tunisia,24," Tobacco, unmanufactured, not stemmed or stripped",50.203,0.017893,"Tunisia -  Tobacco, unmanufactured, not stemmed or stripped"
+519,454,Malawi,372,Ireland,90," Optical fibres, except for telecommunications",49.884,0.000443,"Ireland -  Optical fibres, except for telecommunications"
+520,454,Malawi,231,Ethiopia,94," Seats, aircraft",49.734,0.026294,"Ethiopia -  Seats, aircraft"
+521,454,Malawi,191,Croatia,24," Tobacco, unmanufactured, not stemmed or stripped",49.424,0.011752,"Croatia -  Tobacco, unmanufactured, not stemmed or stripped"
+522,454,Malawi,288,Ghana,76," Aluminium unwrought, not alloyed",48.402,0.040703,"Ghana -  Aluminium unwrought, not alloyed"
+523,454,Malawi,231,Ethiopia,82, Spades and shovels,47.475,0.023576,Ethiopia -  Spades and shovels
+524,454,Malawi,372,Ireland,21," Coffee extracts, essences, concentrates, preparations",46.619,0.00027600000000000004,"Ireland -  Coffee extracts, essences, concentrates, preparations"
+525,454,Malawi,499,Montenegro,09," Coffee, not roasted, not decaffeinated",45.712,0.001999,"Montenegro -  Coffee, not roasted, not decaffeinated"
+526,454,Malawi,748,Eswatini,84, Nuclear reactors,45.59,0.000328,Eswatini -  Nuclear reactors
+527,454,Malawi,384,Côte d'Ivoire,64," Waterproof footwear (Wellingtons etc), metal toe cap",44.833,0.001052,"Côte d'Ivoire -  Waterproof footwear (Wellingtons etc), metal toe cap"
+528,454,Malawi,152,Chile,61," Mens, boys overcoats, etc, of wool or hair, knit",43.116,0.002871,"Chile -  Mens, boys overcoats, etc, of wool or hair, knit"
+529,454,Malawi,578,Norway,07," Potatoes seed, fresh or chilled",41.368,0.021596,"Norway -  Potatoes seed, fresh or chilled"
+530,454,Malawi,894,Zambia,68," Stone setts, curbstones, flagstones (except slate)",40.888,0.029876999999999997,"Zambia -  Stone setts, curbstones, flagstones (except slate)"
+531,454,Malawi,208,Denmark,84, Nuclear reactors,40.415,0.001821,Denmark -  Nuclear reactors
+532,454,Malawi,152,Chile,42," Saddlery and harness, of any material",39.672,0.000263,"Chile -  Saddlery and harness, of any material"
+533,454,Malawi,646,Rwanda,76," Aluminium unwrought, not alloyed",38.937,0.030621,"Rwanda -  Aluminium unwrought, not alloyed"
+534,454,Malawi,516,Namibia,20," Cucumbers,gherkins, prepared or preserved by vinegar",38.123,0.014322,"Namibia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+535,454,Malawi,404,Kenya,87, Pedestrian controlled tractors,37.94,0.011982,Kenya -  Pedestrian controlled tractors
+536,454,Malawi,268,Georgia,24," Tobacco, unmanufactured, not stemmed or stripped",37.387,0.011899,"Georgia -  Tobacco, unmanufactured, not stemmed or stripped"
+537,454,Malawi,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",36.047,0.003665,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+538,454,Malawi,528,Netherlands (Kingdom of the),06," Bulbs, tubers, corms, crowns and rhizomes, dormant",35.165,0.0036469999999999996,"Netherlands (Kingdom of the) -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+539,454,Malawi,716,Zimbabwe,70," Glass cullet, waste or scrap, glass in the mass",34.714,0.0008309999999999999,"Zimbabwe -  Glass cullet, waste or scrap, glass in the mass"
+540,454,Malawi,231,Ethiopia,96," Worked ivory, articles of ivory",34.389,0.02533,"Ethiopia -  Worked ivory, articles of ivory"
+541,454,Malawi,800,Uganda,09," Coffee, not roasted, not decaffeinated",34.323,0.00625,"Uganda -  Coffee, not roasted, not decaffeinated"
+542,454,Malawi,384,Côte d'Ivoire,63, Electric blankets of textile material,32.689,0.0057480000000000005,Côte d'Ivoire -  Electric blankets of textile material
+543,454,Malawi,250,France,87, Pedestrian controlled tractors,32.47,0.0037099999999999998,France -  Pedestrian controlled tractors
+544,454,Malawi,180,"Congo, Dem. Rep. of the",33, Essential oils of bergamot,32.198,0.011691,"Congo, Dem. Rep. of the -  Essential oils of bergamot"
+545,454,Malawi,716,Zimbabwe,53," Flax fibre, raw or retted",31.316,0.238364,"Zimbabwe -  Flax fibre, raw or retted"
+546,454,Malawi,072,Botswana,10, Durum wheat,31.073,0.0038250000000000003,Botswana -  Durum wheat
+547,454,Malawi,404,Kenya,30," Glands and other organs, dried, for therapeutic uses",30.18,8.8e-05,"Kenya -  Glands and other organs, dried, for therapeutic uses"
+548,454,Malawi,096,Brunei Darussalam,84, Nuclear reactors,29.91,0.000301,Brunei Darussalam -  Nuclear reactors
+549,454,Malawi,156,China,84, Nuclear reactors,29.599,0.022315,China -  Nuclear reactors
+550,454,Malawi,716,Zimbabwe,72," Pig iron, non-alloy, <0.5% phosphorus",29.512,0.0023799999999999997,"Zimbabwe -  Pig iron, non-alloy, <0.5% phosphorus"
+551,454,Malawi,072,Botswana,67," Bird skins and feathers, articles therefrom",27.565,0.000514,"Botswana -  Bird skins and feathers, articles therefrom"
+552,454,Malawi,478,Mauritania,90," Optical fibres, except for telecommunications",27.349,5.5e-05,"Mauritania -  Optical fibres, except for telecommunications"
+553,454,Malawi,372,Ireland,67," Bird skins and feathers, articles therefrom",27.238,0.0014550000000000001,"Ireland -  Bird skins and feathers, articles therefrom"
+554,454,Malawi,376,Israel,24," Tobacco, unmanufactured, not stemmed or stripped",27.209,0.0061660000000000005,"Israel -  Tobacco, unmanufactured, not stemmed or stripped"
+555,454,Malawi,380,Italy,41," Bovine skins, whole, raw",26.65,8.5e-05,"Italy -  Bovine skins, whole, raw"
+556,454,Malawi,834,"Tanzania, United Republic of",30," Glands and other organs, dried, for therapeutic uses",26.393,7.4e-05,"Tanzania, United Republic of -  Glands and other organs, dried, for therapeutic uses"
+557,454,Malawi,499,Montenegro,84, Nuclear reactors,26.164,0.0006450000000000001,Montenegro -  Nuclear reactors
+558,454,Malawi,646,Rwanda,70," Glass cullet, waste or scrap, glass in the mass",25.992,0.034952,"Rwanda -  Glass cullet, waste or scrap, glass in the mass"
+559,454,Malawi,894,Zambia,25," Salt (sodium chloride) including solution, salt water",25.905,0.032045000000000004,"Zambia -  Salt (sodium chloride) including solution, salt water"
+560,454,Malawi,764,Thailand,63, Electric blankets of textile material,25.822,0.0045899999999999995,Thailand -  Electric blankets of textile material
+561,454,Malawi,528,Netherlands (Kingdom of the),69," Bricks, blocks and ceramic goods of siliceous earths",24.418,0.0037040000000000003,"Netherlands (Kingdom of the) -  Bricks, blocks and ceramic goods of siliceous earths"
+562,454,Malawi,422,Lebanon,24," Tobacco, unmanufactured, not stemmed or stripped",23.537,0.007986,"Lebanon -  Tobacco, unmanufactured, not stemmed or stripped"
+563,454,Malawi,894,Zambia,22, Mineral and aerated waters not sweetened or flavoured,23.284,0.218884,Zambia -  Mineral and aerated waters not sweetened or flavoured
+564,454,Malawi,352,Iceland,84, Nuclear reactors,22.895,0.000205,Iceland -  Nuclear reactors
+565,454,Malawi,800,Uganda,44, Fuel wood,21.368,0.512517,Uganda -  Fuel wood
+566,454,Malawi,404,Kenya,73, Sheet piling of iron or steel,20.577,0.004275,Kenya -  Sheet piling of iron or steel
+567,454,Malawi,466,Mali,48, Newsprint,20.238,0.005923,Mali -  Newsprint
+568,454,Malawi,646,Rwanda,87, Pedestrian controlled tractors,19.499,0.00325,Rwanda -  Pedestrian controlled tractors
+569,454,Malawi,834,"Tanzania, United Republic of",83, Padlocks of base metal,19.252,0.029966,"Tanzania, United Republic of -  Padlocks of base metal"
+570,454,Malawi,156,China,14, Bamboos used primarily for plaiting,19.244,0.051334000000000005,China -  Bamboos used primarily for plaiting
+571,454,Malawi,288,Ghana,42," Saddlery and harness, of any material",18.871,0.065795,"Ghana -  Saddlery and harness, of any material"
+572,454,Malawi,716,Zimbabwe,92," Upright pianos, including auto-players",18.433,0.000648,"Zimbabwe -  Upright pianos, including auto-players"
+573,454,Malawi,894,Zambia,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",17.24,0.001405,"Zambia -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+574,454,Malawi,894,Zambia,30," Glands and other organs, dried, for therapeutic uses",16.668,0.000235,"Zambia -  Glands and other organs, dried, for therapeutic uses"
+575,454,Malawi,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",15.771,0.000319,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+576,454,Malawi,764,Thailand,41," Bovine skins, whole, raw",15.563,6e-06,"Thailand -  Bovine skins, whole, raw"
+577,454,Malawi,800,Uganda,73, Sheet piling of iron or steel,15.018,0.00777,Uganda -  Sheet piling of iron or steel
+578,454,Malawi,894,Zambia,47, Mechanical wood pulp,14.702,0.081526,Zambia -  Mechanical wood pulp
+579,454,Malawi,834,"Tanzania, United Republic of",24," Tobacco, unmanufactured, not stemmed or stripped",14.519,0.005096,"Tanzania, United Republic of -  Tobacco, unmanufactured, not stemmed or stripped"
+580,454,Malawi,686,Senegal,24," Tobacco, unmanufactured, not stemmed or stripped",14.299,0.013308,"Senegal -  Tobacco, unmanufactured, not stemmed or stripped"
+581,454,Malawi,072,Botswana,07," Potatoes seed, fresh or chilled",13.352,0.00557,"Botswana -  Potatoes seed, fresh or chilled"
+582,454,Malawi,516,Namibia,85, Electric motors of an output < 37.5 watts,12.73,0.000237,Namibia -  Electric motors of an output < 37.5 watts
+583,454,Malawi,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",12.461,0.00023400000000000002,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+584,454,Malawi,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",11.829,0.000193,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+585,454,Malawi,231,Ethiopia,83, Padlocks of base metal,11.608,0.013089,Ethiopia -  Padlocks of base metal
+586,454,Malawi,250,France,25," Salt (sodium chloride) including solution, salt water",11.432,0.021533999999999998,"France -  Salt (sodium chloride) including solution, salt water"
+587,454,Malawi,702,Singapore,84, Nuclear reactors,10.81,7.6e-05,Singapore -  Nuclear reactors
+588,454,Malawi,800,Uganda,38, Artificial graphite,10.645,2.267261,Uganda -  Artificial graphite
+589,454,Malawi,894,Zambia,53," Flax fibre, raw or retted",10.471,0.32224400000000003,"Zambia -  Flax fibre, raw or retted"
+590,454,Malawi,466,Mali,71," Pearls natural, not permanently mounted or set",10.041,0.022236000000000002,"Mali -  Pearls natural, not permanently mounted or set"
+591,454,Malawi,578,Norway,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",9.911,0.00376,"Norway -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+592,454,Malawi,324,Guinea,84, Nuclear reactors,9.778,6.500000000000001e-05,Guinea -  Nuclear reactors
+593,454,Malawi,554,New Zealand,84, Nuclear reactors,9.376,9.5e-05,New Zealand -  Nuclear reactors
+594,454,Malawi,072,Botswana,38, Artificial graphite,9.309,0.000195,Botswana -  Artificial graphite
+595,454,Malawi,748,Eswatini,61," Mens, boys overcoats, etc, of wool or hair, knit",9.145,0.000848,"Eswatini -  Mens, boys overcoats, etc, of wool or hair, knit"
+596,454,Malawi,231,Ethiopia,49," Brochures, leaflets and similar, in single sheets",8.703,0.007671,"Ethiopia -  Brochures, leaflets and similar, in single sheets"
+597,454,Malawi,834,"Tanzania, United Republic of",42," Saddlery and harness, of any material",8.235,0.014311,"Tanzania, United Republic of -  Saddlery and harness, of any material"
+598,454,Malawi,288,Ghana,84, Nuclear reactors,7.502,0.0077220000000000006,Ghana -  Nuclear reactors
+599,454,Malawi,372,Ireland,38, Artificial graphite,7.469,0.000858,Ireland -  Artificial graphite
+600,454,Malawi,586,Pakistan,24," Tobacco, unmanufactured, not stemmed or stripped",7.336,0.00157,"Pakistan -  Tobacco, unmanufactured, not stemmed or stripped"
+601,454,Malawi,716,Zimbabwe,47, Mechanical wood pulp,6.819,0.010527,Zimbabwe -  Mechanical wood pulp
+602,454,Malawi,372,Ireland,84, Nuclear reactors,6.795,9.900000000000001e-05,Ireland -  Nuclear reactors
+603,454,Malawi,764,Thailand,84, Nuclear reactors,6.778,0.000432,Thailand -  Nuclear reactors
+604,454,Malawi,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",6.487,0.000431,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+605,454,Malawi,807,North Macedonia,24," Tobacco, unmanufactured, not stemmed or stripped",6.389,0.003376,"North Macedonia -  Tobacco, unmanufactured, not stemmed or stripped"
+606,454,Malawi,442,Luxembourg,24," Tobacco, unmanufactured, not stemmed or stripped",6.386,0.000844,"Luxembourg -  Tobacco, unmanufactured, not stemmed or stripped"
+607,454,Malawi,834,"Tanzania, United Republic of",69," Bricks, blocks and ceramic goods of siliceous earths",6.146,0.005809999999999999,"Tanzania, United Republic of -  Bricks, blocks and ceramic goods of siliceous earths"
+608,454,Malawi,404,Kenya,49," Brochures, leaflets and similar, in single sheets",6.082,0.013781,"Kenya -  Brochures, leaflets and similar, in single sheets"
+609,454,Malawi,716,Zimbabwe,03," Ornamental fish, live",6.0,0.000374,"Zimbabwe -  Ornamental fish, live"
+610,454,Malawi,404,Kenya,69," Bricks, blocks and ceramic goods of siliceous earths",5.873,0.009345000000000001,"Kenya -  Bricks, blocks and ceramic goods of siliceous earths"
+611,454,Malawi,276,Germany,49," Brochures, leaflets and similar, in single sheets",5.725,0.000121,"Germany -  Brochures, leaflets and similar, in single sheets"
+612,454,Malawi,800,Uganda,49," Brochures, leaflets and similar, in single sheets",5.709,0.011554,"Uganda -  Brochures, leaflets and similar, in single sheets"
+613,454,Malawi,372,Ireland,49," Brochures, leaflets and similar, in single sheets",5.552,0.000655,"Ireland -  Brochures, leaflets and similar, in single sheets"
+614,454,Malawi,528,Netherlands (Kingdom of the),62," Mens, boys overcoats of wool or hair, not knit",5.418,0.00015900000000000002,"Netherlands (Kingdom of the) -  Mens, boys overcoats of wool or hair, not knit"
+615,454,Malawi,894,Zambia,21," Coffee extracts, essences, concentrates, preparations",5.404,0.0012900000000000001,"Zambia -  Coffee extracts, essences, concentrates, preparations"
+616,454,Malawi,894,Zambia,55," Filament tow of nylon, polyamides",5.365,0.0010840000000000001,"Zambia -  Filament tow of nylon, polyamides"
+617,454,Malawi,516,Namibia,84, Nuclear reactors,5.194,4.2000000000000004e-05,Namibia -  Nuclear reactors
+618,454,Malawi,894,Zambia,03," Ornamental fish, live",5.106,0.008949,"Zambia -  Ornamental fish, live"
+619,454,Malawi,288,Ghana,49," Brochures, leaflets and similar, in single sheets",4.935,0.003169,"Ghana -  Brochures, leaflets and similar, in single sheets"
+620,454,Malawi,231,Ethiopia,64," Waterproof footwear (Wellingtons etc), metal toe cap",3.711,0.0018340000000000001,"Ethiopia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+621,454,Malawi,894,Zambia,07," Potatoes seed, fresh or chilled",3.262,0.001916,"Zambia -  Potatoes seed, fresh or chilled"
+622,454,Malawi,144,Sri Lanka,24," Tobacco, unmanufactured, not stemmed or stripped",2.846,0.000213,"Sri Lanka -  Tobacco, unmanufactured, not stemmed or stripped"
+623,454,Malawi,716,Zimbabwe,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",2.843,1.6e-05,"Zimbabwe -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+624,454,Malawi,040,Austria,49," Brochures, leaflets and similar, in single sheets",2.676,0.000304,"Austria -  Brochures, leaflets and similar, in single sheets"
+625,454,Malawi,800,Uganda,96," Worked ivory, articles of ivory",2.625,0.010403,"Uganda -  Worked ivory, articles of ivory"
+626,454,Malawi,800,Uganda,26," Iron ore, concentrate, not iron pyrites,unagglomerate",2.171,0.951175,"Uganda -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+627,454,Malawi,231,Ethiopia,61," Mens, boys overcoats, etc, of wool or hair, knit",2.113,0.000839,"Ethiopia -  Mens, boys overcoats, etc, of wool or hair, knit"
+628,454,Malawi,894,Zambia,31," Animal or vegetable fertilizers, in packs >10 kg",2.02,0.000236,"Zambia -  Animal or vegetable fertilizers, in packs >10 kg"
+629,454,Malawi,300,Greece,46, Plaits and products of plaiting materials,2.017,0.010898,Greece -  Plaits and products of plaiting materials
+630,454,Malawi,012,Algeria,21," Coffee extracts, essences, concentrates, preparations",1.922,4.9000000000000005e-05,"Algeria -  Coffee extracts, essences, concentrates, preparations"
+631,454,Malawi,156,China,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",1.813,5.6e-05,"China -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+632,454,Malawi,360,Indonesia,41," Bovine skins, whole, raw",1.618,0.000432,"Indonesia -  Bovine skins, whole, raw"
+633,454,Malawi,716,Zimbabwe,55," Filament tow of nylon, polyamides",1.6,5e-05,"Zimbabwe -  Filament tow of nylon, polyamides"
+634,454,Malawi,748,Eswatini,49," Brochures, leaflets and similar, in single sheets",1.457,0.000103,"Eswatini -  Brochures, leaflets and similar, in single sheets"
+635,454,Malawi,012,Algeria,24," Tobacco, unmanufactured, not stemmed or stripped",1.112,0.000375,"Algeria -  Tobacco, unmanufactured, not stemmed or stripped"
+636,454,Malawi,800,Uganda,62," Mens, boys overcoats of wool or hair, not knit",1.091,1.1e-05,"Uganda -  Mens, boys overcoats of wool or hair, not knit"
+637,454,Malawi,716,Zimbabwe,25," Salt (sodium chloride) including solution, salt water",0.92,0.001138,"Zimbabwe -  Salt (sodium chloride) including solution, salt water"
+638,454,Malawi,894,Zambia,61," Mens, boys overcoats, etc, of wool or hair, knit",0.846,0.00017,"Zambia -  Mens, boys overcoats, etc, of wool or hair, knit"
+639,454,Malawi,250,France,30," Glands and other organs, dried, for therapeutic uses",0.76,5e-06,"France -  Glands and other organs, dried, for therapeutic uses"
+640,454,Malawi,716,Zimbabwe,24," Tobacco, unmanufactured, not stemmed or stripped",0.75,7.5e-05,"Zimbabwe -  Tobacco, unmanufactured, not stemmed or stripped"
+641,454,Malawi,800,Uganda,71," Pearls natural, not permanently mounted or set",0.577,8e-06,"Uganda -  Pearls natural, not permanently mounted or set"
+642,454,Malawi,250,France,14, Bamboos used primarily for plaiting,0.537,0.00028599999999999996,France -  Bamboos used primarily for plaiting
+643,454,Malawi,356,India,41," Bovine skins, whole, raw",0.518,0.000258,"India -  Bovine skins, whole, raw"
+644,454,Malawi,012,Algeria,62," Mens, boys overcoats of wool or hair, not knit",0.261,8.999999999999999e-06,"Algeria -  Mens, boys overcoats of wool or hair, not knit"
+645,454,Malawi,414,Kuwait,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",0.242,8.999999999999999e-06,"Kuwait -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+646,454,Malawi,446,"China, Macao SAR",06," Bulbs, tubers, corms, crowns and rhizomes, dormant",0.227,2.4e-05,"China, Macao SAR -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+647,454,Malawi,792,Türkiye,41," Bovine skins, whole, raw",0.221,0.0,"Türkiye -  Bovine skins, whole, raw"
+648,454,Malawi,040,Austria,24," Tobacco, unmanufactured, not stemmed or stripped",0.19,3e-06,"Austria -  Tobacco, unmanufactured, not stemmed or stripped"
+649,454,Malawi,834,"Tanzania, United Republic of",41," Bovine skins, whole, raw",0.13,7.7e-05,"Tanzania, United Republic of -  Bovine skins, whole, raw"
+650,454,Malawi,834,"Tanzania, United Republic of",82, Spades and shovels,0.105,6.4e-05,"Tanzania, United Republic of -  Spades and shovels"
+651,454,Malawi,100,Bulgaria,24," Tobacco, unmanufactured, not stemmed or stripped",0.083,4e-06,"Bulgaria -  Tobacco, unmanufactured, not stemmed or stripped"
+652,454,Malawi,716,Zimbabwe,19," Infant foods of cereals, flour, starch or milk, retai",0.081,1.4999999999999999e-05,"Zimbabwe -  Infant foods of cereals, flour, starch or milk, retai"
+653,454,Malawi,894,Zambia,19," Infant foods of cereals, flour, starch or milk, retai",0.07,3.4e-05,"Zambia -  Infant foods of cereals, flour, starch or milk, retai"
+654,454,Malawi,894,Zambia,24," Tobacco, unmanufactured, not stemmed or stripped",0.058,8.999999999999999e-06,"Zambia -  Tobacco, unmanufactured, not stemmed or stripped"
+655,454,Malawi,404,Kenya,41," Bovine skins, whole, raw",0.042,5e-06,"Kenya -  Bovine skins, whole, raw"
+656,454,Malawi,716,Zimbabwe,93," Military weapons, other than hand guns, swords, etc",0.039,0.008198,"Zimbabwe -  Military weapons, other than hand guns, swords, etc"
+657,454,Malawi,784,United Arab Emirates,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",0.039,6e-06,"United Arab Emirates -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+658,454,Malawi,702,Singapore,24," Tobacco, unmanufactured, not stemmed or stripped",0.027,2.7e-05,"Singapore -  Tobacco, unmanufactured, not stemmed or stripped"
+659,454,Malawi,716,Zimbabwe,41," Bovine skins, whole, raw",0.024,0.0,"Zimbabwe -  Bovine skins, whole, raw"
+660,454,Malawi,156,China,41," Bovine skins, whole, raw",0.004,1e-06,"China -  Bovine skins, whole, raw"
+661,454,Malawi,136,Cayman Islands,61," Mens, boys overcoats, etc, of wool or hair, knit",0.0,0.0,"Cayman Islands -  Mens, boys overcoats, etc, of wool or hair, knit"
+662,454,Malawi,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,0.0,0.0,Sri Lanka -  Electric motors of an output < 37.5 watts
+663,454,Malawi,894,Zambia,01," Horses, live pure-bred breeding",0.0,0.0,"Zambia -  Horses, live pure-bred breeding"
+664,454,Malawi,834,"Tanzania, United Republic of",71," Pearls natural, not permanently mounted or set",0.0,0.0,"Tanzania, United Republic of -  Pearls natural, not permanently mounted or set"
+665,454,Malawi,834,"Tanzania, United Republic of",01," Horses, live pure-bred breeding",0.0,0.0,"Tanzania, United Republic of -  Horses, live pure-bred breeding"
+666,454,Malawi,516,Namibia,14, Bamboos used primarily for plaiting,0.0,0.0,Namibia -  Bamboos used primarily for plaiting
+667,454,Malawi,566,Nigeria,01," Horses, live pure-bred breeding",0.0,0.0,"Nigeria -  Horses, live pure-bred breeding"
+668,454,Malawi,716,Zimbabwe,08," Coconuts, fresh or dried",0.0,0.0,"Zimbabwe -  Coconuts, fresh or dried"
+669,454,Malawi,012,Algeria,40," Natural rubber latex, including prevulcanised",0.0,0.0,"Algeria -  Natural rubber latex, including prevulcanised"
+670,454,Malawi,384,Côte d'Ivoire,01," Horses, live pure-bred breeding",0.0,0.0,"Côte d'Ivoire -  Horses, live pure-bred breeding"

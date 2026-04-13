@@ -1,0 +1,811 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,084,Belize,826,United Kingdom,17," Raw sugar, cane",43274374.549,128511.742078,"United Kingdom -  Raw sugar, cane"
+1,084,Belize,840,United States of America,17," Raw sugar, cane",5811599.095,25895.202870999998,"United States of America -  Raw sugar, cane"
+2,084,Belize,840,United States of America,27," Anthracite, not agglomerated",7152947.411,17552.553337,"United States of America -  Anthracite, not agglomerated"
+3,084,Belize,724,Spain,03," Ornamental fish, live",21612606.599,10144.720599999999,"Spain -  Ornamental fish, live"
+4,084,Belize,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",2699607.424,8544.105429,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+5,084,Belize,320,Guatemala,23," Flour or meal, pellet of meat or offal for animal fee",902550.219,7532.928771,"Guatemala -  Flour or meal, pellet of meat or offal for animal fee"
+6,084,Belize,724,Spain,08," Coconuts, fresh or dried",3065520.034,5249.01,"Spain -  Coconuts, fresh or dried"
+7,084,Belize,724,Spain,17," Raw sugar, cane",2822686.548,4987.68,"Spain -  Raw sugar, cane"
+8,084,Belize,320,Guatemala,72," Pig iron, non-alloy, <0.5% phosphorus",853240.082,3898.243256,"Guatemala -  Pig iron, non-alloy, <0.5% phosphorus"
+9,084,Belize,388,Jamaica,07," Potatoes seed, fresh or chilled",2939109.225,2697.607039,"Jamaica -  Potatoes seed, fresh or chilled"
+10,084,Belize,840,United States of America,23," Flour or meal, pellet of meat or offal for animal fee",512116.148,2447.070425,"United States of America -  Flour or meal, pellet of meat or offal for animal fee"
+11,084,Belize,208,Denmark,23," Flour or meal, pellet of meat or offal for animal fee",633637.603,2181.868517,"Denmark -  Flour or meal, pellet of meat or offal for animal fee"
+12,084,Belize,392,Japan,03," Ornamental fish, live",3936510.07,2162.634308,"Japan -  Ornamental fish, live"
+13,084,Belize,388,Jamaica,20," Cucumbers,gherkins, prepared or preserved by vinegar",6664837.422,2136.094928,"Jamaica -  Cucumbers,gherkins, prepared or preserved by vinegar"
+14,084,Belize,388,Jamaica,11, Wheat or meslin flour,889979.439,2069.798975,Jamaica -  Wheat or meslin flour
+15,084,Belize,528,Netherlands (Kingdom of the),20," Cucumbers,gherkins, prepared or preserved by vinegar",4139618.547,1979.063496,"Netherlands (Kingdom of the) -  Cucumbers,gherkins, prepared or preserved by vinegar"
+16,084,Belize,780,Trinidad and Tobago,17," Raw sugar, cane",1126876.988,1964.975,"Trinidad and Tobago -  Raw sugar, cane"
+17,084,Belize,826,United Kingdom,08," Coconuts, fresh or dried",902619.743,1945.741645,"United Kingdom -  Coconuts, fresh or dried"
+18,084,Belize,764,Thailand,03," Ornamental fish, live",3942551.45,1886.829,"Thailand -  Ornamental fish, live"
+19,084,Belize,620,Portugal,03," Ornamental fish, live",3557695.725,1872.835,"Portugal -  Ornamental fish, live"
+20,084,Belize,740,Suriname,10, Durum wheat,498790.599,1863.82,Suriname -  Durum wheat
+21,084,Belize,356,India,23," Flour or meal, pellet of meat or offal for animal fee",292677.385,1728.3008829999999,"India -  Flour or meal, pellet of meat or offal for animal fee"
+22,084,Belize,764,Thailand,47, Mechanical wood pulp,1127949.511,1696.566,Thailand -  Mechanical wood pulp
+23,084,Belize,780,Trinidad and Tobago,20," Cucumbers,gherkins, prepared or preserved by vinegar",4839689.008,1638.115202,"Trinidad and Tobago -  Cucumbers,gherkins, prepared or preserved by vinegar"
+24,084,Belize,662,Saint Lucia,17," Raw sugar, cane",847676.716,1507.699039,"Saint Lucia -  Raw sugar, cane"
+25,084,Belize,320,Guatemala,10, Durum wheat,532178.458,1259.2865390000002,Guatemala -  Durum wheat
+26,084,Belize,270,Gambia,17," Raw sugar, cane",237160.53,1055.498,"Gambia -  Raw sugar, cane"
+27,084,Belize,276,Germany,20," Cucumbers,gherkins, prepared or preserved by vinegar",2350159.096,1025.981,"Germany -  Cucumbers,gherkins, prepared or preserved by vinegar"
+28,084,Belize,780,Trinidad and Tobago,07," Potatoes seed, fresh or chilled",1141317.572,1004.164,"Trinidad and Tobago -  Potatoes seed, fresh or chilled"
+29,084,Belize,586,Pakistan,12, Soya beans,209939.926,945.5902140000001,Pakistan -  Soya beans
+30,084,Belize,764,Thailand,44, Fuel wood,395380.535,883.714,Thailand -  Fuel wood
+31,084,Belize,388,Jamaica,68," Stone setts, curbstones, flagstones (except slate)",137916.716,838.743243,"Jamaica -  Stone setts, curbstones, flagstones (except slate)"
+32,084,Belize,528,Netherlands (Kingdom of the),23," Flour or meal, pellet of meat or offal for animal fee",619380.594,830.4139279999999,"Netherlands (Kingdom of the) -  Flour or meal, pellet of meat or offal for animal fee"
+33,084,Belize,052,Barbados,20," Cucumbers,gherkins, prepared or preserved by vinegar",1534295.372,819.3506729999999,"Barbados -  Cucumbers,gherkins, prepared or preserved by vinegar"
+34,084,Belize,104,Myanmar,23," Flour or meal, pellet of meat or offal for animal fee",265208.604,783.0,"Myanmar -  Flour or meal, pellet of meat or offal for animal fee"
+35,084,Belize,328,Guyana,07," Potatoes seed, fresh or chilled",611016.103,749.13545,"Guyana -  Potatoes seed, fresh or chilled"
+36,084,Belize,372,Ireland,08," Coconuts, fresh or dried",219276.214,691.582674,"Ireland -  Coconuts, fresh or dried"
+37,084,Belize,840,United States of America,44, Fuel wood,908072.826,569.4314549999999,United States of America -  Fuel wood
+38,084,Belize,780,Trinidad and Tobago,23," Flour or meal, pellet of meat or offal for animal fee",208437.946,533.924,"Trinidad and Tobago -  Flour or meal, pellet of meat or offal for animal fee"
+39,084,Belize,320,Guatemala,70," Glass cullet, waste or scrap, glass in the mass",68365.786,515.314669,"Guatemala -  Glass cullet, waste or scrap, glass in the mass"
+40,084,Belize,792,Türkiye,03," Ornamental fish, live",712564.0,505.17,"Türkiye -  Ornamental fish, live"
+41,084,Belize,328,Guyana,68," Stone setts, curbstones, flagstones (except slate)",121044.073,491.2458,"Guyana -  Stone setts, curbstones, flagstones (except slate)"
+42,084,Belize,840,United States of America,03," Ornamental fish, live",10238787.753,479.428345,"United States of America -  Ornamental fish, live"
+43,084,Belize,024,Angola,03," Ornamental fish, live",676510.023,433.125,"Angola -  Ornamental fish, live"
+44,084,Belize,740,Suriname,23," Flour or meal, pellet of meat or offal for animal fee",173595.984,363.83,"Suriname -  Flour or meal, pellet of meat or offal for animal fee"
+45,084,Belize,052,Barbados,10, Durum wheat,186960.757,339.261371,Barbados -  Durum wheat
+46,084,Belize,840,United States of America,94," Seats, aircraft",741534.672,299.63070400000004,"United States of America -  Seats, aircraft"
+47,084,Belize,052,Barbados,17," Raw sugar, cane",182528.572,276.806387,"Barbados -  Raw sugar, cane"
+48,084,Belize,344,"China, Hong Kong SAR",39, Polyethylene - specific gravity <0.94 in primary form,45006.185,272.125008,"China, Hong Kong SAR -  Polyethylene - specific gravity <0.94 in primary form"
+49,084,Belize,320,Guatemala,12, Soya beans,3965.192,267.037167,Guatemala -  Soya beans
+50,084,Belize,028,Antigua and Barbuda,17," Raw sugar, cane",179548.623,260.55681,"Antigua and Barbuda -  Raw sugar, cane"
+51,084,Belize,840,United States of America,08," Coconuts, fresh or dried",190860.925,259.35701,"United States of America -  Coconuts, fresh or dried"
+52,084,Belize,616,Poland,17," Raw sugar, cane",156809.068,246.72811199999998,"Poland -  Raw sugar, cane"
+53,084,Belize,384,Côte d'Ivoire,03," Ornamental fish, live",192050.381,235.0,"Côte d'Ivoire -  Ornamental fish, live"
+54,084,Belize,276,Germany,17," Raw sugar, cane",164767.944,205.892,"Germany -  Raw sugar, cane"
+55,084,Belize,388,Jamaica,73, Sheet piling of iron or steel,230100.23,200.62383499999999,Jamaica -  Sheet piling of iron or steel
+56,084,Belize,740,Suriname,68," Stone setts, curbstones, flagstones (except slate)",53179.192,198.628429,"Suriname -  Stone setts, curbstones, flagstones (except slate)"
+57,084,Belize,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",382482.045,182.16891800000002,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+58,084,Belize,662,Saint Lucia,68," Stone setts, curbstones, flagstones (except slate)",45736.346,180.04340100000002,"Saint Lucia -  Stone setts, curbstones, flagstones (except slate)"
+59,084,Belize,104,Myanmar,87, Pedestrian controlled tractors,1841722.752,175.48421299999998,Myanmar -  Pedestrian controlled tractors
+60,084,Belize,320,Guatemala,73, Sheet piling of iron or steel,169017.574,172.345403,Guatemala -  Sheet piling of iron or steel
+61,084,Belize,554,New Zealand,40," Natural rubber latex, including prevulcanised",427141.613,166.819379,"New Zealand -  Natural rubber latex, including prevulcanised"
+62,084,Belize,780,Trinidad and Tobago,03," Ornamental fish, live",1115591.061,160.637,"Trinidad and Tobago -  Ornamental fish, live"
+63,084,Belize,440,Lithuania,03," Ornamental fish, live",186900.839,158.72384,"Lithuania -  Ornamental fish, live"
+64,084,Belize,826,United Kingdom,84, Nuclear reactors,247631.686,157.34218900000002,United Kingdom -  Nuclear reactors
+65,084,Belize,320,Guatemala,87, Pedestrian controlled tractors,215761.357,154.305429,Guatemala -  Pedestrian controlled tractors
+66,084,Belize,388,Jamaica,32, Quebracho tanning extract,38928.611,150.201524,Jamaica -  Quebracho tanning extract
+67,084,Belize,788,Tunisia,03," Ornamental fish, live",204708.917,141.899541,"Tunisia -  Ornamental fish, live"
+68,084,Belize,392,Japan,21," Coffee extracts, essences, concentrates, preparations",970162.215,138.93748499999998,"Japan -  Coffee extracts, essences, concentrates, preparations"
+69,084,Belize,156,China,44, Fuel wood,90275.501,137.594519,China -  Fuel wood
+70,084,Belize,616,Poland,76," Aluminium unwrought, not alloyed",296113.873,131.977696,"Poland -  Aluminium unwrought, not alloyed"
+71,084,Belize,276,Germany,15," Lard, other pig fat and poultry fat, rendered",107335.47,124.37,"Germany -  Lard, other pig fat and poultry fat, rendered"
+72,084,Belize,591,Panama,23," Flour or meal, pellet of meat or offal for animal fee",46029.541,121.87110700000001,"Panama -  Flour or meal, pellet of meat or offal for animal fee"
+73,084,Belize,320,Guatemala,17," Raw sugar, cane",20403.318,121.745394,"Guatemala -  Raw sugar, cane"
+74,084,Belize,620,Portugal,17," Raw sugar, cane",77831.925,120.0,"Portugal -  Raw sugar, cane"
+75,084,Belize,724,Spain,07," Potatoes seed, fresh or chilled",112685.741,114.75,"Spain -  Potatoes seed, fresh or chilled"
+76,084,Belize,418,Lao People's Dem. Rep.,24," Tobacco, unmanufactured, not stemmed or stripped",1391595.895,113.54663400000001,"Lao People's Dem. Rep. -  Tobacco, unmanufactured, not stemmed or stripped"
+77,084,Belize,566,Nigeria,87, Pedestrian controlled tractors,32805.079,113.07,Nigeria -  Pedestrian controlled tractors
+78,084,Belize,388,Jamaica,03," Ornamental fish, live",847010.213,110.82726799999999,"Jamaica -  Ornamental fish, live"
+79,084,Belize,250,France,08," Coconuts, fresh or dried",75960.881,110.680115,"France -  Coconuts, fresh or dried"
+80,084,Belize,388,Jamaica,69," Bricks, blocks and ceramic goods of siliceous earths",25238.455,109.123396,"Jamaica -  Bricks, blocks and ceramic goods of siliceous earths"
+81,084,Belize,308,Grenada,17," Raw sugar, cane",61256.244,108.86,"Grenada -  Raw sugar, cane"
+82,084,Belize,826,United Kingdom,44, Fuel wood,1891657.686,108.717827,United Kingdom -  Fuel wood
+83,084,Belize,784,United Arab Emirates,07," Potatoes seed, fresh or chilled",113783.176,104.701057,"United Arab Emirates -  Potatoes seed, fresh or chilled"
+84,084,Belize,360,Indonesia,28, Chlorine,221861.137,102.93667500000001,Indonesia -  Chlorine
+85,084,Belize,308,Grenada,44, Fuel wood,36891.673,99.194,Grenada -  Fuel wood
+86,084,Belize,764,Thailand,72," Pig iron, non-alloy, <0.5% phosphorus",28064.081,97.67,"Thailand -  Pig iron, non-alloy, <0.5% phosphorus"
+87,084,Belize,320,Guatemala,84, Nuclear reactors,122579.113,97.11892999999999,Guatemala -  Nuclear reactors
+88,084,Belize,076,Brazil,42," Saddlery and harness, of any material",670617.0,94.766,"Brazil -  Saddlery and harness, of any material"
+89,084,Belize,686,Senegal,72," Pig iron, non-alloy, <0.5% phosphorus",79475.119,94.68744899999999,"Senegal -  Pig iron, non-alloy, <0.5% phosphorus"
+90,084,Belize,036,Australia,29, Saturated acyclic hydrocarbons,250861.512,94.0,Australia -  Saturated acyclic hydrocarbons
+91,084,Belize,320,Guatemala,20," Cucumbers,gherkins, prepared or preserved by vinegar",223395.238,92.075391,"Guatemala -  Cucumbers,gherkins, prepared or preserved by vinegar"
+92,084,Belize,180,"Congo, Dem. Rep. of the",17," Raw sugar, cane",9189.945,87.5,"Congo, Dem. Rep. of the -  Raw sugar, cane"
+93,084,Belize,840,United States of America,29, Saturated acyclic hydrocarbons,373556.651,86.92043799999999,United States of America -  Saturated acyclic hydrocarbons
+94,084,Belize,156,China,72," Pig iron, non-alloy, <0.5% phosphorus",22195.834,86.521933,"China -  Pig iron, non-alloy, <0.5% phosphorus"
+95,084,Belize,376,Israel,09," Coffee, not roasted, not decaffeinated",229541.111,82.320928,"Israel -  Coffee, not roasted, not decaffeinated"
+96,084,Belize,780,Trinidad and Tobago,10, Durum wheat,42210.995,81.683744,Trinidad and Tobago -  Durum wheat
+97,084,Belize,826,United Kingdom,22, Mineral and aerated waters not sweetened or flavoured,1106627.488,78.70240700000001,United Kingdom -  Mineral and aerated waters not sweetened or flavoured
+98,084,Belize,840,United States of America,07," Potatoes seed, fresh or chilled",143900.708,77.156939,"United States of America -  Potatoes seed, fresh or chilled"
+99,084,Belize,388,Jamaica,21," Coffee extracts, essences, concentrates, preparations",246173.068,76.283477,"Jamaica -  Coffee extracts, essences, concentrates, preparations"
+100,084,Belize,388,Jamaica,48, Newsprint,142643.983,74.184253,Jamaica -  Newsprint
+101,084,Belize,214,Dominican Republic,44, Fuel wood,82517.75,72.174,Dominican Republic -  Fuel wood
+102,084,Belize,840,United States of America,21," Coffee extracts, essences, concentrates, preparations",262071.231,71.800512,"United States of America -  Coffee extracts, essences, concentrates, preparations"
+103,084,Belize,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,74599.797,71.758048,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+104,084,Belize,380,Italy,07," Potatoes seed, fresh or chilled",66077.191,71.25410400000001,"Italy -  Potatoes seed, fresh or chilled"
+105,084,Belize,686,Senegal,09," Coffee, not roasted, not decaffeinated",57630.955,69.77242100000001,"Senegal -  Coffee, not roasted, not decaffeinated"
+106,084,Belize,662,Saint Lucia,20," Cucumbers,gherkins, prepared or preserved by vinegar",70301.789,69.593906,"Saint Lucia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+107,084,Belize,662,Saint Lucia,70," Glass cullet, waste or scrap, glass in the mass",83714.793,68.15519,"Saint Lucia -  Glass cullet, waste or scrap, glass in the mass"
+108,084,Belize,764,Thailand,40," Natural rubber latex, including prevulcanised",478000.39,65.339609,"Thailand -  Natural rubber latex, including prevulcanised"
+109,084,Belize,320,Guatemala,39, Polyethylene - specific gravity <0.94 in primary form,37040.981,64.266299,Guatemala -  Polyethylene - specific gravity <0.94 in primary form
+110,084,Belize,392,Japan,20," Cucumbers,gherkins, prepared or preserved by vinegar",170652.928,63.359876,"Japan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+111,084,Belize,320,Guatemala,48, Newsprint,52564.656,60.177673999999996,Guatemala -  Newsprint
+112,084,Belize,222,El Salvador,03," Ornamental fish, live",120470.983,60.142871,"El Salvador -  Ornamental fish, live"
+113,084,Belize,764,Thailand,87, Pedestrian controlled tractors,397281.276,59.411,Thailand -  Pedestrian controlled tractors
+114,084,Belize,052,Barbados,07," Potatoes seed, fresh or chilled",63468.391,59.235616,"Barbados -  Potatoes seed, fresh or chilled"
+115,084,Belize,308,Grenada,69," Bricks, blocks and ceramic goods of siliceous earths",14110.949,57.751,"Grenada -  Bricks, blocks and ceramic goods of siliceous earths"
+116,084,Belize,250,France,18," Cocoa beans, whole or broken, raw or roasted",134247.071,55.982565,"France -  Cocoa beans, whole or broken, raw or roasted"
+117,084,Belize,670,Saint Vincent and the Grenadines,70," Glass cullet, waste or scrap, glass in the mass",29124.739,55.267806,"Saint Vincent and the Grenadines -  Glass cullet, waste or scrap, glass in the mass"
+118,084,Belize,222,El Salvador,23," Flour or meal, pellet of meat or offal for animal fee",14933.635,54.443908,"El Salvador -  Flour or meal, pellet of meat or offal for animal fee"
+119,084,Belize,659,Saint Kitts and Nevis,17," Raw sugar, cane",51804.623,51.316118,"Saint Kitts and Nevis -  Raw sugar, cane"
+120,084,Belize,764,Thailand,25," Salt (sodium chloride) including solution, salt water",21904.176,48.63,"Thailand -  Salt (sodium chloride) including solution, salt water"
+121,084,Belize,320,Guatemala,27," Anthracite, not agglomerated",2000.145,45.815674,"Guatemala -  Anthracite, not agglomerated"
+122,084,Belize,780,Trinidad and Tobago,11, Wheat or meslin flour,34330.422,44.614,Trinidad and Tobago -  Wheat or meslin flour
+123,084,Belize,410,"Korea, Republic of",02," Bovine carcasses and half carcasses, fresh or chilled",43788.084,43.691230000000004,"Korea, Republic of -  Bovine carcasses and half carcasses, fresh or chilled"
+124,084,Belize,686,Senegal,07," Potatoes seed, fresh or chilled",4050.61,43.565452,"Senegal -  Potatoes seed, fresh or chilled"
+125,084,Belize,100,Bulgaria,24," Tobacco, unmanufactured, not stemmed or stripped",67012.972,43.26,"Bulgaria -  Tobacco, unmanufactured, not stemmed or stripped"
+126,084,Belize,360,Indonesia,38, Artificial graphite,62186.789,43.017796000000004,Indonesia -  Artificial graphite
+127,084,Belize,528,Netherlands (Kingdom of the),22, Mineral and aerated waters not sweetened or flavoured,282565.853,42.744653,Netherlands (Kingdom of the) -  Mineral and aerated waters not sweetened or flavoured
+128,084,Belize,328,Guyana,33, Essential oils of bergamot,58157.648,41.998,Guyana -  Essential oils of bergamot
+129,084,Belize,250,France,44, Fuel wood,25559.868,41.487035000000006,France -  Fuel wood
+130,084,Belize,780,Trinidad and Tobago,33, Essential oils of bergamot,130227.434,41.165,Trinidad and Tobago -  Essential oils of bergamot
+131,084,Belize,724,Spain,40," Natural rubber latex, including prevulcanised",59971.924,41.095,"Spain -  Natural rubber latex, including prevulcanised"
+132,084,Belize,498,"Moldova, Republic of",03," Ornamental fish, live",66134.37,39.982,"Moldova, Republic of -  Ornamental fish, live"
+133,084,Belize,764,Thailand,55," Filament tow of nylon, polyamides",149877.969,39.26,"Thailand -  Filament tow of nylon, polyamides"
+134,084,Belize,670,Saint Vincent and the Grenadines,44, Fuel wood,132542.511,38.98998,Saint Vincent and the Grenadines -  Fuel wood
+135,084,Belize,250,France,03," Ornamental fish, live",793213.644,38.515375999999996,"France -  Ornamental fish, live"
+136,084,Belize,348,Hungary,40," Natural rubber latex, including prevulcanised",89223.507,38.449,"Hungary -  Natural rubber latex, including prevulcanised"
+137,084,Belize,662,Saint Lucia,22, Mineral and aerated waters not sweetened or flavoured,48105.641,35.565294,Saint Lucia -  Mineral and aerated waters not sweetened or flavoured
+138,084,Belize,250,France,84, Nuclear reactors,225098.181,34.756616,France -  Nuclear reactors
+139,084,Belize,328,Guyana,48, Newsprint,114196.173,33.031,Guyana -  Newsprint
+140,084,Belize,340,Honduras,23," Flour or meal, pellet of meat or offal for animal fee",11185.822,33.016251,"Honduras -  Flour or meal, pellet of meat or offal for animal fee"
+141,084,Belize,388,Jamaica,44, Fuel wood,29608.037,32.785526,Jamaica -  Fuel wood
+142,084,Belize,840,United States of America,33, Essential oils of bergamot,225155.802,32.21195,United States of America -  Essential oils of bergamot
+143,084,Belize,756,"Switzerland, Liechtenstein",33, Essential oils of bergamot,287042.743,32.0,"Switzerland, Liechtenstein -  Essential oils of bergamot"
+144,084,Belize,840,United States of America,85, Electric motors of an output < 37.5 watts,39535.778,31.400968000000002,United States of America -  Electric motors of an output < 37.5 watts
+145,084,Belize,724,Spain,84, Nuclear reactors,193450.344,30.643,Spain -  Nuclear reactors
+146,084,Belize,320,Guatemala,47, Mechanical wood pulp,4040.4,29.658184000000002,Guatemala -  Mechanical wood pulp
+147,084,Belize,188,Costa Rica,87, Pedestrian controlled tractors,15676.104,29.592414,Costa Rica -  Pedestrian controlled tractors
+148,084,Belize,780,Trinidad and Tobago,73, Sheet piling of iron or steel,10583.751,28.675,Trinidad and Tobago -  Sheet piling of iron or steel
+149,084,Belize,807,North Macedonia,03," Ornamental fish, live",47196.238,28.538,"North Macedonia -  Ornamental fish, live"
+150,084,Belize,308,Grenada,31," Animal or vegetable fertilizers, in packs >10 kg",13826.42,27.168,"Grenada -  Animal or vegetable fertilizers, in packs >10 kg"
+151,084,Belize,740,Suriname,25," Salt (sodium chloride) including solution, salt water",2272.22,27.1,"Suriname -  Salt (sodium chloride) including solution, salt water"
+152,084,Belize,410,"Korea, Republic of",03," Ornamental fish, live",135950.925,26.286244999999997,"Korea, Republic of -  Ornamental fish, live"
+153,084,Belize,328,Guyana,32, Quebracho tanning extract,10922.955,25.536,Guyana -  Quebracho tanning extract
+154,084,Belize,052,Barbados,68," Stone setts, curbstones, flagstones (except slate)",6163.936,25.471373,"Barbados -  Stone setts, curbstones, flagstones (except slate)"
+155,084,Belize,356,India,85, Electric motors of an output < 37.5 watts,10890.758,25.410130000000002,India -  Electric motors of an output < 37.5 watts
+156,084,Belize,458,Malaysia,09," Coffee, not roasted, not decaffeinated",83071.1,25.248330000000003,"Malaysia -  Coffee, not roasted, not decaffeinated"
+157,084,Belize,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",496562.431,24.548033,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+158,084,Belize,376,Israel,29, Saturated acyclic hydrocarbons,67858.799,24.035511,Israel -  Saturated acyclic hydrocarbons
+159,084,Belize,807,North Macedonia,27," Anthracite, not agglomerated",4817.042,23.726,"North Macedonia -  Anthracite, not agglomerated"
+160,084,Belize,670,Saint Vincent and the Grenadines,68," Stone setts, curbstones, flagstones (except slate)",4657.971,23.698795999999998,"Saint Vincent and the Grenadines -  Stone setts, curbstones, flagstones (except slate)"
+161,084,Belize,024,Angola,73, Sheet piling of iron or steel,29679.833,22.769,Angola -  Sheet piling of iron or steel
+162,084,Belize,882,Samoa,23," Flour or meal, pellet of meat or offal for animal fee",3918.248,21.271618,"Samoa -  Flour or meal, pellet of meat or offal for animal fee"
+163,084,Belize,840,United States of America,31," Animal or vegetable fertilizers, in packs >10 kg",8315.058,20.785743,"United States of America -  Animal or vegetable fertilizers, in packs >10 kg"
+164,084,Belize,670,Saint Vincent and the Grenadines,07," Potatoes seed, fresh or chilled",28399.233,20.42935,"Saint Vincent and the Grenadines -  Potatoes seed, fresh or chilled"
+165,084,Belize,308,Grenada,21," Coffee extracts, essences, concentrates, preparations",33955.826,20.317,"Grenada -  Coffee extracts, essences, concentrates, preparations"
+166,084,Belize,328,Guyana,20," Cucumbers,gherkins, prepared or preserved by vinegar",53991.558,20.1052,"Guyana -  Cucumbers,gherkins, prepared or preserved by vinegar"
+167,084,Belize,764,Thailand,84, Nuclear reactors,104657.485,20.018077,Thailand -  Nuclear reactors
+168,084,Belize,703,Slovakia,03," Ornamental fish, live",33031.664,19.991,"Slovakia -  Ornamental fish, live"
+169,084,Belize,052,Barbados,70," Glass cullet, waste or scrap, glass in the mass",11850.146,19.665391,"Barbados -  Glass cullet, waste or scrap, glass in the mass"
+170,084,Belize,203,Czechia,22, Mineral and aerated waters not sweetened or flavoured,203714.0,19.507,Czechia -  Mineral and aerated waters not sweetened or flavoured
+171,084,Belize,376,Israel,12, Soya beans,6110.223,19.37789,Israel -  Soya beans
+172,084,Belize,826,United Kingdom,83, Padlocks of base metal,139651.972,19.320269,United Kingdom -  Padlocks of base metal
+173,084,Belize,036,Australia,09," Coffee, not roasted, not decaffeinated",52588.397,19.2,"Australia -  Coffee, not roasted, not decaffeinated"
+174,084,Belize,372,Ireland,09," Coffee, not roasted, not decaffeinated",48288.394,18.653102,"Ireland -  Coffee, not roasted, not decaffeinated"
+175,084,Belize,784,United Arab Emirates,03," Ornamental fish, live",318892.946,17.631833999999998,"United Arab Emirates -  Ornamental fish, live"
+176,084,Belize,780,Trinidad and Tobago,68," Stone setts, curbstones, flagstones (except slate)",5842.445,17.258,"Trinidad and Tobago -  Stone setts, curbstones, flagstones (except slate)"
+177,084,Belize,410,"Korea, Republic of",72," Pig iron, non-alloy, <0.5% phosphorus",4762.65,17.071615,"Korea, Republic of -  Pig iron, non-alloy, <0.5% phosphorus"
+178,084,Belize,682,Saudi Arabia,11, Wheat or meslin flour,15783.546,16.727096000000003,Saudi Arabia -  Wheat or meslin flour
+179,084,Belize,440,Lithuania,17," Raw sugar, cane",9759.043,16.700111,"Lithuania -  Raw sugar, cane"
+180,084,Belize,388,Jamaica,34," Soaps, for toilet use, solid",8348.919,15.872594999999999,"Jamaica -  Soaps, for toilet use, solid"
+181,084,Belize,012,Algeria,03," Ornamental fish, live",29225.406,15.774908,"Algeria -  Ornamental fish, live"
+182,084,Belize,840,United States of America,70," Glass cullet, waste or scrap, glass in the mass",27846.787,15.707220999999999,"United States of America -  Glass cullet, waste or scrap, glass in the mass"
+183,084,Belize,586,Pakistan,63, Electric blankets of textile material,1944.668,15.603405,Pakistan -  Electric blankets of textile material
+184,084,Belize,840,United States of America,72," Pig iron, non-alloy, <0.5% phosphorus",5374.557,15.591915,"United States of America -  Pig iron, non-alloy, <0.5% phosphorus"
+185,084,Belize,528,Netherlands (Kingdom of the),40," Natural rubber latex, including prevulcanised",182601.195,15.580442999999999,"Netherlands (Kingdom of the) -  Natural rubber latex, including prevulcanised"
+186,084,Belize,320,Guatemala,89," Cruise ships, excursion boats, ferry boats",138577.021,14.581674000000001,"Guatemala -  Cruise ships, excursion boats, ferry boats"
+187,084,Belize,052,Barbados,48, Newsprint,28483.003,14.558379,Barbados -  Newsprint
+188,084,Belize,388,Jamaica,15," Lard, other pig fat and poultry fat, rendered",81324.919,13.572610000000001,"Jamaica -  Lard, other pig fat and poultry fat, rendered"
+189,084,Belize,024,Angola,37, X-ray plates and films,8347.21,13.444,Angola -  X-ray plates and films
+190,084,Belize,308,Grenada,20," Cucumbers,gherkins, prepared or preserved by vinegar",27559.132,13.405,"Grenada -  Cucumbers,gherkins, prepared or preserved by vinegar"
+191,084,Belize,222,El Salvador,87, Pedestrian controlled tractors,35751.99,12.923008,El Salvador -  Pedestrian controlled tractors
+192,084,Belize,788,Tunisia,09," Coffee, not roasted, not decaffeinated",5953.968,12.912023999999999,"Tunisia -  Coffee, not roasted, not decaffeinated"
+193,084,Belize,276,Germany,21," Coffee extracts, essences, concentrates, preparations",48280.118,12.87,"Germany -  Coffee extracts, essences, concentrates, preparations"
+194,084,Belize,300,Greece,03," Ornamental fish, live",250295.392,12.444,"Greece -  Ornamental fish, live"
+195,084,Belize,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",9710.132,12.417,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+196,084,Belize,702,Singapore,84, Nuclear reactors,71719.686,12.107531999999999,Singapore -  Nuclear reactors
+197,084,Belize,670,Saint Vincent and the Grenadines,11, Wheat or meslin flour,10453.786,11.822246,Saint Vincent and the Grenadines -  Wheat or meslin flour
+198,084,Belize,591,Panama,34," Soaps, for toilet use, solid",17036.123,11.657121,"Panama -  Soaps, for toilet use, solid"
+199,084,Belize,616,Poland,03," Ornamental fish, live",20342.13,11.557575,"Poland -  Ornamental fish, live"
+200,084,Belize,250,France,33, Essential oils of bergamot,134104.449,11.037916,France -  Essential oils of bergamot
+201,084,Belize,414,Kuwait,02," Bovine carcasses and half carcasses, fresh or chilled",14956.206,11.032,"Kuwait -  Bovine carcasses and half carcasses, fresh or chilled"
+202,084,Belize,250,France,39, Polyethylene - specific gravity <0.94 in primary form,40245.082,10.925029,France -  Polyethylene - specific gravity <0.94 in primary form
+203,084,Belize,275,State of Palestine,03," Ornamental fish, live",18076.379,10.301279000000001,"State of Palestine -  Ornamental fish, live"
+204,084,Belize,586,Pakistan,41," Bovine skins, whole, raw",42114.277,9.982087,"Pakistan -  Bovine skins, whole, raw"
+205,084,Belize,356,India,40," Natural rubber latex, including prevulcanised",13499.321,9.631618,"India -  Natural rubber latex, including prevulcanised"
+206,084,Belize,764,Thailand,38, Artificial graphite,29348.72,9.6,Thailand -  Artificial graphite
+207,084,Belize,214,Dominican Republic,39, Polyethylene - specific gravity <0.94 in primary form,280652.464,9.337958,Dominican Republic -  Polyethylene - specific gravity <0.94 in primary form
+208,084,Belize,466,Mali,17," Raw sugar, cane",16227.701,9.315119000000001,"Mali -  Raw sugar, cane"
+209,084,Belize,191,Croatia,94," Seats, aircraft",15973.692,8.978343,"Croatia -  Seats, aircraft"
+210,084,Belize,818,Egypt,87, Pedestrian controlled tractors,64769.248,8.908295,Egypt -  Pedestrian controlled tractors
+211,084,Belize,360,Indonesia,44, Fuel wood,16101.417,8.842486000000001,Indonesia -  Fuel wood
+212,084,Belize,360,Indonesia,27," Anthracite, not agglomerated",15834.208,8.802867,"Indonesia -  Anthracite, not agglomerated"
+213,084,Belize,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,31015.725,8.709535,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+214,084,Belize,203,Czechia,18," Cocoa beans, whole or broken, raw or roasted",46380.0,8.519,"Czechia -  Cocoa beans, whole or broken, raw or roasted"
+215,084,Belize,586,Pakistan,84, Nuclear reactors,49188.142,8.197586,Pakistan -  Nuclear reactors
+216,084,Belize,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",34118.982,8.168082,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+217,084,Belize,740,Suriname,48, Newsprint,13046.096,7.998,Suriname -  Newsprint
+218,084,Belize,756,"Switzerland, Liechtenstein",20," Cucumbers,gherkins, prepared or preserved by vinegar",36398.729,7.954,"Switzerland, Liechtenstein -  Cucumbers,gherkins, prepared or preserved by vinegar"
+219,084,Belize,052,Barbados,22, Mineral and aerated waters not sweetened or flavoured,8048.538,7.889444999999999,Barbados -  Mineral and aerated waters not sweetened or flavoured
+220,084,Belize,422,Lebanon,21," Coffee extracts, essences, concentrates, preparations",11264.794,7.811793,"Lebanon -  Coffee extracts, essences, concentrates, preparations"
+221,084,Belize,056,Belgium,59, Gum or amylaceous covered textiles for book covers et,40627.312,7.747858,Belgium -  Gum or amylaceous covered textiles for book covers et
+222,084,Belize,840,United States of America,95," Rideable wheeled toys, dolls carriages",322044.674,7.595942,"United States of America -  Rideable wheeled toys, dolls carriages"
+223,084,Belize,076,Brazil,92," Upright pianos, including auto-players",225199.0,7.542,"Brazil -  Upright pianos, including auto-players"
+224,084,Belize,840,United States of America,22, Mineral and aerated waters not sweetened or flavoured,109743.763,7.161723,United States of America -  Mineral and aerated waters not sweetened or flavoured
+225,084,Belize,250,France,40," Natural rubber latex, including prevulcanised",64831.825,6.841937,"France -  Natural rubber latex, including prevulcanised"
+226,084,Belize,036,Australia,21," Coffee extracts, essences, concentrates, preparations",62834.702,6.81885,"Australia -  Coffee extracts, essences, concentrates, preparations"
+227,084,Belize,222,El Salvador,73, Sheet piling of iron or steel,2345.992,6.757409,El Salvador -  Sheet piling of iron or steel
+228,084,Belize,036,Australia,03," Ornamental fish, live",166117.031,6.2727200000000005,"Australia -  Ornamental fish, live"
+229,084,Belize,320,Guatemala,11, Wheat or meslin flour,1004.631,6.18655,Guatemala -  Wheat or meslin flour
+230,084,Belize,036,Australia,48, Newsprint,8014.762,6.17,Australia -  Newsprint
+231,084,Belize,826,United Kingdom,94," Seats, aircraft",12496.762,6.166099,"United Kingdom -  Seats, aircraft"
+232,084,Belize,682,Saudi Arabia,07," Potatoes seed, fresh or chilled",3774.307,6.093463,"Saudi Arabia -  Potatoes seed, fresh or chilled"
+233,084,Belize,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,2573.454,6.051298,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+234,084,Belize,320,Guatemala,21," Coffee extracts, essences, concentrates, preparations",17076.929,5.918812,"Guatemala -  Coffee extracts, essences, concentrates, preparations"
+235,084,Belize,804,Ukraine,32, Quebracho tanning extract,12402.707,5.881778000000001,Ukraine -  Quebracho tanning extract
+236,084,Belize,360,Indonesia,25," Salt (sodium chloride) including solution, salt water",18503.892,5.863603,"Indonesia -  Salt (sodium chloride) including solution, salt water"
+237,084,Belize,340,Honduras,12, Soya beans,4623.174,5.826468,Honduras -  Soya beans
+238,084,Belize,320,Guatemala,85, Electric motors of an output < 37.5 watts,9506.834,5.697,Guatemala -  Electric motors of an output < 37.5 watts
+239,084,Belize,840,United States of America,84, Nuclear reactors,88789.253,5.394106,United States of America -  Nuclear reactors
+240,084,Belize,040,Austria,20," Cucumbers,gherkins, prepared or preserved by vinegar",21814.007,5.379703,"Austria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+241,084,Belize,554,New Zealand,35, Casein,58811.58,5.3536660000000005,New Zealand -  Casein
+242,084,Belize,048,Bahrain,52," Cotton, not carded or combed",5840.692,5.307485,"Bahrain -  Cotton, not carded or combed"
+243,084,Belize,554,New Zealand,93," Military weapons, other than hand guns, swords, etc",7605.137,5.298956,"New Zealand -  Military weapons, other than hand guns, swords, etc"
+244,084,Belize,320,Guatemala,64," Waterproof footwear (Wellingtons etc), metal toe cap",6130.665,5.2320969999999996,"Guatemala -  Waterproof footwear (Wellingtons etc), metal toe cap"
+245,084,Belize,388,Jamaica,39, Polyethylene - specific gravity <0.94 in primary form,4659.907,5.103563,Jamaica -  Polyethylene - specific gravity <0.94 in primary form
+246,084,Belize,250,France,62," Mens, boys overcoats of wool or hair, not knit",150513.848,4.988983,"France -  Mens, boys overcoats of wool or hair, not knit"
+247,084,Belize,360,Indonesia,52," Cotton, not carded or combed",5411.534,4.960421,"Indonesia -  Cotton, not carded or combed"
+248,084,Belize,388,Jamaica,57," Carpets of wool or fine animal hair, knotted",26914.417,4.883852,"Jamaica -  Carpets of wool or fine animal hair, knotted"
+249,084,Belize,328,Guyana,73, Sheet piling of iron or steel,1875.015,4.7331199999999995,Guyana -  Sheet piling of iron or steel
+250,084,Belize,024,Angola,48, Newsprint,3159.743,4.668,Angola -  Newsprint
+251,084,Belize,104,Myanmar,90," Optical fibres, except for telecommunications",1891.265,4.657059,"Myanmar -  Optical fibres, except for telecommunications"
+252,084,Belize,136,Cayman Islands,38, Artificial graphite,15401.503,4.65694,Cayman Islands -  Artificial graphite
+253,084,Belize,826,United Kingdom,73, Sheet piling of iron or steel,12449.413,4.459435999999999,United Kingdom -  Sheet piling of iron or steel
+254,084,Belize,328,Guyana,63, Electric blankets of textile material,16256.68,4.342,Guyana -  Electric blankets of textile material
+255,084,Belize,600,Paraguay,95," Rideable wheeled toys, dolls carriages",23671.658,4.239649999999999,"Paraguay -  Rideable wheeled toys, dolls carriages"
+256,084,Belize,458,Malaysia,73, Sheet piling of iron or steel,3944.024,4.043292,Malaysia -  Sheet piling of iron or steel
+257,084,Belize,214,Dominican Republic,28, Chlorine,4480.0,4.0,Dominican Republic -  Chlorine
+258,084,Belize,048,Bahrain,08," Coconuts, fresh or dried",4421.105,3.998738,"Bahrain -  Coconuts, fresh or dried"
+259,084,Belize,320,Guatemala,86," Rail locomotives, externally electrically powered",3042.878,3.956191,"Guatemala -  Rail locomotives, externally electrically powered"
+260,084,Belize,388,Jamaica,84, Nuclear reactors,29162.193,3.9452350000000003,Jamaica -  Nuclear reactors
+261,084,Belize,328,Guyana,39, Polyethylene - specific gravity <0.94 in primary form,1335.721,3.92557,Guyana -  Polyethylene - specific gravity <0.94 in primary form
+262,084,Belize,052,Barbados,03," Ornamental fish, live",127374.162,3.855685,"Barbados -  Ornamental fish, live"
+263,084,Belize,360,Indonesia,33, Essential oils of bergamot,15709.378,3.7446080000000004,Indonesia -  Essential oils of bergamot
+264,084,Belize,591,Panama,48, Newsprint,9615.123,3.711186,Panama -  Newsprint
+265,084,Belize,136,Cayman Islands,29, Saturated acyclic hydrocarbons,6045.592,3.631017,Cayman Islands -  Saturated acyclic hydrocarbons
+266,084,Belize,388,Jamaica,94," Seats, aircraft",18224.482,3.389291,"Jamaica -  Seats, aircraft"
+267,084,Belize,136,Cayman Islands,48, Newsprint,5573.852,3.387483,Cayman Islands -  Newsprint
+268,084,Belize,024,Angola,49," Brochures, leaflets and similar, in single sheets",2081.093,3.304,"Angola -  Brochures, leaflets and similar, in single sheets"
+269,084,Belize,328,Guyana,72," Pig iron, non-alloy, <0.5% phosphorus",1238.757,3.0791999999999997,"Guyana -  Pig iron, non-alloy, <0.5% phosphorus"
+270,084,Belize,616,Poland,23," Flour or meal, pellet of meat or offal for animal fee",3282.82,3.048009,"Poland -  Flour or meal, pellet of meat or offal for animal fee"
+271,084,Belize,752,Sweden,90," Optical fibres, except for telecommunications",24584.537,3.0,"Sweden -  Optical fibres, except for telecommunications"
+272,084,Belize,840,United States of America,87, Pedestrian controlled tractors,25180.257,2.927895,United States of America -  Pedestrian controlled tractors
+273,084,Belize,320,Guatemala,28, Chlorine,558.891,2.856132,Guatemala -  Chlorine
+274,084,Belize,024,Angola,42," Saddlery and harness, of any material",1756.919,2.852,"Angola -  Saddlery and harness, of any material"
+275,084,Belize,376,Israel,61," Mens, boys overcoats, etc, of wool or hair, knit",52290.749,2.775268,"Israel -  Mens, boys overcoats, etc, of wool or hair, knit"
+276,084,Belize,388,Jamaica,95," Rideable wheeled toys, dolls carriages",15695.375,2.730598,"Jamaica -  Rideable wheeled toys, dolls carriages"
+277,084,Belize,276,Germany,94," Seats, aircraft",48109.261,2.694,"Germany -  Seats, aircraft"
+278,084,Belize,040,Austria,95," Rideable wheeled toys, dolls carriages",35327.011,2.592327,"Austria -  Rideable wheeled toys, dolls carriages"
+279,084,Belize,188,Costa Rica,89," Cruise ships, excursion boats, ferry boats",21605.166,2.526097,"Costa Rica -  Cruise ships, excursion boats, ferry boats"
+280,084,Belize,320,Guatemala,07," Potatoes seed, fresh or chilled",3404.585,2.45276,"Guatemala -  Potatoes seed, fresh or chilled"
+281,084,Belize,826,United Kingdom,21," Coffee extracts, essences, concentrates, preparations",8689.025,2.451299,"United Kingdom -  Coffee extracts, essences, concentrates, preparations"
+282,084,Belize,894,Zambia,08," Coconuts, fresh or dried",1707.384,2.4476,"Zambia -  Coconuts, fresh or dried"
+283,084,Belize,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,27130.43,2.382066,Malaysia -  Polyethylene - specific gravity <0.94 in primary form
+284,084,Belize,120,Cameroon,63, Electric blankets of textile material,1392.644,2.372801,Cameroon -  Electric blankets of textile material
+285,084,Belize,136,Cayman Islands,21," Coffee extracts, essences, concentrates, preparations",8778.991,2.3726149999999997,"Cayman Islands -  Coffee extracts, essences, concentrates, preparations"
+286,084,Belize,180,"Congo, Dem. Rep. of the",85, Electric motors of an output < 37.5 watts,9326.781,2.315,"Congo, Dem. Rep. of the -  Electric motors of an output < 37.5 watts"
+287,084,Belize,388,Jamaica,33, Essential oils of bergamot,67450.777,2.245318,Jamaica -  Essential oils of bergamot
+288,084,Belize,376,Israel,34," Soaps, for toilet use, solid",12034.592,2.202094,"Israel -  Soaps, for toilet use, solid"
+289,084,Belize,250,France,22, Mineral and aerated waters not sweetened or flavoured,14093.909,2.199557,France -  Mineral and aerated waters not sweetened or flavoured
+290,084,Belize,268,Georgia,87, Pedestrian controlled tractors,28330.556,2.1716309999999996,Georgia -  Pedestrian controlled tractors
+291,084,Belize,328,Guyana,84, Nuclear reactors,8592.015,2.1441500000000002,Guyana -  Nuclear reactors
+292,084,Belize,360,Indonesia,76," Aluminium unwrought, not alloyed",13065.504,2.086006,"Indonesia -  Aluminium unwrought, not alloyed"
+293,084,Belize,591,Panama,19," Infant foods of cereals, flour, starch or milk, retai",12463.417,1.9628679999999998,"Panama -  Infant foods of cereals, flour, starch or milk, retai"
+294,084,Belize,144,Sri Lanka,07," Potatoes seed, fresh or chilled",1187.269,1.906839,"Sri Lanka -  Potatoes seed, fresh or chilled"
+295,084,Belize,516,Namibia,40," Natural rubber latex, including prevulcanised",9585.091,1.89581,"Namibia -  Natural rubber latex, including prevulcanised"
+296,084,Belize,036,Australia,84, Nuclear reactors,27383.833,1.889781,Australia -  Nuclear reactors
+297,084,Belize,516,Namibia,84, Nuclear reactors,9166.419,1.866191,Namibia -  Nuclear reactors
+298,084,Belize,586,Pakistan,30," Glands and other organs, dried, for therapeutic uses",24750.849,1.840701,"Pakistan -  Glands and other organs, dried, for therapeutic uses"
+299,084,Belize,740,Suriname,32, Quebracho tanning extract,1116.287,1.794,Suriname -  Quebracho tanning extract
+300,084,Belize,348,Hungary,39, Polyethylene - specific gravity <0.94 in primary form,7952.306,1.78,Hungary -  Polyethylene - specific gravity <0.94 in primary form
+301,084,Belize,250,France,15," Lard, other pig fat and poultry fat, rendered",1164.257,1.719162,"France -  Lard, other pig fat and poultry fat, rendered"
+302,084,Belize,591,Panama,27," Anthracite, not agglomerated",1033.696,1.692675,"Panama -  Anthracite, not agglomerated"
+303,084,Belize,586,Pakistan,86," Rail locomotives, externally electrically powered",588.546,1.6416089999999999,"Pakistan -  Rail locomotives, externally electrically powered"
+304,084,Belize,840,United States of America,12, Soya beans,4539.466,1.624487,United States of America -  Soya beans
+305,084,Belize,528,Netherlands (Kingdom of the),18," Cocoa beans, whole or broken, raw or roasted",5752.753,1.6063910000000001,"Netherlands (Kingdom of the) -  Cocoa beans, whole or broken, raw or roasted"
+306,084,Belize,724,Spain,89," Cruise ships, excursion boats, ferry boats",9200.129,1.6,"Spain -  Cruise ships, excursion boats, ferry boats"
+307,084,Belize,724,Spain,61," Mens, boys overcoats, etc, of wool or hair, knit",4025.197,1.5925850000000001,"Spain -  Mens, boys overcoats, etc, of wool or hair, knit"
+308,084,Belize,052,Barbados,16," Sausages, similar products of meat, meat offal & bloo",11612.624,1.581905,"Barbados -  Sausages, similar products of meat, meat offal & bloo"
+309,084,Belize,764,Thailand,85, Electric motors of an output < 37.5 watts,15021.919,1.538392,Thailand -  Electric motors of an output < 37.5 watts
+310,084,Belize,840,United States of America,89," Cruise ships, excursion boats, ferry boats",27941.41,1.506443,"United States of America -  Cruise ships, excursion boats, ferry boats"
+311,084,Belize,222,El Salvador,47, Mechanical wood pulp,476.46,1.501943,El Salvador -  Mechanical wood pulp
+312,084,Belize,270,Gambia,87, Pedestrian controlled tractors,1343.304,1.5,Gambia -  Pedestrian controlled tractors
+313,084,Belize,270,Gambia,94," Seats, aircraft",519.955,1.5,"Gambia -  Seats, aircraft"
+314,084,Belize,348,Hungary,87, Pedestrian controlled tractors,6535.593,1.493,Hungary -  Pedestrian controlled tractors
+315,084,Belize,308,Grenada,39, Polyethylene - specific gravity <0.94 in primary form,5190.606,1.483,Grenada -  Polyethylene - specific gravity <0.94 in primary form
+316,084,Belize,764,Thailand,73, Sheet piling of iron or steel,4958.844,1.4779870000000002,Thailand -  Sheet piling of iron or steel
+317,084,Belize,764,Thailand,39, Polyethylene - specific gravity <0.94 in primary form,44126.394,1.472,Thailand -  Polyethylene - specific gravity <0.94 in primary form
+318,084,Belize,818,Egypt,84, Nuclear reactors,21529.69,1.449811,Egypt -  Nuclear reactors
+319,084,Belize,360,Indonesia,84, Nuclear reactors,6837.392,1.446561,Indonesia -  Nuclear reactors
+320,084,Belize,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",61676.066,1.416,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+321,084,Belize,028,Antigua and Barbuda,03," Ornamental fish, live",5196.008,1.415343,"Antigua and Barbuda -  Ornamental fish, live"
+322,084,Belize,826,United Kingdom,40," Natural rubber latex, including prevulcanised",21849.118,1.410384,"United Kingdom -  Natural rubber latex, including prevulcanised"
+323,084,Belize,360,Indonesia,96," Worked ivory, articles of ivory",6855.929,1.4102999999999999,"Indonesia -  Worked ivory, articles of ivory"
+324,084,Belize,048,Bahrain,85, Electric motors of an output < 37.5 watts,981.326,1.355355,Bahrain -  Electric motors of an output < 37.5 watts
+325,084,Belize,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",37470.596,1.3465509999999998,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+326,084,Belize,222,El Salvador,21," Coffee extracts, essences, concentrates, preparations",2165.365,1.322752,"El Salvador -  Coffee extracts, essences, concentrates, preparations"
+327,084,Belize,591,Panama,22, Mineral and aerated waters not sweetened or flavoured,421.9,1.278999,Panama -  Mineral and aerated waters not sweetened or flavoured
+328,084,Belize,591,Panama,96," Worked ivory, articles of ivory",4046.301,1.27382,"Panama -  Worked ivory, articles of ivory"
+329,084,Belize,036,Australia,73, Sheet piling of iron or steel,6166.62,1.257985,Australia -  Sheet piling of iron or steel
+330,084,Belize,458,Malaysia,84, Nuclear reactors,14566.83,1.222218,Malaysia -  Nuclear reactors
+331,084,Belize,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",2915.367,1.198037,"Malaysia -  Glass cullet, waste or scrap, glass in the mass"
+332,084,Belize,591,Panama,25," Salt (sodium chloride) including solution, salt water",126.417,1.195702,"Panama -  Salt (sodium chloride) including solution, salt water"
+333,084,Belize,320,Guatemala,08," Coconuts, fresh or dried",382.281,1.194989,"Guatemala -  Coconuts, fresh or dried"
+334,084,Belize,752,Sweden,21," Coffee extracts, essences, concentrates, preparations",6445.035,1.08169,"Sweden -  Coffee extracts, essences, concentrates, preparations"
+335,084,Belize,203,Czechia,17," Raw sugar, cane",1005.0,1.075,"Czechia -  Raw sugar, cane"
+336,084,Belize,826,United Kingdom,03," Ornamental fish, live",26347.245,1.068762,"United Kingdom -  Ornamental fish, live"
+337,084,Belize,840,United States of America,90," Optical fibres, except for telecommunications",8029.367,1.0378969999999998,"United States of America -  Optical fibres, except for telecommunications"
+338,084,Belize,376,Israel,87, Pedestrian controlled tractors,8761.4,1.036338,Israel -  Pedestrian controlled tractors
+339,084,Belize,360,Indonesia,20," Cucumbers,gherkins, prepared or preserved by vinegar",7381.672,1.020683,"Indonesia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+340,084,Belize,308,Grenada,86," Rail locomotives, externally electrically powered",12471.391,1.0,"Grenada -  Rail locomotives, externally electrically powered"
+341,084,Belize,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,76659.586,0.956504,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+342,084,Belize,276,Germany,22, Mineral and aerated waters not sweetened or flavoured,15968.696,0.945,Germany -  Mineral and aerated waters not sweetened or flavoured
+343,084,Belize,586,Pakistan,73, Sheet piling of iron or steel,590.426,0.938706,Pakistan -  Sheet piling of iron or steel
+344,084,Belize,242,Fiji,22, Mineral and aerated waters not sweetened or flavoured,1475.903,0.920071,Fiji -  Mineral and aerated waters not sweetened or flavoured
+345,084,Belize,040,Austria,07," Potatoes seed, fresh or chilled",850.854,0.892162,"Austria -  Potatoes seed, fresh or chilled"
+346,084,Belize,388,Jamaica,22, Mineral and aerated waters not sweetened or flavoured,3629.372,0.878663,Jamaica -  Mineral and aerated waters not sweetened or flavoured
+347,084,Belize,203,Czechia,64," Waterproof footwear (Wellingtons etc), metal toe cap",22855.0,0.854,"Czechia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+348,084,Belize,702,Singapore,85, Electric motors of an output < 37.5 watts,18239.982,0.832133,Singapore -  Electric motors of an output < 37.5 watts
+349,084,Belize,136,Cayman Islands,34," Soaps, for toilet use, solid",1557.263,0.826656,"Cayman Islands -  Soaps, for toilet use, solid"
+350,084,Belize,724,Spain,64," Waterproof footwear (Wellingtons etc), metal toe cap",29156.071,0.822221,"Spain -  Waterproof footwear (Wellingtons etc), metal toe cap"
+351,084,Belize,203,Czechia,73, Sheet piling of iron or steel,9503.0,0.811,Czechia -  Sheet piling of iron or steel
+352,084,Belize,360,Indonesia,85, Electric motors of an output < 37.5 watts,6006.603,0.794736,Indonesia -  Electric motors of an output < 37.5 watts
+353,084,Belize,591,Panama,20," Cucumbers,gherkins, prepared or preserved by vinegar",1042.732,0.782398,"Panama -  Cucumbers,gherkins, prepared or preserved by vinegar"
+354,084,Belize,320,Guatemala,44, Fuel wood,533.251,0.764028,Guatemala -  Fuel wood
+355,084,Belize,188,Costa Rica,84, Nuclear reactors,11448.777,0.744702,Costa Rica -  Nuclear reactors
+356,084,Belize,028,Antigua and Barbuda,63, Electric blankets of textile material,2755.892,0.736109,Antigua and Barbuda -  Electric blankets of textile material
+357,084,Belize,270,Gambia,63, Electric blankets of textile material,563.839,0.7,Gambia -  Electric blankets of textile material
+358,084,Belize,356,India,39, Polyethylene - specific gravity <0.94 in primary form,57453.094,0.686764,India -  Polyethylene - specific gravity <0.94 in primary form
+359,084,Belize,214,Dominican Republic,48, Newsprint,23144.33,0.671,Dominican Republic -  Newsprint
+360,084,Belize,724,Spain,73, Sheet piling of iron or steel,5058.29,0.668,Spain -  Sheet piling of iron or steel
+361,084,Belize,036,Australia,18," Cocoa beans, whole or broken, raw or roasted",5996.361,0.654,"Australia -  Cocoa beans, whole or broken, raw or roasted"
+362,084,Belize,528,Netherlands (Kingdom of the),84, Nuclear reactors,766.27,0.652752,Netherlands (Kingdom of the) -  Nuclear reactors
+363,084,Belize,591,Panama,33, Essential oils of bergamot,5748.507,0.639638,Panama -  Essential oils of bergamot
+364,084,Belize,670,Saint Vincent and the Grenadines,16," Sausages, similar products of meat, meat offal & bloo",2208.937,0.632971,"Saint Vincent and the Grenadines -  Sausages, similar products of meat, meat offal & bloo"
+365,084,Belize,756,"Switzerland, Liechtenstein",44, Fuel wood,10438.491,0.618,"Switzerland, Liechtenstein -  Fuel wood"
+366,084,Belize,604,Peru,84, Nuclear reactors,7679.37,0.6166,Peru -  Nuclear reactors
+367,084,Belize,591,Panama,16," Sausages, similar products of meat, meat offal & bloo",1396.86,0.6162949999999999,"Panama -  Sausages, similar products of meat, meat offal & bloo"
+368,084,Belize,340,Honduras,21," Coffee extracts, essences, concentrates, preparations",2155.844,0.599947,"Honduras -  Coffee extracts, essences, concentrates, preparations"
+369,084,Belize,300,Greece,89," Cruise ships, excursion boats, ferry boats",707436.627,0.579,"Greece -  Cruise ships, excursion boats, ferry boats"
+370,084,Belize,308,Grenada,48, Newsprint,249.856,0.576,Grenada -  Newsprint
+371,084,Belize,422,Lebanon,20," Cucumbers,gherkins, prepared or preserved by vinegar",955.541,0.57599,"Lebanon -  Cucumbers,gherkins, prepared or preserved by vinegar"
+372,084,Belize,028,Antigua and Barbuda,16," Sausages, similar products of meat, meat offal & bloo",2086.873,0.5661369999999999,"Antigua and Barbuda -  Sausages, similar products of meat, meat offal & bloo"
+373,084,Belize,320,Guatemala,33, Essential oils of bergamot,1503.185,0.5517380000000001,Guatemala -  Essential oils of bergamot
+374,084,Belize,616,Poland,64," Waterproof footwear (Wellingtons etc), metal toe cap",19121.1,0.54018,"Poland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+375,084,Belize,392,Japan,52," Cotton, not carded or combed",6999.027,0.537217,"Japan -  Cotton, not carded or combed"
+376,084,Belize,056,Belgium,25," Salt (sodium chloride) including solution, salt water",2010.0,0.534543,"Belgium -  Salt (sodium chloride) including solution, salt water"
+377,084,Belize,591,Panama,21," Coffee extracts, essences, concentrates, preparations",1532.38,0.533682,"Panama -  Coffee extracts, essences, concentrates, preparations"
+378,084,Belize,048,Bahrain,64," Waterproof footwear (Wellingtons etc), metal toe cap",10985.3,0.532463,"Bahrain -  Waterproof footwear (Wellingtons etc), metal toe cap"
+379,084,Belize,356,India,83, Padlocks of base metal,5696.704,0.50576,India -  Padlocks of base metal
+380,084,Belize,740,Suriname,39, Polyethylene - specific gravity <0.94 in primary form,1330.247,0.5,Suriname -  Polyethylene - specific gravity <0.94 in primary form
+381,084,Belize,826,United Kingdom,71," Pearls natural, not permanently mounted or set",580074.215,0.490859,"United Kingdom -  Pearls natural, not permanently mounted or set"
+382,084,Belize,578,Norway,21," Coffee extracts, essences, concentrates, preparations",1595.995,0.485064,"Norway -  Coffee extracts, essences, concentrates, preparations"
+383,084,Belize,036,Australia,90," Optical fibres, except for telecommunications",19954.033,0.479498,"Australia -  Optical fibres, except for telecommunications"
+384,084,Belize,356,India,92," Upright pianos, including auto-players",2664.794,0.462053,"India -  Upright pianos, including auto-players"
+385,084,Belize,024,Angola,44, Fuel wood,286.054,0.459,Angola -  Fuel wood
+386,084,Belize,024,Angola,35, Casein,304.207,0.44,Angola -  Casein
+387,084,Belize,344,"China, Hong Kong SAR",03," Ornamental fish, live",8873.133,0.439156,"China, Hong Kong SAR -  Ornamental fish, live"
+388,084,Belize,586,Pakistan,74, Copper mattes,2597.368,0.433542,Pakistan -  Copper mattes
+389,084,Belize,554,New Zealand,84, Nuclear reactors,3831.166,0.431533,New Zealand -  Nuclear reactors
+390,084,Belize,670,Saint Vincent and the Grenadines,10, Durum wheat,314.822,0.42097,Saint Vincent and the Grenadines -  Durum wheat
+391,084,Belize,643,Russian Federation,84, Nuclear reactors,5251.956,0.41380700000000004,Russian Federation -  Nuclear reactors
+392,084,Belize,410,"Korea, Republic of",21," Coffee extracts, essences, concentrates, preparations",3182.63,0.39502800000000005,"Korea, Republic of -  Coffee extracts, essences, concentrates, preparations"
+393,084,Belize,250,France,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",1114.013,0.384957,"France -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+394,084,Belize,188,Costa Rica,39, Polyethylene - specific gravity <0.94 in primary form,7015.89,0.374652,Costa Rica -  Polyethylene - specific gravity <0.94 in primary form
+395,084,Belize,188,Costa Rica,85, Electric motors of an output < 37.5 watts,9870.879,0.36801999999999996,Costa Rica -  Electric motors of an output < 37.5 watts
+396,084,Belize,208,Denmark,22, Mineral and aerated waters not sweetened or flavoured,3288.668,0.36563799999999996,Denmark -  Mineral and aerated waters not sweetened or flavoured
+397,084,Belize,818,Egypt,73, Sheet piling of iron or steel,1795.73,0.352597,Egypt -  Sheet piling of iron or steel
+398,084,Belize,724,Spain,59, Gum or amylaceous covered textiles for book covers et,769.567,0.35,Spain -  Gum or amylaceous covered textiles for book covers et
+399,084,Belize,414,Kuwait,87, Pedestrian controlled tractors,5977.442,0.33163099999999995,Kuwait -  Pedestrian controlled tractors
+400,084,Belize,188,Costa Rica,25," Salt (sodium chloride) including solution, salt water",258.096,0.324279,"Costa Rica -  Salt (sodium chloride) including solution, salt water"
+401,084,Belize,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",49035.043,0.31,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+402,084,Belize,356,India,84, Nuclear reactors,9798.319,0.304084,India -  Nuclear reactors
+403,084,Belize,840,United States of America,18," Cocoa beans, whole or broken, raw or roasted",1104.809,0.30289299999999997,"United States of America -  Cocoa beans, whole or broken, raw or roasted"
+404,084,Belize,670,Saint Vincent and the Grenadines,57," Carpets of wool or fine animal hair, knotted",710.006,0.30256299999999997,"Saint Vincent and the Grenadines -  Carpets of wool or fine animal hair, knotted"
+405,084,Belize,392,Japan,18," Cocoa beans, whole or broken, raw or roasted",1557.093,0.300996,"Japan -  Cocoa beans, whole or broken, raw or roasted"
+406,084,Belize,270,Gambia,39, Polyethylene - specific gravity <0.94 in primary form,214.415,0.3,Gambia -  Polyethylene - specific gravity <0.94 in primary form
+407,084,Belize,780,Trinidad and Tobago,12, Soya beans,14548.914,0.296135,Trinidad and Tobago -  Soya beans
+408,084,Belize,376,Israel,85, Electric motors of an output < 37.5 watts,5898.914,0.288674,Israel -  Electric motors of an output < 37.5 watts
+409,084,Belize,028,Antigua and Barbuda,73, Sheet piling of iron or steel,2639.206,0.273309,Antigua and Barbuda -  Sheet piling of iron or steel
+410,084,Belize,586,Pakistan,90," Optical fibres, except for telecommunications",18141.277,0.269741,"Pakistan -  Optical fibres, except for telecommunications"
+411,084,Belize,156,China,85, Electric motors of an output < 37.5 watts,1988.503,0.268675,China -  Electric motors of an output < 37.5 watts
+412,084,Belize,320,Guatemala,42," Saddlery and harness, of any material",647.613,0.268517,"Guatemala -  Saddlery and harness, of any material"
+413,084,Belize,703,Slovakia,20," Cucumbers,gherkins, prepared or preserved by vinegar",249.015,0.268,"Slovakia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+414,084,Belize,048,Bahrain,33, Essential oils of bergamot,3607.776,0.258821,Bahrain -  Essential oils of bergamot
+415,084,Belize,840,United States of America,42," Saddlery and harness, of any material",6181.683,0.258469,"United States of America -  Saddlery and harness, of any material"
+416,084,Belize,340,Honduras,44, Fuel wood,21.977,0.253398,Honduras -  Fuel wood
+417,084,Belize,422,Lebanon,85, Electric motors of an output < 37.5 watts,3628.571,0.25290199999999996,Lebanon -  Electric motors of an output < 37.5 watts
+418,084,Belize,554,New Zealand,87, Pedestrian controlled tractors,1473.522,0.250759,New Zealand -  Pedestrian controlled tractors
+419,084,Belize,028,Antigua and Barbuda,84, Nuclear reactors,19203.204,0.249279,Antigua and Barbuda -  Nuclear reactors
+420,084,Belize,508,Mozambique,63, Electric blankets of textile material,1996.28,0.244595,Mozambique -  Electric blankets of textile material
+421,084,Belize,218,Ecuador,84, Nuclear reactors,2914.321,0.243159,Ecuador -  Nuclear reactors
+422,084,Belize,356,India,96," Worked ivory, articles of ivory",3096.269,0.23960800000000002,"India -  Worked ivory, articles of ivory"
+423,084,Belize,372,Ireland,79," Zinc, not alloyed, unwrought, >99% pure",2755.349,0.23931,"Ireland -  Zinc, not alloyed, unwrought, >99% pure"
+424,084,Belize,320,Guatemala,65," Hat-forms, etc of felt, not shaped, no formed brim",870.762,0.234151,"Guatemala -  Hat-forms, etc of felt, not shaped, no formed brim"
+425,084,Belize,376,Israel,24," Tobacco, unmanufactured, not stemmed or stripped",11249.941,0.233429,"Israel -  Tobacco, unmanufactured, not stemmed or stripped"
+426,084,Belize,376,Israel,30," Glands and other organs, dried, for therapeutic uses",33545.71,0.233358,"Israel -  Glands and other organs, dried, for therapeutic uses"
+427,084,Belize,804,Ukraine,38, Artificial graphite,229.78,0.23321,Ukraine -  Artificial graphite
+428,084,Belize,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",49655.794,0.227821,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+429,084,Belize,818,Egypt,30," Glands and other organs, dried, for therapeutic uses",5621.635,0.224865,"Egypt -  Glands and other organs, dried, for therapeutic uses"
+430,084,Belize,052,Barbados,72," Pig iron, non-alloy, <0.5% phosphorus",1174.86,0.22049000000000002,"Barbados -  Pig iron, non-alloy, <0.5% phosphorus"
+431,084,Belize,756,"Switzerland, Liechtenstein",84, Nuclear reactors,46555.254,0.206986,"Switzerland, Liechtenstein -  Nuclear reactors"
+432,084,Belize,028,Antigua and Barbuda,39, Polyethylene - specific gravity <0.94 in primary form,7607.291,0.204898,Antigua and Barbuda -  Polyethylene - specific gravity <0.94 in primary form
+433,084,Belize,328,Guyana,95," Rideable wheeled toys, dolls carriages",569.839,0.2,"Guyana -  Rideable wheeled toys, dolls carriages"
+434,084,Belize,328,Guyana,49," Brochures, leaflets and similar, in single sheets",562.193,0.2,"Guyana -  Brochures, leaflets and similar, in single sheets"
+435,084,Belize,328,Guyana,85, Electric motors of an output < 37.5 watts,206.595,0.2,Guyana -  Electric motors of an output < 37.5 watts
+436,084,Belize,356,India,48, Newsprint,1870.405,0.19438999999999998,India -  Newsprint
+437,084,Belize,376,Israel,39, Polyethylene - specific gravity <0.94 in primary form,1703.069,0.18163300000000002,Israel -  Polyethylene - specific gravity <0.94 in primary form
+438,084,Belize,756,"Switzerland, Liechtenstein",73, Sheet piling of iron or steel,5570.481,0.178,"Switzerland, Liechtenstein -  Sheet piling of iron or steel"
+439,084,Belize,554,New Zealand,55," Filament tow of nylon, polyamides",3219.707,0.175244,"New Zealand -  Filament tow of nylon, polyamides"
+440,084,Belize,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",14295.663,0.175038,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+441,084,Belize,756,"Switzerland, Liechtenstein",86," Rail locomotives, externally electrically powered",14466.638,0.17,"Switzerland, Liechtenstein -  Rail locomotives, externally electrically powered"
+442,084,Belize,818,Egypt,85, Electric motors of an output < 37.5 watts,2421.2,0.169627,Egypt -  Electric motors of an output < 37.5 watts
+443,084,Belize,250,France,29, Saturated acyclic hydrocarbons,1397.713,0.166923,France -  Saturated acyclic hydrocarbons
+444,084,Belize,372,Ireland,94," Seats, aircraft",1822.633,0.165879,"Ireland -  Seats, aircraft"
+445,084,Belize,659,Saint Kitts and Nevis,22, Mineral and aerated waters not sweetened or flavoured,639.145,0.161198,Saint Kitts and Nevis -  Mineral and aerated waters not sweetened or flavoured
+446,084,Belize,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",13299.08,0.157,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+447,084,Belize,156,China,84, Nuclear reactors,671.33,0.152279,China -  Nuclear reactors
+448,084,Belize,724,Spain,62," Mens, boys overcoats of wool or hair, not knit",2238.838,0.150749,"Spain -  Mens, boys overcoats of wool or hair, not knit"
+449,084,Belize,024,Angola,85, Electric motors of an output < 37.5 watts,3772.157,0.145,Angola -  Electric motors of an output < 37.5 watts
+450,084,Belize,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,12730.008,0.144548,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+451,084,Belize,268,Georgia,24," Tobacco, unmanufactured, not stemmed or stripped",40343.068,0.13939,"Georgia -  Tobacco, unmanufactured, not stemmed or stripped"
+452,084,Belize,784,United Arab Emirates,68," Stone setts, curbstones, flagstones (except slate)",4009.306,0.13571799999999998,"United Arab Emirates -  Stone setts, curbstones, flagstones (except slate)"
+453,084,Belize,356,India,76," Aluminium unwrought, not alloyed",9430.84,0.133025,"India -  Aluminium unwrought, not alloyed"
+454,084,Belize,328,Guyana,21," Coffee extracts, essences, concentrates, preparations",910.362,0.12902000000000002,"Guyana -  Coffee extracts, essences, concentrates, preparations"
+455,084,Belize,528,Netherlands (Kingdom of the),82, Spades and shovels,8723.152,0.12807,Netherlands (Kingdom of the) -  Spades and shovels
+456,084,Belize,320,Guatemala,62," Mens, boys overcoats of wool or hair, not knit",220.646,0.124315,"Guatemala -  Mens, boys overcoats of wool or hair, not knit"
+457,084,Belize,376,Israel,96," Worked ivory, articles of ivory",572.051,0.123501,"Israel -  Worked ivory, articles of ivory"
+458,084,Belize,894,Zambia,07," Potatoes seed, fresh or chilled",518.616,0.1235,"Zambia -  Potatoes seed, fresh or chilled"
+459,084,Belize,308,Grenada,85, Electric motors of an output < 37.5 watts,968.473,0.12164499999999999,Grenada -  Electric motors of an output < 37.5 watts
+460,084,Belize,222,El Salvador,39, Polyethylene - specific gravity <0.94 in primary form,285.537,0.11493300000000001,El Salvador -  Polyethylene - specific gravity <0.94 in primary form
+461,084,Belize,060,Bermuda,03," Ornamental fish, live",4084.196,0.113616,"Bermuda -  Ornamental fish, live"
+462,084,Belize,144,Sri Lanka,40," Natural rubber latex, including prevulcanised",717.713,0.11042,"Sri Lanka -  Natural rubber latex, including prevulcanised"
+463,084,Belize,308,Grenada,84, Nuclear reactors,919.636,0.109457,Grenada -  Nuclear reactors
+464,084,Belize,320,Guatemala,82, Spades and shovels,116.202,0.10916,Guatemala -  Spades and shovels
+465,084,Belize,562,Niger,57," Carpets of wool or fine animal hair, knotted",22.693,0.10687300000000001,"Niger -  Carpets of wool or fine animal hair, knotted"
+466,084,Belize,764,Thailand,83, Padlocks of base metal,363.068,0.102,Thailand -  Padlocks of base metal
+467,084,Belize,308,Grenada,89," Cruise ships, excursion boats, ferry boats",1398.369,0.1,"Grenada -  Cruise ships, excursion boats, ferry boats"
+468,084,Belize,328,Guyana,62," Mens, boys overcoats of wool or hair, not knit",189.965,0.1,"Guyana -  Mens, boys overcoats of wool or hair, not knit"
+469,084,Belize,328,Guyana,94," Seats, aircraft",102.859,0.1,"Guyana -  Seats, aircraft"
+470,084,Belize,308,Grenada,73, Sheet piling of iron or steel,457.654,0.1,Grenada -  Sheet piling of iron or steel
+471,084,Belize,214,Dominican Republic,29, Saturated acyclic hydrocarbons,1560.0,0.1,Dominican Republic -  Saturated acyclic hydrocarbons
+472,084,Belize,388,Jamaica,85, Electric motors of an output < 37.5 watts,156.521,0.09990500000000001,Jamaica -  Electric motors of an output < 37.5 watts
+473,084,Belize,516,Namibia,73, Sheet piling of iron or steel,394.855,0.09822700000000001,Namibia -  Sheet piling of iron or steel
+474,084,Belize,422,Lebanon,87, Pedestrian controlled tractors,1484.769,0.09692400000000001,Lebanon -  Pedestrian controlled tractors
+475,084,Belize,752,Sweden,82, Spades and shovels,509.998,0.095775,Sweden -  Spades and shovels
+476,084,Belize,591,Panama,11, Wheat or meslin flour,219.159,0.095504,Panama -  Wheat or meslin flour
+477,084,Belize,052,Barbados,84, Nuclear reactors,1585.461,0.09221299999999999,Barbados -  Nuclear reactors
+478,084,Belize,052,Barbados,85, Electric motors of an output < 37.5 watts,2114.499,0.091996,Barbados -  Electric motors of an output < 37.5 watts
+479,084,Belize,788,Tunisia,70," Glass cullet, waste or scrap, glass in the mass",8390.7,0.08804600000000001,"Tunisia -  Glass cullet, waste or scrap, glass in the mass"
+480,084,Belize,376,Israel,83, Padlocks of base metal,605.296,0.08775100000000001,Israel -  Padlocks of base metal
+481,084,Belize,024,Angola,63, Electric blankets of textile material,566.994,0.087,Angola -  Electric blankets of textile material
+482,084,Belize,554,New Zealand,48, Newsprint,1305.373,0.085498,New Zealand -  Newsprint
+483,084,Belize,894,Zambia,09," Coffee, not roasted, not decaffeinated",301.786,0.084,"Zambia -  Coffee, not roasted, not decaffeinated"
+484,084,Belize,152,Chile,64," Waterproof footwear (Wellingtons etc), metal toe cap",1055.016,0.083958,"Chile -  Waterproof footwear (Wellingtons etc), metal toe cap"
+485,084,Belize,320,Guatemala,40," Natural rubber latex, including prevulcanised",3393.528,0.082826,"Guatemala -  Natural rubber latex, including prevulcanised"
+486,084,Belize,036,Australia,61," Mens, boys overcoats, etc, of wool or hair, knit",2844.505,0.082428,"Australia -  Mens, boys overcoats, etc, of wool or hair, knit"
+487,084,Belize,616,Poland,08," Coconuts, fresh or dried",55.714,0.08227200000000001,"Poland -  Coconuts, fresh or dried"
+488,084,Belize,748,Eswatini,64," Waterproof footwear (Wellingtons etc), metal toe cap",1793.143,0.081,"Eswatini -  Waterproof footwear (Wellingtons etc), metal toe cap"
+489,084,Belize,670,Saint Vincent and the Grenadines,39, Polyethylene - specific gravity <0.94 in primary form,1063.322,0.078617,Saint Vincent and the Grenadines -  Polyethylene - specific gravity <0.94 in primary form
+490,084,Belize,028,Antigua and Barbuda,85, Electric motors of an output < 37.5 watts,18912.873,0.07650799999999999,Antigua and Barbuda -  Electric motors of an output < 37.5 watts
+491,084,Belize,380,Italy,64," Waterproof footwear (Wellingtons etc), metal toe cap",4898.503,0.07502400000000001,"Italy -  Waterproof footwear (Wellingtons etc), metal toe cap"
+492,084,Belize,670,Saint Vincent and the Grenadines,85, Electric motors of an output < 37.5 watts,378.969,0.07265,Saint Vincent and the Grenadines -  Electric motors of an output < 37.5 watts
+493,084,Belize,784,United Arab Emirates,38, Artificial graphite,4294.336,0.072358,United Arab Emirates -  Artificial graphite
+494,084,Belize,056,Belgium,90," Optical fibres, except for telecommunications",5099.176,0.06690600000000001,"Belgium -  Optical fibres, except for telecommunications"
+495,084,Belize,670,Saint Vincent and the Grenadines,84, Nuclear reactors,368.013,0.065993,Saint Vincent and the Grenadines -  Nuclear reactors
+496,084,Belize,188,Costa Rica,42," Saddlery and harness, of any material",121.329,0.06478,"Costa Rica -  Saddlery and harness, of any material"
+497,084,Belize,052,Barbados,96," Worked ivory, articles of ivory",408.592,0.064625,"Barbados -  Worked ivory, articles of ivory"
+498,084,Belize,804,Ukraine,84, Nuclear reactors,724.979,0.064584,Ukraine -  Nuclear reactors
+499,084,Belize,591,Panama,94," Seats, aircraft",165.267,0.06405899999999999,"Panama -  Seats, aircraft"
+500,084,Belize,840,United States of America,76," Aluminium unwrought, not alloyed",15.054,0.063792,"United States of America -  Aluminium unwrought, not alloyed"
+501,084,Belize,308,Grenada,90," Optical fibres, except for telecommunications",380.153,0.06281199999999999,"Grenada -  Optical fibres, except for telecommunications"
+502,084,Belize,052,Barbados,09," Coffee, not roasted, not decaffeinated",101.612,0.060556,"Barbados -  Coffee, not roasted, not decaffeinated"
+503,084,Belize,554,New Zealand,83, Padlocks of base metal,408.086,0.060362,New Zealand -  Padlocks of base metal
+504,084,Belize,242,Fiji,84, Nuclear reactors,1157.559,0.060249000000000004,Fiji -  Nuclear reactors
+505,084,Belize,705,Slovenia,69," Bricks, blocks and ceramic goods of siliceous earths",730.85,0.060136,"Slovenia -  Bricks, blocks and ceramic goods of siliceous earths"
+506,084,Belize,348,Hungary,84, Nuclear reactors,516.932,0.06,Hungary -  Nuclear reactors
+507,084,Belize,818,Egypt,90," Optical fibres, except for telecommunications",586.126,0.059671,"Egypt -  Optical fibres, except for telecommunications"
+508,084,Belize,218,Ecuador,39, Polyethylene - specific gravity <0.94 in primary form,861.4,0.05926,Ecuador -  Polyethylene - specific gravity <0.94 in primary form
+509,084,Belize,380,Italy,83, Padlocks of base metal,558.394,0.058195000000000004,Italy -  Padlocks of base metal
+510,084,Belize,024,Angola,94," Seats, aircraft",2499.738,0.058,"Angola -  Seats, aircraft"
+511,084,Belize,024,Angola,62," Mens, boys overcoats of wool or hair, not knit",3777.746,0.058,"Angola -  Mens, boys overcoats of wool or hair, not knit"
+512,084,Belize,024,Angola,84, Nuclear reactors,1012.437,0.058,Angola -  Nuclear reactors
+513,084,Belize,024,Angola,95," Rideable wheeled toys, dolls carriages",3843.5,0.058,"Angola -  Rideable wheeled toys, dolls carriages"
+514,084,Belize,052,Barbados,39, Polyethylene - specific gravity <0.94 in primary form,791.757,0.057107,Barbados -  Polyethylene - specific gravity <0.94 in primary form
+515,084,Belize,591,Panama,18," Cocoa beans, whole or broken, raw or roasted",263.876,0.0564,"Panama -  Cocoa beans, whole or broken, raw or roasted"
+516,084,Belize,250,France,17," Raw sugar, cane",212.935,0.055564,"France -  Raw sugar, cane"
+517,084,Belize,104,Myanmar,84, Nuclear reactors,432.559,0.055,Myanmar -  Nuclear reactors
+518,084,Belize,320,Guatemala,25," Salt (sodium chloride) including solution, salt water",21.513,0.052918,"Guatemala -  Salt (sodium chloride) including solution, salt water"
+519,084,Belize,410,"Korea, Republic of",84, Nuclear reactors,1708.736,0.052313000000000005,"Korea, Republic of -  Nuclear reactors"
+520,084,Belize,670,Saint Vincent and the Grenadines,15," Lard, other pig fat and poultry fat, rendered",82.178,0.051311999999999997,"Saint Vincent and the Grenadines -  Lard, other pig fat and poultry fat, rendered"
+521,084,Belize,840,United States of America,09," Coffee, not roasted, not decaffeinated",1033.461,0.050739,"United States of America -  Coffee, not roasted, not decaffeinated"
+522,084,Belize,320,Guatemala,95," Rideable wheeled toys, dolls carriages",672.984,0.050565,"Guatemala -  Rideable wheeled toys, dolls carriages"
+523,084,Belize,840,United States of America,71," Pearls natural, not permanently mounted or set",1730.693,0.049829,"United States of America -  Pearls natural, not permanently mounted or set"
+524,084,Belize,052,Barbados,73, Sheet piling of iron or steel,327.0,0.04963,Barbados -  Sheet piling of iron or steel
+525,084,Belize,662,Saint Lucia,39, Polyethylene - specific gravity <0.94 in primary form,455.396,0.049048,Saint Lucia -  Polyethylene - specific gravity <0.94 in primary form
+526,084,Belize,348,Hungary,85, Electric motors of an output < 37.5 watts,351.557,0.049,Hungary -  Electric motors of an output < 37.5 watts
+527,084,Belize,784,United Arab Emirates,84, Nuclear reactors,2978.646,0.048649,United Arab Emirates -  Nuclear reactors
+528,084,Belize,818,Egypt,70," Glass cullet, waste or scrap, glass in the mass",174.126,0.048619,"Egypt -  Glass cullet, waste or scrap, glass in the mass"
+529,084,Belize,188,Costa Rica,59, Gum or amylaceous covered textiles for book covers et,179.767,0.047737,Costa Rica -  Gum or amylaceous covered textiles for book covers et
+530,084,Belize,418,Lao People's Dem. Rep.,84, Nuclear reactors,417.336,0.047612,Lao People's Dem. Rep. -  Nuclear reactors
+531,084,Belize,040,Austria,84, Nuclear reactors,1148.362,0.047003,Austria -  Nuclear reactors
+532,084,Belize,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",6736.321,0.04443,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+533,084,Belize,222,El Salvador,33, Essential oils of bergamot,334.116,0.044146,El Salvador -  Essential oils of bergamot
+534,084,Belize,643,Russian Federation,87, Pedestrian controlled tractors,128.742,0.043624,Russian Federation -  Pedestrian controlled tractors
+535,084,Belize,442,Luxembourg,61," Mens, boys overcoats, etc, of wool or hair, knit",1314.941,0.043222000000000003,"Luxembourg -  Mens, boys overcoats, etc, of wool or hair, knit"
+536,084,Belize,203,Czechia,61," Mens, boys overcoats, etc, of wool or hair, knit",6874.0,0.041683,"Czechia -  Mens, boys overcoats, etc, of wool or hair, knit"
+537,084,Belize,662,Saint Lucia,16," Sausages, similar products of meat, meat offal & bloo",2976.121,0.041321,"Saint Lucia -  Sausages, similar products of meat, meat offal & bloo"
+538,084,Belize,388,Jamaica,70," Glass cullet, waste or scrap, glass in the mass",102.606,0.040781,"Jamaica -  Glass cullet, waste or scrap, glass in the mass"
+539,084,Belize,414,Kuwait,40," Natural rubber latex, including prevulcanised",844.93,0.040298,"Kuwait -  Natural rubber latex, including prevulcanised"
+540,084,Belize,554,New Zealand,39, Polyethylene - specific gravity <0.94 in primary form,314.878,0.040076,New Zealand -  Polyethylene - specific gravity <0.94 in primary form
+541,084,Belize,320,Guatemala,94," Seats, aircraft",182.945,0.038997,"Guatemala -  Seats, aircraft"
+542,084,Belize,028,Antigua and Barbuda,90," Optical fibres, except for telecommunications",8522.091,0.038808,"Antigua and Barbuda -  Optical fibres, except for telecommunications"
+543,084,Belize,246,Finland,84, Nuclear reactors,1829.067,0.038,Finland -  Nuclear reactors
+544,084,Belize,116,Cambodia,04, Milk not concentrated nor sweetened < 1% fat,76.787,0.037843,Cambodia -  Milk not concentrated nor sweetened < 1% fat
+545,084,Belize,670,Saint Vincent and the Grenadines,48, Newsprint,195.547,0.036302,Saint Vincent and the Grenadines -  Newsprint
+546,084,Belize,258,French Polynesia,19," Infant foods of cereals, flour, starch or milk, retai",358.843,0.036,"French Polynesia -  Infant foods of cereals, flour, starch or milk, retai"
+547,084,Belize,052,Barbados,19," Infant foods of cereals, flour, starch or milk, retai",89.918,0.035722000000000004,"Barbados -  Infant foods of cereals, flour, starch or milk, retai"
+548,084,Belize,320,Guatemala,90," Optical fibres, except for telecommunications",512.79,0.035501,"Guatemala -  Optical fibres, except for telecommunications"
+549,084,Belize,554,New Zealand,49," Brochures, leaflets and similar, in single sheets",294.512,0.035203000000000005,"New Zealand -  Brochures, leaflets and similar, in single sheets"
+550,084,Belize,056,Belgium,28, Chlorine,469.253,0.034709000000000004,Belgium -  Chlorine
+551,084,Belize,376,Israel,90," Optical fibres, except for telecommunications",1749.938,0.033854999999999996,"Israel -  Optical fibres, except for telecommunications"
+552,084,Belize,756,"Switzerland, Liechtenstein",32, Quebracho tanning extract,465.134,0.033773000000000004,"Switzerland, Liechtenstein -  Quebracho tanning extract"
+553,084,Belize,048,Bahrain,17," Raw sugar, cane",119.417,0.033466,"Bahrain -  Raw sugar, cane"
+554,084,Belize,258,French Polynesia,21," Coffee extracts, essences, concentrates, preparations",303.082,0.033,"French Polynesia -  Coffee extracts, essences, concentrates, preparations"
+555,084,Belize,600,Paraguay,35, Casein,165.006,0.031751,Paraguay -  Casein
+556,084,Belize,372,Ireland,84, Nuclear reactors,656.25,0.031678,Ireland -  Nuclear reactors
+557,084,Belize,320,Guatemala,74, Copper mattes,24.178,0.031321,Guatemala -  Copper mattes
+558,084,Belize,442,Luxembourg,62," Mens, boys overcoats of wool or hair, not knit",952.85,0.030699,"Luxembourg -  Mens, boys overcoats of wool or hair, not knit"
+559,084,Belize,756,"Switzerland, Liechtenstein",64," Waterproof footwear (Wellingtons etc), metal toe cap",3919.25,0.030366,"Switzerland, Liechtenstein -  Waterproof footwear (Wellingtons etc), metal toe cap"
+560,084,Belize,076,Brazil,38, Artificial graphite,250.0,0.03,Brazil -  Artificial graphite
+561,084,Belize,222,El Salvador,84, Nuclear reactors,446.879,0.029731999999999998,El Salvador -  Nuclear reactors
+562,084,Belize,670,Saint Vincent and the Grenadines,90," Optical fibres, except for telecommunications",106.628,0.029338,"Saint Vincent and the Grenadines -  Optical fibres, except for telecommunications"
+563,084,Belize,792,Türkiye,84, Nuclear reactors,949.803,0.029226,Türkiye -  Nuclear reactors
+564,084,Belize,024,Angola,82, Spades and shovels,691.985,0.029,Angola -  Spades and shovels
+565,084,Belize,024,Angola,65," Hat-forms, etc of felt, not shaped, no formed brim",214.921,0.029,"Angola -  Hat-forms, etc of felt, not shaped, no formed brim"
+566,084,Belize,024,Angola,92," Upright pianos, including auto-players",24.002,0.029,"Angola -  Upright pianos, including auto-players"
+567,084,Belize,024,Angola,87, Pedestrian controlled tractors,406.668,0.029,Angola -  Pedestrian controlled tractors
+568,084,Belize,682,Saudi Arabia,61," Mens, boys overcoats, etc, of wool or hair, knit",3387.831,0.028461,"Saudi Arabia -  Mens, boys overcoats, etc, of wool or hair, knit"
+569,084,Belize,600,Paraguay,40," Natural rubber latex, including prevulcanised",117.219,0.027518,"Paraguay -  Natural rubber latex, including prevulcanised"
+570,084,Belize,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",4172.856,0.027406,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+571,084,Belize,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,4659.848,0.027,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+572,084,Belize,504,Morocco,64," Waterproof footwear (Wellingtons etc), metal toe cap",535.037,0.026783,"Morocco -  Waterproof footwear (Wellingtons etc), metal toe cap"
+573,084,Belize,528,Netherlands (Kingdom of the),44, Fuel wood,309.229,0.026058,Netherlands (Kingdom of the) -  Fuel wood
+574,084,Belize,764,Thailand,82, Spades and shovels,499.466,0.026,Thailand -  Spades and shovels
+575,084,Belize,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",1769.555,0.02576,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+576,084,Belize,258,French Polynesia,22, Mineral and aerated waters not sweetened or flavoured,842.947,0.025,French Polynesia -  Mineral and aerated waters not sweetened or flavoured
+577,084,Belize,250,France,94," Seats, aircraft",216.691,0.024767,"France -  Seats, aircraft"
+578,084,Belize,740,Suriname,84, Nuclear reactors,1274.074,0.024714,Suriname -  Nuclear reactors
+579,084,Belize,818,Egypt,38, Artificial graphite,621.856,0.024696000000000003,Egypt -  Artificial graphite
+580,084,Belize,028,Antigua and Barbuda,62," Mens, boys overcoats of wool or hair, not knit",2093.177,0.024692,"Antigua and Barbuda -  Mens, boys overcoats of wool or hair, not knit"
+581,084,Belize,152,Chile,38, Artificial graphite,437.062,0.024602,Chile -  Artificial graphite
+582,084,Belize,340,Honduras,84, Nuclear reactors,113.818,0.024104,Honduras -  Nuclear reactors
+583,084,Belize,203,Czechia,84, Nuclear reactors,2049.0,0.024,Czechia -  Nuclear reactors
+584,084,Belize,894,Zambia,15," Lard, other pig fat and poultry fat, rendered",147.744,0.024,"Zambia -  Lard, other pig fat and poultry fat, rendered"
+585,084,Belize,586,Pakistan,85, Electric motors of an output < 37.5 watts,808.269,0.023905000000000003,Pakistan -  Electric motors of an output < 37.5 watts
+586,084,Belize,388,Jamaica,82, Spades and shovels,26.35,0.023844999999999998,Jamaica -  Spades and shovels
+587,084,Belize,052,Barbados,76," Aluminium unwrought, not alloyed",219.256,0.023681999999999998,"Barbados -  Aluminium unwrought, not alloyed"
+588,084,Belize,643,Russian Federation,18," Cocoa beans, whole or broken, raw or roasted",133.793,0.023341999999999998,"Russian Federation -  Cocoa beans, whole or broken, raw or roasted"
+589,084,Belize,840,United States of America,68," Stone setts, curbstones, flagstones (except slate)",602.75,0.023148,"United States of America -  Stone setts, curbstones, flagstones (except slate)"
+590,084,Belize,800,Uganda,12, Soya beans,25216.256,0.02258,Uganda -  Soya beans
+591,084,Belize,458,Malaysia,85, Electric motors of an output < 37.5 watts,1027.904,0.022384,Malaysia -  Electric motors of an output < 37.5 watts
+592,084,Belize,188,Costa Rica,95," Rideable wheeled toys, dolls carriages",231.155,0.022302,"Costa Rica -  Rideable wheeled toys, dolls carriages"
+593,084,Belize,218,Ecuador,96," Worked ivory, articles of ivory",414.8,0.02228,"Ecuador -  Worked ivory, articles of ivory"
+594,084,Belize,703,Slovakia,72," Pig iron, non-alloy, <0.5% phosphorus",394.175,0.022,"Slovakia -  Pig iron, non-alloy, <0.5% phosphorus"
+595,084,Belize,320,Guatemala,61," Mens, boys overcoats, etc, of wool or hair, knit",203.324,0.021765,"Guatemala -  Mens, boys overcoats, etc, of wool or hair, knit"
+596,084,Belize,792,Türkiye,87, Pedestrian controlled tractors,274.142,0.021417000000000002,Türkiye -  Pedestrian controlled tractors
+597,084,Belize,818,Egypt,93," Military weapons, other than hand guns, swords, etc",228.715,0.020329999999999997,"Egypt -  Military weapons, other than hand guns, swords, etc"
+598,084,Belize,756,"Switzerland, Liechtenstein",49," Brochures, leaflets and similar, in single sheets",266.875,0.02,"Switzerland, Liechtenstein -  Brochures, leaflets and similar, in single sheets"
+599,084,Belize,724,Spain,56," Sanitary towels, diapers and similar articles",136.567,0.02,"Spain -  Sanitary towels, diapers and similar articles"
+600,084,Belize,724,Spain,39, Polyethylene - specific gravity <0.94 in primary form,109.97,0.02,Spain -  Polyethylene - specific gravity <0.94 in primary form
+601,084,Belize,662,Saint Lucia,03," Ornamental fish, live",1684.58,0.019988,"Saint Lucia -  Ornamental fish, live"
+602,084,Belize,188,Costa Rica,48, Newsprint,454.804,0.01948,Costa Rica -  Newsprint
+603,084,Belize,250,France,56," Sanitary towels, diapers and similar articles",125.641,0.019448,"France -  Sanitary towels, diapers and similar articles"
+604,084,Belize,414,Kuwait,39, Polyethylene - specific gravity <0.94 in primary form,1089.533,0.019229,Kuwait -  Polyethylene - specific gravity <0.94 in primary form
+605,084,Belize,320,Guatemala,37, X-ray plates and films,1735.879,0.018413,Guatemala -  X-ray plates and films
+606,084,Belize,188,Costa Rica,90," Optical fibres, except for telecommunications",4141.213,0.018139,"Costa Rica -  Optical fibres, except for telecommunications"
+607,084,Belize,724,Spain,90," Optical fibres, except for telecommunications",403.805,0.018,"Spain -  Optical fibres, except for telecommunications"
+608,084,Belize,188,Costa Rica,44, Fuel wood,149.673,0.017891999999999998,Costa Rica -  Fuel wood
+609,084,Belize,670,Saint Vincent and the Grenadines,62," Mens, boys overcoats of wool or hair, not knit",39.917,0.017854,"Saint Vincent and the Grenadines -  Mens, boys overcoats of wool or hair, not knit"
+610,084,Belize,804,Ukraine,49," Brochures, leaflets and similar, in single sheets",288.01,0.017529,"Ukraine -  Brochures, leaflets and similar, in single sheets"
+611,084,Belize,068,Bolivia (Plurinational State of),84, Nuclear reactors,174.34,0.01706,Bolivia (Plurinational State of) -  Nuclear reactors
+612,084,Belize,203,Czechia,95," Rideable wheeled toys, dolls carriages",1096.0,0.017,"Czechia -  Rideable wheeled toys, dolls carriages"
+613,084,Belize,756,"Switzerland, Liechtenstein",22, Mineral and aerated waters not sweetened or flavoured,999.922,0.017,"Switzerland, Liechtenstein -  Mineral and aerated waters not sweetened or flavoured"
+614,084,Belize,188,Costa Rica,57," Carpets of wool or fine animal hair, knotted",117.621,0.016932,"Costa Rica -  Carpets of wool or fine animal hair, knotted"
+615,084,Belize,188,Costa Rica,96," Worked ivory, articles of ivory",276.626,0.016609000000000002,"Costa Rica -  Worked ivory, articles of ivory"
+616,084,Belize,246,Finland,62," Mens, boys overcoats of wool or hair, not knit",1535.952,0.016,"Finland -  Mens, boys overcoats of wool or hair, not knit"
+617,084,Belize,591,Panama,85, Electric motors of an output < 37.5 watts,64.158,0.015862,Panama -  Electric motors of an output < 37.5 watts
+618,084,Belize,222,El Salvador,85, Electric motors of an output < 37.5 watts,1788.832,0.015853,El Salvador -  Electric motors of an output < 37.5 watts
+619,084,Belize,052,Barbados,63, Electric blankets of textile material,276.961,0.015423,Barbados -  Electric blankets of textile material
+620,084,Belize,591,Panama,91," Wrist-watch, precious metal, battery, with hands",559.303,0.015420999999999999,"Panama -  Wrist-watch, precious metal, battery, with hands"
+621,084,Belize,410,"Korea, Republic of",76," Aluminium unwrought, not alloyed",12.539,0.015331,"Korea, Republic of -  Aluminium unwrought, not alloyed"
+622,084,Belize,376,Israel,67," Bird skins and feathers, articles therefrom",719.112,0.015006,"Israel -  Bird skins and feathers, articles therefrom"
+623,084,Belize,756,"Switzerland, Liechtenstein",74, Copper mattes,229.167,0.015,"Switzerland, Liechtenstein -  Copper mattes"
+624,084,Belize,218,Ecuador,64," Waterproof footwear (Wellingtons etc), metal toe cap",261.24,0.0147,"Ecuador -  Waterproof footwear (Wellingtons etc), metal toe cap"
+625,084,Belize,360,Indonesia,64," Waterproof footwear (Wellingtons etc), metal toe cap",219.896,0.014616,"Indonesia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+626,084,Belize,558,Nicaragua,84, Nuclear reactors,1463.675,0.014603,Nicaragua -  Nuclear reactors
+627,084,Belize,308,Grenada,93," Military weapons, other than hand guns, swords, etc",55.099,0.014091,"Grenada -  Military weapons, other than hand guns, swords, etc"
+628,084,Belize,724,Spain,63, Electric blankets of textile material,197.524,0.014,Spain -  Electric blankets of textile material
+629,084,Belize,246,Finland,61," Mens, boys overcoats, etc, of wool or hair, knit",1134.283,0.014,"Finland -  Mens, boys overcoats, etc, of wool or hair, knit"
+630,084,Belize,348,Hungary,83, Padlocks of base metal,108.661,0.014,Hungary -  Padlocks of base metal
+631,084,Belize,056,Belgium,84, Nuclear reactors,727.721,0.01382,Belgium -  Nuclear reactors
+632,084,Belize,784,United Arab Emirates,64," Waterproof footwear (Wellingtons etc), metal toe cap",452.313,0.01375,"United Arab Emirates -  Waterproof footwear (Wellingtons etc), metal toe cap"
+633,084,Belize,188,Costa Rica,63, Electric blankets of textile material,83.655,0.013077,Costa Rica -  Electric blankets of textile material
+634,084,Belize,384,Côte d'Ivoire,69," Bricks, blocks and ceramic goods of siliceous earths",140.158,0.013,"Côte d'Ivoire -  Bricks, blocks and ceramic goods of siliceous earths"
+635,084,Belize,012,Algeria,84, Nuclear reactors,14.483,0.012714,Algeria -  Nuclear reactors
+636,084,Belize,818,Egypt,95," Rideable wheeled toys, dolls carriages",221.274,0.012565,"Egypt -  Rideable wheeled toys, dolls carriages"
+637,084,Belize,308,Grenada,95," Rideable wheeled toys, dolls carriages",104.063,0.011581,"Grenada -  Rideable wheeled toys, dolls carriages"
+638,084,Belize,498,"Moldova, Republic of",09," Coffee, not roasted, not decaffeinated",348.227,0.011,"Moldova, Republic of -  Coffee, not roasted, not decaffeinated"
+639,084,Belize,032,Argentina,87, Pedestrian controlled tractors,49.475,0.010849000000000001,Argentina -  Pedestrian controlled tractors
+640,084,Belize,659,Saint Kitts and Nevis,49," Brochures, leaflets and similar, in single sheets",208.976,0.010293,"Saint Kitts and Nevis -  Brochures, leaflets and similar, in single sheets"
+641,084,Belize,670,Saint Vincent and the Grenadines,93," Military weapons, other than hand guns, swords, etc",42.832,0.010008,"Saint Vincent and the Grenadines -  Military weapons, other than hand guns, swords, etc"
+642,084,Belize,566,Nigeria,84, Nuclear reactors,1276.41,0.01,Nigeria -  Nuclear reactors
+643,084,Belize,566,Nigeria,85, Electric motors of an output < 37.5 watts,1351.086,0.01,Nigeria -  Electric motors of an output < 37.5 watts
+644,084,Belize,036,Australia,33, Essential oils of bergamot,794.513,0.01,Australia -  Essential oils of bergamot
+645,084,Belize,703,Slovakia,64," Waterproof footwear (Wellingtons etc), metal toe cap",546.416,0.01,"Slovakia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+646,084,Belize,276,Germany,33, Essential oils of bergamot,1113.659,0.01,Germany -  Essential oils of bergamot
+647,084,Belize,380,Italy,48, Newsprint,1810.635,0.009898,Italy -  Newsprint
+648,084,Belize,376,Israel,62," Mens, boys overcoats of wool or hair, not knit",179.77,0.009762999999999999,"Israel -  Mens, boys overcoats of wool or hair, not knit"
+649,084,Belize,804,Ukraine,83, Padlocks of base metal,86.612,0.009423,Ukraine -  Padlocks of base metal
+650,084,Belize,554,New Zealand,33, Essential oils of bergamot,1738.043,0.00933,New Zealand -  Essential oils of bergamot
+651,084,Belize,156,China,73, Sheet piling of iron or steel,26.826,0.009176,China -  Sheet piling of iron or steel
+652,084,Belize,558,Nicaragua,73, Sheet piling of iron or steel,61.662,0.008971,Nicaragua -  Sheet piling of iron or steel
+653,084,Belize,410,"Korea, Republic of",12, Soya beans,893.395,0.008961,"Korea, Republic of -  Soya beans"
+654,084,Belize,028,Antigua and Barbuda,93," Military weapons, other than hand guns, swords, etc",2023.659,0.00887,"Antigua and Barbuda -  Military weapons, other than hand guns, swords, etc"
+655,084,Belize,442,Luxembourg,64," Waterproof footwear (Wellingtons etc), metal toe cap",289.954,0.008856,"Luxembourg -  Waterproof footwear (Wellingtons etc), metal toe cap"
+656,084,Belize,818,Egypt,44, Fuel wood,255.653,0.008571,Egypt -  Fuel wood
+657,084,Belize,032,Argentina,84, Nuclear reactors,70.927,0.008513,Argentina -  Nuclear reactors
+658,084,Belize,702,Singapore,64," Waterproof footwear (Wellingtons etc), metal toe cap",237.044,0.008172,"Singapore -  Waterproof footwear (Wellingtons etc), metal toe cap"
+659,084,Belize,894,Zambia,04, Milk not concentrated nor sweetened < 1% fat,97.017,0.00808,Zambia -  Milk not concentrated nor sweetened < 1% fat
+660,084,Belize,756,"Switzerland, Liechtenstein",69," Bricks, blocks and ceramic goods of siliceous earths",1974.513,0.008,"Switzerland, Liechtenstein -  Bricks, blocks and ceramic goods of siliceous earths"
+661,084,Belize,028,Antigua and Barbuda,61," Mens, boys overcoats, etc, of wool or hair, knit",1997.502,0.007762,"Antigua and Barbuda -  Mens, boys overcoats, etc, of wool or hair, knit"
+662,084,Belize,136,Cayman Islands,39, Polyethylene - specific gravity <0.94 in primary form,26.424,0.007285,Cayman Islands -  Polyethylene - specific gravity <0.94 in primary form
+663,084,Belize,056,Belgium,40," Natural rubber latex, including prevulcanised",207.555,0.007235999999999999,"Belgium -  Natural rubber latex, including prevulcanised"
+664,084,Belize,616,Poland,84, Nuclear reactors,97.0,0.006843,Poland -  Nuclear reactors
+665,084,Belize,690,Seychelles,08," Coconuts, fresh or dried",96.912,0.006834,"Seychelles -  Coconuts, fresh or dried"
+666,084,Belize,705,Slovenia,71," Pearls natural, not permanently mounted or set",21.01,0.0065910000000000005,"Slovenia -  Pearls natural, not permanently mounted or set"
+667,084,Belize,670,Saint Vincent and the Grenadines,29, Saturated acyclic hydrocarbons,94.405,0.006588,Saint Vincent and the Grenadines -  Saturated acyclic hydrocarbons
+668,084,Belize,670,Saint Vincent and the Grenadines,95," Rideable wheeled toys, dolls carriages",38.945,0.006261999999999999,"Saint Vincent and the Grenadines -  Rideable wheeled toys, dolls carriages"
+669,084,Belize,643,Russian Federation,40," Natural rubber latex, including prevulcanised",225.339,0.006048,"Russian Federation -  Natural rubber latex, including prevulcanised"
+670,084,Belize,360,Indonesia,90," Optical fibres, except for telecommunications",52.824,0.005979,"Indonesia -  Optical fibres, except for telecommunications"
+671,084,Belize,040,Austria,64," Waterproof footwear (Wellingtons etc), metal toe cap",221.587,0.005876999999999999,"Austria -  Waterproof footwear (Wellingtons etc), metal toe cap"
+672,084,Belize,360,Indonesia,12, Soya beans,2956.658,0.005607,Indonesia -  Soya beans
+673,084,Belize,028,Antigua and Barbuda,95," Rideable wheeled toys, dolls carriages",1397.001,0.0055439999999999994,"Antigua and Barbuda -  Rideable wheeled toys, dolls carriages"
+674,084,Belize,756,"Switzerland, Liechtenstein",95," Rideable wheeled toys, dolls carriages",93.991,0.005474000000000001,"Switzerland, Liechtenstein -  Rideable wheeled toys, dolls carriages"
+675,084,Belize,591,Panama,24," Tobacco, unmanufactured, not stemmed or stripped",82.424,0.005468,"Panama -  Tobacco, unmanufactured, not stemmed or stripped"
+676,084,Belize,040,Austria,87, Pedestrian controlled tractors,322.113,0.005076,Austria -  Pedestrian controlled tractors
+677,084,Belize,188,Costa Rica,40," Natural rubber latex, including prevulcanised",875.386,0.00505,"Costa Rica -  Natural rubber latex, including prevulcanised"
+678,084,Belize,566,Nigeria,76," Aluminium unwrought, not alloyed",372.282,0.005,"Nigeria -  Aluminium unwrought, not alloyed"
+679,084,Belize,136,Cayman Islands,91," Wrist-watch, precious metal, battery, with hands",93.956,0.004891,"Cayman Islands -  Wrist-watch, precious metal, battery, with hands"
+680,084,Belize,188,Costa Rica,43," Raw mink furskins, whole",162.867,0.004859,"Costa Rica -  Raw mink furskins, whole"
+681,084,Belize,218,Ecuador,87, Pedestrian controlled tractors,128.67,0.00462,Ecuador -  Pedestrian controlled tractors
+682,084,Belize,388,Jamaica,38, Artificial graphite,130.751,0.004097000000000001,Jamaica -  Artificial graphite
+683,084,Belize,818,Egypt,76," Aluminium unwrought, not alloyed",103.96,0.004026,"Egypt -  Aluminium unwrought, not alloyed"
+684,084,Belize,203,Czechia,62," Mens, boys overcoats of wool or hair, not knit",580.0,0.004,"Czechia -  Mens, boys overcoats of wool or hair, not knit"
+685,084,Belize,756,"Switzerland, Liechtenstein",94," Seats, aircraft",776.617,0.004,"Switzerland, Liechtenstein -  Seats, aircraft"
+686,084,Belize,670,Saint Vincent and the Grenadines,30," Glands and other organs, dried, for therapeutic uses",36.9,0.003981,"Saint Vincent and the Grenadines -  Glands and other organs, dried, for therapeutic uses"
+687,084,Belize,756,"Switzerland, Liechtenstein",96," Worked ivory, articles of ivory",234.748,0.003927,"Switzerland, Liechtenstein -  Worked ivory, articles of ivory"
+688,084,Belize,818,Egypt,39, Polyethylene - specific gravity <0.94 in primary form,78.788,0.003833,Egypt -  Polyethylene - specific gravity <0.94 in primary form
+689,084,Belize,040,Austria,85, Electric motors of an output < 37.5 watts,184.846,0.003817,Austria -  Electric motors of an output < 37.5 watts
+690,084,Belize,188,Costa Rica,73, Sheet piling of iron or steel,355.031,0.003803,Costa Rica -  Sheet piling of iron or steel
+691,084,Belize,690,Seychelles,22, Mineral and aerated waters not sweetened or flavoured,242.232,0.0037749999999999997,Seychelles -  Mineral and aerated waters not sweetened or flavoured
+692,084,Belize,372,Ireland,85, Electric motors of an output < 37.5 watts,16.448,0.003696,Ireland -  Electric motors of an output < 37.5 watts
+693,084,Belize,818,Egypt,68," Stone setts, curbstones, flagstones (except slate)",43.6,0.0036829999999999996,"Egypt -  Stone setts, curbstones, flagstones (except slate)"
+694,084,Belize,788,Tunisia,84, Nuclear reactors,664.032,0.003505,Tunisia -  Nuclear reactors
+695,084,Belize,392,Japan,30," Glands and other organs, dried, for therapeutic uses",2616.252,0.003457,"Japan -  Glands and other organs, dried, for therapeutic uses"
+696,084,Belize,250,France,85, Electric motors of an output < 37.5 watts,1097.071,0.003191,France -  Electric motors of an output < 37.5 watts
+697,084,Belize,670,Saint Vincent and the Grenadines,38, Artificial graphite,124.539,0.003114,Saint Vincent and the Grenadines -  Artificial graphite
+698,084,Belize,040,Austria,62," Mens, boys overcoats of wool or hair, not knit",220.146,0.003077,"Austria -  Mens, boys overcoats of wool or hair, not knit"
+699,084,Belize,818,Egypt,96," Worked ivory, articles of ivory",53.863,0.003035,"Egypt -  Worked ivory, articles of ivory"
+700,084,Belize,340,Honduras,85, Electric motors of an output < 37.5 watts,1413.655,0.0030169999999999997,Honduras -  Electric motors of an output < 37.5 watts
+701,084,Belize,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",1688.555,0.0028799999999999997,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+702,084,Belize,643,Russian Federation,85, Electric motors of an output < 37.5 watts,1693.471,0.002819,Russian Federation -  Electric motors of an output < 37.5 watts
+703,084,Belize,144,Sri Lanka,58," Woven pile fabric of wool or fine animal hair, w >30c",22.096,0.00276,"Sri Lanka -  Woven pile fabric of wool or fine animal hair, w >30c"
+704,084,Belize,188,Costa Rica,65," Hat-forms, etc of felt, not shaped, no formed brim",68.571,0.002754,"Costa Rica -  Hat-forms, etc of felt, not shaped, no formed brim"
+705,084,Belize,222,El Salvador,83, Padlocks of base metal,49.247,0.002742,El Salvador -  Padlocks of base metal
+706,084,Belize,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",705.299,0.002624,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+707,084,Belize,188,Costa Rica,74, Copper mattes,44.738,0.00254,Costa Rica -  Copper mattes
+708,084,Belize,040,Austria,22, Mineral and aerated waters not sweetened or flavoured,70.723,0.0024140000000000003,Austria -  Mineral and aerated waters not sweetened or flavoured
+709,084,Belize,780,Trinidad and Tobago,24," Tobacco, unmanufactured, not stemmed or stripped",146.536,0.002383,"Trinidad and Tobago -  Tobacco, unmanufactured, not stemmed or stripped"
+710,084,Belize,826,United Kingdom,91," Wrist-watch, precious metal, battery, with hands",48.657,0.002376,"United Kingdom -  Wrist-watch, precious metal, battery, with hands"
+711,084,Belize,156,China,87, Pedestrian controlled tractors,38.495,0.0023740000000000002,China -  Pedestrian controlled tractors
+712,084,Belize,804,Ukraine,48, Newsprint,90.1,0.0023740000000000002,Ukraine -  Newsprint
+713,084,Belize,076,Brazil,90," Optical fibres, except for telecommunications",225.0,0.002337,"Brazil -  Optical fibres, except for telecommunications"
+714,084,Belize,818,Egypt,92," Upright pianos, including auto-players",32.786,0.002303,"Egypt -  Upright pianos, including auto-players"
+715,084,Belize,188,Costa Rica,33, Essential oils of bergamot,148.917,0.002263,Costa Rica -  Essential oils of bergamot
+716,084,Belize,616,Poland,62," Mens, boys overcoats of wool or hair, not knit",110.618,0.002234,"Poland -  Mens, boys overcoats of wool or hair, not knit"
+717,084,Belize,028,Antigua and Barbuda,44, Fuel wood,581.458,0.002218,Antigua and Barbuda -  Fuel wood
+718,084,Belize,028,Antigua and Barbuda,96," Worked ivory, articles of ivory",563.277,0.002218,"Antigua and Barbuda -  Worked ivory, articles of ivory"
+719,084,Belize,056,Belgium,85, Electric motors of an output < 37.5 watts,119.677,0.002165,Belgium -  Electric motors of an output < 37.5 watts
+720,084,Belize,558,Nicaragua,82, Spades and shovels,75.129,0.002133,Nicaragua -  Spades and shovels
+721,084,Belize,188,Costa Rica,49," Brochures, leaflets and similar, in single sheets",14.689,0.002129,"Costa Rica -  Brochures, leaflets and similar, in single sheets"
+722,084,Belize,040,Austria,70," Glass cullet, waste or scrap, glass in the mass",22.939,0.002008,"Austria -  Glass cullet, waste or scrap, glass in the mass"
+723,084,Belize,703,Slovakia,61," Mens, boys overcoats, etc, of wool or hair, knit",197.088,0.002,"Slovakia -  Mens, boys overcoats, etc, of wool or hair, knit"
+724,084,Belize,246,Finland,85, Electric motors of an output < 37.5 watts,1489.04,0.002,Finland -  Electric motors of an output < 37.5 watts
+725,084,Belize,188,Costa Rica,54, Sewing thread of synthetic filaments,209.105,0.001972,Costa Rica -  Sewing thread of synthetic filaments
+726,084,Belize,136,Cayman Islands,85, Electric motors of an output < 37.5 watts,25.964,0.0019370000000000001,Cayman Islands -  Electric motors of an output < 37.5 watts
+727,084,Belize,048,Bahrain,71," Pearls natural, not permanently mounted or set",1.124,0.0019219999999999999,"Bahrain -  Pearls natural, not permanently mounted or set"
+728,084,Belize,392,Japan,71," Pearls natural, not permanently mounted or set",55.306,0.00189,"Japan -  Pearls natural, not permanently mounted or set"
+729,084,Belize,616,Poland,94," Seats, aircraft",226.516,0.001878,"Poland -  Seats, aircraft"
+730,084,Belize,788,Tunisia,90," Optical fibres, except for telecommunications",1143.298,0.001787,"Tunisia -  Optical fibres, except for telecommunications"
+731,084,Belize,498,"Moldova, Republic of",33, Essential oils of bergamot,135.817,0.001735,"Moldova, Republic of -  Essential oils of bergamot"
+732,084,Belize,670,Saint Vincent and the Grenadines,61," Mens, boys overcoats, etc, of wool or hair, knit",18.145,0.001718,"Saint Vincent and the Grenadines -  Mens, boys overcoats, etc, of wool or hair, knit"
+733,084,Belize,012,Algeria,90," Optical fibres, except for telecommunications",3.71,0.001702,"Algeria -  Optical fibres, except for telecommunications"
+734,084,Belize,662,Saint Lucia,30," Glands and other organs, dried, for therapeutic uses",113.867,0.0016899999999999999,"Saint Lucia -  Glands and other organs, dried, for therapeutic uses"
+735,084,Belize,144,Sri Lanka,02," Bovine carcasses and half carcasses, fresh or chilled",16.152,0.001667,"Sri Lanka -  Bovine carcasses and half carcasses, fresh or chilled"
+736,084,Belize,558,Nicaragua,70," Glass cullet, waste or scrap, glass in the mass",20.229,0.001665,"Nicaragua -  Glass cullet, waste or scrap, glass in the mass"
+737,084,Belize,780,Trinidad and Tobago,30," Glands and other organs, dried, for therapeutic uses",162.316,0.001661,"Trinidad and Tobago -  Glands and other organs, dried, for therapeutic uses"
+738,084,Belize,398,Kazakhstan,84, Nuclear reactors,80.777,0.001627,Kazakhstan -  Nuclear reactors
+739,084,Belize,056,Belgium,64," Waterproof footwear (Wellingtons etc), metal toe cap",341.765,0.0016040000000000002,"Belgium -  Waterproof footwear (Wellingtons etc), metal toe cap"
+740,084,Belize,208,Denmark,82, Spades and shovels,19.834,0.0016040000000000002,Denmark -  Spades and shovels
+741,084,Belize,136,Cayman Islands,84, Nuclear reactors,48.429,0.001583,Cayman Islands -  Nuclear reactors
+742,084,Belize,320,Guatemala,32, Quebracho tanning extract,60.869,0.0013959999999999999,Guatemala -  Quebracho tanning extract
+743,084,Belize,208,Denmark,18," Cocoa beans, whole or broken, raw or roasted",19.736,0.0013460000000000002,"Denmark -  Cocoa beans, whole or broken, raw or roasted"
+744,084,Belize,516,Namibia,64," Waterproof footwear (Wellingtons etc), metal toe cap",24.896,0.0012929999999999999,"Namibia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+745,084,Belize,410,"Korea, Republic of",73, Sheet piling of iron or steel,2483.771,0.001282,"Korea, Republic of -  Sheet piling of iron or steel"
+746,084,Belize,320,Guatemala,30," Glands and other organs, dried, for therapeutic uses",11.886,0.00127,"Guatemala -  Glands and other organs, dried, for therapeutic uses"
+747,084,Belize,116,Cambodia,64," Waterproof footwear (Wellingtons etc), metal toe cap",23.749,0.0012410000000000001,"Cambodia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+748,084,Belize,188,Costa Rica,64," Waterproof footwear (Wellingtons etc), metal toe cap",15.178,0.001239,"Costa Rica -  Waterproof footwear (Wellingtons etc), metal toe cap"
+749,084,Belize,422,Lebanon,71," Pearls natural, not permanently mounted or set",7.81,0.0012,"Lebanon -  Pearls natural, not permanently mounted or set"
+750,084,Belize,356,India,90," Optical fibres, except for telecommunications",8355.973,0.001195,"India -  Optical fibres, except for telecommunications"
+751,084,Belize,188,Costa Rica,62," Mens, boys overcoats of wool or hair, not knit",27.352,0.001185,"Costa Rica -  Mens, boys overcoats of wool or hair, not knit"
+752,084,Belize,702,Singapore,90," Optical fibres, except for telecommunications",41.797,0.001178,"Singapore -  Optical fibres, except for telecommunications"
+753,084,Belize,188,Costa Rica,83, Padlocks of base metal,309.974,0.001125,Costa Rica -  Padlocks of base metal
+754,084,Belize,056,Belgium,82, Spades and shovels,143.3,0.001113,Belgium -  Spades and shovels
+755,084,Belize,028,Antigua and Barbuda,76," Aluminium unwrought, not alloyed",287.798,0.001109,"Antigua and Barbuda -  Aluminium unwrought, not alloyed"
+756,084,Belize,028,Antigua and Barbuda,92," Upright pianos, including auto-players",219.448,0.001109,"Antigua and Barbuda -  Upright pianos, including auto-players"
+757,084,Belize,028,Antigua and Barbuda,68," Stone setts, curbstones, flagstones (except slate)",288.039,0.001109,"Antigua and Barbuda -  Stone setts, curbstones, flagstones (except slate)"
+758,084,Belize,344,"China, Hong Kong SAR",90," Optical fibres, except for telecommunications",9890.849,0.001046,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+759,084,Belize,804,Ukraine,90," Optical fibres, except for telecommunications",201.348,0.001039,"Ukraine -  Optical fibres, except for telecommunications"
+760,084,Belize,410,"Korea, Republic of",96," Worked ivory, articles of ivory",645.654,0.001024,"Korea, Republic of -  Worked ivory, articles of ivory"
+761,084,Belize,764,Thailand,90," Optical fibres, except for telecommunications",670.065,0.001,"Thailand -  Optical fibres, except for telecommunications"
+762,084,Belize,308,Grenada,63, Electric blankets of textile material,296.911,0.001,Grenada -  Electric blankets of textile material
+763,084,Belize,442,Luxembourg,84, Nuclear reactors,93.846,0.001,Luxembourg -  Nuclear reactors
+764,084,Belize,031,Azerbaijan,33, Essential oils of bergamot,2277.342,0.001,Azerbaijan -  Essential oils of bergamot
+765,084,Belize,659,Saint Kitts and Nevis,71," Pearls natural, not permanently mounted or set",32.455,0.000909,"Saint Kitts and Nevis -  Pearls natural, not permanently mounted or set"
+766,084,Belize,586,Pakistan,62," Mens, boys overcoats of wool or hair, not knit",20.657,0.000885,"Pakistan -  Mens, boys overcoats of wool or hair, not knit"
+767,084,Belize,554,New Zealand,85, Electric motors of an output < 37.5 watts,23.554,0.000858,New Zealand -  Electric motors of an output < 37.5 watts
+768,084,Belize,056,Belgium,12, Soya beans,167.277,0.000852,Belgium -  Soya beans
+769,084,Belize,752,Sweden,64," Waterproof footwear (Wellingtons etc), metal toe cap",20.298,0.0008309999999999999,"Sweden -  Waterproof footwear (Wellingtons etc), metal toe cap"
+770,084,Belize,056,Belgium,76," Aluminium unwrought, not alloyed",434.454,0.000781,"Belgium -  Aluminium unwrought, not alloyed"
+771,084,Belize,788,Tunisia,76," Aluminium unwrought, not alloyed",368.542,0.000744,"Tunisia -  Aluminium unwrought, not alloyed"
+772,084,Belize,752,Sweden,61," Mens, boys overcoats, etc, of wool or hair, knit",19.23,0.0006860000000000001,"Sweden -  Mens, boys overcoats, etc, of wool or hair, knit"
+773,084,Belize,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,15.077,0.000626,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+774,084,Belize,320,Guatemala,96," Worked ivory, articles of ivory",55.938,0.000596,"Guatemala -  Worked ivory, articles of ivory"
+775,084,Belize,188,Costa Rica,30," Glands and other organs, dried, for therapeutic uses",176.669,0.0005380000000000001,"Costa Rica -  Glands and other organs, dried, for therapeutic uses"
+776,084,Belize,048,Bahrain,84, Nuclear reactors,36.971,0.000521,Bahrain -  Nuclear reactors
+777,084,Belize,826,United Kingdom,01," Horses, live pure-bred breeding",48.39,0.000499,"United Kingdom -  Horses, live pure-bred breeding"
+778,084,Belize,840,United States of America,40," Natural rubber latex, including prevulcanised",276.949,0.00047599999999999997,"United States of America -  Natural rubber latex, including prevulcanised"
+779,084,Belize,056,Belgium,18," Cocoa beans, whole or broken, raw or roasted",9.081,0.00038500000000000003,"Belgium -  Cocoa beans, whole or broken, raw or roasted"
+780,084,Belize,410,"Korea, Republic of",64," Waterproof footwear (Wellingtons etc), metal toe cap",106.158,0.000366,"Korea, Republic of -  Waterproof footwear (Wellingtons etc), metal toe cap"
+781,084,Belize,320,Guatemala,63, Electric blankets of textile material,86.564,0.00019700000000000002,Guatemala -  Electric blankets of textile material
+782,084,Belize,222,El Salvador,20," Cucumbers,gherkins, prepared or preserved by vinegar",0.988,0.00015900000000000002,"El Salvador -  Cucumbers,gherkins, prepared or preserved by vinegar"
+783,084,Belize,340,Honduras,61," Mens, boys overcoats, etc, of wool or hair, knit",2.192,0.000153,"Honduras -  Mens, boys overcoats, etc, of wool or hair, knit"
+784,084,Belize,702,Singapore,42," Saddlery and harness, of any material",52.582,0.000147,"Singapore -  Saddlery and harness, of any material"
+785,084,Belize,558,Nicaragua,85, Electric motors of an output < 37.5 watts,1082.616,0.00013900000000000002,Nicaragua -  Electric motors of an output < 37.5 watts
+786,084,Belize,320,Guatemala,41," Bovine skins, whole, raw",0.101,0.000129,"Guatemala -  Bovine skins, whole, raw"
+787,084,Belize,188,Costa Rica,88," Gliders, hang gliders",584.472,0.000101,"Costa Rica -  Gliders, hang gliders"
+788,084,Belize,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,55.384,8e-05,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+789,084,Belize,188,Costa Rica,71," Pearls natural, not permanently mounted or set",5.801,6.900000000000001e-05,"Costa Rica -  Pearls natural, not permanently mounted or set"
+790,084,Belize,144,Sri Lanka,21," Coffee extracts, essences, concentrates, preparations",1.487,6.7e-05,"Sri Lanka -  Coffee extracts, essences, concentrates, preparations"
+791,084,Belize,048,Bahrain,90," Optical fibres, except for telecommunications",24.363,6.4e-05,"Bahrain -  Optical fibres, except for telecommunications"
+792,084,Belize,840,United States of America,49," Brochures, leaflets and similar, in single sheets",89.327,5.5e-05,"United States of America -  Brochures, leaflets and similar, in single sheets"
+793,084,Belize,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,2.671,4.9000000000000005e-05,United Arab Emirates -  Electric motors of an output < 37.5 watts
+794,084,Belize,702,Singapore,91," Wrist-watch, precious metal, battery, with hands",3.358,8.999999999999999e-06,"Singapore -  Wrist-watch, precious metal, battery, with hands"
+795,084,Belize,340,Honduras,30," Glands and other organs, dried, for therapeutic uses",0.946,8.999999999999999e-06,"Honduras -  Glands and other organs, dried, for therapeutic uses"
+796,084,Belize,222,El Salvador,30," Glands and other organs, dried, for therapeutic uses",2.404,6e-06,"El Salvador -  Glands and other organs, dried, for therapeutic uses"
+797,084,Belize,188,Costa Rica,60," ""Long pile"" knit or crochet textile fabric",0.027,2e-06,"Costa Rica -  ""Long pile"" knit or crochet textile fabric"
+798,084,Belize,136,Cayman Islands,64," Waterproof footwear (Wellingtons etc), metal toe cap",0.0,0.0,"Cayman Islands -  Waterproof footwear (Wellingtons etc), metal toe cap"
+799,084,Belize,136,Cayman Islands,73, Sheet piling of iron or steel,0.0,0.0,Cayman Islands -  Sheet piling of iron or steel
+800,084,Belize,144,Sri Lanka,90," Optical fibres, except for telecommunications",0.0,0.0,"Sri Lanka -  Optical fibres, except for telecommunications"
+801,084,Belize,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,0.08,0.0,Sri Lanka -  Electric motors of an output < 37.5 watts
+802,084,Belize,012,Algeria,87, Pedestrian controlled tractors,0.0,0.0,Algeria -  Pedestrian controlled tractors
+803,084,Belize,012,Algeria,85, Electric motors of an output < 37.5 watts,0.0,0.0,Algeria -  Electric motors of an output < 37.5 watts
+804,084,Belize,012,Algeria,62," Mens, boys overcoats of wool or hair, not knit",0.0,0.0,"Algeria -  Mens, boys overcoats of wool or hair, not knit"
+805,084,Belize,144,Sri Lanka,52," Cotton, not carded or combed",0.0,0.0,"Sri Lanka -  Cotton, not carded or combed"
+806,084,Belize,144,Sri Lanka,55," Filament tow of nylon, polyamides",0.0,0.0,"Sri Lanka -  Filament tow of nylon, polyamides"
+807,084,Belize,144,Sri Lanka,73, Sheet piling of iron or steel,0.0,0.0,Sri Lanka -  Sheet piling of iron or steel
+808,084,Belize,144,Sri Lanka,84, Nuclear reactors,0.0,0.0,Sri Lanka -  Nuclear reactors
+809,084,Belize,136,Cayman Islands,62," Mens, boys overcoats of wool or hair, not knit",0.0,0.0,"Cayman Islands -  Mens, boys overcoats of wool or hair, not knit"

@@ -1,0 +1,870 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,674,San Marino,840,United States of America,69," Bricks, blocks and ceramic goods of siliceous earths",4231352.323,10121.699491000001,"United States of America -  Bricks, blocks and ceramic goods of siliceous earths"
+1,674,San Marino,276,Germany,84, Nuclear reactors,3310101.684,232.75388,Germany -  Nuclear reactors
+2,674,San Marino,040,Austria,84, Nuclear reactors,2765280.741,162.775465,Austria -  Nuclear reactors
+3,674,San Marino,840,United States of America,84, Nuclear reactors,2383871.781,117.28316099999999,United States of America -  Nuclear reactors
+4,674,San Marino,250,France,84, Nuclear reactors,2209260.7,92.38027000000001,France -  Nuclear reactors
+5,674,San Marino,422,Lebanon,38, Artificial graphite,1667542.221,86.08441,Lebanon -  Artificial graphite
+6,674,San Marino,784,United Arab Emirates,94," Seats, aircraft",1630137.199,722.8272,"United Arab Emirates -  Seats, aircraft"
+7,674,San Marino,643,Russian Federation,84, Nuclear reactors,1504828.258,136.806976,Russian Federation -  Nuclear reactors
+8,674,San Marino,826,United Kingdom,84, Nuclear reactors,735791.005,104.016776,United Kingdom -  Nuclear reactors
+9,674,San Marino,643,Russian Federation,21," Coffee extracts, essences, concentrates, preparations",687656.505,47.469910000000006,"Russian Federation -  Coffee extracts, essences, concentrates, preparations"
+10,674,San Marino,276,Germany,40," Natural rubber latex, including prevulcanised",639061.208,116.590897,"Germany -  Natural rubber latex, including prevulcanised"
+11,674,San Marino,156,China,84, Nuclear reactors,597518.444,33.956987,China -  Nuclear reactors
+12,674,San Marino,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,471148.67,129.066586,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+13,674,San Marino,804,Ukraine,84, Nuclear reactors,452808.633,19.424308,Ukraine -  Nuclear reactors
+14,674,San Marino,643,Russian Federation,39, Polyethylene - specific gravity <0.94 in primary form,448108.795,107.81956100000001,Russian Federation -  Polyethylene - specific gravity <0.94 in primary form
+15,674,San Marino,276,Germany,74, Copper mattes,422203.44,9.988845,Germany -  Copper mattes
+16,674,San Marino,792,Türkiye,84, Nuclear reactors,374038.0,24.283,Türkiye -  Nuclear reactors
+17,674,San Marino,208,Denmark,84, Nuclear reactors,349001.364,17.234658,Denmark -  Nuclear reactors
+18,674,San Marino,528,Netherlands (Kingdom of the),84, Nuclear reactors,347172.671,37.85780200000001,Netherlands (Kingdom of the) -  Nuclear reactors
+19,674,San Marino,250,France,85, Electric motors of an output < 37.5 watts,336974.199,7.916302,France -  Electric motors of an output < 37.5 watts
+20,674,San Marino,156,China,94," Seats, aircraft",315187.755,73.83577000000001,"China -  Seats, aircraft"
+21,674,San Marino,616,Poland,84, Nuclear reactors,309973.275,30.164186,Poland -  Nuclear reactors
+22,674,San Marino,276,Germany,34," Soaps, for toilet use, solid",305950.559,132.093481,"Germany -  Soaps, for toilet use, solid"
+23,674,San Marino,410,"Korea, Republic of",94," Seats, aircraft",277837.528,50.439638,"Korea, Republic of -  Seats, aircraft"
+24,674,San Marino,076,Brazil,84, Nuclear reactors,266757.0,17.756,Brazil -  Nuclear reactors
+25,674,San Marino,276,Germany,85, Electric motors of an output < 37.5 watts,263433.082,8.139111,Germany -  Electric motors of an output < 37.5 watts
+26,674,San Marino,643,Russian Federation,94," Seats, aircraft",240406.882,41.568938,"Russian Federation -  Seats, aircraft"
+27,674,San Marino,840,United States of America,73, Sheet piling of iron or steel,198816.15,43.302324999999996,United States of America -  Sheet piling of iron or steel
+28,674,San Marino,470,Malta,64," Waterproof footwear (Wellingtons etc), metal toe cap",196684.944,9.148,"Malta -  Waterproof footwear (Wellingtons etc), metal toe cap"
+29,674,San Marino,792,Türkiye,33, Essential oils of bergamot,193931.0,5.522,Türkiye -  Essential oils of bergamot
+30,674,San Marino,218,Ecuador,49," Brochures, leaflets and similar, in single sheets",188726.79,19.87224,"Ecuador -  Brochures, leaflets and similar, in single sheets"
+31,674,San Marino,792,Türkiye,39, Polyethylene - specific gravity <0.94 in primary form,178615.0,41.786,Türkiye -  Polyethylene - specific gravity <0.94 in primary form
+32,674,San Marino,250,France,40," Natural rubber latex, including prevulcanised",166714.378,65.87152099999999,"France -  Natural rubber latex, including prevulcanised"
+33,674,San Marino,604,Peru,84, Nuclear reactors,164057.52,15.253,Peru -  Nuclear reactors
+34,674,San Marino,840,United States of America,49," Brochures, leaflets and similar, in single sheets",163592.695,18.154696,"United States of America -  Brochures, leaflets and similar, in single sheets"
+35,674,San Marino,470,Malta,21," Coffee extracts, essences, concentrates, preparations",161885.643,6.389,"Malta -  Coffee extracts, essences, concentrates, preparations"
+36,674,San Marino,470,Malta,33, Essential oils of bergamot,153563.873,11.759,Malta -  Essential oils of bergamot
+37,674,San Marino,470,Malta,23," Flour or meal, pellet of meat or offal for animal fee",151843.367,44.653,"Malta -  Flour or meal, pellet of meat or offal for animal fee"
+38,674,San Marino,076,Brazil,38, Artificial graphite,148030.0,55.84,Brazil -  Artificial graphite
+39,674,San Marino,300,Greece,23," Flour or meal, pellet of meat or offal for animal fee",140566.913,54.988,"Greece -  Flour or meal, pellet of meat or offal for animal fee"
+40,674,San Marino,250,France,21," Coffee extracts, essences, concentrates, preparations",137737.475,21.431665000000002,"France -  Coffee extracts, essences, concentrates, preparations"
+41,674,San Marino,032,Argentina,84, Nuclear reactors,136525.452,12.648309999999999,Argentina -  Nuclear reactors
+42,674,San Marino,826,United Kingdom,87, Pedestrian controlled tractors,131732.605,4.2193000000000005,United Kingdom -  Pedestrian controlled tractors
+43,674,San Marino,376,Israel,84, Nuclear reactors,131691.903,10.114319,Israel -  Nuclear reactors
+44,674,San Marino,642,Romania,84, Nuclear reactors,130551.014,19.610671,Romania -  Nuclear reactors
+45,674,San Marino,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,129403.426,13.650506,Germany -  Polyethylene - specific gravity <0.94 in primary form
+46,674,San Marino,398,Kazakhstan,21," Coffee extracts, essences, concentrates, preparations",128537.034,4.0708910000000005,"Kazakhstan -  Coffee extracts, essences, concentrates, preparations"
+47,674,San Marino,032,Argentina,39, Polyethylene - specific gravity <0.94 in primary form,126269.409,35.22455,Argentina -  Polyethylene - specific gravity <0.94 in primary form
+48,674,San Marino,643,Russian Federation,30," Glands and other organs, dried, for therapeutic uses",123091.845,0.702488,"Russian Federation -  Glands and other organs, dried, for therapeutic uses"
+49,674,San Marino,152,Chile,84, Nuclear reactors,121612.556,2.8999029999999997,Chile -  Nuclear reactors
+50,674,San Marino,100,Bulgaria,84, Nuclear reactors,120383.391,10.213226,Bulgaria -  Nuclear reactors
+51,674,San Marino,250,France,95," Rideable wheeled toys, dolls carriages",115244.336,10.937323000000001,"France -  Rideable wheeled toys, dolls carriages"
+52,674,San Marino,528,Netherlands (Kingdom of the),95," Rideable wheeled toys, dolls carriages",112889.477,169.75814799999998,"Netherlands (Kingdom of the) -  Rideable wheeled toys, dolls carriages"
+53,674,San Marino,784,United Arab Emirates,84, Nuclear reactors,112707.42,13.652002,United Arab Emirates -  Nuclear reactors
+54,674,San Marino,398,Kazakhstan,84, Nuclear reactors,109190.81,7.396033999999999,Kazakhstan -  Nuclear reactors
+55,674,San Marino,410,"Korea, Republic of",84, Nuclear reactors,108543.205,10.038232,"Korea, Republic of -  Nuclear reactors"
+56,674,San Marino,440,Lithuania,23," Flour or meal, pellet of meat or offal for animal fee",102515.833,39.483821000000006,"Lithuania -  Flour or meal, pellet of meat or offal for animal fee"
+57,674,San Marino,348,Hungary,84, Nuclear reactors,99915.042,8.538865,Hungary -  Nuclear reactors
+58,674,San Marino,422,Lebanon,85, Electric motors of an output < 37.5 watts,99294.779,2.0632289999999998,Lebanon -  Electric motors of an output < 37.5 watts
+59,674,San Marino,422,Lebanon,94," Seats, aircraft",96992.113,27.179557,"Lebanon -  Seats, aircraft"
+60,674,San Marino,398,Kazakhstan,94," Seats, aircraft",96004.47,16.061308,"Kazakhstan -  Seats, aircraft"
+61,674,San Marino,643,Russian Federation,76," Aluminium unwrought, not alloyed",90391.856,2.18936,"Russian Federation -  Aluminium unwrought, not alloyed"
+62,674,San Marino,616,Poland,39, Polyethylene - specific gravity <0.94 in primary form,90085.387,19.416884999999997,Poland -  Polyethylene - specific gravity <0.94 in primary form
+63,674,San Marino,276,Germany,73, Sheet piling of iron or steel,89462.508,6.052059,Germany -  Sheet piling of iron or steel
+64,674,San Marino,643,Russian Federation,34," Soaps, for toilet use, solid",86194.462,25.014913,"Russian Federation -  Soaps, for toilet use, solid"
+65,674,San Marino,156,China,85, Electric motors of an output < 37.5 watts,85249.042,2.435074,China -  Electric motors of an output < 37.5 watts
+66,674,San Marino,804,Ukraine,85, Electric motors of an output < 37.5 watts,81100.304,7.247851,Ukraine -  Electric motors of an output < 37.5 watts
+67,674,San Marino,756,"Switzerland, Liechtenstein",40," Natural rubber latex, including prevulcanised",79201.516,1.060683,"Switzerland, Liechtenstein -  Natural rubber latex, including prevulcanised"
+68,674,San Marino,504,Morocco,38, Artificial graphite,75673.802,27.085798999999998,Morocco -  Artificial graphite
+69,674,San Marino,300,Greece,84, Nuclear reactors,74451.123,10.328,Greece -  Nuclear reactors
+70,674,San Marino,688,Serbia,84, Nuclear reactors,73849.909,2.993545,Serbia -  Nuclear reactors
+71,674,San Marino,792,Türkiye,21," Coffee extracts, essences, concentrates, preparations",73578.0,3.927,"Türkiye -  Coffee extracts, essences, concentrates, preparations"
+72,674,San Marino,470,Malta,94," Seats, aircraft",71654.122,15.177,"Malta -  Seats, aircraft"
+73,674,San Marino,840,United States of America,40," Natural rubber latex, including prevulcanised",69508.167,1.475147,"United States of America -  Natural rubber latex, including prevulcanised"
+74,674,San Marino,076,Brazil,39, Polyethylene - specific gravity <0.94 in primary form,68456.0,28.254196,Brazil -  Polyethylene - specific gravity <0.94 in primary form
+75,674,San Marino,643,Russian Federation,16," Sausages, similar products of meat, meat offal & bloo",67731.299,6.274106,"Russian Federation -  Sausages, similar products of meat, meat offal & bloo"
+76,674,San Marino,643,Russian Federation,83, Padlocks of base metal,67077.415,3.677961,Russian Federation -  Padlocks of base metal
+77,674,San Marino,703,Slovakia,39, Polyethylene - specific gravity <0.94 in primary form,66024.141,1.3261489999999998,Slovakia -  Polyethylene - specific gravity <0.94 in primary form
+78,674,San Marino,031,Azerbaijan,21," Coffee extracts, essences, concentrates, preparations",65531.522,3.9811739999999998,"Azerbaijan -  Coffee extracts, essences, concentrates, preparations"
+79,674,San Marino,276,Germany,42," Saddlery and harness, of any material",64182.208,1.719044,"Germany -  Saddlery and harness, of any material"
+80,674,San Marino,076,Brazil,85, Electric motors of an output < 37.5 watts,58912.0,3.711871,Brazil -  Electric motors of an output < 37.5 watts
+81,674,San Marino,643,Russian Federation,32, Quebracho tanning extract,56600.518,11.835567,Russian Federation -  Quebracho tanning extract
+82,674,San Marino,276,Germany,33, Essential oils of bergamot,56518.338,8.339652,Germany -  Essential oils of bergamot
+83,674,San Marino,040,Austria,40," Natural rubber latex, including prevulcanised",56011.933,11.105056000000001,"Austria -  Natural rubber latex, including prevulcanised"
+84,674,San Marino,191,Croatia,38, Artificial graphite,55646.208,72.14025199999999,Croatia -  Artificial graphite
+85,674,San Marino,840,United States of America,95," Rideable wheeled toys, dolls carriages",55633.107,9.502796,"United States of America -  Rideable wheeled toys, dolls carriages"
+86,674,San Marino,246,Finland,84, Nuclear reactors,54888.472,5.285151,Finland -  Nuclear reactors
+87,674,San Marino,208,Denmark,39, Polyethylene - specific gravity <0.94 in primary form,54761.431,0.95892,Denmark -  Polyethylene - specific gravity <0.94 in primary form
+88,674,San Marino,616,Poland,53," Flax fibre, raw or retted",54571.304,2.135439,"Poland -  Flax fibre, raw or retted"
+89,674,San Marino,250,France,74, Copper mattes,51605.416,2.770768,France -  Copper mattes
+90,674,San Marino,634,Qatar,21," Coffee extracts, essences, concentrates, preparations",51301.628,0.313589,"Qatar -  Coffee extracts, essences, concentrates, preparations"
+91,674,San Marino,682,Saudi Arabia,48, Newsprint,50961.688,16.150656,Saudi Arabia -  Newsprint
+92,674,San Marino,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,50943.88,16.235893,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+93,674,San Marino,032,Argentina,32, Quebracho tanning extract,50633.362,19.779072,Argentina -  Quebracho tanning extract
+94,674,San Marino,470,Malta,22, Mineral and aerated waters not sweetened or flavoured,50535.158,68.504,Malta -  Mineral and aerated waters not sweetened or flavoured
+95,674,San Marino,414,Kuwait,33, Essential oils of bergamot,50371.192,2.170089,Kuwait -  Essential oils of bergamot
+96,674,San Marino,250,France,39, Polyethylene - specific gravity <0.94 in primary form,49685.7,8.421417,France -  Polyethylene - specific gravity <0.94 in primary form
+97,674,San Marino,276,Germany,94," Seats, aircraft",49504.676,1.485239,"Germany -  Seats, aircraft"
+98,674,San Marino,643,Russian Federation,40," Natural rubber latex, including prevulcanised",49108.267,6.324471,"Russian Federation -  Natural rubber latex, including prevulcanised"
+99,674,San Marino,840,United States of America,85, Electric motors of an output < 37.5 watts,48989.22,4.94779,United States of America -  Electric motors of an output < 37.5 watts
+100,674,San Marino,276,Germany,95," Rideable wheeled toys, dolls carriages",48803.233,12.314784,"Germany -  Rideable wheeled toys, dolls carriages"
+101,674,San Marino,440,Lithuania,94," Seats, aircraft",48121.016,1.3126710000000001,"Lithuania -  Seats, aircraft"
+102,674,San Marino,040,Austria,95," Rideable wheeled toys, dolls carriages",47426.179,0.964664,"Austria -  Rideable wheeled toys, dolls carriages"
+103,674,San Marino,504,Morocco,34," Soaps, for toilet use, solid",47160.336,14.125537,"Morocco -  Soaps, for toilet use, solid"
+104,674,San Marino,104,Myanmar,84, Nuclear reactors,46947.052,1.3812460000000002,Myanmar -  Nuclear reactors
+105,674,San Marino,250,France,42," Saddlery and harness, of any material",46479.513,4.469358000000001,"France -  Saddlery and harness, of any material"
+106,674,San Marino,196,Cyprus,61," Mens, boys overcoats, etc, of wool or hair, knit",46264.439,0.757,"Cyprus -  Mens, boys overcoats, etc, of wool or hair, knit"
+107,674,San Marino,100,Bulgaria,21," Coffee extracts, essences, concentrates, preparations",45809.805,1.8044580000000001,"Bulgaria -  Coffee extracts, essences, concentrates, preparations"
+108,674,San Marino,578,Norway,34," Soaps, for toilet use, solid",45397.525,6.185716,"Norway -  Soaps, for toilet use, solid"
+109,674,San Marino,682,Saudi Arabia,20," Cucumbers,gherkins, prepared or preserved by vinegar",45307.504,5.239889,"Saudi Arabia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+110,674,San Marino,620,Portugal,95," Rideable wheeled toys, dolls carriages",44836.459,4.406,"Portugal -  Rideable wheeled toys, dolls carriages"
+111,674,San Marino,208,Denmark,94," Seats, aircraft",44549.521,11.491682,"Denmark -  Seats, aircraft"
+112,674,San Marino,634,Qatar,39, Polyethylene - specific gravity <0.94 in primary form,44327.349,14.182366,Qatar -  Polyethylene - specific gravity <0.94 in primary form
+113,674,San Marino,616,Poland,59, Gum or amylaceous covered textiles for book covers et,44018.765,1.1477270000000002,Poland -  Gum or amylaceous covered textiles for book covers et
+114,674,San Marino,076,Brazil,32, Quebracho tanning extract,42631.0,2.697,Brazil -  Quebracho tanning extract
+115,674,San Marino,076,Brazil,34," Soaps, for toilet use, solid",41764.0,14.55,"Brazil -  Soaps, for toilet use, solid"
+116,674,San Marino,705,Slovenia,84, Nuclear reactors,41702.976,3.534535,Slovenia -  Nuclear reactors
+117,674,San Marino,144,Sri Lanka,38, Artificial graphite,41270.826,14.647844,Sri Lanka -  Artificial graphite
+118,674,San Marino,634,Qatar,32, Quebracho tanning extract,38861.164,17.447903999999998,Qatar -  Quebracho tanning extract
+119,674,San Marino,578,Norway,94," Seats, aircraft",38809.665,9.203553,"Norway -  Seats, aircraft"
+120,674,San Marino,191,Croatia,23," Flour or meal, pellet of meat or offal for animal fee",38486.006,6.590414,"Croatia -  Flour or meal, pellet of meat or offal for animal fee"
+121,674,San Marino,203,Czechia,94," Seats, aircraft",37963.645,13.716263000000001,"Czechia -  Seats, aircraft"
+122,674,San Marino,643,Russian Federation,33, Essential oils of bergamot,37804.867,1.751914,Russian Federation -  Essential oils of bergamot
+123,674,San Marino,196,Cyprus,64," Waterproof footwear (Wellingtons etc), metal toe cap",37534.908,1.939,"Cyprus -  Waterproof footwear (Wellingtons etc), metal toe cap"
+124,674,San Marino,056,Belgium,84, Nuclear reactors,36971.611,3.080918,Belgium -  Nuclear reactors
+125,674,San Marino,504,Morocco,35, Casein,36764.036,10.355671000000001,Morocco -  Casein
+126,674,San Marino,076,Brazil,35, Casein,35754.0,15.25,Brazil -  Casein
+127,674,San Marino,826,United Kingdom,85, Electric motors of an output < 37.5 watts,35472.048,10.080652,United Kingdom -  Electric motors of an output < 37.5 watts
+128,674,San Marino,203,Czechia,38, Artificial graphite,34800.526,4.315703,Czechia -  Artificial graphite
+129,674,San Marino,784,United Arab Emirates,73, Sheet piling of iron or steel,34787.866,10.692020000000001,United Arab Emirates -  Sheet piling of iron or steel
+130,674,San Marino,616,Poland,62," Mens, boys overcoats of wool or hair, not knit",34650.229,0.982485,"Poland -  Mens, boys overcoats of wool or hair, not knit"
+131,674,San Marino,031,Azerbaijan,94," Seats, aircraft",34193.252,6.795907000000001,"Azerbaijan -  Seats, aircraft"
+132,674,San Marino,364,Iran (Islamic Republic of),84, Nuclear reactors,33971.338,2.788014,Iran (Islamic Republic of) -  Nuclear reactors
+133,674,San Marino,792,Türkiye,34," Soaps, for toilet use, solid",33447.0,10.32,"Türkiye -  Soaps, for toilet use, solid"
+134,674,San Marino,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,33060.635,0.36968799999999996,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+135,674,San Marino,703,Slovakia,87, Pedestrian controlled tractors,32814.744,12.746775,Slovakia -  Pedestrian controlled tractors
+136,674,San Marino,250,France,22, Mineral and aerated waters not sweetened or flavoured,31366.222,4.946883,France -  Mineral and aerated waters not sweetened or flavoured
+137,674,San Marino,498,"Moldova, Republic of",30," Glands and other organs, dried, for therapeutic uses",31168.424,0.130399,"Moldova, Republic of -  Glands and other organs, dried, for therapeutic uses"
+138,674,San Marino,344,"China, Hong Kong SAR",43," Raw mink furskins, whole",31146.944,0.148008,"China, Hong Kong SAR -  Raw mink furskins, whole"
+139,674,San Marino,784,United Arab Emirates,28, Chlorine,30629.801,4.395812,United Arab Emirates -  Chlorine
+140,674,San Marino,724,Spain,21," Coffee extracts, essences, concentrates, preparations",29908.363,3.304,"Spain -  Coffee extracts, essences, concentrates, preparations"
+141,674,San Marino,112,Belarus,84, Nuclear reactors,29886.89,3.649114,Belarus -  Nuclear reactors
+142,674,San Marino,616,Poland,96," Worked ivory, articles of ivory",29825.945,0.13322,"Poland -  Worked ivory, articles of ivory"
+143,674,San Marino,156,China,39, Polyethylene - specific gravity <0.94 in primary form,29573.28,8.240013000000001,China -  Polyethylene - specific gravity <0.94 in primary form
+144,674,San Marino,410,"Korea, Republic of",35, Casein,29439.491,8.795127,"Korea, Republic of -  Casein"
+145,674,San Marino,040,Austria,76," Aluminium unwrought, not alloyed",29374.839,3.318644,"Austria -  Aluminium unwrought, not alloyed"
+146,674,San Marino,586,Pakistan,35, Casein,28844.896,5.0414520000000005,Pakistan -  Casein
+147,674,San Marino,756,"Switzerland, Liechtenstein",94," Seats, aircraft",28208.081,2.588877,"Switzerland, Liechtenstein -  Seats, aircraft"
+148,674,San Marino,504,Morocco,39, Polyethylene - specific gravity <0.94 in primary form,28199.529,9.791794,Morocco -  Polyethylene - specific gravity <0.94 in primary form
+149,674,San Marino,100,Bulgaria,87, Pedestrian controlled tractors,27997.341,45.429685,Bulgaria -  Pedestrian controlled tractors
+150,674,San Marino,826,United Kingdom,34," Soaps, for toilet use, solid",27912.998,12.098672,"United Kingdom -  Soaps, for toilet use, solid"
+151,674,San Marino,756,"Switzerland, Liechtenstein",84, Nuclear reactors,27394.646,0.333283,"Switzerland, Liechtenstein -  Nuclear reactors"
+152,674,San Marino,784,United Arab Emirates,32, Quebracho tanning extract,26681.586,6.356523,United Arab Emirates -  Quebracho tanning extract
+153,674,San Marino,840,United States of America,43," Raw mink furskins, whole",26278.781,0.09334,"United States of America -  Raw mink furskins, whole"
+154,674,San Marino,643,Russian Federation,64," Waterproof footwear (Wellingtons etc), metal toe cap",26156.726,0.181719,"Russian Federation -  Waterproof footwear (Wellingtons etc), metal toe cap"
+155,674,San Marino,156,China,35, Casein,25864.35,1.8075340000000002,China -  Casein
+156,674,San Marino,276,Germany,90," Optical fibres, except for telecommunications",25819.112,0.712932,"Germany -  Optical fibres, except for telecommunications"
+157,674,San Marino,586,Pakistan,87, Pedestrian controlled tractors,25781.464,2.584136,Pakistan -  Pedestrian controlled tractors
+158,674,San Marino,470,Malta,84, Nuclear reactors,25630.73,1.843,Malta -  Nuclear reactors
+159,674,San Marino,348,Hungary,21," Coffee extracts, essences, concentrates, preparations",25314.367,0.6910170000000001,"Hungary -  Coffee extracts, essences, concentrates, preparations"
+160,674,San Marino,276,Germany,48, Newsprint,25079.771,0.702438,Germany -  Newsprint
+161,674,San Marino,792,Türkiye,32, Quebracho tanning extract,25043.0,1.861,Türkiye -  Quebracho tanning extract
+162,674,San Marino,191,Croatia,84, Nuclear reactors,24967.61,3.195513,Croatia -  Nuclear reactors
+163,674,San Marino,616,Poland,54, Sewing thread of synthetic filaments,24882.607,0.355673,Poland -  Sewing thread of synthetic filaments
+164,674,San Marino,276,Germany,38, Artificial graphite,24558.779,5.792655,Germany -  Artificial graphite
+165,674,San Marino,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,24500.142,12.498842,Austria -  Polyethylene - specific gravity <0.94 in primary form
+166,674,San Marino,616,Poland,23," Flour or meal, pellet of meat or offal for animal fee",24087.179,3.700275,"Poland -  Flour or meal, pellet of meat or offal for animal fee"
+167,674,San Marino,356,India,38, Artificial graphite,24024.23,6.433999,India -  Artificial graphite
+168,674,San Marino,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",24010.404,1.553884,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+169,674,San Marino,056,Belgium,39, Polyethylene - specific gravity <0.94 in primary form,23753.939,0.252632,Belgium -  Polyethylene - specific gravity <0.94 in primary form
+170,674,San Marino,682,Saudi Arabia,21," Coffee extracts, essences, concentrates, preparations",23106.004,3.229676,"Saudi Arabia -  Coffee extracts, essences, concentrates, preparations"
+171,674,San Marino,804,Ukraine,12, Soya beans,22791.451,9.834535,Ukraine -  Soya beans
+172,674,San Marino,616,Poland,85, Electric motors of an output < 37.5 watts,22311.934,1.824054,Poland -  Electric motors of an output < 37.5 watts
+173,674,San Marino,528,Netherlands (Kingdom of the),21," Coffee extracts, essences, concentrates, preparations",22061.3,1.231817,"Netherlands (Kingdom of the) -  Coffee extracts, essences, concentrates, preparations"
+174,674,San Marino,372,Ireland,21," Coffee extracts, essences, concentrates, preparations",21970.328,0.56045,"Ireland -  Coffee extracts, essences, concentrates, preparations"
+175,674,San Marino,414,Kuwait,76," Aluminium unwrought, not alloyed",21703.812,2.3285,"Kuwait -  Aluminium unwrought, not alloyed"
+176,674,San Marino,276,Germany,76," Aluminium unwrought, not alloyed",20347.02,1.872982,"Germany -  Aluminium unwrought, not alloyed"
+177,674,San Marino,792,Türkiye,94," Seats, aircraft",20212.0,5.694,"Türkiye -  Seats, aircraft"
+178,674,San Marino,422,Lebanon,21," Coffee extracts, essences, concentrates, preparations",20163.392,1.45828,"Lebanon -  Coffee extracts, essences, concentrates, preparations"
+179,674,San Marino,250,France,76," Aluminium unwrought, not alloyed",20049.675,4.301273,"France -  Aluminium unwrought, not alloyed"
+180,674,San Marino,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",20028.97,0.573801,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+181,674,San Marino,643,Russian Federation,85, Electric motors of an output < 37.5 watts,19957.748,0.606049,Russian Federation -  Electric motors of an output < 37.5 watts
+182,674,San Marino,410,"Korea, Republic of",21," Coffee extracts, essences, concentrates, preparations",19884.933,0.8720019999999999,"Korea, Republic of -  Coffee extracts, essences, concentrates, preparations"
+183,674,San Marino,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,19573.337,0.700507,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+184,674,San Marino,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,19183.825,0.180448,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+185,674,San Marino,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,19161.009,3.206832,United Arab Emirates -  Electric motors of an output < 37.5 watts
+186,674,San Marino,784,United Arab Emirates,40," Natural rubber latex, including prevulcanised",19154.011,3.789929,"United Arab Emirates -  Natural rubber latex, including prevulcanised"
+187,674,San Marino,826,United Kingdom,94," Seats, aircraft",18194.539,0.5736079999999999,"United Kingdom -  Seats, aircraft"
+188,674,San Marino,643,Russian Federation,48, Newsprint,18112.73,15.481074000000001,Russian Federation -  Newsprint
+189,674,San Marino,586,Pakistan,38, Artificial graphite,18066.824,6.4921999999999995,Pakistan -  Artificial graphite
+190,674,San Marino,040,Austria,94," Seats, aircraft",17608.777,0.740576,"Austria -  Seats, aircraft"
+191,674,San Marino,616,Poland,52," Cotton, not carded or combed",17117.192,0.40702999999999995,"Poland -  Cotton, not carded or combed"
+192,674,San Marino,840,United States of America,76," Aluminium unwrought, not alloyed",17087.09,0.06627899999999999,"United States of America -  Aluminium unwrought, not alloyed"
+193,674,San Marino,040,Austria,85, Electric motors of an output < 37.5 watts,16959.669,1.1081880000000002,Austria -  Electric motors of an output < 37.5 watts
+194,674,San Marino,724,Spain,30," Glands and other organs, dried, for therapeutic uses",16859.709,0.617,"Spain -  Glands and other organs, dried, for therapeutic uses"
+195,674,San Marino,048,Bahrain,94," Seats, aircraft",16779.719,2.865049,"Bahrain -  Seats, aircraft"
+196,674,San Marino,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",16681.723,0.041185,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+197,674,San Marino,804,Ukraine,73, Sheet piling of iron or steel,16650.25,5.350518,Ukraine -  Sheet piling of iron or steel
+198,674,San Marino,702,Singapore,84, Nuclear reactors,16490.137,0.623755,Singapore -  Nuclear reactors
+199,674,San Marino,840,United States of America,87, Pedestrian controlled tractors,15822.571,0.579604,United States of America -  Pedestrian controlled tractors
+200,674,San Marino,268,Georgia,21," Coffee extracts, essences, concentrates, preparations",15797.138,1.05633,"Georgia -  Coffee extracts, essences, concentrates, preparations"
+201,674,San Marino,056,Belgium,22, Mineral and aerated waters not sweetened or flavoured,15754.417,2.267933,Belgium -  Mineral and aerated waters not sweetened or flavoured
+202,674,San Marino,784,United Arab Emirates,38, Artificial graphite,15558.953,6.694136,United Arab Emirates -  Artificial graphite
+203,674,San Marino,586,Pakistan,32, Quebracho tanning extract,15493.537,3.7042979999999996,Pakistan -  Quebracho tanning extract
+204,674,San Marino,276,Germany,87, Pedestrian controlled tractors,15467.407,2.261002,Germany -  Pedestrian controlled tractors
+205,674,San Marino,634,Qatar,94," Seats, aircraft",15332.71,2.123991,"Qatar -  Seats, aircraft"
+206,674,San Marino,724,Spain,20," Cucumbers,gherkins, prepared or preserved by vinegar",15057.801,1.127,"Spain -  Cucumbers,gherkins, prepared or preserved by vinegar"
+207,674,San Marino,756,"Switzerland, Liechtenstein",72," Pig iron, non-alloy, <0.5% phosphorus",14924.96,9.320869,"Switzerland, Liechtenstein -  Pig iron, non-alloy, <0.5% phosphorus"
+208,674,San Marino,682,Saudi Arabia,18," Cocoa beans, whole or broken, raw or roasted",14780.756,1.555626,"Saudi Arabia -  Cocoa beans, whole or broken, raw or roasted"
+209,674,San Marino,250,France,94," Seats, aircraft",14339.403,3.242442,"France -  Seats, aircraft"
+210,674,San Marino,470,Malta,18," Cocoa beans, whole or broken, raw or roasted",14244.908,3.4,"Malta -  Cocoa beans, whole or broken, raw or roasted"
+211,674,San Marino,414,Kuwait,21," Coffee extracts, essences, concentrates, preparations",14244.56,0.923685,"Kuwait -  Coffee extracts, essences, concentrates, preparations"
+212,674,San Marino,724,Spain,73, Sheet piling of iron or steel,14099.816,1.2,Spain -  Sheet piling of iron or steel
+213,674,San Marino,688,Serbia,21," Coffee extracts, essences, concentrates, preparations",14065.455,0.6010610000000001,"Serbia -  Coffee extracts, essences, concentrates, preparations"
+214,674,San Marino,422,Lebanon,32, Quebracho tanning extract,13962.292,4.178287999999999,Lebanon -  Quebracho tanning extract
+215,674,San Marino,440,Lithuania,84, Nuclear reactors,13922.746,1.3777519999999999,Lithuania -  Nuclear reactors
+216,674,San Marino,414,Kuwait,85, Electric motors of an output < 37.5 watts,13894.906,0.903164,Kuwait -  Electric motors of an output < 37.5 watts
+217,674,San Marino,250,France,83, Padlocks of base metal,13841.0,1.902673,France -  Padlocks of base metal
+218,674,San Marino,470,Malta,87, Pedestrian controlled tractors,13729.57,0.14,Malta -  Pedestrian controlled tractors
+219,674,San Marino,600,Paraguay,84, Nuclear reactors,13704.944,3.422144,Paraguay -  Nuclear reactors
+220,674,San Marino,703,Slovakia,84, Nuclear reactors,13658.55,1.023905,Slovakia -  Nuclear reactors
+221,674,San Marino,470,Malta,48, Newsprint,13455.078,4.385,Malta -  Newsprint
+222,674,San Marino,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,13071.273,0.089424,Czechia -  Polyethylene - specific gravity <0.94 in primary form
+223,674,San Marino,784,United Arab Emirates,21," Coffee extracts, essences, concentrates, preparations",13010.912,0.969687,"United Arab Emirates -  Coffee extracts, essences, concentrates, preparations"
+224,674,San Marino,682,Saudi Arabia,84, Nuclear reactors,12902.065,0.838999,Saudi Arabia -  Nuclear reactors
+225,674,San Marino,528,Netherlands (Kingdom of the),39, Polyethylene - specific gravity <0.94 in primary form,12835.471,0.24904099999999998,Netherlands (Kingdom of the) -  Polyethylene - specific gravity <0.94 in primary form
+226,674,San Marino,616,Poland,40," Natural rubber latex, including prevulcanised",12783.321,2.208327,"Poland -  Natural rubber latex, including prevulcanised"
+227,674,San Marino,268,Georgia,94," Seats, aircraft",12588.38,1.950504,"Georgia -  Seats, aircraft"
+228,674,San Marino,250,France,87, Pedestrian controlled tractors,12541.702,0.795439,France -  Pedestrian controlled tractors
+229,674,San Marino,840,United States of America,29, Saturated acyclic hydrocarbons,12444.273,2.785259,United States of America -  Saturated acyclic hydrocarbons
+230,674,San Marino,470,Malta,96," Worked ivory, articles of ivory",12418.186,1.604,"Malta -  Worked ivory, articles of ivory"
+231,674,San Marino,643,Russian Federation,43," Raw mink furskins, whole",12235.558,0.018685,"Russian Federation -  Raw mink furskins, whole"
+232,674,San Marino,191,Croatia,42," Saddlery and harness, of any material",12219.234,1.052799,"Croatia -  Saddlery and harness, of any material"
+233,674,San Marino,450,Madagascar,34," Soaps, for toilet use, solid",12002.913,5.565810000000001,"Madagascar -  Soaps, for toilet use, solid"
+234,674,San Marino,156,China,38, Artificial graphite,11962.159,6.636665,China -  Artificial graphite
+235,674,San Marino,784,United Arab Emirates,83, Padlocks of base metal,11820.112,2.9334119999999997,United Arab Emirates -  Padlocks of base metal
+236,674,San Marino,682,Saudi Arabia,94," Seats, aircraft",11225.433,0.161638,"Saudi Arabia -  Seats, aircraft"
+237,674,San Marino,804,Ukraine,39, Polyethylene - specific gravity <0.94 in primary form,11212.628,1.094647,Ukraine -  Polyethylene - specific gravity <0.94 in primary form
+238,674,San Marino,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,11071.579,0.158023,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+239,674,San Marino,840,United States of America,22, Mineral and aerated waters not sweetened or flavoured,11047.517,2.162728,United States of America -  Mineral and aerated waters not sweetened or flavoured
+240,674,San Marino,203,Czechia,84, Nuclear reactors,11004.69,1.217037,Czechia -  Nuclear reactors
+241,674,San Marino,643,Russian Federation,44, Fuel wood,10821.575,1.227459,Russian Federation -  Fuel wood
+242,674,San Marino,398,Kazakhstan,30," Glands and other organs, dried, for therapeutic uses",10786.517,0.9134260000000001,"Kazakhstan -  Glands and other organs, dried, for therapeutic uses"
+243,674,San Marino,616,Poland,56," Sanitary towels, diapers and similar articles",10607.21,0.450089,"Poland -  Sanitary towels, diapers and similar articles"
+244,674,San Marino,616,Poland,33, Essential oils of bergamot,10583.746,1.346887,Poland -  Essential oils of bergamot
+245,674,San Marino,356,India,39, Polyethylene - specific gravity <0.94 in primary form,10580.963,5.386909999999999,India -  Polyethylene - specific gravity <0.94 in primary form
+246,674,San Marino,156,China,28, Chlorine,10566.358,0.32507600000000003,China -  Chlorine
+247,674,San Marino,643,Russian Federation,17," Raw sugar, cane",10470.979,1.510823,"Russian Federation -  Raw sugar, cane"
+248,674,San Marino,784,United Arab Emirates,44, Fuel wood,10010.109,0.902578,United Arab Emirates -  Fuel wood
+249,674,San Marino,840,United States of America,90," Optical fibres, except for telecommunications",9879.057,0.11365,"United States of America -  Optical fibres, except for telecommunications"
+250,674,San Marino,040,Austria,73, Sheet piling of iron or steel,9871.418,0.739771,Austria -  Sheet piling of iron or steel
+251,674,San Marino,040,Austria,34," Soaps, for toilet use, solid",9572.269,6.745984999999999,"Austria -  Soaps, for toilet use, solid"
+252,674,San Marino,840,United States of America,83, Padlocks of base metal,9375.174,0.034311,United States of America -  Padlocks of base metal
+253,674,San Marino,356,India,32, Quebracho tanning extract,9255.092,0.6135700000000001,India -  Quebracho tanning extract
+254,674,San Marino,792,Türkiye,85, Electric motors of an output < 37.5 watts,9220.0,0.287,Türkiye -  Electric motors of an output < 37.5 watts
+255,674,San Marino,250,France,62," Mens, boys overcoats of wool or hair, not knit",9135.768,0.280676,"France -  Mens, boys overcoats of wool or hair, not knit"
+256,674,San Marino,068,Bolivia (Plurinational State of),84, Nuclear reactors,9000.0,0.63,Bolivia (Plurinational State of) -  Nuclear reactors
+257,674,San Marino,616,Poland,48, Newsprint,8926.038,1.244161,Poland -  Newsprint
+258,674,San Marino,191,Croatia,95," Rideable wheeled toys, dolls carriages",8719.862,0.48986399999999997,"Croatia -  Rideable wheeled toys, dolls carriages"
+259,674,San Marino,702,Singapore,94," Seats, aircraft",8587.014,2.276105,"Singapore -  Seats, aircraft"
+260,674,San Marino,643,Russian Federation,20," Cucumbers,gherkins, prepared or preserved by vinegar",8583.445,0.7507670000000001,"Russian Federation -  Cucumbers,gherkins, prepared or preserved by vinegar"
+261,674,San Marino,792,Türkiye,90," Optical fibres, except for telecommunications",8399.0,0.38,"Türkiye -  Optical fibres, except for telecommunications"
+262,674,San Marino,840,United States of America,33, Essential oils of bergamot,8318.789,0.311241,United States of America -  Essential oils of bergamot
+263,674,San Marino,032,Argentina,38, Artificial graphite,8276.713,3.15379,Argentina -  Artificial graphite
+264,674,San Marino,250,France,33, Essential oils of bergamot,8210.678,0.466249,France -  Essential oils of bergamot
+265,674,San Marino,100,Bulgaria,23," Flour or meal, pellet of meat or offal for animal fee",8168.442,2.5756889999999997,"Bulgaria -  Flour or meal, pellet of meat or offal for animal fee"
+266,674,San Marino,826,United Kingdom,74, Copper mattes,7842.561,0.291539,United Kingdom -  Copper mattes
+267,674,San Marino,792,Türkiye,38, Artificial graphite,7830.0,4.014,Türkiye -  Artificial graphite
+268,674,San Marino,076,Brazil,21," Coffee extracts, essences, concentrates, preparations",7813.0,0.203,"Brazil -  Coffee extracts, essences, concentrates, preparations"
+269,674,San Marino,643,Russian Federation,90," Optical fibres, except for telecommunications",7498.428,0.06915099999999999,"Russian Federation -  Optical fibres, except for telecommunications"
+270,674,San Marino,804,Ukraine,90," Optical fibres, except for telecommunications",7453.512,0.46967899999999996,"Ukraine -  Optical fibres, except for telecommunications"
+271,674,San Marino,414,Kuwait,84, Nuclear reactors,7258.276,0.012307,Kuwait -  Nuclear reactors
+272,674,San Marino,144,Sri Lanka,35, Casein,7122.167,3.1854839999999998,Sri Lanka -  Casein
+273,674,San Marino,643,Russian Federation,05," Hair, human, unworked, waste of human hair",7047.76,3.7803739999999997,"Russian Federation -  Hair, human, unworked, waste of human hair"
+274,674,San Marino,528,Netherlands (Kingdom of the),72," Pig iron, non-alloy, <0.5% phosphorus",7025.409,8.870909,"Netherlands (Kingdom of the) -  Pig iron, non-alloy, <0.5% phosphorus"
+275,674,San Marino,156,China,21," Coffee extracts, essences, concentrates, preparations",6912.101,0.912573,"China -  Coffee extracts, essences, concentrates, preparations"
+276,674,San Marino,112,Belarus,33, Essential oils of bergamot,6725.524,0.297762,Belarus -  Essential oils of bergamot
+277,674,San Marino,040,Austria,48, Newsprint,6704.981,0.019264,Austria -  Newsprint
+278,674,San Marino,120,Cameroon,38, Artificial graphite,6696.088,1.602126,Cameroon -  Artificial graphite
+279,674,San Marino,410,"Korea, Republic of",38, Artificial graphite,6578.037,3.790734,"Korea, Republic of -  Artificial graphite"
+280,674,San Marino,012,Algeria,72," Pig iron, non-alloy, <0.5% phosphorus",6559.154,14.275781,"Algeria -  Pig iron, non-alloy, <0.5% phosphorus"
+281,674,San Marino,818,Egypt,40," Natural rubber latex, including prevulcanised",6298.075,1.973091,"Egypt -  Natural rubber latex, including prevulcanised"
+282,674,San Marino,498,"Moldova, Republic of",85, Electric motors of an output < 37.5 watts,6238.188,0.293033,"Moldova, Republic of -  Electric motors of an output < 37.5 watts"
+283,674,San Marino,578,Norway,84, Nuclear reactors,6233.049,0.05213,Norway -  Nuclear reactors
+284,674,San Marino,643,Russian Federation,73, Sheet piling of iron or steel,6223.315,0.49558300000000005,Russian Federation -  Sheet piling of iron or steel
+285,674,San Marino,112,Belarus,08," Coconuts, fresh or dried",6157.289,10.150362999999999,"Belarus -  Coconuts, fresh or dried"
+286,674,San Marino,690,Seychelles,85, Electric motors of an output < 37.5 watts,6056.47,0.26387700000000003,Seychelles -  Electric motors of an output < 37.5 watts
+287,674,San Marino,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,5900.879,0.94786,Saudi Arabia -  Electric motors of an output < 37.5 watts
+288,674,San Marino,112,Belarus,39, Polyethylene - specific gravity <0.94 in primary form,5898.448,0.092237,Belarus -  Polyethylene - specific gravity <0.94 in primary form
+289,674,San Marino,784,United Arab Emirates,76," Aluminium unwrought, not alloyed",5881.876,1.0629549999999999,"United Arab Emirates -  Aluminium unwrought, not alloyed"
+290,674,San Marino,826,United Kingdom,73, Sheet piling of iron or steel,5816.852,0.32323399999999997,United Kingdom -  Sheet piling of iron or steel
+291,674,San Marino,600,Paraguay,39, Polyethylene - specific gravity <0.94 in primary form,5816.18,0.334097,Paraguay -  Polyethylene - specific gravity <0.94 in primary form
+292,674,San Marino,276,Germany,83, Padlocks of base metal,5759.168,0.46242,Germany -  Padlocks of base metal
+293,674,San Marino,032,Argentina,73, Sheet piling of iron or steel,5662.49,0.120256,Argentina -  Sheet piling of iron or steel
+294,674,San Marino,504,Morocco,29, Saturated acyclic hydrocarbons,5656.396,0.359093,Morocco -  Saturated acyclic hydrocarbons
+295,674,San Marino,804,Ukraine,87, Pedestrian controlled tractors,5548.847,2.583363,Ukraine -  Pedestrian controlled tractors
+296,674,San Marino,756,"Switzerland, Liechtenstein",34," Soaps, for toilet use, solid",5531.709,3.91515,"Switzerland, Liechtenstein -  Soaps, for toilet use, solid"
+297,674,San Marino,804,Ukraine,96," Worked ivory, articles of ivory",5384.906,1.8880270000000001,"Ukraine -  Worked ivory, articles of ivory"
+298,674,San Marino,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",5358.185,0.04319,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+299,674,San Marino,784,United Arab Emirates,63, Electric blankets of textile material,5301.299,0.960864,United Arab Emirates -  Electric blankets of textile material
+300,674,San Marino,504,Morocco,28, Chlorine,5287.771,1.330086,Morocco -  Chlorine
+301,674,San Marino,031,Azerbaijan,84, Nuclear reactors,5245.574,0.297282,Azerbaijan -  Nuclear reactors
+302,674,San Marino,276,Germany,56," Sanitary towels, diapers and similar articles",5224.014,0.145643,"Germany -  Sanitary towels, diapers and similar articles"
+303,674,San Marino,480,Mauritius,94," Seats, aircraft",5141.895,2.959,"Mauritius -  Seats, aircraft"
+304,674,San Marino,032,Argentina,35, Casein,5139.086,1.615605,Argentina -  Casein
+305,674,San Marino,682,Saudi Arabia,95," Rideable wheeled toys, dolls carriages",5134.975,0.73653,"Saudi Arabia -  Rideable wheeled toys, dolls carriages"
+306,674,San Marino,276,Germany,82, Spades and shovels,5133.837,0.0631,Germany -  Spades and shovels
+307,674,San Marino,144,Sri Lanka,32, Quebracho tanning extract,5082.272,1.352318,Sri Lanka -  Quebracho tanning extract
+308,674,San Marino,398,Kazakhstan,27," Anthracite, not agglomerated",5069.204,1.2597539999999998,"Kazakhstan -  Anthracite, not agglomerated"
+309,674,San Marino,840,United States of America,74, Copper mattes,5006.922,0.031226,United States of America -  Copper mattes
+310,674,San Marino,076,Brazil,96," Worked ivory, articles of ivory",5002.0,0.144,"Brazil -  Worked ivory, articles of ivory"
+311,674,San Marino,724,Spain,19," Infant foods of cereals, flour, starch or milk, retai",4863.939,0.509,"Spain -  Infant foods of cereals, flour, starch or milk, retai"
+312,674,San Marino,826,United Kingdom,82, Spades and shovels,4797.98,0.18187299999999998,United Kingdom -  Spades and shovels
+313,674,San Marino,470,Malta,34," Soaps, for toilet use, solid",4742.435,10.062,"Malta -  Soaps, for toilet use, solid"
+314,674,San Marino,156,China,20," Cucumbers,gherkins, prepared or preserved by vinegar",4735.125,0.23825100000000002,"China -  Cucumbers,gherkins, prepared or preserved by vinegar"
+315,674,San Marino,112,Belarus,16," Sausages, similar products of meat, meat offal & bloo",4622.516,0.428685,"Belarus -  Sausages, similar products of meat, meat offal & bloo"
+316,674,San Marino,056,Belgium,21," Coffee extracts, essences, concentrates, preparations",4619.134,0.58628,"Belgium -  Coffee extracts, essences, concentrates, preparations"
+317,674,San Marino,398,Kazakhstan,34," Soaps, for toilet use, solid",4610.53,0.577279,"Kazakhstan -  Soaps, for toilet use, solid"
+318,674,San Marino,792,Türkiye,35, Casein,4605.0,0.52,Türkiye -  Casein
+319,674,San Marino,120,Cameroon,84, Nuclear reactors,4473.073,0.285855,Cameroon -  Nuclear reactors
+320,674,San Marino,196,Cyprus,33, Essential oils of bergamot,4395.632,0.22,Cyprus -  Essential oils of bergamot
+321,674,San Marino,398,Kazakhstan,87, Pedestrian controlled tractors,4357.53,0.113155,Kazakhstan -  Pedestrian controlled tractors
+322,674,San Marino,818,Egypt,21," Coffee extracts, essences, concentrates, preparations",4346.688,1.222317,"Egypt -  Coffee extracts, essences, concentrates, preparations"
+323,674,San Marino,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",4331.599,0.041263,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+324,674,San Marino,144,Sri Lanka,34," Soaps, for toilet use, solid",4222.349,2.5221709999999997,"Sri Lanka -  Soaps, for toilet use, solid"
+325,674,San Marino,840,United States of America,94," Seats, aircraft",4198.821,0.644414,"United States of America -  Seats, aircraft"
+326,674,San Marino,348,Hungary,87, Pedestrian controlled tractors,4125.034,1.02606,Hungary -  Pedestrian controlled tractors
+327,674,San Marino,642,Romania,95," Rideable wheeled toys, dolls carriages",4017.384,0.17274799999999998,"Romania -  Rideable wheeled toys, dolls carriages"
+328,674,San Marino,246,Finland,94," Seats, aircraft",3960.184,0.1,"Finland -  Seats, aircraft"
+329,674,San Marino,840,United States of America,18," Cocoa beans, whole or broken, raw or roasted",3925.952,0.375805,"United States of America -  Cocoa beans, whole or broken, raw or roasted"
+330,674,San Marino,616,Poland,73, Sheet piling of iron or steel,3886.175,0.101941,Poland -  Sheet piling of iron or steel
+331,674,San Marino,410,"Korea, Republic of",43," Raw mink furskins, whole",3882.312,0.004885,"Korea, Republic of -  Raw mink furskins, whole"
+332,674,San Marino,450,Madagascar,38, Artificial graphite,3848.062,1.23997,Madagascar -  Artificial graphite
+333,674,San Marino,203,Czechia,87, Pedestrian controlled tractors,3796.729,0.06401000000000001,Czechia -  Pedestrian controlled tractors
+334,674,San Marino,360,Indonesia,38, Artificial graphite,3684.931,0.379613,Indonesia -  Artificial graphite
+335,674,San Marino,724,Spain,18," Cocoa beans, whole or broken, raw or roasted",3672.325,0.598,"Spain -  Cocoa beans, whole or broken, raw or roasted"
+336,674,San Marino,414,Kuwait,34," Soaps, for toilet use, solid",3563.385,0.24938,"Kuwait -  Soaps, for toilet use, solid"
+337,674,San Marino,440,Lithuania,39, Polyethylene - specific gravity <0.94 in primary form,3541.256,0.028216,Lithuania -  Polyethylene - specific gravity <0.94 in primary form
+338,674,San Marino,040,Austria,09," Coffee, not roasted, not decaffeinated",3540.454,0.274286,"Austria -  Coffee, not roasted, not decaffeinated"
+339,674,San Marino,826,United Kingdom,90," Optical fibres, except for telecommunications",3504.969,0.018926,"United Kingdom -  Optical fibres, except for telecommunications"
+340,674,San Marino,112,Belarus,34," Soaps, for toilet use, solid",3490.304,0.248835,"Belarus -  Soaps, for toilet use, solid"
+341,674,San Marino,586,Pakistan,39, Polyethylene - specific gravity <0.94 in primary form,3459.203,2.131373,Pakistan -  Polyethylene - specific gravity <0.94 in primary form
+342,674,San Marino,504,Morocco,85, Electric motors of an output < 37.5 watts,3396.242,0.369782,Morocco -  Electric motors of an output < 37.5 watts
+343,674,San Marino,268,Georgia,85, Electric motors of an output < 37.5 watts,3355.485,0.413366,Georgia -  Electric motors of an output < 37.5 watts
+344,674,San Marino,724,Spain,84, Nuclear reactors,3299.782,0.2,Spain -  Nuclear reactors
+345,674,San Marino,144,Sri Lanka,59, Gum or amylaceous covered textiles for book covers et,3280.434,0.277167,Sri Lanka -  Gum or amylaceous covered textiles for book covers et
+346,674,San Marino,156,China,64," Waterproof footwear (Wellingtons etc), metal toe cap",3276.376,0.018384,"China -  Waterproof footwear (Wellingtons etc), metal toe cap"
+347,674,San Marino,804,Ukraine,83, Padlocks of base metal,3255.907,0.068794,Ukraine -  Padlocks of base metal
+348,674,San Marino,356,India,94," Seats, aircraft",3154.184,1.194337,"India -  Seats, aircraft"
+349,674,San Marino,804,Ukraine,76," Aluminium unwrought, not alloyed",3148.529,0.5863590000000001,"Ukraine -  Aluminium unwrought, not alloyed"
+350,674,San Marino,826,United Kingdom,42," Saddlery and harness, of any material",3117.564,0.137329,"United Kingdom -  Saddlery and harness, of any material"
+351,674,San Marino,152,Chile,40," Natural rubber latex, including prevulcanised",3092.864,0.039985999999999994,"Chile -  Natural rubber latex, including prevulcanised"
+352,674,San Marino,756,"Switzerland, Liechtenstein",95," Rideable wheeled toys, dolls carriages",3092.672,0.130222,"Switzerland, Liechtenstein -  Rideable wheeled toys, dolls carriages"
+353,674,San Marino,616,Poland,09," Coffee, not roasted, not decaffeinated",3069.888,0.22234800000000002,"Poland -  Coffee, not roasted, not decaffeinated"
+354,674,San Marino,056,Belgium,73, Sheet piling of iron or steel,3053.233,0.042866999999999995,Belgium -  Sheet piling of iron or steel
+355,674,San Marino,818,Egypt,20," Cucumbers,gherkins, prepared or preserved by vinegar",3046.572,1.620143,"Egypt -  Cucumbers,gherkins, prepared or preserved by vinegar"
+356,674,San Marino,756,"Switzerland, Liechtenstein",87, Pedestrian controlled tractors,2997.903,0.027837,"Switzerland, Liechtenstein -  Pedestrian controlled tractors"
+357,674,San Marino,792,Türkiye,29, Saturated acyclic hydrocarbons,2920.0,1.15,Türkiye -  Saturated acyclic hydrocarbons
+358,674,San Marino,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,2916.269,0.7436240000000001,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+359,674,San Marino,376,Israel,39, Polyethylene - specific gravity <0.94 in primary form,2889.966,0.27097699999999997,Israel -  Polyethylene - specific gravity <0.94 in primary form
+360,674,San Marino,348,Hungary,85, Electric motors of an output < 37.5 watts,2869.417,0.018260000000000002,Hungary -  Electric motors of an output < 37.5 watts
+361,674,San Marino,616,Poland,58," Woven pile fabric of wool or fine animal hair, w >30c",2859.077,0.042665999999999996,"Poland -  Woven pile fabric of wool or fine animal hair, w >30c"
+362,674,San Marino,348,Hungary,39, Polyethylene - specific gravity <0.94 in primary form,2847.523,0.036791,Hungary -  Polyethylene - specific gravity <0.94 in primary form
+363,674,San Marino,040,Austria,38, Artificial graphite,2822.6,0.8055800000000001,Austria -  Artificial graphite
+364,674,San Marino,724,Spain,95," Rideable wheeled toys, dolls carriages",2739.519,0.5568500000000001,"Spain -  Rideable wheeled toys, dolls carriages"
+365,674,San Marino,356,India,84, Nuclear reactors,2733.335,0.16738,India -  Nuclear reactors
+366,674,San Marino,100,Bulgaria,34," Soaps, for toilet use, solid",2733.062,1.775989,"Bulgaria -  Soaps, for toilet use, solid"
+367,674,San Marino,840,United States of America,21," Coffee extracts, essences, concentrates, preparations",2695.102,0.245294,"United States of America -  Coffee extracts, essences, concentrates, preparations"
+368,674,San Marino,364,Iran (Islamic Republic of),30," Glands and other organs, dried, for therapeutic uses",2671.576,0.021018000000000002,"Iran (Islamic Republic of) -  Glands and other organs, dried, for therapeutic uses"
+369,674,San Marino,348,Hungary,74, Copper mattes,2645.592,0.089436,Hungary -  Copper mattes
+370,674,San Marino,258,French Polynesia,38, Artificial graphite,2634.922,0.552,French Polynesia -  Artificial graphite
+371,674,San Marino,688,Serbia,94," Seats, aircraft",2602.131,0.313387,"Serbia -  Seats, aircraft"
+372,674,San Marino,504,Morocco,33, Essential oils of bergamot,2567.436,0.133526,Morocco -  Essential oils of bergamot
+373,674,San Marino,376,Israel,95," Rideable wheeled toys, dolls carriages",2561.674,0.40965300000000004,"Israel -  Rideable wheeled toys, dolls carriages"
+374,674,San Marino,604,Peru,69," Bricks, blocks and ceramic goods of siliceous earths",2537.63,0.13196000000000002,"Peru -  Bricks, blocks and ceramic goods of siliceous earths"
+375,674,San Marino,860,Uzbekistan,32, Quebracho tanning extract,2491.176,3.547857,Uzbekistan -  Quebracho tanning extract
+376,674,San Marino,040,Austria,33, Essential oils of bergamot,2485.627,0.01843,Austria -  Essential oils of bergamot
+377,674,San Marino,480,Mauritius,34," Soaps, for toilet use, solid",2360.744,0.921,"Mauritius -  Soaps, for toilet use, solid"
+378,674,San Marino,818,Egypt,33, Essential oils of bergamot,2340.913,0.6578099999999999,Egypt -  Essential oils of bergamot
+379,674,San Marino,120,Cameroon,85, Electric motors of an output < 37.5 watts,2340.427,0.21065799999999998,Cameroon -  Electric motors of an output < 37.5 watts
+380,674,San Marino,040,Austria,82, Spades and shovels,2338.032,0.22938,Austria -  Spades and shovels
+381,674,San Marino,826,United Kingdom,48, Newsprint,2334.023,0.073849,United Kingdom -  Newsprint
+382,674,San Marino,804,Ukraine,21," Coffee extracts, essences, concentrates, preparations",2333.679,0.036241999999999996,"Ukraine -  Coffee extracts, essences, concentrates, preparations"
+383,674,San Marino,203,Czechia,95," Rideable wheeled toys, dolls carriages",2324.801,0.063004,"Czechia -  Rideable wheeled toys, dolls carriages"
+384,674,San Marino,250,France,73, Sheet piling of iron or steel,2305.312,0.45088799999999996,France -  Sheet piling of iron or steel
+385,674,San Marino,784,United Arab Emirates,64," Waterproof footwear (Wellingtons etc), metal toe cap",2287.116,0.015901,"United Arab Emirates -  Waterproof footwear (Wellingtons etc), metal toe cap"
+386,674,San Marino,410,"Korea, Republic of",20," Cucumbers,gherkins, prepared or preserved by vinegar",2280.189,0.066351,"Korea, Republic of -  Cucumbers,gherkins, prepared or preserved by vinegar"
+387,674,San Marino,056,Belgium,94," Seats, aircraft",2277.545,0.049058,"Belgium -  Seats, aircraft"
+388,674,San Marino,170,Colombia,73, Sheet piling of iron or steel,2274.22,0.039229999999999994,Colombia -  Sheet piling of iron or steel
+389,674,San Marino,643,Russian Federation,68," Stone setts, curbstones, flagstones (except slate)",2237.683,0.04358,"Russian Federation -  Stone setts, curbstones, flagstones (except slate)"
+390,674,San Marino,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",2226.159,0.042254,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+391,674,San Marino,616,Poland,74, Copper mattes,2191.123,0.009852,Poland -  Copper mattes
+392,674,San Marino,076,Brazil,29, Saturated acyclic hydrocarbons,2132.0,0.875,Brazil -  Saturated acyclic hydrocarbons
+393,674,San Marino,414,Kuwait,18," Cocoa beans, whole or broken, raw or roasted",2129.413,0.16084299999999999,"Kuwait -  Cocoa beans, whole or broken, raw or roasted"
+394,674,San Marino,250,France,43," Raw mink furskins, whole",2113.736,0.008519,"France -  Raw mink furskins, whole"
+395,674,San Marino,616,Poland,87, Pedestrian controlled tractors,2050.434,0.013673,Poland -  Pedestrian controlled tractors
+396,674,San Marino,703,Slovakia,85, Electric motors of an output < 37.5 watts,1991.872,0.042778,Slovakia -  Electric motors of an output < 37.5 watts
+397,674,San Marino,112,Belarus,85, Electric motors of an output < 37.5 watts,1985.486,0.07188,Belarus -  Electric motors of an output < 37.5 watts
+398,674,San Marino,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",1980.468,0.009218,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+399,674,San Marino,688,Serbia,33, Essential oils of bergamot,1973.338,0.313956,Serbia -  Essential oils of bergamot
+400,674,San Marino,840,United States of America,96," Worked ivory, articles of ivory",1971.379,0.39873000000000003,"United States of America -  Worked ivory, articles of ivory"
+401,674,San Marino,804,Ukraine,95," Rideable wheeled toys, dolls carriages",1962.822,0.284166,"Ukraine -  Rideable wheeled toys, dolls carriages"
+402,674,San Marino,100,Bulgaria,33, Essential oils of bergamot,1956.228,0.176498,Bulgaria -  Essential oils of bergamot
+403,674,San Marino,702,Singapore,73, Sheet piling of iron or steel,1953.705,0.012116,Singapore -  Sheet piling of iron or steel
+404,674,San Marino,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",1931.164,0.013680999999999999,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+405,674,San Marino,156,China,32, Quebracho tanning extract,1897.055,0.115313,China -  Quebracho tanning extract
+406,674,San Marino,724,Spain,63, Electric blankets of textile material,1884.409,0.02,Spain -  Electric blankets of textile material
+407,674,San Marino,196,Cyprus,65," Hat-forms, etc of felt, not shaped, no formed brim",1878.126,0.04,"Cyprus -  Hat-forms, etc of felt, not shaped, no formed brim"
+408,674,San Marino,276,Germany,22, Mineral and aerated waters not sweetened or flavoured,1864.59,0.43063799999999997,Germany -  Mineral and aerated waters not sweetened or flavoured
+409,674,San Marino,352,Iceland,83, Padlocks of base metal,1824.714,0.019129,Iceland -  Padlocks of base metal
+410,674,San Marino,756,"Switzerland, Liechtenstein",82, Spades and shovels,1812.439,0.059401,"Switzerland, Liechtenstein -  Spades and shovels"
+411,674,San Marino,196,Cyprus,42," Saddlery and harness, of any material",1777.612,0.026,"Cyprus -  Saddlery and harness, of any material"
+412,674,San Marino,250,France,54, Sewing thread of synthetic filaments,1773.453,0.133193,France -  Sewing thread of synthetic filaments
+413,674,San Marino,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",1745.586,0.022634,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+414,674,San Marino,352,Iceland,94," Seats, aircraft",1737.913,0.14753899999999998,"Iceland -  Seats, aircraft"
+415,674,San Marino,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",1730.178,0.037543,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+416,674,San Marino,499,Montenegro,64," Waterproof footwear (Wellingtons etc), metal toe cap",1723.637,0.004293,"Montenegro -  Waterproof footwear (Wellingtons etc), metal toe cap"
+417,674,San Marino,784,United Arab Emirates,33, Essential oils of bergamot,1719.761,0.154355,United Arab Emirates -  Essential oils of bergamot
+418,674,San Marino,360,Indonesia,84, Nuclear reactors,1706.889,0.012185,Indonesia -  Nuclear reactors
+419,674,San Marino,031,Azerbaijan,33, Essential oils of bergamot,1701.923,0.165472,Azerbaijan -  Essential oils of bergamot
+420,674,San Marino,826,United Kingdom,93," Military weapons, other than hand guns, swords, etc",1698.54,0.167178,"United Kingdom -  Military weapons, other than hand guns, swords, etc"
+421,674,San Marino,056,Belgium,95," Rideable wheeled toys, dolls carriages",1675.438,0.07674500000000001,"Belgium -  Rideable wheeled toys, dolls carriages"
+422,674,San Marino,152,Chile,87, Pedestrian controlled tractors,1657.865,0.034503,Chile -  Pedestrian controlled tractors
+423,674,San Marino,414,Kuwait,40," Natural rubber latex, including prevulcanised",1646.427,0.0435,"Kuwait -  Natural rubber latex, including prevulcanised"
+424,674,San Marino,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",1638.228,0.039799,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+425,674,San Marino,376,Israel,40," Natural rubber latex, including prevulcanised",1606.875,0.385673,"Israel -  Natural rubber latex, including prevulcanised"
+426,674,San Marino,398,Kazakhstan,17," Raw sugar, cane",1592.13,0.17489500000000002,"Kazakhstan -  Raw sugar, cane"
+427,674,San Marino,056,Belgium,59, Gum or amylaceous covered textiles for book covers et,1590.278,0.132744,Belgium -  Gum or amylaceous covered textiles for book covers et
+428,674,San Marino,372,Ireland,87, Pedestrian controlled tractors,1558.36,0.013888,Ireland -  Pedestrian controlled tractors
+429,674,San Marino,818,Egypt,84, Nuclear reactors,1553.466,0.10317799999999999,Egypt -  Nuclear reactors
+430,674,San Marino,756,"Switzerland, Liechtenstein",21," Coffee extracts, essences, concentrates, preparations",1549.734,0.121034,"Switzerland, Liechtenstein -  Coffee extracts, essences, concentrates, preparations"
+431,674,San Marino,504,Morocco,84, Nuclear reactors,1480.887,0.048187,Morocco -  Nuclear reactors
+432,674,San Marino,688,Serbia,39, Polyethylene - specific gravity <0.94 in primary form,1477.335,0.198192,Serbia -  Polyethylene - specific gravity <0.94 in primary form
+433,674,San Marino,616,Poland,95," Rideable wheeled toys, dolls carriages",1460.464,0.11033899999999999,"Poland -  Rideable wheeled toys, dolls carriages"
+434,674,San Marino,498,"Moldova, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,1458.287,0.07213299999999999,"Moldova, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+435,674,San Marino,376,Israel,94," Seats, aircraft",1448.549,0.308782,"Israel -  Seats, aircraft"
+436,674,San Marino,051,Armenia,21," Coffee extracts, essences, concentrates, preparations",1436.051,0.042163,"Armenia -  Coffee extracts, essences, concentrates, preparations"
+437,674,San Marino,578,Norway,30," Glands and other organs, dried, for therapeutic uses",1435.232,0.050982999999999994,"Norway -  Glands and other organs, dried, for therapeutic uses"
+438,674,San Marino,156,China,34," Soaps, for toilet use, solid",1428.865,0.036848,"China -  Soaps, for toilet use, solid"
+439,674,San Marino,268,Georgia,84, Nuclear reactors,1417.64,0.09778700000000001,Georgia -  Nuclear reactors
+440,674,San Marino,470,Malta,30," Glands and other organs, dried, for therapeutic uses",1410.495,0.1,"Malta -  Glands and other organs, dried, for therapeutic uses"
+441,674,San Marino,276,Germany,70," Glass cullet, waste or scrap, glass in the mass",1406.956,0.053283000000000004,"Germany -  Glass cullet, waste or scrap, glass in the mass"
+442,674,San Marino,376,Israel,85, Electric motors of an output < 37.5 watts,1389.751,0.12023099999999999,Israel -  Electric motors of an output < 37.5 watts
+443,674,San Marino,826,United Kingdom,68," Stone setts, curbstones, flagstones (except slate)",1386.227,0.039494999999999995,"United Kingdom -  Stone setts, curbstones, flagstones (except slate)"
+444,674,San Marino,604,Peru,70," Glass cullet, waste or scrap, glass in the mass",1385.57,0.07204,"Peru -  Glass cullet, waste or scrap, glass in the mass"
+445,674,San Marino,554,New Zealand,76," Aluminium unwrought, not alloyed",1373.173,0.08419,"New Zealand -  Aluminium unwrought, not alloyed"
+446,674,San Marino,440,Lithuania,73, Sheet piling of iron or steel,1360.566,0.017728999999999998,Lithuania -  Sheet piling of iron or steel
+447,674,San Marino,804,Ukraine,94," Seats, aircraft",1356.079,0.027198,"Ukraine -  Seats, aircraft"
+448,674,San Marino,586,Pakistan,84, Nuclear reactors,1345.343,0.067658,Pakistan -  Nuclear reactors
+449,674,San Marino,752,Sweden,73, Sheet piling of iron or steel,1333.645,0.047837000000000005,Sweden -  Sheet piling of iron or steel
+450,674,San Marino,586,Pakistan,29, Saturated acyclic hydrocarbons,1314.391,0.256423,Pakistan -  Saturated acyclic hydrocarbons
+451,674,San Marino,120,Cameroon,34," Soaps, for toilet use, solid",1312.997,1.154604,"Cameroon -  Soaps, for toilet use, solid"
+452,674,San Marino,040,Austria,42," Saddlery and harness, of any material",1312.908,0.006275,"Austria -  Saddlery and harness, of any material"
+453,674,San Marino,048,Bahrain,08," Coconuts, fresh or dried",1312.731,0.367762,"Bahrain -  Coconuts, fresh or dried"
+454,674,San Marino,112,Belarus,73, Sheet piling of iron or steel,1310.097,0.15340600000000001,Belarus -  Sheet piling of iron or steel
+455,674,San Marino,203,Czechia,85, Electric motors of an output < 37.5 watts,1309.803,0.324201,Czechia -  Electric motors of an output < 37.5 watts
+456,674,San Marino,276,Germany,23," Flour or meal, pellet of meat or offal for animal fee",1305.649,0.10219,"Germany -  Flour or meal, pellet of meat or offal for animal fee"
+457,674,San Marino,196,Cyprus,62," Mens, boys overcoats of wool or hair, not knit",1298.852,0.026,"Cyprus -  Mens, boys overcoats of wool or hair, not knit"
+458,674,San Marino,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",1289.261,0.001889,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+459,674,San Marino,276,Germany,30," Glands and other organs, dried, for therapeutic uses",1286.74,0.014967000000000001,"Germany -  Glands and other organs, dried, for therapeutic uses"
+460,674,San Marino,682,Saudi Arabia,83, Padlocks of base metal,1273.488,0.426839,Saudi Arabia -  Padlocks of base metal
+461,674,San Marino,203,Czechia,72," Pig iron, non-alloy, <0.5% phosphorus",1271.79,2.150709,"Czechia -  Pig iron, non-alloy, <0.5% phosphorus"
+462,674,San Marino,250,France,09," Coffee, not roasted, not decaffeinated",1208.779,0.104532,"France -  Coffee, not roasted, not decaffeinated"
+463,674,San Marino,616,Poland,76," Aluminium unwrought, not alloyed",1205.598,0.186951,"Poland -  Aluminium unwrought, not alloyed"
+464,674,San Marino,756,"Switzerland, Liechtenstein",83, Padlocks of base metal,1199.615,0.113896,"Switzerland, Liechtenstein -  Padlocks of base metal"
+465,674,San Marino,703,Slovakia,95," Rideable wheeled toys, dolls carriages",1161.283,0.006,"Slovakia -  Rideable wheeled toys, dolls carriages"
+466,674,San Marino,643,Russian Federation,74, Copper mattes,1161.153,0.018986,Russian Federation -  Copper mattes
+467,674,San Marino,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",1155.221,0.001751,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+468,674,San Marino,616,Poland,30," Glands and other organs, dried, for therapeutic uses",1151.915,0.02062,"Poland -  Glands and other organs, dried, for therapeutic uses"
+469,674,San Marino,156,China,90," Optical fibres, except for telecommunications",1146.378,0.050508000000000004,"China -  Optical fibres, except for telecommunications"
+470,674,San Marino,480,Mauritius,63, Electric blankets of textile material,1146.374,0.099,Mauritius -  Electric blankets of textile material
+471,674,San Marino,840,United States of America,42," Saddlery and harness, of any material",1128.328,0.014794999999999999,"United States of America -  Saddlery and harness, of any material"
+472,674,San Marino,340,Honduras,84, Nuclear reactors,1109.782,0.025417000000000002,Honduras -  Nuclear reactors
+473,674,San Marino,784,United Arab Emirates,48, Newsprint,1109.505,0.558442,United Arab Emirates -  Newsprint
+474,674,San Marino,499,Montenegro,33, Essential oils of bergamot,1098.981,0.18737299999999998,Montenegro -  Essential oils of bergamot
+475,674,San Marino,616,Poland,64," Waterproof footwear (Wellingtons etc), metal toe cap",1073.029,0.02125,"Poland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+476,674,San Marino,705,Slovenia,96," Worked ivory, articles of ivory",1059.479,0.090485,"Slovenia -  Worked ivory, articles of ivory"
+477,674,San Marino,040,Austria,54, Sewing thread of synthetic filaments,1051.793,0.079018,Austria -  Sewing thread of synthetic filaments
+478,674,San Marino,410,"Korea, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,1051.239,0.272885,"Korea, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+479,674,San Marino,616,Poland,83, Padlocks of base metal,1045.061,0.020387,Poland -  Padlocks of base metal
+480,674,San Marino,682,Saudi Arabia,73, Sheet piling of iron or steel,1015.017,0.7239479999999999,Saudi Arabia -  Sheet piling of iron or steel
+481,674,San Marino,604,Peru,64," Waterproof footwear (Wellingtons etc), metal toe cap",1002.44,0.0017800000000000001,"Peru -  Waterproof footwear (Wellingtons etc), metal toe cap"
+482,674,San Marino,616,Poland,42," Saddlery and harness, of any material",989.754,0.022959,"Poland -  Saddlery and harness, of any material"
+483,674,San Marino,804,Ukraine,70," Glass cullet, waste or scrap, glass in the mass",989.49,0.01177,"Ukraine -  Glass cullet, waste or scrap, glass in the mass"
+484,674,San Marino,643,Russian Federation,63, Electric blankets of textile material,984.353,0.041422,Russian Federation -  Electric blankets of textile material
+485,674,San Marino,276,Germany,71," Pearls natural, not permanently mounted or set",982.875,0.002554,"Germany -  Pearls natural, not permanently mounted or set"
+486,674,San Marino,208,Denmark,82, Spades and shovels,975.165,0.003943,Denmark -  Spades and shovels
+487,674,San Marino,348,Hungary,33, Essential oils of bergamot,973.7,0.129075,Hungary -  Essential oils of bergamot
+488,674,San Marino,616,Poland,60," ""Long pile"" knit or crochet textile fabric",965.32,0.027745000000000002,"Poland -  ""Long pile"" knit or crochet textile fabric"
+489,674,San Marino,688,Serbia,64," Waterproof footwear (Wellingtons etc), metal toe cap",964.141,0.002911,"Serbia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+490,674,San Marino,682,Saudi Arabia,90," Optical fibres, except for telecommunications",953.197,0.113077,"Saudi Arabia -  Optical fibres, except for telecommunications"
+491,674,San Marino,076,Brazil,25," Salt (sodium chloride) including solution, salt water",944.0,0.5,"Brazil -  Salt (sodium chloride) including solution, salt water"
+492,674,San Marino,056,Belgium,85, Electric motors of an output < 37.5 watts,938.463,0.019107,Belgium -  Electric motors of an output < 37.5 watts
+493,674,San Marino,524,Nepal,84, Nuclear reactors,932.091,0.059639000000000005,Nepal -  Nuclear reactors
+494,674,San Marino,344,"China, Hong Kong SAR",70," Glass cullet, waste or scrap, glass in the mass",907.767,0.024064,"China, Hong Kong SAR -  Glass cullet, waste or scrap, glass in the mass"
+495,674,San Marino,792,Türkiye,62," Mens, boys overcoats of wool or hair, not knit",907.0,0.005,"Türkiye -  Mens, boys overcoats of wool or hair, not knit"
+496,674,San Marino,804,Ukraine,42," Saddlery and harness, of any material",903.109,0.027872,"Ukraine -  Saddlery and harness, of any material"
+497,674,San Marino,100,Bulgaria,95," Rideable wheeled toys, dolls carriages",882.726,0.038882,"Bulgaria -  Rideable wheeled toys, dolls carriages"
+498,674,San Marino,372,Ireland,44, Fuel wood,880.371,0.185189,Ireland -  Fuel wood
+499,674,San Marino,643,Russian Federation,82, Spades and shovels,877.414,0.004094,Russian Federation -  Spades and shovels
+500,674,San Marino,528,Netherlands (Kingdom of the),33, Essential oils of bergamot,866.023,0.129823,Netherlands (Kingdom of the) -  Essential oils of bergamot
+501,674,San Marino,818,Egypt,19," Infant foods of cereals, flour, starch or milk, retai",856.303,0.357417,"Egypt -  Infant foods of cereals, flour, starch or milk, retai"
+502,674,San Marino,410,"Korea, Republic of",33, Essential oils of bergamot,848.785,0.053492,"Korea, Republic of -  Essential oils of bergamot"
+503,674,San Marino,578,Norway,85, Electric motors of an output < 37.5 watts,832.918,0.048317,Norway -  Electric motors of an output < 37.5 watts
+504,674,San Marino,634,Qatar,30," Glands and other organs, dried, for therapeutic uses",831.967,0.07781,"Qatar -  Glands and other organs, dried, for therapeutic uses"
+505,674,San Marino,344,"China, Hong Kong SAR",62," Mens, boys overcoats of wool or hair, not knit",826.504,0.002539,"China, Hong Kong SAR -  Mens, boys overcoats of wool or hair, not knit"
+506,674,San Marino,586,Pakistan,34," Soaps, for toilet use, solid",798.346,0.39800599999999997,"Pakistan -  Soaps, for toilet use, solid"
+507,674,San Marino,498,"Moldova, Republic of",84, Nuclear reactors,794.116,0.078721,"Moldova, Republic of -  Nuclear reactors"
+508,674,San Marino,191,Croatia,64," Waterproof footwear (Wellingtons etc), metal toe cap",790.299,0.031056,"Croatia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+509,674,San Marino,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",788.527,0.001746,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+510,674,San Marino,188,Costa Rica,85, Electric motors of an output < 37.5 watts,781.574,0.008069000000000002,Costa Rica -  Electric motors of an output < 37.5 watts
+511,674,San Marino,156,China,73, Sheet piling of iron or steel,778.029,0.046306,China -  Sheet piling of iron or steel
+512,674,San Marino,450,Madagascar,85, Electric motors of an output < 37.5 watts,776.937,0.019829999999999997,Madagascar -  Electric motors of an output < 37.5 watts
+513,674,San Marino,364,Iran (Islamic Republic of),44, Fuel wood,775.108,0.305816,Iran (Islamic Republic of) -  Fuel wood
+514,674,San Marino,702,Singapore,85, Electric motors of an output < 37.5 watts,761.305,0.026704000000000002,Singapore -  Electric motors of an output < 37.5 watts
+515,674,San Marino,100,Bulgaria,37, X-ray plates and films,760.681,0.045443,Bulgaria -  X-ray plates and films
+516,674,San Marino,250,France,44, Fuel wood,750.48,0.095541,France -  Fuel wood
+517,674,San Marino,188,Costa Rica,40," Natural rubber latex, including prevulcanised",749.772,0.031683,"Costa Rica -  Natural rubber latex, including prevulcanised"
+518,674,San Marino,156,China,76," Aluminium unwrought, not alloyed",736.157,0.027768,"China -  Aluminium unwrought, not alloyed"
+519,674,San Marino,120,Cameroon,90," Optical fibres, except for telecommunications",735.189,0.091624,"Cameroon -  Optical fibres, except for telecommunications"
+520,674,San Marino,826,United Kingdom,33, Essential oils of bergamot,708.456,0.029085999999999997,United Kingdom -  Essential oils of bergamot
+521,674,San Marino,156,China,33, Essential oils of bergamot,695.043,0.005557,China -  Essential oils of bergamot
+522,674,San Marino,360,Indonesia,34," Soaps, for toilet use, solid",694.069,0.45239100000000004,"Indonesia -  Soaps, for toilet use, solid"
+523,674,San Marino,384,Côte d'Ivoire,76," Aluminium unwrought, not alloyed",674.988,0.074,"Côte d'Ivoire -  Aluminium unwrought, not alloyed"
+524,674,San Marino,600,Paraguay,70," Glass cullet, waste or scrap, glass in the mass",662.866,0.215643,"Paraguay -  Glass cullet, waste or scrap, glass in the mass"
+525,674,San Marino,372,Ireland,95," Rideable wheeled toys, dolls carriages",647.492,0.047088,"Ireland -  Rideable wheeled toys, dolls carriages"
+526,674,San Marino,112,Belarus,07," Potatoes seed, fresh or chilled",643.548,1.956958,"Belarus -  Potatoes seed, fresh or chilled"
+527,674,San Marino,056,Belgium,82, Spades and shovels,642.457,0.013669,Belgium -  Spades and shovels
+528,674,San Marino,056,Belgium,87, Pedestrian controlled tractors,640.516,0.004542,Belgium -  Pedestrian controlled tractors
+529,674,San Marino,152,Chile,85, Electric motors of an output < 37.5 watts,625.051,0.01106,Chile -  Electric motors of an output < 37.5 watts
+530,674,San Marino,705,Slovenia,90," Optical fibres, except for telecommunications",614.013,0.0009459999999999999,"Slovenia -  Optical fibres, except for telecommunications"
+531,674,San Marino,616,Poland,38, Artificial graphite,610.081,0.105738,Poland -  Artificial graphite
+532,674,San Marino,498,"Moldova, Republic of",90," Optical fibres, except for telecommunications",609.195,0.015375,"Moldova, Republic of -  Optical fibres, except for telecommunications"
+533,674,San Marino,398,Kazakhstan,83, Padlocks of base metal,607.144,0.128723,Kazakhstan -  Padlocks of base metal
+534,674,San Marino,208,Denmark,85, Electric motors of an output < 37.5 watts,598.778,0.013326000000000001,Denmark -  Electric motors of an output < 37.5 watts
+535,674,San Marino,250,France,60," ""Long pile"" knit or crochet textile fabric",598.421,0.078029,"France -  ""Long pile"" knit or crochet textile fabric"
+536,674,San Marino,276,Germany,32, Quebracho tanning extract,594.374,0.031605,Germany -  Quebracho tanning extract
+537,674,San Marino,616,Poland,55," Filament tow of nylon, polyamides",593.706,0.014843,"Poland -  Filament tow of nylon, polyamides"
+538,674,San Marino,858,Uruguay,85, Electric motors of an output < 37.5 watts,586.3,0.01261,Uruguay -  Electric motors of an output < 37.5 watts
+539,674,San Marino,826,United Kingdom,83, Padlocks of base metal,585.673,0.000546,United Kingdom -  Padlocks of base metal
+540,674,San Marino,643,Russian Federation,59, Gum or amylaceous covered textiles for book covers et,581.126,0.001603,Russian Federation -  Gum or amylaceous covered textiles for book covers et
+541,674,San Marino,804,Ukraine,40," Natural rubber latex, including prevulcanised",578.875,0.007482,"Ukraine -  Natural rubber latex, including prevulcanised"
+542,674,San Marino,642,Romania,30," Glands and other organs, dried, for therapeutic uses",578.256,0.000179,"Romania -  Glands and other organs, dried, for therapeutic uses"
+543,674,San Marino,784,United Arab Emirates,35, Casein,577.34,0.245731,United Arab Emirates -  Casein
+544,674,San Marino,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",576.659,0.014317,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+545,674,San Marino,208,Denmark,90," Optical fibres, except for telecommunications",576.292,0.00807,"Denmark -  Optical fibres, except for telecommunications"
+546,674,San Marino,040,Austria,62," Mens, boys overcoats of wool or hair, not knit",573.339,0.001385,"Austria -  Mens, boys overcoats of wool or hair, not knit"
+547,674,San Marino,498,"Moldova, Republic of",73, Sheet piling of iron or steel,568.007,0.196684,"Moldova, Republic of -  Sheet piling of iron or steel"
+548,674,San Marino,643,Russian Federation,70," Glass cullet, waste or scrap, glass in the mass",561.399,0.026091999999999997,"Russian Federation -  Glass cullet, waste or scrap, glass in the mass"
+549,674,San Marino,372,Ireland,84, Nuclear reactors,550.038,0.0064589999999999995,Ireland -  Nuclear reactors
+550,674,San Marino,076,Brazil,90," Optical fibres, except for telecommunications",548.0,0.003,"Brazil -  Optical fibres, except for telecommunications"
+551,674,San Marino,600,Paraguay,40," Natural rubber latex, including prevulcanised",544.886,0.004024,"Paraguay -  Natural rubber latex, including prevulcanised"
+552,674,San Marino,554,New Zealand,40," Natural rubber latex, including prevulcanised",540.213,0.032957,"New Zealand -  Natural rubber latex, including prevulcanised"
+553,674,San Marino,040,Austria,90," Optical fibres, except for telecommunications",539.81,0.024283000000000002,"Austria -  Optical fibres, except for telecommunications"
+554,674,San Marino,528,Netherlands (Kingdom of the),76," Aluminium unwrought, not alloyed",539.508,0.00562,"Netherlands (Kingdom of the) -  Aluminium unwrought, not alloyed"
+555,674,San Marino,643,Russian Federation,18," Cocoa beans, whole or broken, raw or roasted",537.447,0.094471,"Russian Federation -  Cocoa beans, whole or broken, raw or roasted"
+556,674,San Marino,112,Belarus,64," Waterproof footwear (Wellingtons etc), metal toe cap",535.085,0.025122,"Belarus -  Waterproof footwear (Wellingtons etc), metal toe cap"
+557,674,San Marino,480,Mauritius,40," Natural rubber latex, including prevulcanised",523.389,0.045,"Mauritius -  Natural rubber latex, including prevulcanised"
+558,674,San Marino,032,Argentina,40," Natural rubber latex, including prevulcanised",523.087,0.00359,"Argentina -  Natural rubber latex, including prevulcanised"
+559,674,San Marino,858,Uruguay,84, Nuclear reactors,520.66,0.0112,Uruguay -  Nuclear reactors
+560,674,San Marino,156,China,83, Padlocks of base metal,520.025,0.079021,China -  Padlocks of base metal
+561,674,San Marino,196,Cyprus,39, Polyethylene - specific gravity <0.94 in primary form,517.889,0.002,Cyprus -  Polyethylene - specific gravity <0.94 in primary form
+562,674,San Marino,012,Algeria,73, Sheet piling of iron or steel,512.977,0.007909,Algeria -  Sheet piling of iron or steel
+563,674,San Marino,250,France,07," Potatoes seed, fresh or chilled",512.31,0.045641,"France -  Potatoes seed, fresh or chilled"
+564,674,San Marino,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,508.26,0.15628,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+565,674,San Marino,600,Paraguay,85, Electric motors of an output < 37.5 watts,503.574,0.027373,Paraguay -  Electric motors of an output < 37.5 watts
+566,674,San Marino,840,United States of America,71," Pearls natural, not permanently mounted or set",496.017,0.000104,"United States of America -  Pearls natural, not permanently mounted or set"
+567,674,San Marino,659,Saint Kitts and Nevis,67," Bird skins and feathers, articles therefrom",495.566,0.007062000000000001,"Saint Kitts and Nevis -  Bird skins and feathers, articles therefrom"
+568,674,San Marino,398,Kazakhstan,32, Quebracho tanning extract,488.698,0.00362,Kazakhstan -  Quebracho tanning extract
+569,674,San Marino,414,Kuwait,87, Pedestrian controlled tractors,481.89,0.018013,Kuwait -  Pedestrian controlled tractors
+570,674,San Marino,356,India,63, Electric blankets of textile material,479.364,0.6253479999999999,India -  Electric blankets of textile material
+571,674,San Marino,040,Austria,43," Raw mink furskins, whole",471.464,0.000865,"Austria -  Raw mink furskins, whole"
+572,674,San Marino,250,France,91," Wrist-watch, precious metal, battery, with hands",468.724,7e-06,"France -  Wrist-watch, precious metal, battery, with hands"
+573,674,San Marino,056,Belgium,54, Sewing thread of synthetic filaments,464.59,0.017817,Belgium -  Sewing thread of synthetic filaments
+574,674,San Marino,616,Poland,94," Seats, aircraft",464.508,0.005902,"Poland -  Seats, aircraft"
+575,674,San Marino,807,North Macedonia,84, Nuclear reactors,459.221,0.094935,North Macedonia -  Nuclear reactors
+576,674,San Marino,642,Romania,85, Electric motors of an output < 37.5 watts,455.31,0.015188,Romania -  Electric motors of an output < 37.5 watts
+577,674,San Marino,188,Costa Rica,84, Nuclear reactors,450.966,0.003698,Costa Rica -  Nuclear reactors
+578,674,San Marino,144,Sri Lanka,63, Electric blankets of textile material,446.204,0.029941,Sri Lanka -  Electric blankets of textile material
+579,674,San Marino,756,"Switzerland, Liechtenstein",76," Aluminium unwrought, not alloyed",435.457,0.027682,"Switzerland, Liechtenstein -  Aluminium unwrought, not alloyed"
+580,674,San Marino,792,Türkiye,63, Electric blankets of textile material,424.0,0.055,Türkiye -  Electric blankets of textile material
+581,674,San Marino,616,Poland,82, Spades and shovels,412.746,0.001966,Poland -  Spades and shovels
+582,674,San Marino,756,"Switzerland, Liechtenstein",42," Saddlery and harness, of any material",411.941,0.011013,"Switzerland, Liechtenstein -  Saddlery and harness, of any material"
+583,674,San Marino,784,United Arab Emirates,30," Glands and other organs, dried, for therapeutic uses",410.162,0.017505,"United Arab Emirates -  Glands and other organs, dried, for therapeutic uses"
+584,674,San Marino,104,Myanmar,32, Quebracho tanning extract,408.461,0.55,Myanmar -  Quebracho tanning extract
+585,674,San Marino,643,Russian Federation,49," Brochures, leaflets and similar, in single sheets",402.841,0.22186,"Russian Federation -  Brochures, leaflets and similar, in single sheets"
+586,674,San Marino,442,Luxembourg,21," Coffee extracts, essences, concentrates, preparations",402.807,0.032673,"Luxembourg -  Coffee extracts, essences, concentrates, preparations"
+587,674,San Marino,826,United Kingdom,69," Bricks, blocks and ceramic goods of siliceous earths",401.156,0.011663,"United Kingdom -  Bricks, blocks and ceramic goods of siliceous earths"
+588,674,San Marino,076,Brazil,63, Electric blankets of textile material,397.0,0.057,Brazil -  Electric blankets of textile material
+589,674,San Marino,203,Czechia,76," Aluminium unwrought, not alloyed",395.379,0.040555999999999995,"Czechia -  Aluminium unwrought, not alloyed"
+590,674,San Marino,398,Kazakhstan,40," Natural rubber latex, including prevulcanised",388.758,0.001643,"Kazakhstan -  Natural rubber latex, including prevulcanised"
+591,674,San Marino,048,Bahrain,83, Padlocks of base metal,388.567,0.075765,Bahrain -  Padlocks of base metal
+592,674,San Marino,724,Spain,33, Essential oils of bergamot,388.342,0.0346,Spain -  Essential oils of bergamot
+593,674,San Marino,100,Bulgaria,62," Mens, boys overcoats of wool or hair, not knit",379.991,0.001968,"Bulgaria -  Mens, boys overcoats of wool or hair, not knit"
+594,674,San Marino,398,Kazakhstan,73, Sheet piling of iron or steel,377.825,0.006695,Kazakhstan -  Sheet piling of iron or steel
+595,674,San Marino,840,United States of America,92," Upright pianos, including auto-players",377.497,0.07103100000000001,"United States of America -  Upright pianos, including auto-players"
+596,674,San Marino,100,Bulgaria,28, Chlorine,368.952,0.886772,Bulgaria -  Chlorine
+597,674,San Marino,756,"Switzerland, Liechtenstein",70," Glass cullet, waste or scrap, glass in the mass",364.603,0.012204000000000001,"Switzerland, Liechtenstein -  Glass cullet, waste or scrap, glass in the mass"
+598,674,San Marino,616,Poland,32, Quebracho tanning extract,361.648,0.038189,Poland -  Quebracho tanning extract
+599,674,San Marino,826,United Kingdom,30," Glands and other organs, dried, for therapeutic uses",356.961,0.00185,"United Kingdom -  Glands and other organs, dried, for therapeutic uses"
+600,674,San Marino,250,France,27," Anthracite, not agglomerated",356.061,0.277727,"France -  Anthracite, not agglomerated"
+601,674,San Marino,756,"Switzerland, Liechtenstein",33, Essential oils of bergamot,353.76,0.023988,"Switzerland, Liechtenstein -  Essential oils of bergamot"
+602,674,San Marino,208,Denmark,43," Raw mink furskins, whole",345.254,0.001153,"Denmark -  Raw mink furskins, whole"
+603,674,San Marino,659,Saint Kitts and Nevis,49," Brochures, leaflets and similar, in single sheets",344.953,0.007956000000000001,"Saint Kitts and Nevis -  Brochures, leaflets and similar, in single sheets"
+604,674,San Marino,250,France,90," Optical fibres, except for telecommunications",344.344,0.004706,"France -  Optical fibres, except for telecommunications"
+605,674,San Marino,504,Morocco,40," Natural rubber latex, including prevulcanised",338.675,0.05903,"Morocco -  Natural rubber latex, including prevulcanised"
+606,674,San Marino,792,Türkiye,83, Padlocks of base metal,335.0,0.011,Türkiye -  Padlocks of base metal
+607,674,San Marino,470,Malta,39, Polyethylene - specific gravity <0.94 in primary form,331.404,0.26511599999999996,Malta -  Polyethylene - specific gravity <0.94 in primary form
+608,674,San Marino,670,Saint Vincent and the Grenadines,21," Coffee extracts, essences, concentrates, preparations",329.828,0.06894,"Saint Vincent and the Grenadines -  Coffee extracts, essences, concentrates, preparations"
+609,674,San Marino,528,Netherlands (Kingdom of the),82, Spades and shovels,329.537,0.010297,Netherlands (Kingdom of the) -  Spades and shovels
+610,674,San Marino,218,Ecuador,76," Aluminium unwrought, not alloyed",325.54,0.050855,"Ecuador -  Aluminium unwrought, not alloyed"
+611,674,San Marino,100,Bulgaria,42," Saddlery and harness, of any material",316.264,0.00023300000000000003,"Bulgaria -  Saddlery and harness, of any material"
+612,674,San Marino,040,Austria,64," Waterproof footwear (Wellingtons etc), metal toe cap",315.932,0.001101,"Austria -  Waterproof footwear (Wellingtons etc), metal toe cap"
+613,674,San Marino,705,Slovenia,33, Essential oils of bergamot,307.437,0.047679,Slovenia -  Essential oils of bergamot
+614,674,San Marino,792,Türkiye,82, Spades and shovels,304.0,0.008,Türkiye -  Spades and shovels
+615,674,San Marino,528,Netherlands (Kingdom of the),87, Pedestrian controlled tractors,300.356,0.005203,Netherlands (Kingdom of the) -  Pedestrian controlled tractors
+616,674,San Marino,100,Bulgaria,73, Sheet piling of iron or steel,298.162,0.038165,Bulgaria -  Sheet piling of iron or steel
+617,674,San Marino,702,Singapore,40," Natural rubber latex, including prevulcanised",292.508,0.014417,"Singapore -  Natural rubber latex, including prevulcanised"
+618,674,San Marino,804,Ukraine,68," Stone setts, curbstones, flagstones (except slate)",289.052,0.012103999999999998,"Ukraine -  Stone setts, curbstones, flagstones (except slate)"
+619,674,San Marino,048,Bahrain,34," Soaps, for toilet use, solid",288.955,0.07694799999999999,"Bahrain -  Soaps, for toilet use, solid"
+620,674,San Marino,604,Peru,44, Fuel wood,288.32,0.03623,Peru -  Fuel wood
+621,674,San Marino,222,El Salvador,85, Electric motors of an output < 37.5 watts,287.991,0.001003,El Salvador -  Electric motors of an output < 37.5 watts
+622,674,San Marino,642,Romania,96," Worked ivory, articles of ivory",286.421,0.006667,"Romania -  Worked ivory, articles of ivory"
+623,674,San Marino,470,Malta,44, Fuel wood,285.537,0.008,Malta -  Fuel wood
+624,674,San Marino,250,France,32, Quebracho tanning extract,284.027,0.055517000000000004,France -  Quebracho tanning extract
+625,674,San Marino,410,"Korea, Republic of",19," Infant foods of cereals, flour, starch or milk, retai",283.75,0.01481,"Korea, Republic of -  Infant foods of cereals, flour, starch or milk, retai"
+626,674,San Marino,804,Ukraine,32, Quebracho tanning extract,283.184,0.02327,Ukraine -  Quebracho tanning extract
+627,674,San Marino,422,Lebanon,83, Padlocks of base metal,282.43,0.017557,Lebanon -  Padlocks of base metal
+628,674,San Marino,804,Ukraine,44, Fuel wood,279.426,1.883495,Ukraine -  Fuel wood
+629,674,San Marino,372,Ireland,94," Seats, aircraft",279.331,0.007275,"Ireland -  Seats, aircraft"
+630,674,San Marino,032,Argentina,85, Electric motors of an output < 37.5 watts,275.034,0.0031669999999999997,Argentina -  Electric motors of an output < 37.5 watts
+631,674,San Marino,688,Serbia,85, Electric motors of an output < 37.5 watts,272.63,0.006717,Serbia -  Electric motors of an output < 37.5 watts
+632,674,San Marino,705,Slovenia,82, Spades and shovels,271.378,0.0008139999999999999,Slovenia -  Spades and shovels
+633,674,San Marino,659,Saint Kitts and Nevis,87, Pedestrian controlled tractors,265.665,0.047916,Saint Kitts and Nevis -  Pedestrian controlled tractors
+634,674,San Marino,826,United Kingdom,64," Waterproof footwear (Wellingtons etc), metal toe cap",260.664,0.0027240000000000003,"United Kingdom -  Waterproof footwear (Wellingtons etc), metal toe cap"
+635,674,San Marino,120,Cameroon,95," Rideable wheeled toys, dolls carriages",259.95,0.019529,"Cameroon -  Rideable wheeled toys, dolls carriages"
+636,674,San Marino,705,Slovenia,85, Electric motors of an output < 37.5 watts,259.809,0.016170999999999998,Slovenia -  Electric motors of an output < 37.5 watts
+637,674,San Marino,031,Azerbaijan,85, Electric motors of an output < 37.5 watts,258.613,0.051316,Azerbaijan -  Electric motors of an output < 37.5 watts
+638,674,San Marino,756,"Switzerland, Liechtenstein",73, Sheet piling of iron or steel,257.203,0.0032389999999999997,"Switzerland, Liechtenstein -  Sheet piling of iron or steel"
+639,674,San Marino,422,Lebanon,18," Cocoa beans, whole or broken, raw or roasted",256.639,0.050385,"Lebanon -  Cocoa beans, whole or broken, raw or roasted"
+640,674,San Marino,203,Czechia,83, Padlocks of base metal,255.637,0.17852600000000002,Czechia -  Padlocks of base metal
+641,674,San Marino,048,Bahrain,38, Artificial graphite,249.395,0.04996,Bahrain -  Artificial graphite
+642,674,San Marino,398,Kazakhstan,57," Carpets of wool or fine animal hair, knotted",248.447,0.033145,"Kazakhstan -  Carpets of wool or fine animal hair, knotted"
+643,674,San Marino,112,Belarus,94," Seats, aircraft",245.201,0.059098,"Belarus -  Seats, aircraft"
+644,674,San Marino,578,Norway,76," Aluminium unwrought, not alloyed",243.773,0.018228,"Norway -  Aluminium unwrought, not alloyed"
+645,674,San Marino,440,Lithuania,96," Worked ivory, articles of ivory",243.499,0.000992,"Lithuania -  Worked ivory, articles of ivory"
+646,674,San Marino,040,Austria,70," Glass cullet, waste or scrap, glass in the mass",242.939,0.002938,"Austria -  Glass cullet, waste or scrap, glass in the mass"
+647,674,San Marino,076,Brazil,73, Sheet piling of iron or steel,241.0,0.017666,Brazil -  Sheet piling of iron or steel
+648,674,San Marino,372,Ireland,83, Padlocks of base metal,240.765,0.002134,Ireland -  Padlocks of base metal
+649,674,San Marino,032,Argentina,90," Optical fibres, except for telecommunications",237.578,0.000885,"Argentina -  Optical fibres, except for telecommunications"
+650,674,San Marino,440,Lithuania,40," Natural rubber latex, including prevulcanised",235.939,0.006039,"Lithuania -  Natural rubber latex, including prevulcanised"
+651,674,San Marino,052,Barbados,85, Electric motors of an output < 37.5 watts,235.351,0.011744,Barbados -  Electric motors of an output < 37.5 watts
+652,674,San Marino,152,Chile,73, Sheet piling of iron or steel,234.217,0.00724,Chile -  Sheet piling of iron or steel
+653,674,San Marino,203,Czechia,73, Sheet piling of iron or steel,214.824,0.031265,Czechia -  Sheet piling of iron or steel
+654,674,San Marino,643,Russian Federation,87, Pedestrian controlled tractors,210.857,0.000596,Russian Federation -  Pedestrian controlled tractors
+655,674,San Marino,756,"Switzerland, Liechtenstein",91," Wrist-watch, precious metal, battery, with hands",208.13,0.000136,"Switzerland, Liechtenstein -  Wrist-watch, precious metal, battery, with hands"
+656,674,San Marino,203,Czechia,40," Natural rubber latex, including prevulcanised",206.082,0.01388,"Czechia -  Natural rubber latex, including prevulcanised"
+657,674,San Marino,156,China,29, Saturated acyclic hydrocarbons,205.672,0.038393000000000004,China -  Saturated acyclic hydrocarbons
+658,674,San Marino,792,Türkiye,73, Sheet piling of iron or steel,204.0,0.02,Türkiye -  Sheet piling of iron or steel
+659,674,San Marino,480,Mauritius,85, Electric motors of an output < 37.5 watts,200.928,0.012442,Mauritius -  Electric motors of an output < 37.5 watts
+660,674,San Marino,398,Kazakhstan,39, Polyethylene - specific gravity <0.94 in primary form,200.336,0.007248999999999999,Kazakhstan -  Polyethylene - specific gravity <0.94 in primary form
+661,674,San Marino,682,Saudi Arabia,76," Aluminium unwrought, not alloyed",199.833,0.060491,"Saudi Arabia -  Aluminium unwrought, not alloyed"
+662,674,San Marino,643,Russian Federation,62," Mens, boys overcoats of wool or hair, not knit",199.365,0.001603,"Russian Federation -  Mens, boys overcoats of wool or hair, not knit"
+663,674,San Marino,056,Belgium,70," Glass cullet, waste or scrap, glass in the mass",198.518,0.009457,"Belgium -  Glass cullet, waste or scrap, glass in the mass"
+664,674,San Marino,414,Kuwait,30," Glands and other organs, dried, for therapeutic uses",196.457,0.0014579999999999999,"Kuwait -  Glands and other organs, dried, for therapeutic uses"
+665,674,San Marino,578,Norway,95," Rideable wheeled toys, dolls carriages",191.6,0.019188,"Norway -  Rideable wheeled toys, dolls carriages"
+666,674,San Marino,112,Belarus,90," Optical fibres, except for telecommunications",188.509,0.013695,"Belarus -  Optical fibres, except for telecommunications"
+667,674,San Marino,422,Lebanon,57," Carpets of wool or fine animal hair, knotted",184.828,0.015434,"Lebanon -  Carpets of wool or fine animal hair, knotted"
+668,674,San Marino,470,Malta,49," Brochures, leaflets and similar, in single sheets",184.729,0.014,"Malta -  Brochures, leaflets and similar, in single sheets"
+669,674,San Marino,170,Colombia,32, Quebracho tanning extract,184.42,0.01408,Colombia -  Quebracho tanning extract
+670,674,San Marino,756,"Switzerland, Liechtenstein",48, Newsprint,184.009,0.005681,"Switzerland, Liechtenstein -  Newsprint"
+671,674,San Marino,028,Antigua and Barbuda,85, Electric motors of an output < 37.5 watts,182.758,0.036683,Antigua and Barbuda -  Electric motors of an output < 37.5 watts
+672,674,San Marino,792,Türkiye,25," Salt (sodium chloride) including solution, salt water",182.0,0.327,"Türkiye -  Salt (sodium chloride) including solution, salt water"
+673,674,San Marino,040,Austria,87, Pedestrian controlled tractors,181.263,0.00027100000000000003,Austria -  Pedestrian controlled tractors
+674,674,San Marino,048,Bahrain,63, Electric blankets of textile material,173.148,0.01439,Bahrain -  Electric blankets of textile material
+675,674,San Marino,442,Luxembourg,34," Soaps, for toilet use, solid",169.728,0.115062,"Luxembourg -  Soaps, for toilet use, solid"
+676,674,San Marino,442,Luxembourg,13, Lac,169.707,0.009762999999999999,Luxembourg -  Lac
+677,674,San Marino,792,Türkiye,48, Newsprint,168.0,0.057,Türkiye -  Newsprint
+678,674,San Marino,440,Lithuania,85, Electric motors of an output < 37.5 watts,165.147,9.5e-05,Lithuania -  Electric motors of an output < 37.5 watts
+679,674,San Marino,052,Barbados,39, Polyethylene - specific gravity <0.94 in primary form,159.315,0.020039,Barbados -  Polyethylene - specific gravity <0.94 in primary form
+680,674,San Marino,191,Croatia,39, Polyethylene - specific gravity <0.94 in primary form,158.944,0.00027600000000000004,Croatia -  Polyethylene - specific gravity <0.94 in primary form
+681,674,San Marino,422,Lebanon,48, Newsprint,158.88,0.06287,Lebanon -  Newsprint
+682,674,San Marino,372,Ireland,90," Optical fibres, except for telecommunications",158.372,0.005457,"Ireland -  Optical fibres, except for telecommunications"
+683,674,San Marino,496,Mongolia,70," Glass cullet, waste or scrap, glass in the mass",158.312,0.003684,"Mongolia -  Glass cullet, waste or scrap, glass in the mass"
+684,674,San Marino,440,Lithuania,68," Stone setts, curbstones, flagstones (except slate)",157.32,0.004073,"Lithuania -  Stone setts, curbstones, flagstones (except slate)"
+685,674,San Marino,056,Belgium,18," Cocoa beans, whole or broken, raw or roasted",153.35,0.034264,"Belgium -  Cocoa beans, whole or broken, raw or roasted"
+686,674,San Marino,498,"Moldova, Republic of",76," Aluminium unwrought, not alloyed",152.931,0.009503,"Moldova, Republic of -  Aluminium unwrought, not alloyed"
+687,674,San Marino,208,Denmark,42," Saddlery and harness, of any material",149.961,0.006417,"Denmark -  Saddlery and harness, of any material"
+688,674,San Marino,104,Myanmar,87, Pedestrian controlled tractors,148.738,0.00027,Myanmar -  Pedestrian controlled tractors
+689,674,San Marino,398,Kazakhstan,49," Brochures, leaflets and similar, in single sheets",148.699,0.030669000000000002,"Kazakhstan -  Brochures, leaflets and similar, in single sheets"
+690,674,San Marino,398,Kazakhstan,63, Electric blankets of textile material,143.975,0.003033,Kazakhstan -  Electric blankets of textile material
+691,674,San Marino,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,143.74,0.015,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+692,674,San Marino,348,Hungary,40," Natural rubber latex, including prevulcanised",142.821,0.003165,"Hungary -  Natural rubber latex, including prevulcanised"
+693,674,San Marino,818,Egypt,18," Cocoa beans, whole or broken, raw or roasted",142.133,0.04919,"Egypt -  Cocoa beans, whole or broken, raw or roasted"
+694,674,San Marino,120,Cameroon,44, Fuel wood,141.087,0.003592,Cameroon -  Fuel wood
+695,674,San Marino,703,Slovakia,34," Soaps, for toilet use, solid",138.738,0.005233,"Slovakia -  Soaps, for toilet use, solid"
+696,674,San Marino,756,"Switzerland, Liechtenstein",20," Cucumbers,gherkins, prepared or preserved by vinegar",138.713,0.009941,"Switzerland, Liechtenstein -  Cucumbers,gherkins, prepared or preserved by vinegar"
+697,674,San Marino,120,Cameroon,93," Military weapons, other than hand guns, swords, etc",138.215,0.036719999999999996,"Cameroon -  Military weapons, other than hand guns, swords, etc"
+698,674,San Marino,156,China,87, Pedestrian controlled tractors,138.17,0.006139,China -  Pedestrian controlled tractors
+699,674,San Marino,268,Georgia,30," Glands and other organs, dried, for therapeutic uses",138.122,0.007521,"Georgia -  Glands and other organs, dried, for therapeutic uses"
+700,674,San Marino,756,"Switzerland, Liechtenstein",32, Quebracho tanning extract,135.692,0.029446999999999997,"Switzerland, Liechtenstein -  Quebracho tanning extract"
+701,674,San Marino,360,Indonesia,85, Electric motors of an output < 37.5 watts,134.266,0.001093,Indonesia -  Electric motors of an output < 37.5 watts
+702,674,San Marino,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",131.544,0.0008449999999999999,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+703,674,San Marino,372,Ireland,64," Waterproof footwear (Wellingtons etc), metal toe cap",130.62,0.001158,"Ireland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+704,674,San Marino,643,Russian Federation,02," Bovine carcasses and half carcasses, fresh or chilled",129.914,0.0092,"Russian Federation -  Bovine carcasses and half carcasses, fresh or chilled"
+705,674,San Marino,352,Iceland,59, Gum or amylaceous covered textiles for book covers et,127.518,0.0029809999999999997,Iceland -  Gum or amylaceous covered textiles for book covers et
+706,674,San Marino,276,Germany,49," Brochures, leaflets and similar, in single sheets",126.013,0.00728,"Germany -  Brochures, leaflets and similar, in single sheets"
+707,674,San Marino,156,China,95," Rideable wheeled toys, dolls carriages",125.11,0.00942,"China -  Rideable wheeled toys, dolls carriages"
+708,674,San Marino,208,Denmark,33, Essential oils of bergamot,124.211,0.007921000000000001,Denmark -  Essential oils of bergamot
+709,674,San Marino,422,Lebanon,64," Waterproof footwear (Wellingtons etc), metal toe cap",123.337,0.001365,"Lebanon -  Waterproof footwear (Wellingtons etc), metal toe cap"
+710,674,San Marino,705,Slovenia,73, Sheet piling of iron or steel,123.065,0.0011,Slovenia -  Sheet piling of iron or steel
+711,674,San Marino,608,Philippines,84, Nuclear reactors,122.782,0.00029,Philippines -  Nuclear reactors
+712,674,San Marino,120,Cameroon,73, Sheet piling of iron or steel,121.105,0.005961999999999999,Cameroon -  Sheet piling of iron or steel
+713,674,San Marino,268,Georgia,90," Optical fibres, except for telecommunications",120.725,0.006178,"Georgia -  Optical fibres, except for telecommunications"
+714,674,San Marino,040,Austria,59, Gum or amylaceous covered textiles for book covers et,117.797,0.0014579999999999999,Austria -  Gum or amylaceous covered textiles for book covers et
+715,674,San Marino,056,Belgium,15," Lard, other pig fat and poultry fat, rendered",110.571,0.014945,"Belgium -  Lard, other pig fat and poultry fat, rendered"
+716,674,San Marino,068,Bolivia (Plurinational State of),18," Cocoa beans, whole or broken, raw or roasted",109.96,0.00836,"Bolivia (Plurinational State of) -  Cocoa beans, whole or broken, raw or roasted"
+717,674,San Marino,705,Slovenia,40," Natural rubber latex, including prevulcanised",107.713,0.0025830000000000002,"Slovenia -  Natural rubber latex, including prevulcanised"
+718,674,San Marino,792,Türkiye,28, Chlorine,101.0,0.2,Türkiye -  Chlorine
+719,674,San Marino,398,Kazakhstan,85, Electric motors of an output < 37.5 watts,100.202,0.001229,Kazakhstan -  Electric motors of an output < 37.5 watts
+720,674,San Marino,504,Morocco,90," Optical fibres, except for telecommunications",99.734,8.9e-05,"Morocco -  Optical fibres, except for telecommunications"
+721,674,San Marino,012,Algeria,85, Electric motors of an output < 37.5 watts,99.167,0.001511,Algeria -  Electric motors of an output < 37.5 watts
+722,674,San Marino,156,China,25," Salt (sodium chloride) including solution, salt water",98.162,0.045509999999999995,"China -  Salt (sodium chloride) including solution, salt water"
+723,674,San Marino,586,Pakistan,59, Gum or amylaceous covered textiles for book covers et,98.078,0.044156,Pakistan -  Gum or amylaceous covered textiles for book covers et
+724,674,San Marino,860,Uzbekistan,84, Nuclear reactors,96.904,0.00034300000000000004,Uzbekistan -  Nuclear reactors
+725,674,San Marino,268,Georgia,44, Fuel wood,95.802,0.007517,Georgia -  Fuel wood
+726,674,San Marino,056,Belgium,69," Bricks, blocks and ceramic goods of siliceous earths",95.053,0.001511,"Belgium -  Bricks, blocks and ceramic goods of siliceous earths"
+727,674,San Marino,524,Nepal,85, Electric motors of an output < 37.5 watts,94.983,0.006466,Nepal -  Electric motors of an output < 37.5 watts
+728,674,San Marino,120,Cameroon,39, Polyethylene - specific gravity <0.94 in primary form,92.213,0.0053490000000000005,Cameroon -  Polyethylene - specific gravity <0.94 in primary form
+729,674,San Marino,112,Belarus,82, Spades and shovels,91.378,0.001363,Belarus -  Spades and shovels
+730,674,San Marino,498,"Moldova, Republic of",44, Fuel wood,90.953,0.052569000000000005,"Moldova, Republic of -  Fuel wood"
+731,674,San Marino,156,China,69," Bricks, blocks and ceramic goods of siliceous earths",88.557,0.0016719999999999999,"China -  Bricks, blocks and ceramic goods of siliceous earths"
+732,674,San Marino,516,Namibia,63, Electric blankets of textile material,86.588,0.11815,Namibia -  Electric blankets of textile material
+733,674,San Marino,422,Lebanon,87, Pedestrian controlled tractors,85.058,0.001056,Lebanon -  Pedestrian controlled tractors
+734,674,San Marino,554,New Zealand,87, Pedestrian controlled tractors,84.625,0.003261,New Zealand -  Pedestrian controlled tractors
+735,674,San Marino,144,Sri Lanka,28, Chlorine,81.625,0.05806,Sri Lanka -  Chlorine
+736,674,San Marino,112,Belarus,27," Anthracite, not agglomerated",77.704,0.000358,"Belarus -  Anthracite, not agglomerated"
+737,674,San Marino,012,Algeria,84, Nuclear reactors,77.399,0.0009419999999999999,Algeria -  Nuclear reactors
+738,674,San Marino,642,Romania,73, Sheet piling of iron or steel,76.74,0.0015689999999999999,Romania -  Sheet piling of iron or steel
+739,674,San Marino,643,Russian Federation,42," Saddlery and harness, of any material",75.092,0.003002,"Russian Federation -  Saddlery and harness, of any material"
+740,674,San Marino,504,Morocco,94," Seats, aircraft",73.012,0.021015,"Morocco -  Seats, aircraft"
+741,674,San Marino,364,Iran (Islamic Republic of),39, Polyethylene - specific gravity <0.94 in primary form,73.0,0.013318,Iran (Islamic Republic of) -  Polyethylene - specific gravity <0.94 in primary form
+742,674,San Marino,120,Cameroon,76," Aluminium unwrought, not alloyed",72.101,0.0030859999999999998,"Cameroon -  Aluminium unwrought, not alloyed"
+743,674,San Marino,156,China,49," Brochures, leaflets and similar, in single sheets",71.503,0.034106000000000004,"China -  Brochures, leaflets and similar, in single sheets"
+744,674,San Marino,410,"Korea, Republic of",87, Pedestrian controlled tractors,70.95,0.00264,"Korea, Republic of -  Pedestrian controlled tractors"
+745,674,San Marino,440,Lithuania,41," Bovine skins, whole, raw",70.714,0.00013900000000000002,"Lithuania -  Bovine skins, whole, raw"
+746,674,San Marino,498,"Moldova, Republic of",64," Waterproof footwear (Wellingtons etc), metal toe cap",68.587,0.000252,"Moldova, Republic of -  Waterproof footwear (Wellingtons etc), metal toe cap"
+747,674,San Marino,040,Austria,32, Quebracho tanning extract,68.55,0.000378,Austria -  Quebracho tanning extract
+748,674,San Marino,156,China,74, Copper mattes,68.321,0.002431,China -  Copper mattes
+749,674,San Marino,398,Kazakhstan,33, Essential oils of bergamot,68.124,0.005346,Kazakhstan -  Essential oils of bergamot
+750,674,San Marino,120,Cameroon,96," Worked ivory, articles of ivory",67.294,0.005176,"Cameroon -  Worked ivory, articles of ivory"
+751,674,San Marino,156,China,40," Natural rubber latex, including prevulcanised",65.263,0.014361,"China -  Natural rubber latex, including prevulcanised"
+752,674,San Marino,048,Bahrain,35, Casein,63.928,0.010565,Bahrain -  Casein
+753,674,San Marino,504,Morocco,83, Padlocks of base metal,63.813,0.028194,Morocco -  Padlocks of base metal
+754,674,San Marino,705,Slovenia,95," Rideable wheeled toys, dolls carriages",63.542,0.002979,"Slovenia -  Rideable wheeled toys, dolls carriages"
+755,674,San Marino,112,Belarus,02," Bovine carcasses and half carcasses, fresh or chilled",62.949,0.006734,"Belarus -  Bovine carcasses and half carcasses, fresh or chilled"
+756,674,San Marino,643,Russian Federation,96," Worked ivory, articles of ivory",62.33,0.000253,"Russian Federation -  Worked ivory, articles of ivory"
+757,674,San Marino,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",61.413,0.0031179999999999997,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+758,674,San Marino,250,France,49," Brochures, leaflets and similar, in single sheets",61.231,0.007395,"France -  Brochures, leaflets and similar, in single sheets"
+759,674,San Marino,807,North Macedonia,33, Essential oils of bergamot,59.601,0.0011610000000000001,North Macedonia -  Essential oils of bergamot
+760,674,San Marino,040,Austria,69," Bricks, blocks and ceramic goods of siliceous earths",59.425,0.000969,"Austria -  Bricks, blocks and ceramic goods of siliceous earths"
+761,674,San Marino,120,Cameroon,68," Stone setts, curbstones, flagstones (except slate)",58.233,0.005415,"Cameroon -  Stone setts, curbstones, flagstones (except slate)"
+762,674,San Marino,410,"Korea, Republic of",83, Padlocks of base metal,58.221,0.00433,"Korea, Republic of -  Padlocks of base metal"
+763,674,San Marino,056,Belgium,90," Optical fibres, except for telecommunications",57.818,0.001057,"Belgium -  Optical fibres, except for telecommunications"
+764,674,San Marino,504,Morocco,96," Worked ivory, articles of ivory",57.369,0.0020819999999999996,"Morocco -  Worked ivory, articles of ivory"
+765,674,San Marino,203,Czechia,82, Spades and shovels,56.614,0.0055899999999999995,Czechia -  Spades and shovels
+766,674,San Marino,442,Luxembourg,38, Artificial graphite,56.388,0.017159,Luxembourg -  Artificial graphite
+767,674,San Marino,040,Austria,71," Pearls natural, not permanently mounted or set",54.816,0.00035299999999999996,"Austria -  Pearls natural, not permanently mounted or set"
+768,674,San Marino,804,Ukraine,65," Hat-forms, etc of felt, not shaped, no formed brim",52.376,0.004375,"Ukraine -  Hat-forms, etc of felt, not shaped, no formed brim"
+769,674,San Marino,688,Serbia,70," Glass cullet, waste or scrap, glass in the mass",51.173,0.001358,"Serbia -  Glass cullet, waste or scrap, glass in the mass"
+770,674,San Marino,702,Singapore,33, Essential oils of bergamot,50.511,0.01026,Singapore -  Essential oils of bergamot
+771,674,San Marino,268,Georgia,83, Padlocks of base metal,49.186,0.011074,Georgia -  Padlocks of base metal
+772,674,San Marino,807,North Macedonia,90," Optical fibres, except for telecommunications",49.115,0.005059,"North Macedonia -  Optical fibres, except for telecommunications"
+773,674,San Marino,703,Slovakia,38, Artificial graphite,48.723,0.004732999999999999,Slovakia -  Artificial graphite
+774,674,San Marino,398,Kazakhstan,69," Bricks, blocks and ceramic goods of siliceous earths",48.445,0.001871,"Kazakhstan -  Bricks, blocks and ceramic goods of siliceous earths"
+775,674,San Marino,203,Czechia,61," Mens, boys overcoats, etc, of wool or hair, knit",47.958,0.000874,"Czechia -  Mens, boys overcoats, etc, of wool or hair, knit"
+776,674,San Marino,012,Algeria,39, Polyethylene - specific gravity <0.94 in primary form,47.663,0.000625,Algeria -  Polyethylene - specific gravity <0.94 in primary form
+777,674,San Marino,112,Belarus,25," Salt (sodium chloride) including solution, salt water",47.477,0.00557,"Belarus -  Salt (sodium chloride) including solution, salt water"
+778,674,San Marino,499,Montenegro,70," Glass cullet, waste or scrap, glass in the mass",47.114,0.000991,"Montenegro -  Glass cullet, waste or scrap, glass in the mass"
+779,674,San Marino,360,Indonesia,68," Stone setts, curbstones, flagstones (except slate)",46.326,0.001175,"Indonesia -  Stone setts, curbstones, flagstones (except slate)"
+780,674,San Marino,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",46.12,0.00039600000000000003,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+781,674,San Marino,616,Poland,68," Stone setts, curbstones, flagstones (except slate)",45.126,0.002666,"Poland -  Stone setts, curbstones, flagstones (except slate)"
+782,674,San Marino,616,Poland,49," Brochures, leaflets and similar, in single sheets",45.038,0.005912,"Poland -  Brochures, leaflets and similar, in single sheets"
+783,674,San Marino,250,France,19," Infant foods of cereals, flour, starch or milk, retai",44.824,0.013052,"France -  Infant foods of cereals, flour, starch or milk, retai"
+784,674,San Marino,056,Belgium,42," Saddlery and harness, of any material",43.98,0.001307,"Belgium -  Saddlery and harness, of any material"
+785,674,San Marino,643,Russian Federation,69," Bricks, blocks and ceramic goods of siliceous earths",43.488,0.001691,"Russian Federation -  Bricks, blocks and ceramic goods of siliceous earths"
+786,674,San Marino,600,Paraguay,74, Copper mattes,41.958,0.001224,Paraguay -  Copper mattes
+787,674,San Marino,040,Austria,83, Padlocks of base metal,40.777,0.001085,Austria -  Padlocks of base metal
+788,674,San Marino,498,"Moldova, Republic of",95," Rideable wheeled toys, dolls carriages",39.096,0.004163,"Moldova, Republic of -  Rideable wheeled toys, dolls carriages"
+789,674,San Marino,600,Paraguay,90," Optical fibres, except for telecommunications",38.981,0.003654,"Paraguay -  Optical fibres, except for telecommunications"
+790,674,San Marino,156,China,63, Electric blankets of textile material,38.673,0.00041799999999999997,China -  Electric blankets of textile material
+791,674,San Marino,031,Azerbaijan,49," Brochures, leaflets and similar, in single sheets",36.971,0.008928,"Azerbaijan -  Brochures, leaflets and similar, in single sheets"
+792,674,San Marino,702,Singapore,87, Pedestrian controlled tractors,36.916,0.00415,Singapore -  Pedestrian controlled tractors
+793,674,San Marino,100,Bulgaria,61," Mens, boys overcoats, etc, of wool or hair, knit",36.078,0.002509,"Bulgaria -  Mens, boys overcoats, etc, of wool or hair, knit"
+794,674,San Marino,012,Algeria,40," Natural rubber latex, including prevulcanised",35.796,0.000629,"Algeria -  Natural rubber latex, including prevulcanised"
+795,674,San Marino,703,Slovakia,33, Essential oils of bergamot,34.925,0.000477,Slovakia -  Essential oils of bergamot
+796,674,San Marino,056,Belgium,48, Newsprint,33.945,0.005637,Belgium -  Newsprint
+797,674,San Marino,643,Russian Federation,19," Infant foods of cereals, flour, starch or milk, retai",33.528,0.003489,"Russian Federation -  Infant foods of cereals, flour, starch or milk, retai"
+798,674,San Marino,203,Czechia,42," Saddlery and harness, of any material",33.462,0.00085,"Czechia -  Saddlery and harness, of any material"
+799,674,San Marino,156,China,42," Saddlery and harness, of any material",33.428,0.002492,"China -  Saddlery and harness, of any material"
+800,674,San Marino,348,Hungary,76," Aluminium unwrought, not alloyed",33.32,0.002453,"Hungary -  Aluminium unwrought, not alloyed"
+801,674,San Marino,352,Iceland,84, Nuclear reactors,32.664,0.021190999999999998,Iceland -  Nuclear reactors
+802,674,San Marino,191,Croatia,85, Electric motors of an output < 37.5 watts,32.568,0.001598,Croatia -  Electric motors of an output < 37.5 watts
+803,674,San Marino,398,Kazakhstan,62," Mens, boys overcoats of wool or hair, not knit",32.351,0.000186,"Kazakhstan -  Mens, boys overcoats of wool or hair, not knit"
+804,674,San Marino,040,Austria,19," Infant foods of cereals, flour, starch or milk, retai",31.64,0.002335,"Austria -  Infant foods of cereals, flour, starch or milk, retai"
+805,674,San Marino,642,Romania,82, Spades and shovels,29.153,0.0054589999999999994,Romania -  Spades and shovels
+806,674,San Marino,702,Singapore,82, Spades and shovels,28.962,0.001468,Singapore -  Spades and shovels
+807,674,San Marino,203,Czechia,32, Quebracho tanning extract,28.255,0.00294,Czechia -  Quebracho tanning extract
+808,674,San Marino,348,Hungary,82, Spades and shovels,28.028,0.0017900000000000001,Hungary -  Spades and shovels
+809,674,San Marino,756,"Switzerland, Liechtenstein",44, Fuel wood,27.701,0.003335,"Switzerland, Liechtenstein -  Fuel wood"
+810,674,San Marino,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,27.262,0.0030110000000000002,Sri Lanka -  Electric motors of an output < 37.5 watts
+811,674,San Marino,616,Poland,90," Optical fibres, except for telecommunications",26.483,0.000306,"Poland -  Optical fibres, except for telecommunications"
+812,674,San Marino,504,Morocco,76," Aluminium unwrought, not alloyed",26.233,0.002512,"Morocco -  Aluminium unwrought, not alloyed"
+813,674,San Marino,504,Morocco,87, Pedestrian controlled tractors,25.315,0.000102,Morocco -  Pedestrian controlled tractors
+814,674,San Marino,348,Hungary,30," Glands and other organs, dried, for therapeutic uses",24.751,0.001305,"Hungary -  Glands and other organs, dried, for therapeutic uses"
+815,674,San Marino,040,Austria,15," Lard, other pig fat and poultry fat, rendered",24.746,0.0015149999999999999,"Austria -  Lard, other pig fat and poultry fat, rendered"
+816,674,San Marino,372,Ireland,82, Spades and shovels,24.5,0.000214,Ireland -  Spades and shovels
+817,674,San Marino,100,Bulgaria,71," Pearls natural, not permanently mounted or set",24.429,0.000358,"Bulgaria -  Pearls natural, not permanently mounted or set"
+818,674,San Marino,600,Paraguay,73, Sheet piling of iron or steel,24.334,0.002029,Paraguay -  Sheet piling of iron or steel
+819,674,San Marino,191,Croatia,40," Natural rubber latex, including prevulcanised",23.051,0.00014399999999999998,"Croatia -  Natural rubber latex, including prevulcanised"
+820,674,San Marino,784,United Arab Emirates,90," Optical fibres, except for telecommunications",22.942,0.033102,"United Arab Emirates -  Optical fibres, except for telecommunications"
+821,674,San Marino,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",22.716,0.001082,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+822,674,San Marino,528,Netherlands (Kingdom of the),49," Brochures, leaflets and similar, in single sheets",22.276,0.001081,"Netherlands (Kingdom of the) -  Brochures, leaflets and similar, in single sheets"
+823,674,San Marino,040,Austria,18," Cocoa beans, whole or broken, raw or roasted",21.773,0.000855,"Austria -  Cocoa beans, whole or broken, raw or roasted"
+824,674,San Marino,670,Saint Vincent and the Grenadines,85, Electric motors of an output < 37.5 watts,20.779,0.004624,Saint Vincent and the Grenadines -  Electric motors of an output < 37.5 watts
+825,674,San Marino,756,"Switzerland, Liechtenstein",18," Cocoa beans, whole or broken, raw or roasted",20.335,0.0027389999999999997,"Switzerland, Liechtenstein -  Cocoa beans, whole or broken, raw or roasted"
+826,674,San Marino,440,Lithuania,64," Waterproof footwear (Wellingtons etc), metal toe cap",19.32,8.9e-05,"Lithuania -  Waterproof footwear (Wellingtons etc), metal toe cap"
+827,674,San Marino,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,18.69,0.000592,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+828,674,San Marino,250,France,71," Pearls natural, not permanently mounted or set",18.136,8e-05,"France -  Pearls natural, not permanently mounted or set"
+829,674,San Marino,040,Austria,63, Electric blankets of textile material,17.921,0.0013830000000000001,Austria -  Electric blankets of textile material
+830,674,San Marino,784,United Arab Emirates,25," Salt (sodium chloride) including solution, salt water",17.89,0.0033039999999999996,"United Arab Emirates -  Salt (sodium chloride) including solution, salt water"
+831,674,San Marino,504,Morocco,62," Mens, boys overcoats of wool or hair, not knit",17.558,5.3e-05,"Morocco -  Mens, boys overcoats of wool or hair, not knit"
+832,674,San Marino,410,"Korea, Republic of",25," Salt (sodium chloride) including solution, salt water",16.485,0.0024609999999999996,"Korea, Republic of -  Salt (sodium chloride) including solution, salt water"
+833,674,San Marino,352,Iceland,33, Essential oils of bergamot,14.136,0.0029649999999999998,Iceland -  Essential oils of bergamot
+834,674,San Marino,422,Lebanon,62," Mens, boys overcoats of wool or hair, not knit",12.188,8e-05,"Lebanon -  Mens, boys overcoats of wool or hair, not knit"
+835,674,San Marino,642,Romania,90," Optical fibres, except for telecommunications",11.476,4.6e-05,"Romania -  Optical fibres, except for telecommunications"
+836,674,San Marino,208,Denmark,61," Mens, boys overcoats, etc, of wool or hair, knit",11.375,8.8e-05,"Denmark -  Mens, boys overcoats, etc, of wool or hair, knit"
+837,674,San Marino,410,"Korea, Republic of",49," Brochures, leaflets and similar, in single sheets",10.524,0.01909,"Korea, Republic of -  Brochures, leaflets and similar, in single sheets"
+838,674,San Marino,048,Bahrain,64," Waterproof footwear (Wellingtons etc), metal toe cap",10.113,0.000202,"Bahrain -  Waterproof footwear (Wellingtons etc), metal toe cap"
+839,674,San Marino,112,Belarus,44, Fuel wood,10.08,0.019611,Belarus -  Fuel wood
+840,674,San Marino,756,"Switzerland, Liechtenstein",19," Infant foods of cereals, flour, starch or milk, retai",9.431,0.0015760000000000001,"Switzerland, Liechtenstein -  Infant foods of cereals, flour, starch or milk, retai"
+841,674,San Marino,352,Iceland,90," Optical fibres, except for telecommunications",9.361,0.000326,"Iceland -  Optical fibres, except for telecommunications"
+842,674,San Marino,040,Austria,30," Glands and other organs, dried, for therapeutic uses",8.725,0.000125,"Austria -  Glands and other organs, dried, for therapeutic uses"
+843,674,San Marino,784,United Arab Emirates,49," Brochures, leaflets and similar, in single sheets",8.171,0.000905,"United Arab Emirates -  Brochures, leaflets and similar, in single sheets"
+844,674,San Marino,191,Croatia,61," Mens, boys overcoats, etc, of wool or hair, knit",7.21,5.7e-05,"Croatia -  Mens, boys overcoats, etc, of wool or hair, knit"
+845,674,San Marino,440,Lithuania,14, Bamboos used primarily for plaiting,6.76,0.0022890000000000002,Lithuania -  Bamboos used primarily for plaiting
+846,674,San Marino,012,Algeria,87, Pedestrian controlled tractors,6.067,0.0040620000000000005,Algeria -  Pedestrian controlled tractors
+847,674,San Marino,504,Morocco,81," Powders, tungsten (wolfram)",6.066,1.9e-05,"Morocco -  Powders, tungsten (wolfram)"
+848,674,San Marino,616,Poland,51," Greasy shorn wool, not carded or combed",6.024,0.000165,"Poland -  Greasy shorn wool, not carded or combed"
+849,674,San Marino,120,Cameroon,92," Upright pianos, including auto-players",5.555,0.000415,"Cameroon -  Upright pianos, including auto-players"
+850,674,San Marino,410,"Korea, Republic of",18," Cocoa beans, whole or broken, raw or roasted",5.411,0.0006630000000000001,"Korea, Republic of -  Cocoa beans, whole or broken, raw or roasted"
+851,674,San Marino,578,Norway,90," Optical fibres, except for telecommunications",4.016,8.599999999999999e-05,"Norway -  Optical fibres, except for telecommunications"
+852,674,San Marino,608,Philippines,85, Electric motors of an output < 37.5 watts,3.976,0.000192,Philippines -  Electric motors of an output < 37.5 watts
+853,674,San Marino,372,Ireland,61," Mens, boys overcoats, etc, of wool or hair, knit",3.132,0.000155,"Ireland -  Mens, boys overcoats, etc, of wool or hair, knit"
+854,674,San Marino,268,Georgia,49," Brochures, leaflets and similar, in single sheets",2.666,0.003868,"Georgia -  Brochures, leaflets and similar, in single sheets"
+855,674,San Marino,504,Morocco,61," Mens, boys overcoats, etc, of wool or hair, knit",2.365,2.2e-05,"Morocco -  Mens, boys overcoats, etc, of wool or hair, knit"
+856,674,San Marino,703,Slovakia,61," Mens, boys overcoats, etc, of wool or hair, knit",1.304,1.6e-05,"Slovakia -  Mens, boys overcoats, etc, of wool or hair, knit"
+857,674,San Marino,012,Algeria,90," Optical fibres, except for telecommunications",0.827,1.7e-05,"Algeria -  Optical fibres, except for telecommunications"
+858,674,San Marino,156,China,61," Mens, boys overcoats, etc, of wool or hair, knit",0.8,3.3e-05,"China -  Mens, boys overcoats, etc, of wool or hair, knit"
+859,674,San Marino,276,Germany,93," Military weapons, other than hand guns, swords, etc",0.539,0.139241,"Germany -  Military weapons, other than hand guns, swords, etc"
+860,674,San Marino,250,France,93," Military weapons, other than hand guns, swords, etc",0.409,0.014534,"France -  Military weapons, other than hand guns, swords, etc"
+861,674,San Marino,012,Algeria,62," Mens, boys overcoats of wool or hair, not knit",0.087,3e-06,"Algeria -  Mens, boys overcoats of wool or hair, not knit"
+862,674,San Marino,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",0.07,1e-06,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+863,674,San Marino,144,Sri Lanka,56," Sanitary towels, diapers and similar articles",0.0,0.0,"Sri Lanka -  Sanitary towels, diapers and similar articles"
+864,674,San Marino,144,Sri Lanka,90," Optical fibres, except for telecommunications",0.0,0.0,"Sri Lanka -  Optical fibres, except for telecommunications"
+865,674,San Marino,012,Algeria,76," Aluminium unwrought, not alloyed",0.0,0.0,"Algeria -  Aluminium unwrought, not alloyed"
+866,674,San Marino,012,Algeria,70," Glass cullet, waste or scrap, glass in the mass",0.0,0.0,"Algeria -  Glass cullet, waste or scrap, glass in the mass"
+867,674,San Marino,012,Algeria,42," Saddlery and harness, of any material",0.0,0.0,"Algeria -  Saddlery and harness, of any material"
+868,674,San Marino,616,Poland,50, Silk-worm cocoons suitable for reeling,0.0,0.0,Poland -  Silk-worm cocoons suitable for reeling

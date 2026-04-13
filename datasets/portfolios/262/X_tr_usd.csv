@@ -1,0 +1,424 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,262,Djibouti,566,Nigeria,86," Rail locomotives, externally electrically powered",4788147.012,2.562,"Nigeria -  Rail locomotives, externally electrically powered"
+1,262,Djibouti,356,India,07," Potatoes seed, fresh or chilled",3368914.619,4792.029689,"India -  Potatoes seed, fresh or chilled"
+2,262,Djibouti,356,India,12, Soya beans,2442346.562,4008.014604,India -  Soya beans
+3,262,Djibouti,024,Angola,87, Pedestrian controlled tractors,1577527.417,86.268,Angola -  Pedestrian controlled tractors
+4,262,Djibouti,566,Nigeria,84, Nuclear reactors,1488096.2,31.251,Nigeria -  Nuclear reactors
+5,262,Djibouti,036,Australia,09," Coffee, not roasted, not decaffeinated",1413795.596,299.5129,"Australia -  Coffee, not roasted, not decaffeinated"
+6,262,Djibouti,024,Angola,84, Nuclear reactors,934426.642,123.89,Angola -  Nuclear reactors
+7,262,Djibouti,528,Netherlands (Kingdom of the),87, Pedestrian controlled tractors,918871.347,248.63997899999998,Netherlands (Kingdom of the) -  Pedestrian controlled tractors
+8,262,Djibouti,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",877922.316,169.04631899999998,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+9,262,Djibouti,554,New Zealand,09," Coffee, not roasted, not decaffeinated",758634.008,121.729527,"New Zealand -  Coffee, not roasted, not decaffeinated"
+10,262,Djibouti,840,United States of America,09," Coffee, not roasted, not decaffeinated",751929.357,154.110691,"United States of America -  Coffee, not roasted, not decaffeinated"
+11,262,Djibouti,826,United Kingdom,12, Soya beans,629389.339,702.686324,United Kingdom -  Soya beans
+12,262,Djibouti,826,United Kingdom,48, Newsprint,359001.953,14.569015,United Kingdom -  Newsprint
+13,262,Djibouti,356,India,85, Electric motors of an output < 37.5 watts,330740.549,656.799409,India -  Electric motors of an output < 37.5 watts
+14,262,Djibouti,887,Yemen,30," Glands and other organs, dried, for therapeutic uses",328334.765,20.049627,"Yemen -  Glands and other organs, dried, for therapeutic uses"
+15,262,Djibouti,288,Ghana,39, Polyethylene - specific gravity <0.94 in primary form,302320.481,96.599089,Ghana -  Polyethylene - specific gravity <0.94 in primary form
+16,262,Djibouti,826,United Kingdom,17," Raw sugar, cane",279214.752,1678.629737,"United Kingdom -  Raw sugar, cane"
+17,262,Djibouti,356,India,09," Coffee, not roasted, not decaffeinated",263902.049,186.245375,"India -  Coffee, not roasted, not decaffeinated"
+18,262,Djibouti,702,Singapore,09," Coffee, not roasted, not decaffeinated",241837.05,28.447541,"Singapore -  Coffee, not roasted, not decaffeinated"
+19,262,Djibouti,380,Italy,09," Coffee, not roasted, not decaffeinated",210130.129,25.30795,"Italy -  Coffee, not roasted, not decaffeinated"
+20,262,Djibouti,144,Sri Lanka,03," Ornamental fish, live",204864.699,14.990511,"Sri Lanka -  Ornamental fish, live"
+21,262,Djibouti,682,Saudi Arabia,44, Fuel wood,182268.843,383.370453,Saudi Arabia -  Fuel wood
+22,262,Djibouti,682,Saudi Arabia,86," Rail locomotives, externally electrically powered",155054.008,2579.702989,"Saudi Arabia -  Rail locomotives, externally electrically powered"
+23,262,Djibouti,887,Yemen,87, Pedestrian controlled tractors,152808.644,6.6438180000000004,Yemen -  Pedestrian controlled tractors
+24,262,Djibouti,840,United States of America,85, Electric motors of an output < 37.5 watts,147524.021,2.4129329999999998,United States of America -  Electric motors of an output < 37.5 watts
+25,262,Djibouti,840,United States of America,07," Potatoes seed, fresh or chilled",146210.776,152.891421,"United States of America -  Potatoes seed, fresh or chilled"
+26,262,Djibouti,288,Ghana,87, Pedestrian controlled tractors,133603.74,6.698968,Ghana -  Pedestrian controlled tractors
+27,262,Djibouti,276,Germany,95," Rideable wheeled toys, dolls carriages",132303.416,25.626086,"Germany -  Rideable wheeled toys, dolls carriages"
+28,262,Djibouti,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",129850.557,21.787398,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+29,262,Djibouti,616,Poland,09," Coffee, not roasted, not decaffeinated",117204.035,28.037975,"Poland -  Coffee, not roasted, not decaffeinated"
+30,262,Djibouti,450,Madagascar,87, Pedestrian controlled tractors,107572.511,35.3,Madagascar -  Pedestrian controlled tractors
+31,262,Djibouti,840,United States of America,93," Military weapons, other than hand guns, swords, etc",104388.962,12.009853999999999,"United States of America -  Military weapons, other than hand guns, swords, etc"
+32,262,Djibouti,616,Poland,84, Nuclear reactors,98562.53,4.867124,Poland -  Nuclear reactors
+33,262,Djibouti,840,United States of America,84, Nuclear reactors,95182.639,1.378725,United States of America -  Nuclear reactors
+34,262,Djibouti,356,India,74, Copper mattes,90463.112,20.483370999999998,India -  Copper mattes
+35,262,Djibouti,792,Türkiye,32, Quebracho tanning extract,87629.851,6.781414,Türkiye -  Quebracho tanning extract
+36,262,Djibouti,768,Togo,84, Nuclear reactors,87036.801,45.96,Togo -  Nuclear reactors
+37,262,Djibouti,528,Netherlands (Kingdom of the),82, Spades and shovels,81323.404,5.853827,Netherlands (Kingdom of the) -  Spades and shovels
+38,262,Djibouti,344,"China, Hong Kong SAR",09," Coffee, not roasted, not decaffeinated",80439.681,9.794255999999999,"China, Hong Kong SAR -  Coffee, not roasted, not decaffeinated"
+39,262,Djibouti,144,Sri Lanka,12, Soya beans,79624.656,153.91548699999998,Sri Lanka -  Soya beans
+40,262,Djibouti,840,United States of America,90," Optical fibres, except for telecommunications",76828.419,1.219596,"United States of America -  Optical fibres, except for telecommunications"
+41,262,Djibouti,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",72735.253,267.30854800000003,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+42,262,Djibouti,356,India,39, Polyethylene - specific gravity <0.94 in primary form,72053.067,112.73382099999999,India -  Polyethylene - specific gravity <0.94 in primary form
+43,262,Djibouti,703,Slovakia,39, Polyethylene - specific gravity <0.94 in primary form,70666.132,7.129659999999999,Slovakia -  Polyethylene - specific gravity <0.94 in primary form
+44,262,Djibouti,528,Netherlands (Kingdom of the),12, Soya beans,69839.072,33.276349,Netherlands (Kingdom of the) -  Soya beans
+45,262,Djibouti,344,"China, Hong Kong SAR",03," Ornamental fish, live",66445.185,3.355795,"China, Hong Kong SAR -  Ornamental fish, live"
+46,262,Djibouti,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,65153.656,129.700545,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+47,262,Djibouti,040,Austria,84, Nuclear reactors,64344.389,3.874339,Austria -  Nuclear reactors
+48,262,Djibouti,840,United States of America,03," Ornamental fish, live",63948.915,2.2118629999999997,"United States of America -  Ornamental fish, live"
+49,262,Djibouti,840,United States of America,64," Waterproof footwear (Wellingtons etc), metal toe cap",63876.174,1.860324,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+50,262,Djibouti,784,United Arab Emirates,74, Copper mattes,60615.675,41.739801,United Arab Emirates -  Copper mattes
+51,262,Djibouti,616,Poland,72," Pig iron, non-alloy, <0.5% phosphorus",53717.548,97.797651,"Poland -  Pig iron, non-alloy, <0.5% phosphorus"
+52,262,Djibouti,356,India,27," Anthracite, not agglomerated",53306.922,177.325363,"India -  Anthracite, not agglomerated"
+53,262,Djibouti,072,Botswana,85, Electric motors of an output < 37.5 watts,51513.943,0.123069,Botswana -  Electric motors of an output < 37.5 watts
+54,262,Djibouti,834,"Tanzania, United Republic of",84, Nuclear reactors,45967.1,8.119935,"Tanzania, United Republic of -  Nuclear reactors"
+55,262,Djibouti,784,United Arab Emirates,27," Anthracite, not agglomerated",45777.099,341.477413,"United Arab Emirates -  Anthracite, not agglomerated"
+56,262,Djibouti,800,Uganda,88," Gliders, hang gliders",45212.995,0.166209,"Uganda -  Gliders, hang gliders"
+57,262,Djibouti,818,Egypt,13, Lac,42964.692,5.700368,Egypt -  Lac
+58,262,Djibouti,887,Yemen,07," Potatoes seed, fresh or chilled",39698.815,197.497447,"Yemen -  Potatoes seed, fresh or chilled"
+59,262,Djibouti,703,Slovakia,84, Nuclear reactors,38591.234,0.903868,Slovakia -  Nuclear reactors
+60,262,Djibouti,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",38439.635,2.846,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+61,262,Djibouti,702,Singapore,82, Spades and shovels,36724.391,1.104829,Singapore -  Spades and shovels
+62,262,Djibouti,764,Thailand,84, Nuclear reactors,34666.955,18.893,Thailand -  Nuclear reactors
+63,262,Djibouti,788,Tunisia,13, Lac,33757.218,8.252531999999999,Tunisia -  Lac
+64,262,Djibouti,268,Georgia,63, Electric blankets of textile material,33047.914,6.938141,Georgia -  Electric blankets of textile material
+65,262,Djibouti,040,Austria,38, Artificial graphite,32976.77,0.42816899999999997,Austria -  Artificial graphite
+66,262,Djibouti,826,United Kingdom,03," Ornamental fish, live",29441.573,1.361136,"United Kingdom -  Ornamental fish, live"
+67,262,Djibouti,686,Senegal,03," Ornamental fish, live",23017.518,128.149607,"Senegal -  Ornamental fish, live"
+68,262,Djibouti,410,"Korea, Republic of",84, Nuclear reactors,22586.028,38.555282,"Korea, Republic of -  Nuclear reactors"
+69,262,Djibouti,528,Netherlands (Kingdom of the),03," Ornamental fish, live",22575.701,1.0285,"Netherlands (Kingdom of the) -  Ornamental fish, live"
+70,262,Djibouti,616,Poland,73, Sheet piling of iron or steel,20901.326,24.950354,Poland -  Sheet piling of iron or steel
+71,262,Djibouti,270,Gambia,22, Mineral and aerated waters not sweetened or flavoured,19287.647,80.64,Gambia -  Mineral and aerated waters not sweetened or flavoured
+72,262,Djibouti,608,Philippines,85, Electric motors of an output < 37.5 watts,19272.112,0.009646,Philippines -  Electric motors of an output < 37.5 watts
+73,262,Djibouti,356,India,26," Iron ore, concentrate, not iron pyrites,unagglomerate",18745.149,14.870377000000001,"India -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+74,262,Djibouti,512,Oman,02," Bovine carcasses and half carcasses, fresh or chilled",18456.121,4.343018,"Oman -  Bovine carcasses and half carcasses, fresh or chilled"
+75,262,Djibouti,784,United Arab Emirates,72," Pig iron, non-alloy, <0.5% phosphorus",17645.45,62.771394,"United Arab Emirates -  Pig iron, non-alloy, <0.5% phosphorus"
+76,262,Djibouti,784,United Arab Emirates,33, Essential oils of bergamot,15618.473,9.66474,United Arab Emirates -  Essential oils of bergamot
+77,262,Djibouti,784,United Arab Emirates,84, Nuclear reactors,15583.4,3.7787379999999997,United Arab Emirates -  Nuclear reactors
+78,262,Djibouti,156,China,74, Copper mattes,14565.281,3.331978,China -  Copper mattes
+79,262,Djibouti,703,Slovakia,95," Rideable wheeled toys, dolls carriages",14426.56,0.4692,"Slovakia -  Rideable wheeled toys, dolls carriages"
+80,262,Djibouti,784,United Arab Emirates,76," Aluminium unwrought, not alloyed",14143.937,32.919957000000004,"United Arab Emirates -  Aluminium unwrought, not alloyed"
+81,262,Djibouti,380,Italy,94," Seats, aircraft",13921.886,5.833603,"Italy -  Seats, aircraft"
+82,262,Djibouti,048,Bahrain,03," Ornamental fish, live",13315.339,5.209763,"Bahrain -  Ornamental fish, live"
+83,262,Djibouti,356,India,41," Bovine skins, whole, raw",13264.371,6.04997,"India -  Bovine skins, whole, raw"
+84,262,Djibouti,372,Ireland,20," Cucumbers,gherkins, prepared or preserved by vinegar",12495.006,8.033283,"Ireland -  Cucumbers,gherkins, prepared or preserved by vinegar"
+85,262,Djibouti,380,Italy,73, Sheet piling of iron or steel,12174.525,1.7117449999999999,Italy -  Sheet piling of iron or steel
+86,262,Djibouti,840,United States of America,83, Padlocks of base metal,11178.348,0.849799,United States of America -  Padlocks of base metal
+87,262,Djibouti,784,United Arab Emirates,73, Sheet piling of iron or steel,11174.856,3.166194,United Arab Emirates -  Sheet piling of iron or steel
+88,262,Djibouti,800,Uganda,95," Rideable wheeled toys, dolls carriages",11034.363,0.149894,"Uganda -  Rideable wheeled toys, dolls carriages"
+89,262,Djibouti,250,France,09," Coffee, not roasted, not decaffeinated",10807.927,2.051685,"France -  Coffee, not roasted, not decaffeinated"
+90,262,Djibouti,682,Saudi Arabia,11, Wheat or meslin flour,10795.027,40.163281000000005,Saudi Arabia -  Wheat or meslin flour
+91,262,Djibouti,250,France,22, Mineral and aerated waters not sweetened or flavoured,10617.324,11.198061,France -  Mineral and aerated waters not sweetened or flavoured
+92,262,Djibouti,887,Yemen,39, Polyethylene - specific gravity <0.94 in primary form,10327.051,0.173343,Yemen -  Polyethylene - specific gravity <0.94 in primary form
+93,262,Djibouti,076,Brazil,03," Ornamental fish, live",10081.179,0.501522,"Brazil -  Ornamental fish, live"
+94,262,Djibouti,376,Israel,10, Durum wheat,10061.747,4.470872999999999,Israel -  Durum wheat
+95,262,Djibouti,048,Bahrain,16," Sausages, similar products of meat, meat offal & bloo",9909.725,3.1063270000000003,"Bahrain -  Sausages, similar products of meat, meat offal & bloo"
+96,262,Djibouti,840,United States of America,73, Sheet piling of iron or steel,9450.315,3.012658,United States of America -  Sheet piling of iron or steel
+97,262,Djibouti,887,Yemen,09," Coffee, not roasted, not decaffeinated",9344.377,4.50408,"Yemen -  Coffee, not roasted, not decaffeinated"
+98,262,Djibouti,784,United Arab Emirates,03," Ornamental fish, live",9126.831,0.78195,"United Arab Emirates -  Ornamental fish, live"
+99,262,Djibouti,188,Costa Rica,94," Seats, aircraft",9042.147,1.326757,"Costa Rica -  Seats, aircraft"
+100,262,Djibouti,840,United States of America,22, Mineral and aerated waters not sweetened or flavoured,8922.013,7.74162,United States of America -  Mineral and aerated waters not sweetened or flavoured
+101,262,Djibouti,528,Netherlands (Kingdom of the),84, Nuclear reactors,8815.281,0.5658139999999999,Netherlands (Kingdom of the) -  Nuclear reactors
+102,262,Djibouti,703,Slovakia,44, Fuel wood,8571.736,1.4499490000000002,Slovakia -  Fuel wood
+103,262,Djibouti,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",8567.92,3.599,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+104,262,Djibouti,300,Greece,84, Nuclear reactors,8209.236,1.271,Greece -  Nuclear reactors
+105,262,Djibouti,250,France,90," Optical fibres, except for telecommunications",8117.032,0.154858,"France -  Optical fibres, except for telecommunications"
+106,262,Djibouti,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",7939.874,0.001485,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+107,262,Djibouti,682,Saudi Arabia,08," Coconuts, fresh or dried",7847.617,25.850714,"Saudi Arabia -  Coconuts, fresh or dried"
+108,262,Djibouti,340,Honduras,94," Seats, aircraft",7406.536,0.807072,"Honduras -  Seats, aircraft"
+109,262,Djibouti,340,Honduras,30," Glands and other organs, dried, for therapeutic uses",7170.11,0.203823,"Honduras -  Glands and other organs, dried, for therapeutic uses"
+110,262,Djibouti,784,United Arab Emirates,12, Soya beans,6539.535,14.089433000000001,United Arab Emirates -  Soya beans
+111,262,Djibouti,204,Benin,87, Pedestrian controlled tractors,6466.563,3.3,Benin -  Pedestrian controlled tractors
+112,262,Djibouti,703,Slovakia,32, Quebracho tanning extract,6432.37,0.426054,Slovakia -  Quebracho tanning extract
+113,262,Djibouti,458,Malaysia,03," Ornamental fish, live",6196.113,0.069798,"Malaysia -  Ornamental fish, live"
+114,262,Djibouti,826,United Kingdom,33, Essential oils of bergamot,5627.52,0.01712,United Kingdom -  Essential oils of bergamot
+115,262,Djibouti,887,Yemen,12, Soya beans,5568.62,6.903727,Yemen -  Soya beans
+116,262,Djibouti,056,Belgium,85, Electric motors of an output < 37.5 watts,5556.08,0.040765,Belgium -  Electric motors of an output < 37.5 watts
+117,262,Djibouti,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",5402.23,0.106855,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+118,262,Djibouti,040,Austria,27," Anthracite, not agglomerated",5222.545,0.8169299999999999,"Austria -  Anthracite, not agglomerated"
+119,262,Djibouti,040,Austria,73, Sheet piling of iron or steel,5192.8,0.098849,Austria -  Sheet piling of iron or steel
+120,262,Djibouti,056,Belgium,09," Coffee, not roasted, not decaffeinated",5081.329,1.21186,"Belgium -  Coffee, not roasted, not decaffeinated"
+121,262,Djibouti,840,United States of America,88," Gliders, hang gliders",4962.773,0.009139,"United States of America -  Gliders, hang gliders"
+122,262,Djibouti,372,Ireland,74, Copper mattes,4874.764,12.195173,Ireland -  Copper mattes
+123,262,Djibouti,203,Czechia,59, Gum or amylaceous covered textiles for book covers et,4811.844,0.341671,Czechia -  Gum or amylaceous covered textiles for book covers et
+124,262,Djibouti,818,Egypt,94," Seats, aircraft",4762.76,1.7561,"Egypt -  Seats, aircraft"
+125,262,Djibouti,834,"Tanzania, United Republic of",89," Cruise ships, excursion boats, ferry boats",4714.88,3.720577,"Tanzania, United Republic of -  Cruise ships, excursion boats, ferry boats"
+126,262,Djibouti,376,Israel,11, Wheat or meslin flour,4466.362,60.11066,Israel -  Wheat or meslin flour
+127,262,Djibouti,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",4440.514,7.345184000000001,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+128,262,Djibouti,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,4020.012,0.420588,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+129,262,Djibouti,372,Ireland,85, Electric motors of an output < 37.5 watts,3991.943,0.018611999999999997,Ireland -  Electric motors of an output < 37.5 watts
+130,262,Djibouti,756,"Switzerland, Liechtenstein",84, Nuclear reactors,3908.429,0.018381,"Switzerland, Liechtenstein -  Nuclear reactors"
+131,262,Djibouti,304,Greenland,73, Sheet piling of iron or steel,3769.952,0.465587,Greenland -  Sheet piling of iron or steel
+132,262,Djibouti,686,Senegal,64," Waterproof footwear (Wellingtons etc), metal toe cap",3734.412,0.662226,"Senegal -  Waterproof footwear (Wellingtons etc), metal toe cap"
+133,262,Djibouti,250,France,85, Electric motors of an output < 37.5 watts,3684.42,0.122807,France -  Electric motors of an output < 37.5 watts
+134,262,Djibouti,384,Côte d'Ivoire,84, Nuclear reactors,3661.768,0.412,Côte d'Ivoire -  Nuclear reactors
+135,262,Djibouti,694,Sierra Leone,73, Sheet piling of iron or steel,3637.051,1.1272639999999998,Sierra Leone -  Sheet piling of iron or steel
+136,262,Djibouti,887,Yemen,84, Nuclear reactors,3605.182,0.136171,Yemen -  Nuclear reactors
+137,262,Djibouti,578,Norway,84, Nuclear reactors,3590.304,0.132575,Norway -  Nuclear reactors
+138,262,Djibouti,392,Japan,84, Nuclear reactors,3517.308,0.009367,Japan -  Nuclear reactors
+139,262,Djibouti,616,Poland,03," Ornamental fish, live",3505.489,1.4716600000000002,"Poland -  Ornamental fish, live"
+140,262,Djibouti,682,Saudi Arabia,23," Flour or meal, pellet of meat or offal for animal fee",3332.758,4.1103000000000005,"Saudi Arabia -  Flour or meal, pellet of meat or offal for animal fee"
+141,262,Djibouti,380,Italy,85, Electric motors of an output < 37.5 watts,3327.099,0.5363450000000001,Italy -  Electric motors of an output < 37.5 watts
+142,262,Djibouti,392,Japan,03," Ornamental fish, live",3313.844,0.016332999999999997,"Japan -  Ornamental fish, live"
+143,262,Djibouti,276,Germany,73, Sheet piling of iron or steel,3280.219,1.814568,Germany -  Sheet piling of iron or steel
+144,262,Djibouti,752,Sweden,84, Nuclear reactors,3225.982,0.891805,Sweden -  Nuclear reactors
+145,262,Djibouti,380,Italy,84, Nuclear reactors,3159.046,0.283634,Italy -  Nuclear reactors
+146,262,Djibouti,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,3059.573,0.052784,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+147,262,Djibouti,276,Germany,03," Ornamental fish, live",2886.669,0.027201,"Germany -  Ornamental fish, live"
+148,262,Djibouti,818,Egypt,01," Horses, live pure-bred breeding",2885.997,0.750482,"Egypt -  Horses, live pure-bred breeding"
+149,262,Djibouti,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,2854.9,2.3919989999999998,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+150,262,Djibouti,356,India,79," Zinc, not alloyed, unwrought, >99% pure",2824.219,2.1397890000000004,"India -  Zinc, not alloyed, unwrought, >99% pure"
+151,262,Djibouti,380,Italy,86," Rail locomotives, externally electrically powered",2520.052,4.114109,"Italy -  Rail locomotives, externally electrically powered"
+152,262,Djibouti,826,United Kingdom,85, Electric motors of an output < 37.5 watts,2439.006,0.004781,United Kingdom -  Electric motors of an output < 37.5 watts
+153,262,Djibouti,703,Slovakia,87, Pedestrian controlled tractors,2395.592,1.17502,Slovakia -  Pedestrian controlled tractors
+154,262,Djibouti,887,Yemen,55," Filament tow of nylon, polyamides",2348.718,13.222254999999999,"Yemen -  Filament tow of nylon, polyamides"
+155,262,Djibouti,764,Thailand,03," Ornamental fish, live",2326.288,0.140653,"Thailand -  Ornamental fish, live"
+156,262,Djibouti,304,Greenland,84, Nuclear reactors,2325.718,0.02274,Greenland -  Nuclear reactors
+157,262,Djibouti,384,Côte d'Ivoire,61," Mens, boys overcoats, etc, of wool or hair, knit",2254.447,0.227427,"Côte d'Ivoire -  Mens, boys overcoats, etc, of wool or hair, knit"
+158,262,Djibouti,384,Côte d'Ivoire,39, Polyethylene - specific gravity <0.94 in primary form,2240.355,0.209,Côte d'Ivoire -  Polyethylene - specific gravity <0.94 in primary form
+159,262,Djibouti,508,Mozambique,94," Seats, aircraft",2238.19,0.920505,"Mozambique -  Seats, aircraft"
+160,262,Djibouti,694,Sierra Leone,84, Nuclear reactors,2203.066,1.39263,Sierra Leone -  Nuclear reactors
+161,262,Djibouti,340,Honduras,49," Brochures, leaflets and similar, in single sheets",2180.99,0.227858,"Honduras -  Brochures, leaflets and similar, in single sheets"
+162,262,Djibouti,384,Côte d'Ivoire,94," Seats, aircraft",2169.235,0.209,"Côte d'Ivoire -  Seats, aircraft"
+163,262,Djibouti,250,France,84, Nuclear reactors,2115.259,0.061668999999999995,France -  Nuclear reactors
+164,262,Djibouti,410,"Korea, Republic of",82, Spades and shovels,2057.895,0.135115,"Korea, Republic of -  Spades and shovels"
+165,262,Djibouti,818,Egypt,54, Sewing thread of synthetic filaments,2054.906,0.245173,Egypt -  Sewing thread of synthetic filaments
+166,262,Djibouti,344,"China, Hong Kong SAR",82, Spades and shovels,2031.941,0.01516,"China, Hong Kong SAR -  Spades and shovels"
+167,262,Djibouti,616,Poland,85, Electric motors of an output < 37.5 watts,2003.969,0.5263369999999999,Poland -  Electric motors of an output < 37.5 watts
+168,262,Djibouti,703,Slovakia,85, Electric motors of an output < 37.5 watts,1975.224,0.029477,Slovakia -  Electric motors of an output < 37.5 watts
+169,262,Djibouti,340,Honduras,85, Electric motors of an output < 37.5 watts,1956.881,0.227065,Honduras -  Electric motors of an output < 37.5 watts
+170,262,Djibouti,600,Paraguay,67," Bird skins and feathers, articles therefrom",1952.488,0.004836,"Paraguay -  Bird skins and feathers, articles therefrom"
+171,262,Djibouti,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,1949.877,0.015113,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+172,262,Djibouti,340,Honduras,95," Rideable wheeled toys, dolls carriages",1911.852,0.220986,"Honduras -  Rideable wheeled toys, dolls carriages"
+173,262,Djibouti,188,Costa Rica,87, Pedestrian controlled tractors,1864.925,0.273472,Costa Rica -  Pedestrian controlled tractors
+174,262,Djibouti,344,"China, Hong Kong SAR",41," Bovine skins, whole, raw",1858.701,0.022324999999999998,"China, Hong Kong SAR -  Bovine skins, whole, raw"
+175,262,Djibouti,792,Türkiye,25," Salt (sodium chloride) including solution, salt water",1827.0,42.0,"Türkiye -  Salt (sodium chloride) including solution, salt water"
+176,262,Djibouti,372,Ireland,90," Optical fibres, except for telecommunications",1816.536,0.002475,"Ireland -  Optical fibres, except for telecommunications"
+177,262,Djibouti,702,Singapore,84, Nuclear reactors,1770.304,0.052838,Singapore -  Nuclear reactors
+178,262,Djibouti,682,Saudi Arabia,82, Spades and shovels,1746.455,0.394003,Saudi Arabia -  Spades and shovels
+179,262,Djibouti,384,Côte d'Ivoire,95," Rideable wheeled toys, dolls carriages",1645.942,0.128184,"Côte d'Ivoire -  Rideable wheeled toys, dolls carriages"
+180,262,Djibouti,504,Morocco,94," Seats, aircraft",1630.143,2.1197600000000003,"Morocco -  Seats, aircraft"
+181,262,Djibouti,764,Thailand,94," Seats, aircraft",1599.94,0.002746,"Thailand -  Seats, aircraft"
+182,262,Djibouti,340,Honduras,62," Mens, boys overcoats of wool or hair, not knit",1571.804,0.171523,"Honduras -  Mens, boys overcoats of wool or hair, not knit"
+183,262,Djibouti,250,France,38, Artificial graphite,1566.107,0.48114,France -  Artificial graphite
+184,262,Djibouti,250,France,87, Pedestrian controlled tractors,1552.214,0.14202199999999998,France -  Pedestrian controlled tractors
+185,262,Djibouti,356,India,76," Aluminium unwrought, not alloyed",1477.86,1.438963,"India -  Aluminium unwrought, not alloyed"
+186,262,Djibouti,616,Poland,63, Electric blankets of textile material,1476.917,0.224828,Poland -  Electric blankets of textile material
+187,262,Djibouti,203,Czechia,95," Rideable wheeled toys, dolls carriages",1466.772,0.05290400000000001,"Czechia -  Rideable wheeled toys, dolls carriages"
+188,262,Djibouti,356,India,94," Seats, aircraft",1455.522,0.680001,"India -  Seats, aircraft"
+189,262,Djibouti,156,China,85, Electric motors of an output < 37.5 watts,1436.103,0.045424,China -  Electric motors of an output < 37.5 watts
+190,262,Djibouti,834,"Tanzania, United Republic of",87, Pedestrian controlled tractors,1416.429,0.533303,"Tanzania, United Republic of -  Pedestrian controlled tractors"
+191,262,Djibouti,404,Kenya,63, Electric blankets of textile material,1381.818,0.5016499999999999,Kenya -  Electric blankets of textile material
+192,262,Djibouti,156,China,03," Ornamental fish, live",1362.775,0.17552500000000001,"China -  Ornamental fish, live"
+193,262,Djibouti,840,United States of America,40," Natural rubber latex, including prevulcanised",1358.563,0.036037,"United States of America -  Natural rubber latex, including prevulcanised"
+194,262,Djibouti,276,Germany,49," Brochures, leaflets and similar, in single sheets",1349.802,0.024627,"Germany -  Brochures, leaflets and similar, in single sheets"
+195,262,Djibouti,188,Costa Rica,70," Glass cullet, waste or scrap, glass in the mass",1302.25,0.191601,"Costa Rica -  Glass cullet, waste or scrap, glass in the mass"
+196,262,Djibouti,036,Australia,84, Nuclear reactors,1278.041,0.057563,Australia -  Nuclear reactors
+197,262,Djibouti,076,Brazil,94," Seats, aircraft",1260.796,0.000964,"Brazil -  Seats, aircraft"
+198,262,Djibouti,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,1242.597,0.093621,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+199,262,Djibouti,554,New Zealand,85, Electric motors of an output < 37.5 watts,1214.574,0.023846,New Zealand -  Electric motors of an output < 37.5 watts
+200,262,Djibouti,384,Côte d'Ivoire,83, Padlocks of base metal,1214.353,0.121,Côte d'Ivoire -  Padlocks of base metal
+201,262,Djibouti,784,United Arab Emirates,94," Seats, aircraft",1212.51,1.541702,"United Arab Emirates -  Seats, aircraft"
+202,262,Djibouti,840,United States of America,94," Seats, aircraft",1209.696,0.404437,"United States of America -  Seats, aircraft"
+203,262,Djibouti,512,Oman,84, Nuclear reactors,1202.945,2.979998,Oman -  Nuclear reactors
+204,262,Djibouti,372,Ireland,84, Nuclear reactors,1193.054,0.024881,Ireland -  Nuclear reactors
+205,262,Djibouti,392,Japan,85, Electric motors of an output < 37.5 watts,1189.559,0.019388000000000002,Japan -  Electric motors of an output < 37.5 watts
+206,262,Djibouti,703,Slovakia,58," Woven pile fabric of wool or fine animal hair, w >30c",1180.53,0.0005520000000000001,"Slovakia -  Woven pile fabric of wool or fine animal hair, w >30c"
+207,262,Djibouti,204,Benin,94," Seats, aircraft",1165.836,1.0,"Benin -  Seats, aircraft"
+208,262,Djibouti,887,Yemen,85, Electric motors of an output < 37.5 watts,1157.267,0.036951,Yemen -  Electric motors of an output < 37.5 watts
+209,262,Djibouti,304,Greenland,74, Copper mattes,1126.222,0.01039,Greenland -  Copper mattes
+210,262,Djibouti,108,Burundi,87, Pedestrian controlled tractors,1125.881,0.9413400000000001,Burundi -  Pedestrian controlled tractors
+211,262,Djibouti,600,Paraguay,87, Pedestrian controlled tractors,1121.019,0.005293,Paraguay -  Pedestrian controlled tractors
+212,262,Djibouti,404,Kenya,94," Seats, aircraft",1105.947,1.0871790000000001,"Kenya -  Seats, aircraft"
+213,262,Djibouti,854,Burkina Faso,61," Mens, boys overcoats, etc, of wool or hair, knit",1082.974,0.225774,"Burkina Faso -  Mens, boys overcoats, etc, of wool or hair, knit"
+214,262,Djibouti,694,Sierra Leone,40," Natural rubber latex, including prevulcanised",1068.966,0.379372,"Sierra Leone -  Natural rubber latex, including prevulcanised"
+215,262,Djibouti,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",1068.461,0.054146,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+216,262,Djibouti,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,1063.442,1.600969,United Arab Emirates -  Electric motors of an output < 37.5 watts
+217,262,Djibouti,384,Côte d'Ivoire,49," Brochures, leaflets and similar, in single sheets",1045.924,0.099,"Côte d'Ivoire -  Brochures, leaflets and similar, in single sheets"
+218,262,Djibouti,188,Costa Rica,69," Bricks, blocks and ceramic goods of siliceous earths",1041.308,0.160493,"Costa Rica -  Bricks, blocks and ceramic goods of siliceous earths"
+219,262,Djibouti,384,Côte d'Ivoire,68," Stone setts, curbstones, flagstones (except slate)",1031.354,0.094,"Côte d'Ivoire -  Stone setts, curbstones, flagstones (except slate)"
+220,262,Djibouti,400,Jordan,44, Fuel wood,1004.38,1.024769,Jordan -  Fuel wood
+221,262,Djibouti,616,Poland,76," Aluminium unwrought, not alloyed",997.647,0.085748,"Poland -  Aluminium unwrought, not alloyed"
+222,262,Djibouti,036,Australia,85, Electric motors of an output < 37.5 watts,980.847,0.0040869999999999995,Australia -  Electric motors of an output < 37.5 watts
+223,262,Djibouti,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",980.172,0.411648,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+224,262,Djibouti,512,Oman,29, Saturated acyclic hydrocarbons,979.025,5.205436,Oman -  Saturated acyclic hydrocarbons
+225,262,Djibouti,792,Türkiye,87, Pedestrian controlled tractors,950.0,0.031,Türkiye -  Pedestrian controlled tractors
+226,262,Djibouti,340,Honduras,69," Bricks, blocks and ceramic goods of siliceous earths",941.903,0.095639,"Honduras -  Bricks, blocks and ceramic goods of siliceous earths"
+227,262,Djibouti,600,Paraguay,84, Nuclear reactors,930.03,0.125806,Paraguay -  Nuclear reactors
+228,262,Djibouti,703,Slovakia,12, Soya beans,929.971,0.42,Slovakia -  Soya beans
+229,262,Djibouti,188,Costa Rica,73, Sheet piling of iron or steel,919.526,0.141966,Costa Rica -  Sheet piling of iron or steel
+230,262,Djibouti,508,Mozambique,84, Nuclear reactors,902.79,0.2,Mozambique -  Nuclear reactors
+231,262,Djibouti,512,Oman,30," Glands and other organs, dried, for therapeutic uses",891.71,0.338597,"Oman -  Glands and other organs, dried, for therapeutic uses"
+232,262,Djibouti,826,United Kingdom,13, Lac,872.849,0.058728,United Kingdom -  Lac
+233,262,Djibouti,340,Honduras,39, Polyethylene - specific gravity <0.94 in primary form,854.395,0.082238,Honduras -  Polyethylene - specific gravity <0.94 in primary form
+234,262,Djibouti,784,United Arab Emirates,38, Artificial graphite,838.266,0.954256,United Arab Emirates -  Artificial graphite
+235,262,Djibouti,304,Greenland,17," Raw sugar, cane",837.761,0.07682299999999999,"Greenland -  Raw sugar, cane"
+236,262,Djibouti,384,Côte d'Ivoire,59, Gum or amylaceous covered textiles for book covers et,833.336,0.076,Côte d'Ivoire -  Gum or amylaceous covered textiles for book covers et
+237,262,Djibouti,380,Italy,61," Mens, boys overcoats, etc, of wool or hair, knit",833.178,0.080636,"Italy -  Mens, boys overcoats, etc, of wool or hair, knit"
+238,262,Djibouti,340,Honduras,70," Glass cullet, waste or scrap, glass in the mass",811.65,0.012303000000000001,"Honduras -  Glass cullet, waste or scrap, glass in the mass"
+239,262,Djibouti,372,Ireland,69," Bricks, blocks and ceramic goods of siliceous earths",745.381,0.1359,"Ireland -  Bricks, blocks and ceramic goods of siliceous earths"
+240,262,Djibouti,554,New Zealand,84, Nuclear reactors,725.348,0.123109,New Zealand -  Nuclear reactors
+241,262,Djibouti,887,Yemen,90," Optical fibres, except for telecommunications",711.616,0.16752899999999998,"Yemen -  Optical fibres, except for telecommunications"
+242,262,Djibouti,702,Singapore,27," Anthracite, not agglomerated",708.721,205.746375,"Singapore -  Anthracite, not agglomerated"
+243,262,Djibouti,752,Sweden,85, Electric motors of an output < 37.5 watts,700.868,0.008674,Sweden -  Electric motors of an output < 37.5 watts
+244,262,Djibouti,188,Costa Rica,85, Electric motors of an output < 37.5 watts,699.892,0.13782,Costa Rica -  Electric motors of an output < 37.5 watts
+245,262,Djibouti,646,Rwanda,63, Electric blankets of textile material,691.731,0.440743,Rwanda -  Electric blankets of textile material
+246,262,Djibouti,188,Costa Rica,62," Mens, boys overcoats of wool or hair, not knit",675.233,0.109587,"Costa Rica -  Mens, boys overcoats of wool or hair, not knit"
+247,262,Djibouti,156,China,84, Nuclear reactors,652.198,0.041314000000000003,China -  Nuclear reactors
+248,262,Djibouti,756,"Switzerland, Liechtenstein",30," Glands and other organs, dried, for therapeutic uses",650.68,7.5e-05,"Switzerland, Liechtenstein -  Glands and other organs, dried, for therapeutic uses"
+249,262,Djibouti,204,Benin,62," Mens, boys overcoats of wool or hair, not knit",650.007,0.5,"Benin -  Mens, boys overcoats of wool or hair, not knit"
+250,262,Djibouti,250,France,71," Pearls natural, not permanently mounted or set",628.019,0.006816,"France -  Pearls natural, not permanently mounted or set"
+251,262,Djibouti,188,Costa Rica,57," Carpets of wool or fine animal hair, knotted",609.193,0.094301,"Costa Rica -  Carpets of wool or fine animal hair, knotted"
+252,262,Djibouti,268,Georgia,62," Mens, boys overcoats of wool or hair, not knit",597.757,0.104921,"Georgia -  Mens, boys overcoats of wool or hair, not knit"
+253,262,Djibouti,703,Slovakia,20," Cucumbers,gherkins, prepared or preserved by vinegar",595.984,0.06,"Slovakia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+254,262,Djibouti,616,Poland,32, Quebracho tanning extract,593.999,0.05839,Poland -  Quebracho tanning extract
+255,262,Djibouti,702,Singapore,33, Essential oils of bergamot,582.67,0.017347,Singapore -  Essential oils of bergamot
+256,262,Djibouti,276,Germany,90," Optical fibres, except for telecommunications",562.444,0.002879,"Germany -  Optical fibres, except for telecommunications"
+257,262,Djibouti,384,Côte d'Ivoire,92," Upright pianos, including auto-players",556.838,0.165,"Côte d'Ivoire -  Upright pianos, including auto-players"
+258,262,Djibouti,703,Slovakia,90," Optical fibres, except for telecommunications",550.017,0.000545,"Slovakia -  Optical fibres, except for telecommunications"
+259,262,Djibouti,384,Côte d'Ivoire,63, Electric blankets of textile material,539.55,0.007634999999999999,Côte d'Ivoire -  Electric blankets of textile material
+260,262,Djibouti,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,526.003,0.07493899999999999,Austria -  Polyethylene - specific gravity <0.94 in primary form
+261,262,Djibouti,703,Slovakia,40," Natural rubber latex, including prevulcanised",515.502,0.014933,"Slovakia -  Natural rubber latex, including prevulcanised"
+262,262,Djibouti,372,Ireland,82, Spades and shovels,513.558,0.052101999999999996,Ireland -  Spades and shovels
+263,262,Djibouti,208,Denmark,88," Gliders, hang gliders",500.647,0.00073,"Denmark -  Gliders, hang gliders"
+264,262,Djibouti,616,Poland,22, Mineral and aerated waters not sweetened or flavoured,495.208,0.131188,Poland -  Mineral and aerated waters not sweetened or flavoured
+265,262,Djibouti,834,"Tanzania, United Republic of",73, Sheet piling of iron or steel,464.276,3.7119009999999997,"Tanzania, United Republic of -  Sheet piling of iron or steel"
+266,262,Djibouti,562,Niger,87, Pedestrian controlled tractors,451.667,0.770202,Niger -  Pedestrian controlled tractors
+267,262,Djibouti,764,Thailand,90," Optical fibres, except for telecommunications",427.064,0.036319000000000004,"Thailand -  Optical fibres, except for telecommunications"
+268,262,Djibouti,887,Yemen,69," Bricks, blocks and ceramic goods of siliceous earths",418.963,2.85499,"Yemen -  Bricks, blocks and ceramic goods of siliceous earths"
+269,262,Djibouti,372,Ireland,03," Ornamental fish, live",418.605,0.065388,"Ireland -  Ornamental fish, live"
+270,262,Djibouti,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",408.528,0.143248,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+271,262,Djibouti,218,Ecuador,87, Pedestrian controlled tractors,392.48,0.024886,Ecuador -  Pedestrian controlled tractors
+272,262,Djibouti,442,Luxembourg,54, Sewing thread of synthetic filaments,389.213,0.031075,Luxembourg -  Sewing thread of synthetic filaments
+273,262,Djibouti,340,Honduras,57," Carpets of wool or fine animal hair, knotted",383.321,0.037331,"Honduras -  Carpets of wool or fine animal hair, knotted"
+274,262,Djibouti,156,China,68," Stone setts, curbstones, flagstones (except slate)",346.364,0.078148,"China -  Stone setts, curbstones, flagstones (except slate)"
+275,262,Djibouti,834,"Tanzania, United Republic of",68," Stone setts, curbstones, flagstones (except slate)",343.639,0.515626,"Tanzania, United Republic of -  Stone setts, curbstones, flagstones (except slate)"
+276,262,Djibouti,854,Burkina Faso,88," Gliders, hang gliders",332.183,0.000213,"Burkina Faso -  Gliders, hang gliders"
+277,262,Djibouti,380,Italy,91," Wrist-watch, precious metal, battery, with hands",320.48,0.067315,"Italy -  Wrist-watch, precious metal, battery, with hands"
+278,262,Djibouti,703,Slovakia,04, Milk not concentrated nor sweetened < 1% fat,319.825,0.038,Slovakia -  Milk not concentrated nor sweetened < 1% fat
+279,262,Djibouti,288,Ghana,94," Seats, aircraft",311.715,0.385052,"Ghana -  Seats, aircraft"
+280,262,Djibouti,288,Ghana,84, Nuclear reactors,307.873,0.227071,Ghana -  Nuclear reactors
+281,262,Djibouti,703,Slovakia,69," Bricks, blocks and ceramic goods of siliceous earths",306.502,0.169097,"Slovakia -  Bricks, blocks and ceramic goods of siliceous earths"
+282,262,Djibouti,442,Luxembourg,95," Rideable wheeled toys, dolls carriages",298.973,0.010931,"Luxembourg -  Rideable wheeled toys, dolls carriages"
+283,262,Djibouti,404,Kenya,57," Carpets of wool or fine animal hair, knotted",291.485,0.008268000000000001,"Kenya -  Carpets of wool or fine animal hair, knotted"
+284,262,Djibouti,204,Benin,73, Sheet piling of iron or steel,287.348,0.225,Benin -  Sheet piling of iron or steel
+285,262,Djibouti,694,Sierra Leone,85, Electric motors of an output < 37.5 watts,284.613,0.351493,Sierra Leone -  Electric motors of an output < 37.5 watts
+286,262,Djibouti,887,Yemen,38, Artificial graphite,282.921,0.009545,Yemen -  Artificial graphite
+287,262,Djibouti,686,Senegal,34," Soaps, for toilet use, solid",280.807,0.16244,"Senegal -  Soaps, for toilet use, solid"
+288,262,Djibouti,450,Madagascar,94," Seats, aircraft",279.988,0.182,"Madagascar -  Seats, aircraft"
+289,262,Djibouti,616,Poland,13, Lac,277.609,0.010506999999999999,Poland -  Lac
+290,262,Djibouti,188,Costa Rica,82, Spades and shovels,274.138,0.048929,Costa Rica -  Spades and shovels
+291,262,Djibouti,616,Poland,39, Polyethylene - specific gravity <0.94 in primary form,273.42,0.015862,Poland -  Polyethylene - specific gravity <0.94 in primary form
+292,262,Djibouti,188,Costa Rica,44, Fuel wood,272.728,0.041479,Costa Rica -  Fuel wood
+293,262,Djibouti,340,Honduras,44, Fuel wood,266.633,0.027219,Honduras -  Fuel wood
+294,262,Djibouti,156,China,90," Optical fibres, except for telecommunications",263.603,0.00435,"China -  Optical fibres, except for telecommunications"
+295,262,Djibouti,040,Austria,03," Ornamental fish, live",261.453,0.003767,"Austria -  Ornamental fish, live"
+296,262,Djibouti,340,Honduras,63, Electric blankets of textile material,258.969,0.035004,Honduras -  Electric blankets of textile material
+297,262,Djibouti,340,Honduras,73, Sheet piling of iron or steel,257.858,0.027721,Honduras -  Sheet piling of iron or steel
+298,262,Djibouti,764,Thailand,76," Aluminium unwrought, not alloyed",256.568,0.032473,"Thailand -  Aluminium unwrought, not alloyed"
+299,262,Djibouti,703,Slovakia,73, Sheet piling of iron or steel,247.59,0.036142,Slovakia -  Sheet piling of iron or steel
+300,262,Djibouti,250,France,89," Cruise ships, excursion boats, ferry boats",244.262,0.036744,"France -  Cruise ships, excursion boats, ferry boats"
+301,262,Djibouti,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",240.929,0.0008719999999999999,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+302,262,Djibouti,340,Honduras,64," Waterproof footwear (Wellingtons etc), metal toe cap",237.173,0.026103,"Honduras -  Waterproof footwear (Wellingtons etc), metal toe cap"
+303,262,Djibouti,180,"Congo, Dem. Rep. of the",87, Pedestrian controlled tractors,235.451,0.078776,"Congo, Dem. Rep. of the -  Pedestrian controlled tractors"
+304,262,Djibouti,840,United States of America,42," Saddlery and harness, of any material",233.215,0.0008950000000000001,"United States of America -  Saddlery and harness, of any material"
+305,262,Djibouti,554,New Zealand,90," Optical fibres, except for telecommunications",228.856,0.001242,"New Zealand -  Optical fibres, except for telecommunications"
+306,262,Djibouti,188,Costa Rica,64," Waterproof footwear (Wellingtons etc), metal toe cap",227.849,0.038528,"Costa Rica -  Waterproof footwear (Wellingtons etc), metal toe cap"
+307,262,Djibouti,620,Portugal,13, Lac,226.607,0.012891999999999999,Portugal -  Lac
+308,262,Djibouti,152,Chile,84, Nuclear reactors,224.905,0.008063,Chile -  Nuclear reactors
+309,262,Djibouti,887,Yemen,49," Brochures, leaflets and similar, in single sheets",215.564,0.044976999999999996,"Yemen -  Brochures, leaflets and similar, in single sheets"
+310,262,Djibouti,250,France,15," Lard, other pig fat and poultry fat, rendered",208.093,0.327692,"France -  Lard, other pig fat and poultry fat, rendered"
+311,262,Djibouti,156,China,25," Salt (sodium chloride) including solution, salt water",207.468,0.398912,"China -  Salt (sodium chloride) including solution, salt water"
+312,262,Djibouti,686,Senegal,65," Hat-forms, etc of felt, not shaped, no formed brim",207.272,1.069617,"Senegal -  Hat-forms, etc of felt, not shaped, no formed brim"
+313,262,Djibouti,384,Côte d'Ivoire,42," Saddlery and harness, of any material",203.009,0.028843,"Côte d'Ivoire -  Saddlery and harness, of any material"
+314,262,Djibouti,188,Costa Rica,49," Brochures, leaflets and similar, in single sheets",197.644,0.031833,"Costa Rica -  Brochures, leaflets and similar, in single sheets"
+315,262,Djibouti,792,Türkiye,73, Sheet piling of iron or steel,196.496,0.119767,Türkiye -  Sheet piling of iron or steel
+316,262,Djibouti,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,193.112,0.001888,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+317,262,Djibouti,703,Slovakia,68," Stone setts, curbstones, flagstones (except slate)",192.304,0.363952,"Slovakia -  Stone setts, curbstones, flagstones (except slate)"
+318,262,Djibouti,703,Slovakia,86," Rail locomotives, externally electrically powered",190.847,0.093764,"Slovakia -  Rail locomotives, externally electrically powered"
+319,262,Djibouti,208,Denmark,85, Electric motors of an output < 37.5 watts,187.808,0.004297,Denmark -  Electric motors of an output < 37.5 watts
+320,262,Djibouti,170,Colombia,85, Electric motors of an output < 37.5 watts,186.941,0.000203,Colombia -  Electric motors of an output < 37.5 watts
+321,262,Djibouti,188,Costa Rica,63, Electric blankets of textile material,184.515,0.028163,Costa Rica -  Electric blankets of textile material
+322,262,Djibouti,528,Netherlands (Kingdom of the),49," Brochures, leaflets and similar, in single sheets",179.077,0.00186,"Netherlands (Kingdom of the) -  Brochures, leaflets and similar, in single sheets"
+323,262,Djibouti,096,Brunei Darussalam,09," Coffee, not roasted, not decaffeinated",172.916,0.005947,"Brunei Darussalam -  Coffee, not roasted, not decaffeinated"
+324,262,Djibouti,480,Mauritius,20," Cucumbers,gherkins, prepared or preserved by vinegar",167.179,0.028,"Mauritius -  Cucumbers,gherkins, prepared or preserved by vinegar"
+325,262,Djibouti,694,Sierra Leone,74, Copper mattes,164.21,0.18615,Sierra Leone -  Copper mattes
+326,262,Djibouti,356,India,25," Salt (sodium chloride) including solution, salt water",161.072,0.482456,"India -  Salt (sodium chloride) including solution, salt water"
+327,262,Djibouti,404,Kenya,69," Bricks, blocks and ceramic goods of siliceous earths",160.339,0.220472,"Kenya -  Bricks, blocks and ceramic goods of siliceous earths"
+328,262,Djibouti,356,India,63, Electric blankets of textile material,159.38,0.013962,India -  Electric blankets of textile material
+329,262,Djibouti,188,Costa Rica,84, Nuclear reactors,158.983,0.028155,Costa Rica -  Nuclear reactors
+330,262,Djibouti,056,Belgium,90," Optical fibres, except for telecommunications",154.25,0.00011899999999999999,"Belgium -  Optical fibres, except for telecommunications"
+331,262,Djibouti,694,Sierra Leone,90," Optical fibres, except for telecommunications",153.64,0.234055,"Sierra Leone -  Optical fibres, except for telecommunications"
+332,262,Djibouti,250,France,91," Wrist-watch, precious metal, battery, with hands",152.356,0.00074,"France -  Wrist-watch, precious metal, battery, with hands"
+333,262,Djibouti,040,Austria,76," Aluminium unwrought, not alloyed",151.268,0.002155,"Austria -  Aluminium unwrought, not alloyed"
+334,262,Djibouti,784,United Arab Emirates,22, Mineral and aerated waters not sweetened or flavoured,147.919,0.271599,United Arab Emirates -  Mineral and aerated waters not sweetened or flavoured
+335,262,Djibouti,340,Honduras,34," Soaps, for toilet use, solid",147.582,0.014436,"Honduras -  Soaps, for toilet use, solid"
+336,262,Djibouti,642,Romania,88," Gliders, hang gliders",146.865,0.001581,"Romania -  Gliders, hang gliders"
+337,262,Djibouti,250,France,49," Brochures, leaflets and similar, in single sheets",146.507,0.010778000000000001,"France -  Brochures, leaflets and similar, in single sheets"
+338,262,Djibouti,208,Denmark,84, Nuclear reactors,146.153,0.000358,Denmark -  Nuclear reactors
+339,262,Djibouti,180,"Congo, Dem. Rep. of the",03," Ornamental fish, live",142.72,0.089134,"Congo, Dem. Rep. of the -  Ornamental fish, live"
+340,262,Djibouti,616,Poland,94," Seats, aircraft",138.495,0.022482,"Poland -  Seats, aircraft"
+341,262,Djibouti,508,Mozambique,83, Padlocks of base metal,133.63,0.05,Mozambique -  Padlocks of base metal
+342,262,Djibouti,887,Yemen,54, Sewing thread of synthetic filaments,132.387,0.163696,Yemen -  Sewing thread of synthetic filaments
+343,262,Djibouti,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",131.907,0.00246,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+344,262,Djibouti,188,Costa Rica,39, Polyethylene - specific gravity <0.94 in primary form,130.841,0.019236999999999997,Costa Rica -  Polyethylene - specific gravity <0.94 in primary form
+345,262,Djibouti,616,Poland,33, Essential oils of bergamot,130.478,0.054001,Poland -  Essential oils of bergamot
+346,262,Djibouti,380,Italy,52," Cotton, not carded or combed",129.47,0.08128400000000001,"Italy -  Cotton, not carded or combed"
+347,262,Djibouti,360,Indonesia,61," Mens, boys overcoats, etc, of wool or hair, knit",129.198,0.007868,"Indonesia -  Mens, boys overcoats, etc, of wool or hair, knit"
+348,262,Djibouti,508,Mozambique,85, Electric motors of an output < 37.5 watts,128.68,0.1,Mozambique -  Electric motors of an output < 37.5 watts
+349,262,Djibouti,784,United Arab Emirates,86," Rail locomotives, externally electrically powered",128.647,0.313319,"United Arab Emirates -  Rail locomotives, externally electrically powered"
+350,262,Djibouti,288,Ghana,40," Natural rubber latex, including prevulcanised",123.039,0.063882,"Ghana -  Natural rubber latex, including prevulcanised"
+351,262,Djibouti,380,Italy,71," Pearls natural, not permanently mounted or set",120.067,0.002281,"Italy -  Pearls natural, not permanently mounted or set"
+352,262,Djibouti,404,Kenya,85, Electric motors of an output < 37.5 watts,118.37,0.004966,Kenya -  Electric motors of an output < 37.5 watts
+353,262,Djibouti,340,Honduras,83, Padlocks of base metal,115.401,0.023662,Honduras -  Padlocks of base metal
+354,262,Djibouti,104,Myanmar,84, Nuclear reactors,114.35,0.001,Myanmar -  Nuclear reactors
+355,262,Djibouti,508,Mozambique,39, Polyethylene - specific gravity <0.94 in primary form,111.86,0.109,Mozambique -  Polyethylene - specific gravity <0.94 in primary form
+356,262,Djibouti,686,Senegal,44, Fuel wood,111.18,0.023953,Senegal -  Fuel wood
+357,262,Djibouti,250,France,69," Bricks, blocks and ceramic goods of siliceous earths",110.352,0.040462000000000005,"France -  Bricks, blocks and ceramic goods of siliceous earths"
+358,262,Djibouti,404,Kenya,56," Sanitary towels, diapers and similar articles",110.346,0.0038900000000000002,"Kenya -  Sanitary towels, diapers and similar articles"
+359,262,Djibouti,616,Poland,40," Natural rubber latex, including prevulcanised",106.903,0.011094,"Poland -  Natural rubber latex, including prevulcanised"
+360,262,Djibouti,703,Slovakia,76," Aluminium unwrought, not alloyed",104.287,0.01464,"Slovakia -  Aluminium unwrought, not alloyed"
+361,262,Djibouti,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",103.453,0.000546,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+362,262,Djibouti,528,Netherlands (Kingdom of the),33, Essential oils of bergamot,99.6,0.00376,Netherlands (Kingdom of the) -  Essential oils of bergamot
+363,262,Djibouti,372,Ireland,07," Potatoes seed, fresh or chilled",95.287,0.012401,"Ireland -  Potatoes seed, fresh or chilled"
+364,262,Djibouti,818,Egypt,95," Rideable wheeled toys, dolls carriages",93.031,0.002826,"Egypt -  Rideable wheeled toys, dolls carriages"
+365,262,Djibouti,784,United Arab Emirates,83, Padlocks of base metal,90.891,0.15377600000000002,United Arab Emirates -  Padlocks of base metal
+366,262,Djibouti,288,Ghana,48, Newsprint,85.497,0.041413,Ghana -  Newsprint
+367,262,Djibouti,203,Czechia,85, Electric motors of an output < 37.5 watts,84.272,0.00451,Czechia -  Electric motors of an output < 37.5 watts
+368,262,Djibouti,818,Egypt,63, Electric blankets of textile material,81.305,0.08263,Egypt -  Electric blankets of textile material
+369,262,Djibouti,288,Ghana,63, Electric blankets of textile material,77.979,0.031539000000000005,Ghana -  Electric blankets of textile material
+370,262,Djibouti,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",76.316,0.0024449999999999997,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+371,262,Djibouti,682,Saudi Arabia,07," Potatoes seed, fresh or chilled",72.246,0.07714,"Saudi Arabia -  Potatoes seed, fresh or chilled"
+372,262,Djibouti,404,Kenya,03," Ornamental fish, live",68.638,0.11151699999999999,"Kenya -  Ornamental fish, live"
+373,262,Djibouti,180,"Congo, Dem. Rep. of the",63, Electric blankets of textile material,68.108,0.020998000000000003,"Congo, Dem. Rep. of the -  Electric blankets of textile material"
+374,262,Djibouti,340,Honduras,65," Hat-forms, etc of felt, not shaped, no formed brim",67.276,0.00743,"Honduras -  Hat-forms, etc of felt, not shaped, no formed brim"
+375,262,Djibouti,784,United Arab Emirates,44, Fuel wood,67.04,0.031573000000000004,United Arab Emirates -  Fuel wood
+376,262,Djibouti,246,Finland,84, Nuclear reactors,61.259,0.008917999999999999,Finland -  Nuclear reactors
+377,262,Djibouti,056,Belgium,62," Mens, boys overcoats of wool or hair, not knit",54.962,0.000328,"Belgium -  Mens, boys overcoats of wool or hair, not knit"
+378,262,Djibouti,040,Austria,96," Worked ivory, articles of ivory",54.646,0.002184,"Austria -  Worked ivory, articles of ivory"
+379,262,Djibouti,752,Sweden,22, Mineral and aerated waters not sweetened or flavoured,54.639,5.050167,Sweden -  Mineral and aerated waters not sweetened or flavoured
+380,262,Djibouti,646,Rwanda,95," Rideable wheeled toys, dolls carriages",52.322,0.013214,"Rwanda -  Rideable wheeled toys, dolls carriages"
+381,262,Djibouti,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",51.061,0.001356,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+382,262,Djibouti,372,Ireland,62," Mens, boys overcoats of wool or hair, not knit",50.638,0.0009360000000000001,"Ireland -  Mens, boys overcoats of wool or hair, not knit"
+383,262,Djibouti,752,Sweden,21," Coffee extracts, essences, concentrates, preparations",50.631,0.011979,"Sweden -  Coffee extracts, essences, concentrates, preparations"
+384,262,Djibouti,616,Poland,52," Cotton, not carded or combed",46.477,0.003709,"Poland -  Cotton, not carded or combed"
+385,262,Djibouti,203,Czechia,87, Pedestrian controlled tractors,45.051,0.003847,Czechia -  Pedestrian controlled tractors
+386,262,Djibouti,818,Egypt,87, Pedestrian controlled tractors,44.908,0.003639,Egypt -  Pedestrian controlled tractors
+387,262,Djibouti,752,Sweden,63, Electric blankets of textile material,41.775,0.059713,Sweden -  Electric blankets of textile material
+388,262,Djibouti,818,Egypt,85, Electric motors of an output < 37.5 watts,38.137,0.00218,Egypt -  Electric motors of an output < 37.5 watts
+389,262,Djibouti,250,France,94," Seats, aircraft",36.415,0.013013,"France -  Seats, aircraft"
+390,262,Djibouti,694,Sierra Leone,95," Rideable wheeled toys, dolls carriages",34.489,0.039673,"Sierra Leone -  Rideable wheeled toys, dolls carriages"
+391,262,Djibouti,702,Singapore,64," Waterproof footwear (Wellingtons etc), metal toe cap",33.46,0.002027,"Singapore -  Waterproof footwear (Wellingtons etc), metal toe cap"
+392,262,Djibouti,528,Netherlands (Kingdom of the),44, Fuel wood,29.361,0.025797,Netherlands (Kingdom of the) -  Fuel wood
+393,262,Djibouti,504,Morocco,49," Brochures, leaflets and similar, in single sheets",28.872,0.049021,"Morocco -  Brochures, leaflets and similar, in single sheets"
+394,262,Djibouti,528,Netherlands (Kingdom of the),63, Electric blankets of textile material,25.486,0.000634,Netherlands (Kingdom of the) -  Electric blankets of textile material
+395,262,Djibouti,752,Sweden,61," Mens, boys overcoats, etc, of wool or hair, knit",23.689,0.0005759999999999999,"Sweden -  Mens, boys overcoats, etc, of wool or hair, knit"
+396,262,Djibouti,686,Senegal,62," Mens, boys overcoats of wool or hair, not knit",22.713,0.030585,"Senegal -  Mens, boys overcoats of wool or hair, not knit"
+397,262,Djibouti,818,Egypt,69," Bricks, blocks and ceramic goods of siliceous earths",21.091,0.009337,"Egypt -  Bricks, blocks and ceramic goods of siliceous earths"
+398,262,Djibouti,702,Singapore,85, Electric motors of an output < 37.5 watts,18.801,0.00018099999999999998,Singapore -  Electric motors of an output < 37.5 watts
+399,262,Djibouti,156,China,71," Pearls natural, not permanently mounted or set",18.213,0.068642,"China -  Pearls natural, not permanently mounted or set"
+400,262,Djibouti,686,Senegal,42," Saddlery and harness, of any material",17.133,0.06651699999999999,"Senegal -  Saddlery and harness, of any material"
+401,262,Djibouti,784,United Arab Emirates,49," Brochures, leaflets and similar, in single sheets",13.316,0.000311,"United Arab Emirates -  Brochures, leaflets and similar, in single sheets"
+402,262,Djibouti,705,Slovenia,84, Nuclear reactors,11.842,0.0008539999999999999,Slovenia -  Nuclear reactors
+403,262,Djibouti,250,France,62," Mens, boys overcoats of wool or hair, not knit",10.933,0.00040300000000000004,"France -  Mens, boys overcoats of wool or hair, not knit"
+404,262,Djibouti,686,Senegal,61," Mens, boys overcoats, etc, of wool or hair, knit",10.365,0.015026,"Senegal -  Mens, boys overcoats, etc, of wool or hair, knit"
+405,262,Djibouti,586,Pakistan,41," Bovine skins, whole, raw",8.425,0.000787,"Pakistan -  Bovine skins, whole, raw"
+406,262,Djibouti,752,Sweden,62," Mens, boys overcoats of wool or hair, not knit",6.288,0.000208,"Sweden -  Mens, boys overcoats of wool or hair, not knit"
+407,262,Djibouti,356,India,71," Pearls natural, not permanently mounted or set",5.986,0.0029140000000000004,"India -  Pearls natural, not permanently mounted or set"
+408,262,Djibouti,764,Thailand,62," Mens, boys overcoats of wool or hair, not knit",5.259,5e-05,"Thailand -  Mens, boys overcoats of wool or hair, not knit"
+409,262,Djibouti,756,"Switzerland, Liechtenstein",65," Hat-forms, etc of felt, not shaped, no formed brim",4.627,0.000333,"Switzerland, Liechtenstein -  Hat-forms, etc of felt, not shaped, no formed brim"
+410,262,Djibouti,705,Slovenia,90," Optical fibres, except for telecommunications",4.029,3.5999999999999994e-05,"Slovenia -  Optical fibres, except for telecommunications"
+411,262,Djibouti,818,Egypt,49," Brochures, leaflets and similar, in single sheets",3.455,0.000719,"Egypt -  Brochures, leaflets and similar, in single sheets"
+412,262,Djibouti,528,Netherlands (Kingdom of the),30," Glands and other organs, dried, for therapeutic uses",3.173,2e-05,"Netherlands (Kingdom of the) -  Glands and other organs, dried, for therapeutic uses"
+413,262,Djibouti,752,Sweden,92," Upright pianos, including auto-players",2.227,0.000224,"Sweden -  Upright pianos, including auto-players"
+414,262,Djibouti,422,Lebanon,61," Mens, boys overcoats, etc, of wool or hair, knit",1.648,4.7e-05,"Lebanon -  Mens, boys overcoats, etc, of wool or hair, knit"
+415,262,Djibouti,688,Serbia,61," Mens, boys overcoats, etc, of wool or hair, knit",1.129,4e-05,"Serbia -  Mens, boys overcoats, etc, of wool or hair, knit"
+416,262,Djibouti,616,Poland,30," Glands and other organs, dried, for therapeutic uses",0.937,7e-06,"Poland -  Glands and other organs, dried, for therapeutic uses"
+417,262,Djibouti,694,Sierra Leone,93," Military weapons, other than hand guns, swords, etc",0.566,0.044223,"Sierra Leone -  Military weapons, other than hand guns, swords, etc"
+418,262,Djibouti,682,Saudi Arabia,01," Horses, live pure-bred breeding",0.532,0.006762,"Saudi Arabia -  Horses, live pure-bred breeding"
+419,262,Djibouti,703,Slovakia,64," Waterproof footwear (Wellingtons etc), metal toe cap",0.323,0.000171,"Slovakia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+420,262,Djibouti,048,Bahrain,01," Horses, live pure-bred breeding",0.002,3.4e-05,"Bahrain -  Horses, live pure-bred breeding"
+421,262,Djibouti,512,Oman,01," Horses, live pure-bred breeding",0.0,1e-06,"Oman -  Horses, live pure-bred breeding"
+422,262,Djibouti,887,Yemen,01," Horses, live pure-bred breeding",0.0,0.0,"Yemen -  Horses, live pure-bred breeding"

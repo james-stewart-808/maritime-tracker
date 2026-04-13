@@ -1,0 +1,778 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,266,Gabon,156,China,27," Anthracite, not agglomerated",838548433.535,2083811.7249130001,"China -  Anthracite, not agglomerated"
+1,266,Gabon,780,Trinidad and Tobago,27," Anthracite, not agglomerated",425679197.66,966550.6,"Trinidad and Tobago -  Anthracite, not agglomerated"
+2,266,Gabon,036,Australia,27," Anthracite, not agglomerated",343450996.127,751285.0,"Australia -  Anthracite, not agglomerated"
+3,266,Gabon,410,"Korea, Republic of",27," Anthracite, not agglomerated",238395929.581,578853.2493810001,"Korea, Republic of -  Anthracite, not agglomerated"
+4,266,Gabon,356,India,27," Anthracite, not agglomerated",207083517.24,533904.280273,"India -  Anthracite, not agglomerated"
+5,266,Gabon,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",151367643.282,479965.7839,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+6,266,Gabon,840,United States of America,27," Anthracite, not agglomerated",101117553.239,244051.638578,"United States of America -  Anthracite, not agglomerated"
+7,266,Gabon,380,Italy,27," Anthracite, not agglomerated",104313011.951,238829.95024399998,"Italy -  Anthracite, not agglomerated"
+8,266,Gabon,528,Netherlands (Kingdom of the),27," Anthracite, not agglomerated",77725760.933,176791.735483,"Netherlands (Kingdom of the) -  Anthracite, not agglomerated"
+9,266,Gabon,360,Indonesia,27," Anthracite, not agglomerated",58427657.787,168774.627744,"Indonesia -  Anthracite, not agglomerated"
+10,266,Gabon,724,Spain,26," Iron ore, concentrate, not iron pyrites,unagglomerate",50842369.013,157331.0,"Spain -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+11,266,Gabon,752,Sweden,27," Anthracite, not agglomerated",68809102.537,136757.0,"Sweden -  Anthracite, not agglomerated"
+12,266,Gabon,156,China,44, Fuel wood,94886674.066,128444.930655,China -  Fuel wood
+13,266,Gabon,620,Portugal,27," Anthracite, not agglomerated",52780267.015,125881.0,"Portugal -  Anthracite, not agglomerated"
+14,266,Gabon,250,France,26," Iron ore, concentrate, not iron pyrites,unagglomerate",56022177.1,120989.543402,"France -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+15,266,Gabon,840,United States of America,26," Iron ore, concentrate, not iron pyrites,unagglomerate",63629266.598,106043.161464,"United States of America -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+16,266,Gabon,392,Japan,26," Iron ore, concentrate, not iron pyrites,unagglomerate",33577170.526,104505.216185,"Japan -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+17,266,Gabon,764,Thailand,27," Anthracite, not agglomerated",48661128.94,99506.9,"Thailand -  Anthracite, not agglomerated"
+18,266,Gabon,578,Norway,26," Iron ore, concentrate, not iron pyrites,unagglomerate",42218467.444,88819.821963,"Norway -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+19,266,Gabon,643,Russian Federation,26," Iron ore, concentrate, not iron pyrites,unagglomerate",32827721.441,75171.302546,"Russian Federation -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+20,266,Gabon,356,India,26," Iron ore, concentrate, not iron pyrites,unagglomerate",10799989.518,46114.114817,"India -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+21,266,Gabon,702,Singapore,27," Anthracite, not agglomerated",15186535.723,41426.102018,"Singapore -  Anthracite, not agglomerated"
+22,266,Gabon,250,France,44, Fuel wood,64188097.606,40470.400312,France -  Fuel wood
+23,266,Gabon,276,Germany,27," Anthracite, not agglomerated",13162830.736,27061.51,"Germany -  Anthracite, not agglomerated"
+24,266,Gabon,356,India,44, Fuel wood,16118808.885,18548.772612,India -  Fuel wood
+25,266,Gabon,300,Greece,26," Iron ore, concentrate, not iron pyrites,unagglomerate",7857125.965,18006.0,"Greece -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+26,266,Gabon,056,Belgium,44, Fuel wood,11636336.961,10820.378708,Belgium -  Fuel wood
+27,266,Gabon,380,Italy,44, Fuel wood,12799909.228,10616.352693,Italy -  Fuel wood
+28,266,Gabon,120,Cameroon,15," Lard, other pig fat and poultry fat, rendered",6258339.699,10155.622362,"Cameroon -  Lard, other pig fat and poultry fat, rendered"
+29,266,Gabon,392,Japan,72," Pig iron, non-alloy, <0.5% phosphorus",11166916.164,10097.027329,"Japan -  Pig iron, non-alloy, <0.5% phosphorus"
+30,266,Gabon,300,Greece,44, Fuel wood,8791906.283,9415.66,Greece -  Fuel wood
+31,266,Gabon,410,"Korea, Republic of",26," Iron ore, concentrate, not iron pyrites,unagglomerate",2510620.885,8144.690685,"Korea, Republic of -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+32,266,Gabon,250,France,27," Anthracite, not agglomerated",10691233.495,7905.405904,"France -  Anthracite, not agglomerated"
+33,266,Gabon,392,Japan,27," Anthracite, not agglomerated",3753149.819,7601.036907,"Japan -  Anthracite, not agglomerated"
+34,266,Gabon,504,Morocco,44, Fuel wood,7934543.1,7203.310611999999,Morocco -  Fuel wood
+35,266,Gabon,724,Spain,44, Fuel wood,8879254.966,6933.058,Spain -  Fuel wood
+36,266,Gabon,056,Belgium,26," Iron ore, concentrate, not iron pyrites,unagglomerate",2477136.532,6291.332377000001,"Belgium -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+37,266,Gabon,792,Türkiye,72," Pig iron, non-alloy, <0.5% phosphorus",6654737.0,6038.76,"Türkiye -  Pig iron, non-alloy, <0.5% phosphorus"
+38,266,Gabon,528,Netherlands (Kingdom of the),72," Pig iron, non-alloy, <0.5% phosphorus",5050772.366,5304.673323,"Netherlands (Kingdom of the) -  Pig iron, non-alloy, <0.5% phosphorus"
+39,266,Gabon,528,Netherlands (Kingdom of the),44, Fuel wood,6776063.309,4963.82252,Netherlands (Kingdom of the) -  Fuel wood
+40,266,Gabon,616,Poland,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1894176.934,4816.254205,"Poland -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+41,266,Gabon,288,Ghana,72," Pig iron, non-alloy, <0.5% phosphorus",1909246.83,4266.981663,"Ghana -  Pig iron, non-alloy, <0.5% phosphorus"
+42,266,Gabon,276,Germany,72," Pig iron, non-alloy, <0.5% phosphorus",4045045.619,3794.7555780000002,"Germany -  Pig iron, non-alloy, <0.5% phosphorus"
+43,266,Gabon,608,Philippines,44, Fuel wood,2962917.81,3745.146648,Philippines -  Fuel wood
+44,266,Gabon,620,Portugal,44, Fuel wood,2845186.631,3728.272,Portugal -  Fuel wood
+45,266,Gabon,724,Spain,15," Lard, other pig fat and poultry fat, rendered",2779514.128,3700.58,"Spain -  Lard, other pig fat and poultry fat, rendered"
+46,266,Gabon,840,United States of America,44, Fuel wood,5362902.786,3624.891156,United States of America -  Fuel wood
+47,266,Gabon,784,United Arab Emirates,44, Fuel wood,2844512.997,3390.88664,United Arab Emirates -  Fuel wood
+48,266,Gabon,840,United States of America,40," Natural rubber latex, including prevulcanised",5107285.047,3156.041551,"United States of America -  Natural rubber latex, including prevulcanised"
+49,266,Gabon,214,Dominican Republic,44, Fuel wood,2396627.661,3015.935,Dominican Republic -  Fuel wood
+50,266,Gabon,204,Benin,15," Lard, other pig fat and poultry fat, rendered",983823.046,2855.21,"Benin -  Lard, other pig fat and poultry fat, rendered"
+51,266,Gabon,250,France,40," Natural rubber latex, including prevulcanised",3415488.827,2196.603881,"France -  Natural rubber latex, including prevulcanised"
+52,266,Gabon,528,Netherlands (Kingdom of the),81," Powders, tungsten (wolfram)",728269.228,2005.340022,"Netherlands (Kingdom of the) -  Powders, tungsten (wolfram)"
+53,266,Gabon,702,Singapore,26," Iron ore, concentrate, not iron pyrites,unagglomerate",911338.053,1861.431564,"Singapore -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+54,266,Gabon,384,Côte d'Ivoire,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1006833.664,1819.45,"Côte d'Ivoire -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+55,266,Gabon,724,Spain,40," Natural rubber latex, including prevulcanised",2609868.317,1811.88,"Spain -  Natural rubber latex, including prevulcanised"
+56,266,Gabon,276,Germany,40," Natural rubber latex, including prevulcanised",2343998.431,1587.6,"Germany -  Natural rubber latex, including prevulcanised"
+57,266,Gabon,504,Morocco,23," Flour or meal, pellet of meat or offal for animal fee",294737.088,1544.20724,"Morocco -  Flour or meal, pellet of meat or offal for animal fee"
+58,266,Gabon,414,Kuwait,44, Fuel wood,781136.116,1520.04943,Kuwait -  Fuel wood
+59,266,Gabon,792,Türkiye,44, Fuel wood,1130383.0,1510.999,Türkiye -  Fuel wood
+60,266,Gabon,276,Germany,44, Fuel wood,1205077.859,1473.8101880000002,Germany -  Fuel wood
+61,266,Gabon,682,Saudi Arabia,44, Fuel wood,1216921.968,1454.775801,Saudi Arabia -  Fuel wood
+62,266,Gabon,276,Germany,81," Powders, tungsten (wolfram)",595157.496,1403.2174779999998,"Germany -  Powders, tungsten (wolfram)"
+63,266,Gabon,380,Italy,40," Natural rubber latex, including prevulcanised",1637559.884,1266.8781880000001,"Italy -  Natural rubber latex, including prevulcanised"
+64,266,Gabon,268,Georgia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",292446.044,982.935591,"Georgia -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+65,266,Gabon,616,Poland,40," Natural rubber latex, including prevulcanised",975399.565,753.447003,"Poland -  Natural rubber latex, including prevulcanised"
+66,266,Gabon,392,Japan,76," Aluminium unwrought, not alloyed",945275.134,618.434933,"Japan -  Aluminium unwrought, not alloyed"
+67,266,Gabon,764,Thailand,73, Sheet piling of iron or steel,5289981.25,607.751,Thailand -  Sheet piling of iron or steel
+68,266,Gabon,764,Thailand,78, Lead refined unwrought,1291697.448,577.94,Thailand -  Lead refined unwrought
+69,266,Gabon,384,Côte d'Ivoire,15," Lard, other pig fat and poultry fat, rendered",446866.591,516.14,"Côte d'Ivoire -  Lard, other pig fat and poultry fat, rendered"
+70,266,Gabon,372,Ireland,87, Pedestrian controlled tractors,1454175.735,448.323537,Ireland -  Pedestrian controlled tractors
+71,266,Gabon,300,Greece,72," Pig iron, non-alloy, <0.5% phosphorus",490778.167,432.0,"Greece -  Pig iron, non-alloy, <0.5% phosphorus"
+72,266,Gabon,032,Argentina,44, Fuel wood,378833.671,426.98326299999997,Argentina -  Fuel wood
+73,266,Gabon,764,Thailand,84, Nuclear reactors,3235668.728,405.798,Thailand -  Nuclear reactors
+74,266,Gabon,480,Mauritius,84, Nuclear reactors,939319.572,385.030584,Mauritius -  Nuclear reactors
+75,266,Gabon,372,Ireland,72," Pig iron, non-alloy, <0.5% phosphorus",403043.728,378.361954,"Ireland -  Pig iron, non-alloy, <0.5% phosphorus"
+76,266,Gabon,250,France,72," Pig iron, non-alloy, <0.5% phosphorus",443258.964,375.115264,"France -  Pig iron, non-alloy, <0.5% phosphorus"
+77,266,Gabon,410,"Korea, Republic of",44, Fuel wood,313163.394,370.263823,"Korea, Republic of -  Fuel wood"
+78,266,Gabon,554,New Zealand,44, Fuel wood,271720.772,369.353817,New Zealand -  Fuel wood
+79,266,Gabon,152,Chile,44, Fuel wood,318067.085,343.517695,Chile -  Fuel wood
+80,266,Gabon,120,Cameroon,70," Glass cullet, waste or scrap, glass in the mass",28418.058,327.786493,"Cameroon -  Glass cullet, waste or scrap, glass in the mass"
+81,266,Gabon,642,Romania,40," Natural rubber latex, including prevulcanised",453620.724,317.52,"Romania -  Natural rubber latex, including prevulcanised"
+82,266,Gabon,384,Côte d'Ivoire,72," Pig iron, non-alloy, <0.5% phosphorus",367291.299,297.275,"Côte d'Ivoire -  Pig iron, non-alloy, <0.5% phosphorus"
+83,266,Gabon,764,Thailand,76," Aluminium unwrought, not alloyed",476750.671,295.385,"Thailand -  Aluminium unwrought, not alloyed"
+84,266,Gabon,729,Sudan,27," Anthracite, not agglomerated",266014.989,287.58211,"Sudan -  Anthracite, not agglomerated"
+85,266,Gabon,826,United Kingdom,44, Fuel wood,304886.236,277.77489899999995,United Kingdom -  Fuel wood
+86,266,Gabon,478,Mauritania,15," Lard, other pig fat and poultry fat, rendered",81350.838,274.379792,"Mauritania -  Lard, other pig fat and poultry fat, rendered"
+87,266,Gabon,120,Cameroon,19," Infant foods of cereals, flour, starch or milk, retai",402693.322,270.278123,"Cameroon -  Infant foods of cereals, flour, starch or milk, retai"
+88,266,Gabon,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",195030.77,257.94045800000004,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+89,266,Gabon,288,Ghana,87, Pedestrian controlled tractors,1273297.929,249.86381,Ghana -  Pedestrian controlled tractors
+90,266,Gabon,344,"China, Hong Kong SAR",03," Ornamental fish, live",1521865.526,231.47939300000002,"China, Hong Kong SAR -  Ornamental fish, live"
+91,266,Gabon,048,Bahrain,44, Fuel wood,242390.914,226.38233499999998,Bahrain -  Fuel wood
+92,266,Gabon,466,Mali,44, Fuel wood,25368.942,196.806171,Mali -  Fuel wood
+93,266,Gabon,372,Ireland,39, Polyethylene - specific gravity <0.94 in primary form,250393.393,175.431892,Ireland -  Polyethylene - specific gravity <0.94 in primary form
+94,266,Gabon,156,China,74, Copper mattes,967118.272,168.855869,China -  Copper mattes
+95,266,Gabon,586,Pakistan,44, Fuel wood,247836.357,161.95792,Pakistan -  Fuel wood
+96,266,Gabon,372,Ireland,19," Infant foods of cereals, flour, starch or milk, retai",178934.507,161.868074,"Ireland -  Infant foods of cereals, flour, starch or milk, retai"
+97,266,Gabon,788,Tunisia,44, Fuel wood,156887.353,154.836357,Tunisia -  Fuel wood
+98,266,Gabon,764,Thailand,94," Seats, aircraft",1304729.825,148.678,"Thailand -  Seats, aircraft"
+99,266,Gabon,686,Senegal,44, Fuel wood,71348.999,146.561037,Senegal -  Fuel wood
+100,266,Gabon,858,Uruguay,44, Fuel wood,160881.02,142.493,Uruguay -  Fuel wood
+101,266,Gabon,288,Ghana,84, Nuclear reactors,1014616.238,142.37439,Ghana -  Nuclear reactors
+102,266,Gabon,384,Côte d'Ivoire,89," Cruise ships, excursion boats, ferry boats",175533.707,142.37,"Côte d'Ivoire -  Cruise ships, excursion boats, ferry boats"
+103,266,Gabon,508,Mozambique,15," Lard, other pig fat and poultry fat, rendered",86812.63,119.56,"Mozambique -  Lard, other pig fat and poultry fat, rendered"
+104,266,Gabon,528,Netherlands (Kingdom of the),84, Nuclear reactors,734637.989,118.026765,Netherlands (Kingdom of the) -  Nuclear reactors
+105,266,Gabon,140,Central African Republic,72," Pig iron, non-alloy, <0.5% phosphorus",53489.777,111.84630499999999,"Central African Republic -  Pig iron, non-alloy, <0.5% phosphorus"
+106,266,Gabon,422,Lebanon,44, Fuel wood,108858.938,102.405036,Lebanon -  Fuel wood
+107,266,Gabon,360,Indonesia,44, Fuel wood,95608.264,99.739725,Indonesia -  Fuel wood
+108,266,Gabon,204,Benin,27," Anthracite, not agglomerated",68628.333,99.204,"Benin -  Anthracite, not agglomerated"
+109,266,Gabon,764,Thailand,85, Electric motors of an output < 37.5 watts,768258.337,97.998,Thailand -  Electric motors of an output < 37.5 watts
+110,266,Gabon,634,Qatar,44, Fuel wood,94837.825,95.251367,Qatar -  Fuel wood
+111,266,Gabon,724,Spain,78, Lead refined unwrought,217926.338,94.41,Spain -  Lead refined unwrought
+112,266,Gabon,276,Germany,26," Iron ore, concentrate, not iron pyrites,unagglomerate",821934.733,91.61291499999999,"Germany -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+113,266,Gabon,616,Poland,44, Fuel wood,101070.835,90.263176,Poland -  Fuel wood
+114,266,Gabon,120,Cameroon,84, Nuclear reactors,66213.071,86.062956,Cameroon -  Nuclear reactors
+115,266,Gabon,104,Myanmar,44, Fuel wood,28329.35,78.65,Myanmar -  Fuel wood
+116,266,Gabon,372,Ireland,23," Flour or meal, pellet of meat or offal for animal fee",99611.964,76.554052,"Ireland -  Flour or meal, pellet of meat or offal for animal fee"
+117,266,Gabon,768,Togo,44, Fuel wood,88476.906,76.15,Togo -  Fuel wood
+118,266,Gabon,840,United States of America,81," Powders, tungsten (wolfram)",23902.206,74.853495,"United States of America -  Powders, tungsten (wolfram)"
+119,266,Gabon,372,Ireland,84, Nuclear reactors,280647.526,71.68580499999999,Ireland -  Nuclear reactors
+120,266,Gabon,372,Ireland,48, Newsprint,133430.184,69.16782099999999,Ireland -  Newsprint
+121,266,Gabon,196,Cyprus,44, Fuel wood,98016.732,66.09,Cyprus -  Fuel wood
+122,266,Gabon,566,Nigeria,87, Pedestrian controlled tractors,71547.334,65.837,Nigeria -  Pedestrian controlled tractors
+123,266,Gabon,288,Ghana,73, Sheet piling of iron or steel,33581.971,62.792688999999996,Ghana -  Sheet piling of iron or steel
+124,266,Gabon,818,Egypt,44, Fuel wood,126486.417,61.845633,Egypt -  Fuel wood
+125,266,Gabon,764,Thailand,44, Fuel wood,81547.881,59.016,Thailand -  Fuel wood
+126,266,Gabon,792,Türkiye,26," Iron ore, concentrate, not iron pyrites,unagglomerate",49274.0,58.8,"Türkiye -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+127,266,Gabon,372,Ireland,38, Artificial graphite,26428.481,58.218399,Ireland -  Artificial graphite
+128,266,Gabon,376,Israel,44, Fuel wood,159274.469,57.665966999999995,Israel -  Fuel wood
+129,266,Gabon,558,Nicaragua,44, Fuel wood,40020.996,56.397208,Nicaragua -  Fuel wood
+130,266,Gabon,372,Ireland,25," Salt (sodium chloride) including solution, salt water",19116.462,56.352537,"Ireland -  Salt (sodium chloride) including solution, salt water"
+131,266,Gabon,372,Ireland,44, Fuel wood,42757.329,53.725838,Ireland -  Fuel wood
+132,266,Gabon,120,Cameroon,72," Pig iron, non-alloy, <0.5% phosphorus",29682.051,51.834049,"Cameroon -  Pig iron, non-alloy, <0.5% phosphorus"
+133,266,Gabon,288,Ghana,40," Natural rubber latex, including prevulcanised",9891.192,50.384767,"Ghana -  Natural rubber latex, including prevulcanised"
+134,266,Gabon,410,"Korea, Republic of",78, Lead refined unwrought,52643.086,48.730249,"Korea, Republic of -  Lead refined unwrought"
+135,266,Gabon,036,Australia,44, Fuel wood,149773.283,47.187453,Australia -  Fuel wood
+136,266,Gabon,756,"Switzerland, Liechtenstein",44, Fuel wood,101385.953,46.868316,"Switzerland, Liechtenstein -  Fuel wood"
+137,266,Gabon,724,Spain,03," Ornamental fish, live",490497.493,46.116,"Spain -  Ornamental fish, live"
+138,266,Gabon,616,Poland,74, Copper mattes,230412.729,44.042122000000006,Poland -  Copper mattes
+139,266,Gabon,348,Hungary,44, Fuel wood,71773.45,42.79495,Hungary -  Fuel wood
+140,266,Gabon,524,Nepal,44, Fuel wood,85615.142,42.013487,Nepal -  Fuel wood
+141,266,Gabon,356,India,81," Powders, tungsten (wolfram)",12239.311,41.792815000000004,"India -  Powders, tungsten (wolfram)"
+142,266,Gabon,372,Ireland,04, Milk not concentrated nor sweetened < 1% fat,73312.377,40.649612999999995,Ireland -  Milk not concentrated nor sweetened < 1% fat
+143,266,Gabon,372,Ireland,73, Sheet piling of iron or steel,42816.745,39.592832,Ireland -  Sheet piling of iron or steel
+144,266,Gabon,404,Kenya,39, Polyethylene - specific gravity <0.94 in primary form,46279.991,39.407139,Kenya -  Polyethylene - specific gravity <0.94 in primary form
+145,266,Gabon,204,Benin,63, Electric blankets of textile material,20970.6,39.36,Benin -  Electric blankets of textile material
+146,266,Gabon,174,Comoros,15," Lard, other pig fat and poultry fat, rendered",37664.69,39.219,"Comoros -  Lard, other pig fat and poultry fat, rendered"
+147,266,Gabon,040,Austria,44, Fuel wood,45269.873,36.627241999999995,Austria -  Fuel wood
+148,266,Gabon,144,Sri Lanka,44, Fuel wood,44709.368,34.947027,Sri Lanka -  Fuel wood
+149,266,Gabon,380,Italy,94," Seats, aircraft",9312.721,34.328182,"Italy -  Seats, aircraft"
+150,266,Gabon,052,Barbados,44, Fuel wood,45002.319,31.760704,Barbados -  Fuel wood
+151,266,Gabon,764,Thailand,26," Iron ore, concentrate, not iron pyrites,unagglomerate",40759.88,30.0,"Thailand -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+152,266,Gabon,120,Cameroon,44, Fuel wood,10715.891,28.525461,Cameroon -  Fuel wood
+153,266,Gabon,768,Togo,73, Sheet piling of iron or steel,4853.73,28.133,Togo -  Sheet piling of iron or steel
+154,266,Gabon,132,Cabo Verde,89," Cruise ships, excursion boats, ferry boats",65694.705,27.11405,"Cabo Verde -  Cruise ships, excursion boats, ferry boats"
+155,266,Gabon,372,Ireland,32, Quebracho tanning extract,91810.302,27.044544000000002,Ireland -  Quebracho tanning extract
+156,266,Gabon,729,Sudan,48, Newsprint,12828.961,25.33,Sudan -  Newsprint
+157,266,Gabon,724,Spain,81," Powders, tungsten (wolfram)",7628.251,25.0,"Spain -  Powders, tungsten (wolfram)"
+158,266,Gabon,180,"Congo, Dem. Rep. of the",27," Anthracite, not agglomerated",22428.137,24.907376,"Congo, Dem. Rep. of the -  Anthracite, not agglomerated"
+159,266,Gabon,392,Japan,81," Powders, tungsten (wolfram)",10314.797,24.75607,"Japan -  Powders, tungsten (wolfram)"
+160,266,Gabon,204,Benin,87, Pedestrian controlled tractors,104715.706,23.13,Benin -  Pedestrian controlled tractors
+161,266,Gabon,686,Senegal,87, Pedestrian controlled tractors,42150.858,21.412437999999998,Senegal -  Pedestrian controlled tractors
+162,266,Gabon,478,Mauritania,04, Milk not concentrated nor sweetened < 1% fat,778.525,20.372974,Mauritania -  Milk not concentrated nor sweetened < 1% fat
+163,266,Gabon,270,Gambia,49," Brochures, leaflets and similar, in single sheets",4769.764,20.32,"Gambia -  Brochures, leaflets and similar, in single sheets"
+164,266,Gabon,372,Ireland,21," Coffee extracts, essences, concentrates, preparations",44603.327,19.769179,"Ireland -  Coffee extracts, essences, concentrates, preparations"
+165,266,Gabon,208,Denmark,44, Fuel wood,32189.674,19.304413,Denmark -  Fuel wood
+166,266,Gabon,729,Sudan,34," Soaps, for toilet use, solid",24697.163,19.07,"Sudan -  Soaps, for toilet use, solid"
+167,266,Gabon,566,Nigeria,38, Artificial graphite,42772.935,18.89,Nigeria -  Artificial graphite
+168,266,Gabon,686,Senegal,17," Raw sugar, cane",6966.731,18.880401999999997,"Senegal -  Raw sugar, cane"
+169,266,Gabon,840,United States of America,84, Nuclear reactors,182840.001,18.649946,United States of America -  Nuclear reactors
+170,266,Gabon,372,Ireland,69," Bricks, blocks and ceramic goods of siliceous earths",8500.893,18.235482,"Ireland -  Bricks, blocks and ceramic goods of siliceous earths"
+171,266,Gabon,024,Angola,28, Chlorine,9104.256,18.0,Angola -  Chlorine
+172,266,Gabon,120,Cameroon,17," Raw sugar, cane",8680.298,17.818574,"Cameroon -  Raw sugar, cane"
+173,266,Gabon,040,Austria,72," Pig iron, non-alloy, <0.5% phosphorus",18219.76,17.442293000000003,"Austria -  Pig iron, non-alloy, <0.5% phosphorus"
+174,266,Gabon,764,Thailand,82, Spades and shovels,137136.015,16.823,Thailand -  Spades and shovels
+175,266,Gabon,108,Burundi,85, Electric motors of an output < 37.5 watts,24354.728,16.387879,Burundi -  Electric motors of an output < 37.5 watts
+176,266,Gabon,084,Belize,72," Pig iron, non-alloy, <0.5% phosphorus",5533.899,16.131951,"Belize -  Pig iron, non-alloy, <0.5% phosphorus"
+177,266,Gabon,372,Ireland,22, Mineral and aerated waters not sweetened or flavoured,21406.256,15.915638999999999,Ireland -  Mineral and aerated waters not sweetened or flavoured
+178,266,Gabon,056,Belgium,27," Anthracite, not agglomerated",878.021,15.818602,"Belgium -  Anthracite, not agglomerated"
+179,266,Gabon,270,Gambia,87, Pedestrian controlled tractors,7521.112,15.64,Gambia -  Pedestrian controlled tractors
+180,266,Gabon,275,State of Palestine,44, Fuel wood,42295.728,15.462768,State of Palestine -  Fuel wood
+181,266,Gabon,768,Togo,63, Electric blankets of textile material,1031.049,15.44,Togo -  Electric blankets of textile material
+182,266,Gabon,120,Cameroon,04, Milk not concentrated nor sweetened < 1% fat,14441.324,15.393998,Cameroon -  Milk not concentrated nor sweetened < 1% fat
+183,266,Gabon,643,Russian Federation,44, Fuel wood,32925.493,15.138009,Russian Federation -  Fuel wood
+184,266,Gabon,104,Myanmar,36, Propellent powders,16599.268,15.0,Myanmar -  Propellent powders
+185,266,Gabon,566,Nigeria,84, Nuclear reactors,8639.145,14.84,Nigeria -  Nuclear reactors
+186,266,Gabon,288,Ghana,85, Electric motors of an output < 37.5 watts,8091.827,14.807957,Ghana -  Electric motors of an output < 37.5 watts
+187,266,Gabon,729,Sudan,84, Nuclear reactors,157518.936,14.652,Sudan -  Nuclear reactors
+188,266,Gabon,764,Thailand,90," Optical fibres, except for telecommunications",80318.168,14.588,"Thailand -  Optical fibres, except for telecommunications"
+189,266,Gabon,688,Serbia,44, Fuel wood,25008.077,14.451311,Serbia -  Fuel wood
+190,266,Gabon,372,Ireland,03," Ornamental fish, live",75661.035,14.286842,"Ireland -  Ornamental fish, live"
+191,266,Gabon,372,Ireland,20," Cucumbers,gherkins, prepared or preserved by vinegar",34692.978,13.801241,"Ireland -  Cucumbers,gherkins, prepared or preserved by vinegar"
+192,266,Gabon,840,United States of America,87, Pedestrian controlled tractors,64792.959,13.731852,United States of America -  Pedestrian controlled tractors
+193,266,Gabon,480,Mauritius,44, Fuel wood,16169.174,13.698,Mauritius -  Fuel wood
+194,266,Gabon,384,Côte d'Ivoire,94," Seats, aircraft",77440.9,13.342,"Côte d'Ivoire -  Seats, aircraft"
+195,266,Gabon,372,Ireland,07," Potatoes seed, fresh or chilled",18758.672,12.762053,"Ireland -  Potatoes seed, fresh or chilled"
+196,266,Gabon,288,Ghana,25," Salt (sodium chloride) including solution, salt water",4640.094,12.66867,"Ghana -  Salt (sodium chloride) including solution, salt water"
+197,266,Gabon,372,Ireland,08," Coconuts, fresh or dried",31054.576,12.641482,"Ireland -  Coconuts, fresh or dried"
+198,266,Gabon,372,Ireland,09," Coffee, not roasted, not decaffeinated",42019.391,12.404181000000001,"Ireland -  Coffee, not roasted, not decaffeinated"
+199,266,Gabon,250,France,03," Ornamental fish, live",112710.458,12.132374,"France -  Ornamental fish, live"
+200,266,Gabon,840,United States of America,94," Seats, aircraft",49098.673,12.115463,"United States of America -  Seats, aircraft"
+201,266,Gabon,372,Ireland,94," Seats, aircraft",43301.567,12.060535,"Ireland -  Seats, aircraft"
+202,266,Gabon,108,Burundi,84, Nuclear reactors,25802.418,11.659865,Burundi -  Nuclear reactors
+203,266,Gabon,100,Bulgaria,74, Copper mattes,59672.631,11.606781000000002,Bulgaria -  Copper mattes
+204,266,Gabon,372,Ireland,34," Soaps, for toilet use, solid",41800.932,11.576821,"Ireland -  Soaps, for toilet use, solid"
+205,266,Gabon,504,Morocco,94," Seats, aircraft",40109.659,11.543233,"Morocco -  Seats, aircraft"
+206,266,Gabon,512,Oman,44, Fuel wood,13200.089,11.5298,Oman -  Fuel wood
+207,266,Gabon,764,Thailand,83, Padlocks of base metal,99888.218,11.324,Thailand -  Padlocks of base metal
+208,266,Gabon,372,Ireland,85, Electric motors of an output < 37.5 watts,22245.571,11.315158,Ireland -  Electric motors of an output < 37.5 watts
+209,266,Gabon,250,France,87, Pedestrian controlled tractors,84998.574,11.211504000000001,France -  Pedestrian controlled tractors
+210,266,Gabon,384,Côte d'Ivoire,84, Nuclear reactors,21801.893,10.633676,Côte d'Ivoire -  Nuclear reactors
+211,266,Gabon,686,Senegal,94," Seats, aircraft",2911.614,10.056292,"Senegal -  Seats, aircraft"
+212,266,Gabon,372,Ireland,02," Bovine carcasses and half carcasses, fresh or chilled",33758.512,10.030648,"Ireland -  Bovine carcasses and half carcasses, fresh or chilled"
+213,266,Gabon,214,Dominican Republic,84, Nuclear reactors,24168.0,9.37416,Dominican Republic -  Nuclear reactors
+214,266,Gabon,040,Austria,38, Artificial graphite,12679.122,9.202707,Austria -  Artificial graphite
+215,266,Gabon,120,Cameroon,22, Mineral and aerated waters not sweetened or flavoured,2783.463,8.940280000000001,Cameroon -  Mineral and aerated waters not sweetened or flavoured
+216,266,Gabon,372,Ireland,10, Durum wheat,25836.598,8.935342,Ireland -  Durum wheat
+217,266,Gabon,840,United States of America,48, Newsprint,70916.123,8.838075,United States of America -  Newsprint
+218,266,Gabon,372,Ireland,29, Saturated acyclic hydrocarbons,11906.325,8.212789,Ireland -  Saturated acyclic hydrocarbons
+219,266,Gabon,203,Czechia,27," Anthracite, not agglomerated",1227.616,8.128778,"Czechia -  Anthracite, not agglomerated"
+220,266,Gabon,120,Cameroon,08," Coconuts, fresh or dried",155.111,7.957002,"Cameroon -  Coconuts, fresh or dried"
+221,266,Gabon,372,Ireland,11, Wheat or meslin flour,9346.485,7.561546999999999,Ireland -  Wheat or meslin flour
+222,266,Gabon,324,Guinea,46, Plaits and products of plaiting materials,48.476,7.431419,Guinea -  Plaits and products of plaiting materials
+223,266,Gabon,372,Ireland,33, Essential oils of bergamot,16701.246,7.408953,Ireland -  Essential oils of bergamot
+224,266,Gabon,250,France,73, Sheet piling of iron or steel,39734.677,7.370808,France -  Sheet piling of iron or steel
+225,266,Gabon,768,Togo,94," Seats, aircraft",2704.018,7.28,"Togo -  Seats, aircraft"
+226,266,Gabon,108,Burundi,82, Spades and shovels,4972.736,7.132417,Burundi -  Spades and shovels
+227,266,Gabon,768,Togo,84, Nuclear reactors,1917.724,6.96,Togo -  Nuclear reactors
+228,266,Gabon,840,United States of America,73, Sheet piling of iron or steel,10789.281,6.926857,United States of America -  Sheet piling of iron or steel
+229,266,Gabon,466,Mali,94," Seats, aircraft",1401.917,6.884757,"Mali -  Seats, aircraft"
+230,266,Gabon,384,Côte d'Ivoire,39, Polyethylene - specific gravity <0.94 in primary form,29820.307,6.662,Côte d'Ivoire -  Polyethylene - specific gravity <0.94 in primary form
+231,266,Gabon,508,Mozambique,94," Seats, aircraft",3551.11,6.576,"Mozambique -  Seats, aircraft"
+232,266,Gabon,682,Saudi Arabia,25," Salt (sodium chloride) including solution, salt water",1823.293,6.538652,"Saudi Arabia -  Salt (sodium chloride) including solution, salt water"
+233,266,Gabon,120,Cameroon,87, Pedestrian controlled tractors,39590.357,6.416195,Cameroon -  Pedestrian controlled tractors
+234,266,Gabon,528,Netherlands (Kingdom of the),73, Sheet piling of iron or steel,24139.895,6.286935000000001,Netherlands (Kingdom of the) -  Sheet piling of iron or steel
+235,266,Gabon,203,Czechia,45," Natural cork, raw or simply prepared",13186.619,6.233775,"Czechia -  Natural cork, raw or simply prepared"
+236,266,Gabon,356,India,78, Lead refined unwrought,6280.665,6.204009,India -  Lead refined unwrought
+237,266,Gabon,372,Ireland,15," Lard, other pig fat and poultry fat, rendered",11538.144,6.189399000000001,"Ireland -  Lard, other pig fat and poultry fat, rendered"
+238,266,Gabon,100,Bulgaria,44, Fuel wood,8308.759,6.130386000000001,Bulgaria -  Fuel wood
+239,266,Gabon,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,23191.198,5.999,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+240,266,Gabon,360,Indonesia,76," Aluminium unwrought, not alloyed",10363.798,5.9841239999999996,"Indonesia -  Aluminium unwrought, not alloyed"
+241,266,Gabon,384,Côte d'Ivoire,73, Sheet piling of iron or steel,25769.895,5.982,Côte d'Ivoire -  Sheet piling of iron or steel
+242,266,Gabon,480,Mauritius,89," Cruise ships, excursion boats, ferry boats",48853.895,5.755,"Mauritius -  Cruise ships, excursion boats, ferry boats"
+243,266,Gabon,120,Cameroon,40," Natural rubber latex, including prevulcanised",4105.485,5.616993000000001,"Cameroon -  Natural rubber latex, including prevulcanised"
+244,266,Gabon,562,Niger,46, Plaits and products of plaiting materials,3755.874,5.570488999999999,Niger -  Plaits and products of plaiting materials
+245,266,Gabon,616,Poland,23," Flour or meal, pellet of meat or offal for animal fee",34055.653,5.308877000000001,"Poland -  Flour or meal, pellet of meat or offal for animal fee"
+246,266,Gabon,384,Côte d'Ivoire,82, Spades and shovels,1036.528,5.2999030000000005,Côte d'Ivoire -  Spades and shovels
+247,266,Gabon,204,Benin,94," Seats, aircraft",7721.106,5.09,"Benin -  Seats, aircraft"
+248,266,Gabon,372,Ireland,86," Rail locomotives, externally electrically powered",2873.027,5.048481,"Ireland -  Rail locomotives, externally electrically powered"
+249,266,Gabon,214,Dominican Republic,89," Cruise ships, excursion boats, ferry boats",3000.0,5.0,"Dominican Republic -  Cruise ships, excursion boats, ferry boats"
+250,266,Gabon,024,Angola,25," Salt (sodium chloride) including solution, salt water",21089.475,4.874,"Angola -  Salt (sodium chloride) including solution, salt water"
+251,266,Gabon,324,Guinea,87, Pedestrian controlled tractors,2578.084,4.810225,Guinea -  Pedestrian controlled tractors
+252,266,Gabon,012,Algeria,44, Fuel wood,17187.68,4.807438,Algeria -  Fuel wood
+253,266,Gabon,686,Senegal,84, Nuclear reactors,15251.769,4.743366,Senegal -  Nuclear reactors
+254,266,Gabon,372,Ireland,82, Spades and shovels,6281.077,4.658061,Ireland -  Spades and shovels
+255,266,Gabon,372,Ireland,35, Casein,27497.387,4.513368000000001,Ireland -  Casein
+256,266,Gabon,276,Germany,03," Ornamental fish, live",37582.908,4.408773,"Germany -  Ornamental fish, live"
+257,266,Gabon,826,United Kingdom,94," Seats, aircraft",4212.141,4.346082,"United Kingdom -  Seats, aircraft"
+258,266,Gabon,372,Ireland,18," Cocoa beans, whole or broken, raw or roasted",12236.609,4.342193,"Ireland -  Cocoa beans, whole or broken, raw or roasted"
+259,266,Gabon,854,Burkina Faso,94," Seats, aircraft",4119.323,4.275640999999999,"Burkina Faso -  Seats, aircraft"
+260,266,Gabon,729,Sudan,92," Upright pianos, including auto-players",0.709,3.996,"Sudan -  Upright pianos, including auto-players"
+261,266,Gabon,250,France,84, Nuclear reactors,78965.184,3.761085,France -  Nuclear reactors
+262,266,Gabon,108,Burundi,94," Seats, aircraft",1036.437,3.596002,"Burundi -  Seats, aircraft"
+263,266,Gabon,120,Cameroon,73, Sheet piling of iron or steel,18556.697,3.588892,Cameroon -  Sheet piling of iron or steel
+264,266,Gabon,702,Singapore,35, Casein,5449.557,3.4359360000000003,Singapore -  Casein
+265,266,Gabon,840,United States of America,12, Soya beans,21951.206,3.377088,United States of America -  Soya beans
+266,266,Gabon,860,Uzbekistan,44, Fuel wood,4466.184,3.138915,Uzbekistan -  Fuel wood
+267,266,Gabon,480,Mauritius,94," Seats, aircraft",5904.466,3.066,"Mauritius -  Seats, aircraft"
+268,266,Gabon,203,Czechia,44, Fuel wood,2129.106,3.0461750000000003,Czechia -  Fuel wood
+269,266,Gabon,768,Togo,47, Mechanical wood pulp,545.821,2.862595,Togo -  Mechanical wood pulp
+270,266,Gabon,380,Italy,39, Polyethylene - specific gravity <0.94 in primary form,17194.692,2.824287,Italy -  Polyethylene - specific gravity <0.94 in primary form
+271,266,Gabon,616,Poland,84, Nuclear reactors,60419.789,2.775366,Poland -  Nuclear reactors
+272,266,Gabon,250,France,86," Rail locomotives, externally electrically powered",16989.747,2.760342,"France -  Rail locomotives, externally electrically powered"
+273,266,Gabon,716,Zimbabwe,87, Pedestrian controlled tractors,5825.909,2.721812,Zimbabwe -  Pedestrian controlled tractors
+274,266,Gabon,056,Belgium,85, Electric motors of an output < 37.5 watts,946.06,2.6754290000000003,Belgium -  Electric motors of an output < 37.5 watts
+275,266,Gabon,562,Niger,94," Seats, aircraft",2788.355,2.652926,"Niger -  Seats, aircraft"
+276,266,Gabon,372,Ireland,17," Raw sugar, cane",12486.896,2.646467,"Ireland -  Raw sugar, cane"
+277,266,Gabon,372,Ireland,76," Aluminium unwrought, not alloyed",12160.443,2.628901,"Ireland -  Aluminium unwrought, not alloyed"
+278,266,Gabon,384,Côte d'Ivoire,62," Mens, boys overcoats of wool or hair, not knit",16677.583,2.54,"Côte d'Ivoire -  Mens, boys overcoats of wool or hair, not knit"
+279,266,Gabon,250,France,22, Mineral and aerated waters not sweetened or flavoured,578.504,2.509293,France -  Mineral and aerated waters not sweetened or flavoured
+280,266,Gabon,288,Ghana,82, Spades and shovels,690.064,2.501545,Ghana -  Spades and shovels
+281,266,Gabon,024,Angola,87, Pedestrian controlled tractors,85855.26,2.454,Angola -  Pedestrian controlled tractors
+282,266,Gabon,800,Uganda,31," Animal or vegetable fertilizers, in packs >10 kg",1153.254,2.391075,"Uganda -  Animal or vegetable fertilizers, in packs >10 kg"
+283,266,Gabon,258,French Polynesia,44, Fuel wood,5152.607,2.374,French Polynesia -  Fuel wood
+284,266,Gabon,204,Benin,84, Nuclear reactors,1035.392,2.33,Benin -  Nuclear reactors
+285,266,Gabon,840,United States of America,68," Stone setts, curbstones, flagstones (except slate)",4260.225,2.175563,"United States of America -  Stone setts, curbstones, flagstones (except slate)"
+286,266,Gabon,204,Benin,10, Durum wheat,1389.42,2.17,Benin -  Durum wheat
+287,266,Gabon,120,Cameroon,16," Sausages, similar products of meat, meat offal & bloo",14163.641,2.157565,"Cameroon -  Sausages, similar products of meat, meat offal & bloo"
+288,266,Gabon,764,Thailand,40," Natural rubber latex, including prevulcanised",17930.075,1.988,"Thailand -  Natural rubber latex, including prevulcanised"
+289,266,Gabon,084,Belize,39, Polyethylene - specific gravity <0.94 in primary form,3221.917,1.979834,Belize -  Polyethylene - specific gravity <0.94 in primary form
+290,266,Gabon,372,Ireland,83, Padlocks of base metal,23033.289,1.968547,Ireland -  Padlocks of base metal
+291,266,Gabon,384,Côte d'Ivoire,86," Rail locomotives, externally electrically powered",9873.156,1.906,"Côte d'Ivoire -  Rail locomotives, externally electrically powered"
+292,266,Gabon,384,Côte d'Ivoire,95," Rideable wheeled toys, dolls carriages",10304.099,1.894,"Côte d'Ivoire -  Rideable wheeled toys, dolls carriages"
+293,266,Gabon,454,Malawi,87, Pedestrian controlled tractors,5537.916,1.8481869999999998,Malawi -  Pedestrian controlled tractors
+294,266,Gabon,562,Niger,11, Wheat or meslin flour,214.246,1.769677,Niger -  Wheat or meslin flour
+295,266,Gabon,324,Guinea,84, Nuclear reactors,3754.547,1.759769,Guinea -  Nuclear reactors
+296,266,Gabon,384,Côte d'Ivoire,61," Mens, boys overcoats, etc, of wool or hair, knit",13148.616,1.755,"Côte d'Ivoire -  Mens, boys overcoats, etc, of wool or hair, knit"
+297,266,Gabon,108,Burundi,48, Newsprint,574.205,1.7342760000000002,Burundi -  Newsprint
+298,266,Gabon,662,Saint Lucia,07," Potatoes seed, fresh or chilled",1583.709,1.69054,"Saint Lucia -  Potatoes seed, fresh or chilled"
+299,266,Gabon,586,Pakistan,17," Raw sugar, cane",3467.498,1.6219459999999999,"Pakistan -  Raw sugar, cane"
+300,266,Gabon,288,Ghana,39, Polyethylene - specific gravity <0.94 in primary form,14438.901,1.601453,Ghana -  Polyethylene - specific gravity <0.94 in primary form
+301,266,Gabon,508,Mozambique,85, Electric motors of an output < 37.5 watts,7185.43,1.485276,Mozambique -  Electric motors of an output < 37.5 watts
+302,266,Gabon,380,Italy,90," Optical fibres, except for telecommunications",6004.359,1.393496,"Italy -  Optical fibres, except for telecommunications"
+303,266,Gabon,372,Ireland,16," Sausages, similar products of meat, meat offal & bloo",6208.374,1.348694,"Ireland -  Sausages, similar products of meat, meat offal & bloo"
+304,266,Gabon,056,Belgium,74, Copper mattes,4747.024,1.345412,Belgium -  Copper mattes
+305,266,Gabon,384,Côte d'Ivoire,63, Electric blankets of textile material,7112.176,1.307,Côte d'Ivoire -  Electric blankets of textile material
+306,266,Gabon,120,Cameroon,76," Aluminium unwrought, not alloyed",79.021,1.270681,"Cameroon -  Aluminium unwrought, not alloyed"
+307,266,Gabon,120,Cameroon,34," Soaps, for toilet use, solid",63940.542,1.249407,"Cameroon -  Soaps, for toilet use, solid"
+308,266,Gabon,288,Ghana,86," Rail locomotives, externally electrically powered",314.968,1.133871,"Ghana -  Rail locomotives, externally electrically powered"
+309,266,Gabon,840,United States of America,85, Electric motors of an output < 37.5 watts,26625.492,1.114905,United States of America -  Electric motors of an output < 37.5 watts
+310,266,Gabon,410,"Korea, Republic of",47, Mechanical wood pulp,471.62,1.111433,"Korea, Republic of -  Mechanical wood pulp"
+311,266,Gabon,702,Singapore,84, Nuclear reactors,31206.552,1.0866120000000001,Singapore -  Nuclear reactors
+312,266,Gabon,376,Israel,84, Nuclear reactors,11318.32,1.071769,Israel -  Nuclear reactors
+313,266,Gabon,352,Iceland,44, Fuel wood,1757.651,1.035664,Iceland -  Fuel wood
+314,266,Gabon,729,Sudan,85, Electric motors of an output < 37.5 watts,6472.922,1.02,Sudan -  Electric motors of an output < 37.5 watts
+315,266,Gabon,174,Comoros,07," Potatoes seed, fresh or chilled",164.808,1.0,"Comoros -  Potatoes seed, fresh or chilled"
+316,266,Gabon,703,Slovakia,87, Pedestrian controlled tractors,13514.789,0.993004,Slovakia -  Pedestrian controlled tractors
+317,266,Gabon,204,Benin,73, Sheet piling of iron or steel,225.798,0.985,Benin -  Sheet piling of iron or steel
+318,266,Gabon,108,Burundi,73, Sheet piling of iron or steel,706.952,0.978707,Burundi -  Sheet piling of iron or steel
+319,266,Gabon,384,Côte d'Ivoire,70," Glass cullet, waste or scrap, glass in the mass",5732.324,0.957,"Côte d'Ivoire -  Glass cullet, waste or scrap, glass in the mass"
+320,266,Gabon,384,Côte d'Ivoire,49," Brochures, leaflets and similar, in single sheets",6310.736,0.95,"Côte d'Ivoire -  Brochures, leaflets and similar, in single sheets"
+321,266,Gabon,276,Germany,94," Seats, aircraft",55884.623,0.9404389999999999,"Germany -  Seats, aircraft"
+322,266,Gabon,578,Norway,12, Soya beans,7134.027,0.907105,Norway -  Soya beans
+323,266,Gabon,724,Spain,87, Pedestrian controlled tractors,1891.255,0.85,Spain -  Pedestrian controlled tractors
+324,266,Gabon,804,Ukraine,44, Fuel wood,2229.896,0.837406,Ukraine -  Fuel wood
+325,266,Gabon,764,Thailand,42," Saddlery and harness, of any material",6532.963,0.826,"Thailand -  Saddlery and harness, of any material"
+326,266,Gabon,566,Nigeria,85, Electric motors of an output < 37.5 watts,423.346,0.805714,Nigeria -  Electric motors of an output < 37.5 watts
+327,266,Gabon,528,Netherlands (Kingdom of the),86," Rail locomotives, externally electrically powered",413.522,0.801913,"Netherlands (Kingdom of the) -  Rail locomotives, externally electrically powered"
+328,266,Gabon,586,Pakistan,30," Glands and other organs, dried, for therapeutic uses",5331.15,0.7059460000000001,"Pakistan -  Glands and other organs, dried, for therapeutic uses"
+329,266,Gabon,120,Cameroon,32, Quebracho tanning extract,10857.075,0.703339,Cameroon -  Quebracho tanning extract
+330,266,Gabon,250,France,94," Seats, aircraft",1952.226,0.687937,"France -  Seats, aircraft"
+331,266,Gabon,120,Cameroon,39, Polyethylene - specific gravity <0.94 in primary form,2808.472,0.6542939999999999,Cameroon -  Polyethylene - specific gravity <0.94 in primary form
+332,266,Gabon,826,United Kingdom,84, Nuclear reactors,12370.808,0.6481290000000001,United Kingdom -  Nuclear reactors
+333,266,Gabon,578,Norway,73, Sheet piling of iron or steel,35404.526,0.5808300000000001,Norway -  Sheet piling of iron or steel
+334,266,Gabon,203,Czechia,22, Mineral and aerated waters not sweetened or flavoured,16853.528,0.5794009999999999,Czechia -  Mineral and aerated waters not sweetened or flavoured
+335,266,Gabon,356,India,84, Nuclear reactors,15977.1,0.559238,India -  Nuclear reactors
+336,266,Gabon,144,Sri Lanka,48, Newsprint,2800.114,0.54372,Sri Lanka -  Newsprint
+337,266,Gabon,056,Belgium,87, Pedestrian controlled tractors,4377.746,0.539026,Belgium -  Pedestrian controlled tractors
+338,266,Gabon,854,Burkina Faso,39, Polyethylene - specific gravity <0.94 in primary form,104.705,0.538687,Burkina Faso -  Polyethylene - specific gravity <0.94 in primary form
+339,266,Gabon,384,Côte d'Ivoire,69," Bricks, blocks and ceramic goods of siliceous earths",4146.122,0.535,"Côte d'Ivoire -  Bricks, blocks and ceramic goods of siliceous earths"
+340,266,Gabon,204,Benin,44, Fuel wood,566.255,0.525,Benin -  Fuel wood
+341,266,Gabon,480,Mauritius,49," Brochures, leaflets and similar, in single sheets",995.745,0.517,"Mauritius -  Brochures, leaflets and similar, in single sheets"
+342,266,Gabon,398,Kazakhstan,73, Sheet piling of iron or steel,16098.985,0.513853,Kazakhstan -  Sheet piling of iron or steel
+343,266,Gabon,729,Sudan,09," Coffee, not roasted, not decaffeinated",3401.628,0.5,"Sudan -  Coffee, not roasted, not decaffeinated"
+344,266,Gabon,384,Côte d'Ivoire,42," Saddlery and harness, of any material",4836.426,0.483,"Côte d'Ivoire -  Saddlery and harness, of any material"
+345,266,Gabon,372,Ireland,96," Worked ivory, articles of ivory",826.168,0.459955,"Ireland -  Worked ivory, articles of ivory"
+346,266,Gabon,320,Guatemala,73, Sheet piling of iron or steel,1642.646,0.444542,Guatemala -  Sheet piling of iron or steel
+347,266,Gabon,384,Côte d'Ivoire,64," Waterproof footwear (Wellingtons etc), metal toe cap",2012.164,0.443,"Côte d'Ivoire -  Waterproof footwear (Wellingtons etc), metal toe cap"
+348,266,Gabon,242,Fiji,55," Filament tow of nylon, polyamides",3836.492,0.42937000000000003,"Fiji -  Filament tow of nylon, polyamides"
+349,266,Gabon,170,Colombia,61," Mens, boys overcoats, etc, of wool or hair, knit",8399.83,0.41924,"Colombia -  Mens, boys overcoats, etc, of wool or hair, knit"
+350,266,Gabon,780,Trinidad and Tobago,07," Potatoes seed, fresh or chilled",442.997,0.395,"Trinidad and Tobago -  Potatoes seed, fresh or chilled"
+351,266,Gabon,384,Côte d'Ivoire,96," Worked ivory, articles of ivory",2104.805,0.385,"Côte d'Ivoire -  Worked ivory, articles of ivory"
+352,266,Gabon,566,Nigeria,90," Optical fibres, except for telecommunications",190.034,0.37714299999999995,"Nigeria -  Optical fibres, except for telecommunications"
+353,266,Gabon,646,Rwanda,34," Soaps, for toilet use, solid",64.902,0.36538600000000004,"Rwanda -  Soaps, for toilet use, solid"
+354,266,Gabon,384,Côte d'Ivoire,44, Fuel wood,3032.135,0.364,Côte d'Ivoire -  Fuel wood
+355,266,Gabon,480,Mauritius,85, Electric motors of an output < 37.5 watts,696.4,0.362,Mauritius -  Electric motors of an output < 37.5 watts
+356,266,Gabon,586,Pakistan,58," Woven pile fabric of wool or fine animal hair, w >30c",2197.688,0.361192,"Pakistan -  Woven pile fabric of wool or fine animal hair, w >30c"
+357,266,Gabon,356,India,28, Chlorine,378.706,0.359425,India -  Chlorine
+358,266,Gabon,466,Mali,85, Electric motors of an output < 37.5 watts,2127.775,0.332252,Mali -  Electric motors of an output < 37.5 watts
+359,266,Gabon,662,Saint Lucia,34," Soaps, for toilet use, solid",2535.621,0.325365,"Saint Lucia -  Soaps, for toilet use, solid"
+360,266,Gabon,108,Burundi,72," Pig iron, non-alloy, <0.5% phosphorus",2394.176,0.324357,"Burundi -  Pig iron, non-alloy, <0.5% phosphorus"
+361,266,Gabon,384,Côte d'Ivoire,87, Pedestrian controlled tractors,3213.046,0.321,Côte d'Ivoire -  Pedestrian controlled tractors
+362,266,Gabon,826,United Kingdom,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1348.193,0.320729,"United Kingdom -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+363,266,Gabon,480,Mauritius,22, Mineral and aerated waters not sweetened or flavoured,613.119,0.318,Mauritius -  Mineral and aerated waters not sweetened or flavoured
+364,266,Gabon,702,Singapore,57," Carpets of wool or fine animal hair, knotted",967.855,0.317756,"Singapore -  Carpets of wool or fine animal hair, knotted"
+365,266,Gabon,120,Cameroon,21," Coffee extracts, essences, concentrates, preparations",510.632,0.31156900000000004,"Cameroon -  Coffee extracts, essences, concentrates, preparations"
+366,266,Gabon,040,Austria,84, Nuclear reactors,6069.784,0.309467,Austria -  Nuclear reactors
+367,266,Gabon,764,Thailand,63, Electric blankets of textile material,845.414,0.3,Thailand -  Electric blankets of textile material
+368,266,Gabon,250,France,76," Aluminium unwrought, not alloyed",5051.153,0.297524,"France -  Aluminium unwrought, not alloyed"
+369,266,Gabon,716,Zimbabwe,84, Nuclear reactors,2997.838,0.294796,Zimbabwe -  Nuclear reactors
+370,266,Gabon,356,India,32, Quebracho tanning extract,12301.589,0.29292,India -  Quebracho tanning extract
+371,266,Gabon,578,Norway,84, Nuclear reactors,27547.698,0.281949,Norway -  Nuclear reactors
+372,266,Gabon,578,Norway,90," Optical fibres, except for telecommunications",4612.942,0.273437,"Norway -  Optical fibres, except for telecommunications"
+373,266,Gabon,384,Côte d'Ivoire,57," Carpets of wool or fine animal hair, knotted",2787.466,0.264,"Côte d'Ivoire -  Carpets of wool or fine animal hair, knotted"
+374,266,Gabon,012,Algeria,83, Padlocks of base metal,511.264,0.258534,Algeria -  Padlocks of base metal
+375,266,Gabon,040,Austria,76," Aluminium unwrought, not alloyed",458.769,0.254537,"Austria -  Aluminium unwrought, not alloyed"
+376,266,Gabon,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,9656.721,0.252345,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+377,266,Gabon,384,Côte d'Ivoire,68," Stone setts, curbstones, flagstones (except slate)",2553.899,0.252,"Côte d'Ivoire -  Stone setts, curbstones, flagstones (except slate)"
+378,266,Gabon,764,Thailand,56," Sanitary towels, diapers and similar articles",2237.928,0.245,"Thailand -  Sanitary towels, diapers and similar articles"
+379,266,Gabon,702,Singapore,63, Electric blankets of textile material,2852.289,0.244875,Singapore -  Electric blankets of textile material
+380,266,Gabon,586,Pakistan,84, Nuclear reactors,3271.579,0.244642,Pakistan -  Nuclear reactors
+381,266,Gabon,372,Ireland,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",750.962,0.235927,"Ireland -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+382,266,Gabon,826,United Kingdom,73, Sheet piling of iron or steel,10019.795,0.235539,United Kingdom -  Sheet piling of iron or steel
+383,266,Gabon,764,Thailand,68," Stone setts, curbstones, flagstones (except slate)",2116.815,0.231,"Thailand -  Stone setts, curbstones, flagstones (except slate)"
+384,266,Gabon,729,Sudan,94," Seats, aircraft",115.086,0.23,"Sudan -  Seats, aircraft"
+385,266,Gabon,372,Ireland,90," Optical fibres, except for telecommunications",3963.42,0.229419,"Ireland -  Optical fibres, except for telecommunications"
+386,266,Gabon,120,Cameroon,89," Cruise ships, excursion boats, ferry boats",3152.632,0.22825800000000002,"Cameroon -  Cruise ships, excursion boats, ferry boats"
+387,266,Gabon,372,Ireland,70," Glass cullet, waste or scrap, glass in the mass",2490.425,0.22556700000000002,"Ireland -  Glass cullet, waste or scrap, glass in the mass"
+388,266,Gabon,670,Saint Vincent and the Grenadines,85, Electric motors of an output < 37.5 watts,563.064,0.221636,Saint Vincent and the Grenadines -  Electric motors of an output < 37.5 watts
+389,266,Gabon,372,Ireland,42," Saddlery and harness, of any material",388.395,0.22142099999999998,"Ireland -  Saddlery and harness, of any material"
+390,266,Gabon,702,Singapore,32, Quebracho tanning extract,1101.604,0.220588,Singapore -  Quebracho tanning extract
+391,266,Gabon,108,Burundi,39, Polyethylene - specific gravity <0.94 in primary form,289.027,0.220303,Burundi -  Polyethylene - specific gravity <0.94 in primary form
+392,266,Gabon,024,Angola,61," Mens, boys overcoats, etc, of wool or hair, knit",2157.411,0.219,"Angola -  Mens, boys overcoats, etc, of wool or hair, knit"
+393,266,Gabon,052,Barbados,07," Potatoes seed, fresh or chilled",399.379,0.21752000000000002,"Barbados -  Potatoes seed, fresh or chilled"
+394,266,Gabon,356,India,76," Aluminium unwrought, not alloyed",213.467,0.216562,"India -  Aluminium unwrought, not alloyed"
+395,266,Gabon,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,716.048,0.209615,Austria -  Polyethylene - specific gravity <0.94 in primary form
+396,266,Gabon,504,Morocco,85, Electric motors of an output < 37.5 watts,326.777,0.202162,Morocco -  Electric motors of an output < 37.5 watts
+397,266,Gabon,466,Mali,87, Pedestrian controlled tractors,80.707,0.196949,Mali -  Pedestrian controlled tractors
+398,266,Gabon,320,Guatemala,94," Seats, aircraft",795.571,0.196335,"Guatemala -  Seats, aircraft"
+399,266,Gabon,480,Mauritius,63, Electric blankets of textile material,374.174,0.194,Mauritius -  Electric blankets of textile material
+400,266,Gabon,372,Ireland,57," Carpets of wool or fine animal hair, knotted",1096.02,0.189091,"Ireland -  Carpets of wool or fine animal hair, knotted"
+401,266,Gabon,384,Côte d'Ivoire,83, Padlocks of base metal,1949.837,0.187,Côte d'Ivoire -  Padlocks of base metal
+402,266,Gabon,384,Côte d'Ivoire,48, Newsprint,2310.875,0.187,Côte d'Ivoire -  Newsprint
+403,266,Gabon,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",25209.985,0.185834,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+404,266,Gabon,724,Spain,25," Salt (sodium chloride) including solution, salt water",1137.064,0.185,"Spain -  Salt (sodium chloride) including solution, salt water"
+405,266,Gabon,826,United Kingdom,69," Bricks, blocks and ceramic goods of siliceous earths",1764.789,0.184694,"United Kingdom -  Bricks, blocks and ceramic goods of siliceous earths"
+406,266,Gabon,840,United States of America,82, Spades and shovels,4077.685,0.182502,United States of America -  Spades and shovels
+407,266,Gabon,702,Singapore,44, Fuel wood,555.826,0.173368,Singapore -  Fuel wood
+408,266,Gabon,384,Côte d'Ivoire,76," Aluminium unwrought, not alloyed",243.427,0.17,"Côte d'Ivoire -  Aluminium unwrought, not alloyed"
+409,266,Gabon,504,Morocco,76," Aluminium unwrought, not alloyed",626.852,0.164774,"Morocco -  Aluminium unwrought, not alloyed"
+410,266,Gabon,036,Australia,90," Optical fibres, except for telecommunications",27020.531,0.163183,"Australia -  Optical fibres, except for telecommunications"
+411,266,Gabon,356,India,82, Spades and shovels,5630.516,0.16161099999999998,India -  Spades and shovels
+412,266,Gabon,702,Singapore,82, Spades and shovels,1108.974,0.157196,Singapore -  Spades and shovels
+413,266,Gabon,784,United Arab Emirates,73, Sheet piling of iron or steel,3898.32,0.15591,United Arab Emirates -  Sheet piling of iron or steel
+414,266,Gabon,784,United Arab Emirates,12, Soya beans,247.736,0.15454400000000001,United Arab Emirates -  Soya beans
+415,266,Gabon,662,Saint Lucia,20," Cucumbers,gherkins, prepared or preserved by vinegar",1179.778,0.153196,"Saint Lucia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+416,266,Gabon,466,Mali,84, Nuclear reactors,267.948,0.15257099999999998,Mali -  Nuclear reactors
+417,266,Gabon,096,Brunei Darussalam,84, Nuclear reactors,10284.036,0.152,Brunei Darussalam -  Nuclear reactors
+418,266,Gabon,108,Burundi,32, Quebracho tanning extract,79.469,0.147558,Burundi -  Quebracho tanning extract
+419,266,Gabon,048,Bahrain,07," Potatoes seed, fresh or chilled",175.94,0.144834,"Bahrain -  Potatoes seed, fresh or chilled"
+420,266,Gabon,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,5194.928,0.144386,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+421,266,Gabon,528,Netherlands (Kingdom of the),40," Natural rubber latex, including prevulcanised",806.128,0.138533,"Netherlands (Kingdom of the) -  Natural rubber latex, including prevulcanised"
+422,266,Gabon,384,Côte d'Ivoire,59, Gum or amylaceous covered textiles for book covers et,1160.208,0.135,Côte d'Ivoire -  Gum or amylaceous covered textiles for book covers et
+423,266,Gabon,250,France,08," Coconuts, fresh or dried",204.233,0.13298400000000002,"France -  Coconuts, fresh or dried"
+424,266,Gabon,516,Namibia,56," Sanitary towels, diapers and similar articles",524.131,0.12485800000000001,"Namibia -  Sanitary towels, diapers and similar articles"
+425,266,Gabon,032,Argentina,84, Nuclear reactors,2049.739,0.12481,Argentina -  Nuclear reactors
+426,266,Gabon,356,India,85, Electric motors of an output < 37.5 watts,5994.613,0.121295,India -  Electric motors of an output < 37.5 watts
+427,266,Gabon,466,Mali,95," Rideable wheeled toys, dolls carriages",22.506,0.12066400000000001,"Mali -  Rideable wheeled toys, dolls carriages"
+428,266,Gabon,372,Ireland,62," Mens, boys overcoats of wool or hair, not knit",2968.712,0.115951,"Ireland -  Mens, boys overcoats of wool or hair, not knit"
+429,266,Gabon,048,Bahrain,84, Nuclear reactors,1535.002,0.115816,Bahrain -  Nuclear reactors
+430,266,Gabon,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",438214.991,0.113228,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+431,266,Gabon,120,Cameroon,03," Ornamental fish, live",36.214,0.105107,"Cameroon -  Ornamental fish, live"
+432,266,Gabon,508,Mozambique,87, Pedestrian controlled tractors,389.09,0.105,Mozambique -  Pedestrian controlled tractors
+433,266,Gabon,508,Mozambique,95," Rideable wheeled toys, dolls carriages",480.51,0.105,"Mozambique -  Rideable wheeled toys, dolls carriages"
+434,266,Gabon,508,Mozambique,84, Nuclear reactors,175.79,0.105,Mozambique -  Nuclear reactors
+435,266,Gabon,508,Mozambique,82, Spades and shovels,105.47,0.105,Mozambique -  Spades and shovels
+436,266,Gabon,508,Mozambique,73, Sheet piling of iron or steel,498.09,0.105,Mozambique -  Sheet piling of iron or steel
+437,266,Gabon,508,Mozambique,57," Carpets of wool or fine animal hair, knotted",486.37,0.105,"Mozambique -  Carpets of wool or fine animal hair, knotted"
+438,266,Gabon,508,Mozambique,44, Fuel wood,457.07,0.105,Mozambique -  Fuel wood
+439,266,Gabon,508,Mozambique,39, Polyethylene - specific gravity <0.94 in primary form,196.89,0.105,Mozambique -  Polyethylene - specific gravity <0.94 in primary form
+440,266,Gabon,040,Austria,33, Essential oils of bergamot,92.84,0.104239,Austria -  Essential oils of bergamot
+441,266,Gabon,324,Guinea,94," Seats, aircraft",53.935,0.101482,"Guinea -  Seats, aircraft"
+442,266,Gabon,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,1696.335,0.09750700000000001,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+443,266,Gabon,108,Burundi,63, Electric blankets of textile material,51.851,0.094027,Burundi -  Electric blankets of textile material
+444,266,Gabon,784,United Arab Emirates,62," Mens, boys overcoats of wool or hair, not knit",70.234,0.092024,"United Arab Emirates -  Mens, boys overcoats of wool or hair, not knit"
+445,266,Gabon,764,Thailand,59, Gum or amylaceous covered textiles for book covers et,808.778,0.09,Thailand -  Gum or amylaceous covered textiles for book covers et
+446,266,Gabon,048,Bahrain,70," Glass cullet, waste or scrap, glass in the mass",72.213,0.089652,"Bahrain -  Glass cullet, waste or scrap, glass in the mass"
+447,266,Gabon,372,Ireland,40," Natural rubber latex, including prevulcanised",2421.62,0.08930500000000001,"Ireland -  Natural rubber latex, including prevulcanised"
+448,266,Gabon,288,Ghana,90," Optical fibres, except for telecommunications",1211.896,0.086556,"Ghana -  Optical fibres, except for telecommunications"
+449,266,Gabon,566,Nigeria,95," Rideable wheeled toys, dolls carriages",54.069,0.085714,"Nigeria -  Rideable wheeled toys, dolls carriages"
+450,266,Gabon,170,Colombia,62," Mens, boys overcoats of wool or hair, not knit",1985.47,0.08565,"Colombia -  Mens, boys overcoats of wool or hair, not knit"
+451,266,Gabon,450,Madagascar,82, Spades and shovels,302.185,0.0838,Madagascar -  Spades and shovels
+452,266,Gabon,840,United States of America,38, Artificial graphite,4666.593,0.081736,United States of America -  Artificial graphite
+453,266,Gabon,528,Netherlands (Kingdom of the),82, Spades and shovels,576.2,0.08133599999999999,Netherlands (Kingdom of the) -  Spades and shovels
+454,266,Gabon,480,Mauritius,39, Polyethylene - specific gravity <0.94 in primary form,155.695,0.081,Mauritius -  Polyethylene - specific gravity <0.94 in primary form
+455,266,Gabon,562,Niger,08," Coconuts, fresh or dried",36.202,0.080786,"Niger -  Coconuts, fresh or dried"
+456,266,Gabon,108,Burundi,34," Soaps, for toilet use, solid",58.095,0.080485,"Burundi -  Soaps, for toilet use, solid"
+457,266,Gabon,204,Benin,32, Quebracho tanning extract,259.862,0.08,Benin -  Quebracho tanning extract
+458,266,Gabon,372,Ireland,65," Hat-forms, etc of felt, not shaped, no formed brim",301.992,0.078697,"Ireland -  Hat-forms, etc of felt, not shaped, no formed brim"
+459,266,Gabon,840,United States of America,32, Quebracho tanning extract,1239.165,0.07802100000000001,United States of America -  Quebracho tanning extract
+460,266,Gabon,120,Cameroon,09," Coffee, not roasted, not decaffeinated",322.856,0.077501,"Cameroon -  Coffee, not roasted, not decaffeinated"
+461,266,Gabon,056,Belgium,84, Nuclear reactors,8059.557,0.07678499999999999,Belgium -  Nuclear reactors
+462,266,Gabon,250,France,95," Rideable wheeled toys, dolls carriages",1004.057,0.076547,"France -  Rideable wheeled toys, dolls carriages"
+463,266,Gabon,480,Mauritius,57," Carpets of wool or fine animal hair, knotted",147.243,0.076,"Mauritius -  Carpets of wool or fine animal hair, knotted"
+464,266,Gabon,288,Ghana,67," Bird skins and feathers, articles therefrom",64.669,0.07584099999999999,"Ghana -  Bird skins and feathers, articles therefrom"
+465,266,Gabon,703,Slovakia,34," Soaps, for toilet use, solid",361.131,0.075,"Slovakia -  Soaps, for toilet use, solid"
+466,266,Gabon,204,Benin,85, Electric motors of an output < 37.5 watts,463.172,0.074,Benin -  Electric motors of an output < 37.5 watts
+467,266,Gabon,729,Sudan,73, Sheet piling of iron or steel,1959.639,0.071,Sudan -  Sheet piling of iron or steel
+468,266,Gabon,324,Guinea,49," Brochures, leaflets and similar, in single sheets",163.031,0.06962600000000001,"Guinea -  Brochures, leaflets and similar, in single sheets"
+469,266,Gabon,250,France,39, Polyethylene - specific gravity <0.94 in primary form,372.017,0.067774,France -  Polyethylene - specific gravity <0.94 in primary form
+470,266,Gabon,120,Cameroon,25," Salt (sodium chloride) including solution, salt water",638.398,0.065525,"Cameroon -  Salt (sodium chloride) including solution, salt water"
+471,266,Gabon,250,France,96," Worked ivory, articles of ivory",503.679,0.065008,"France -  Worked ivory, articles of ivory"
+472,266,Gabon,410,"Korea, Republic of",87, Pedestrian controlled tractors,1205.347,0.06442,"Korea, Republic of -  Pedestrian controlled tractors"
+473,266,Gabon,792,Türkiye,87, Pedestrian controlled tractors,323.0,0.064,Türkiye -  Pedestrian controlled tractors
+474,266,Gabon,504,Morocco,26," Iron ore, concentrate, not iron pyrites,unagglomerate",103.855,0.06393,"Morocco -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+475,266,Gabon,800,Uganda,88," Gliders, hang gliders",676501.241,0.06354800000000001,"Uganda -  Gliders, hang gliders"
+476,266,Gabon,480,Mauritius,74, Copper mattes,120.71,0.063,Mauritius -  Copper mattes
+477,266,Gabon,729,Sudan,83, Padlocks of base metal,973.669,0.06,Sudan -  Padlocks of base metal
+478,266,Gabon,380,Italy,84, Nuclear reactors,4490.653,0.058942999999999995,Italy -  Nuclear reactors
+479,266,Gabon,214,Dominican Republic,38, Artificial graphite,4983.64,0.056618,Dominican Republic -  Artificial graphite
+480,266,Gabon,480,Mauritius,95," Rideable wheeled toys, dolls carriages",108.636,0.056,"Mauritius -  Rideable wheeled toys, dolls carriages"
+481,266,Gabon,288,Ghana,83, Padlocks of base metal,506.492,0.055892000000000004,Ghana -  Padlocks of base metal
+482,266,Gabon,690,Seychelles,87, Pedestrian controlled tractors,4036.194,0.054314999999999995,Seychelles -  Pedestrian controlled tractors
+483,266,Gabon,250,France,90," Optical fibres, except for telecommunications",7083.277,0.053732999999999996,"France -  Optical fibres, except for telecommunications"
+484,266,Gabon,056,Belgium,09," Coffee, not roasted, not decaffeinated",574.546,0.053057,"Belgium -  Coffee, not roasted, not decaffeinated"
+485,266,Gabon,384,Côte d'Ivoire,92," Upright pianos, including auto-players",254.826,0.053,"Côte d'Ivoire -  Upright pianos, including auto-players"
+486,266,Gabon,480,Mauritius,42," Saddlery and harness, of any material",102.599,0.053,"Mauritius -  Saddlery and harness, of any material"
+487,266,Gabon,040,Austria,48, Newsprint,253.774,0.051522,Austria -  Newsprint
+488,266,Gabon,840,United States of America,92," Upright pianos, including auto-players",945.615,0.05071,"United States of America -  Upright pianos, including auto-players"
+489,266,Gabon,214,Dominican Republic,69," Bricks, blocks and ceramic goods of siliceous earths",3189.24,0.05,"Dominican Republic -  Bricks, blocks and ceramic goods of siliceous earths"
+490,266,Gabon,372,Ireland,61," Mens, boys overcoats, etc, of wool or hair, knit",645.993,0.049915999999999995,"Ireland -  Mens, boys overcoats, etc, of wool or hair, knit"
+491,266,Gabon,826,United Kingdom,40," Natural rubber latex, including prevulcanised",786.872,0.046275,"United Kingdom -  Natural rubber latex, including prevulcanised"
+492,266,Gabon,380,Italy,96," Worked ivory, articles of ivory",33.447,0.046147,"Italy -  Worked ivory, articles of ivory"
+493,266,Gabon,040,Austria,49," Brochures, leaflets and similar, in single sheets",113.515,0.045764000000000006,"Austria -  Brochures, leaflets and similar, in single sheets"
+494,266,Gabon,120,Cameroon,02," Bovine carcasses and half carcasses, fresh or chilled",59.629,0.045762,"Cameroon -  Bovine carcasses and half carcasses, fresh or chilled"
+495,266,Gabon,384,Côte d'Ivoire,67," Bird skins and feathers, articles therefrom",137.287,0.045,"Côte d'Ivoire -  Bird skins and feathers, articles therefrom"
+496,266,Gabon,480,Mauritius,32, Quebracho tanning extract,84.488,0.044,Mauritius -  Quebracho tanning extract
+497,266,Gabon,320,Guatemala,95," Rideable wheeled toys, dolls carriages",126.799,0.043952,"Guatemala -  Rideable wheeled toys, dolls carriages"
+498,266,Gabon,372,Ireland,68," Stone setts, curbstones, flagstones (except slate)",51.027,0.043262999999999996,"Ireland -  Stone setts, curbstones, flagstones (except slate)"
+499,266,Gabon,800,Uganda,95," Rideable wheeled toys, dolls carriages",333.891,0.042933,"Uganda -  Rideable wheeled toys, dolls carriages"
+500,266,Gabon,800,Uganda,94," Seats, aircraft",299.569,0.041220999999999994,"Uganda -  Seats, aircraft"
+501,266,Gabon,508,Mozambique,42," Saddlery and harness, of any material",527.39,0.040524,"Mozambique -  Saddlery and harness, of any material"
+502,266,Gabon,384,Côte d'Ivoire,40," Natural rubber latex, including prevulcanised",398.987,0.04,"Côte d'Ivoire -  Natural rubber latex, including prevulcanised"
+503,266,Gabon,702,Singapore,90," Optical fibres, except for telecommunications",2310.86,0.039818,"Singapore -  Optical fibres, except for telecommunications"
+504,266,Gabon,384,Côte d'Ivoire,90," Optical fibres, except for telecommunications",138.257,0.039,"Côte d'Ivoire -  Optical fibres, except for telecommunications"
+505,266,Gabon,516,Namibia,40," Natural rubber latex, including prevulcanised",174.702,0.038600999999999996,"Namibia -  Natural rubber latex, including prevulcanised"
+506,266,Gabon,670,Saint Vincent and the Grenadines,23," Flour or meal, pellet of meat or offal for animal fee",165.602,0.038369999999999994,"Saint Vincent and the Grenadines -  Flour or meal, pellet of meat or offal for animal fee"
+507,266,Gabon,840,United States of America,90," Optical fibres, except for telecommunications",1460.397,0.038006,"United States of America -  Optical fibres, except for telecommunications"
+508,266,Gabon,320,Guatemala,66, Garden and similar umbrellas,112.911,0.037946,Guatemala -  Garden and similar umbrellas
+509,266,Gabon,702,Singapore,87, Pedestrian controlled tractors,313.156,0.037909,Singapore -  Pedestrian controlled tractors
+510,266,Gabon,686,Senegal,85, Electric motors of an output < 37.5 watts,22.684,0.037756,Senegal -  Electric motors of an output < 37.5 watts
+511,266,Gabon,250,France,85, Electric motors of an output < 37.5 watts,1159.686,0.037162999999999995,France -  Electric motors of an output < 37.5 watts
+512,266,Gabon,108,Burundi,56," Sanitary towels, diapers and similar articles",194.042,0.035817,"Burundi -  Sanitary towels, diapers and similar articles"
+513,266,Gabon,528,Netherlands (Kingdom of the),39, Polyethylene - specific gravity <0.94 in primary form,14893.699,0.035185,Netherlands (Kingdom of the) -  Polyethylene - specific gravity <0.94 in primary form
+514,266,Gabon,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,1185.565,0.035171,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+515,266,Gabon,826,United Kingdom,85, Electric motors of an output < 37.5 watts,20935.174,0.034811,United Kingdom -  Electric motors of an output < 37.5 watts
+516,266,Gabon,756,"Switzerland, Liechtenstein",48, Newsprint,85.335,0.034609,"Switzerland, Liechtenstein -  Newsprint"
+517,266,Gabon,504,Morocco,63, Electric blankets of textile material,1009.412,0.033624,Morocco -  Electric blankets of textile material
+518,266,Gabon,586,Pakistan,90," Optical fibres, except for telecommunications",186.06,0.033246000000000005,"Pakistan -  Optical fibres, except for telecommunications"
+519,266,Gabon,140,Central African Republic,84, Nuclear reactors,304.408,0.031306,Central African Republic -  Nuclear reactors
+520,266,Gabon,414,Kuwait,85, Electric motors of an output < 37.5 watts,2000.002,0.03,Kuwait -  Electric motors of an output < 37.5 watts
+521,266,Gabon,528,Netherlands (Kingdom of the),63, Electric blankets of textile material,183.652,0.029951000000000002,Netherlands (Kingdom of the) -  Electric blankets of textile material
+522,266,Gabon,032,Argentina,39, Polyethylene - specific gravity <0.94 in primary form,57.418,0.029391999999999998,Argentina -  Polyethylene - specific gravity <0.94 in primary form
+523,266,Gabon,040,Austria,85, Electric motors of an output < 37.5 watts,559.49,0.026609,Austria -  Electric motors of an output < 37.5 watts
+524,266,Gabon,756,"Switzerland, Liechtenstein",19," Infant foods of cereals, flour, starch or milk, retai",98.59,0.026097000000000002,"Switzerland, Liechtenstein -  Infant foods of cereals, flour, starch or milk, retai"
+525,266,Gabon,040,Austria,95," Rideable wheeled toys, dolls carriages",1226.607,0.026074,"Austria -  Rideable wheeled toys, dolls carriages"
+526,266,Gabon,528,Netherlands (Kingdom of the),94," Seats, aircraft",31.389,0.025538,"Netherlands (Kingdom of the) -  Seats, aircraft"
+527,266,Gabon,372,Ireland,64," Waterproof footwear (Wellingtons etc), metal toe cap",347.262,0.025429,"Ireland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+528,266,Gabon,108,Burundi,90," Optical fibres, except for telecommunications",60.268,0.02537,"Burundi -  Optical fibres, except for telecommunications"
+529,266,Gabon,028,Antigua and Barbuda,33, Essential oils of bergamot,271.953,0.025059,Antigua and Barbuda -  Essential oils of bergamot
+530,266,Gabon,703,Slovakia,73, Sheet piling of iron or steel,592.443,0.025,Slovakia -  Sheet piling of iron or steel
+531,266,Gabon,528,Netherlands (Kingdom of the),74, Copper mattes,102.803,0.024718,Netherlands (Kingdom of the) -  Copper mattes
+532,266,Gabon,288,Ghana,38, Artificial graphite,66.095,0.024614999999999998,Ghana -  Artificial graphite
+533,266,Gabon,108,Burundi,76," Aluminium unwrought, not alloyed",30.189,0.024485,"Burundi -  Aluminium unwrought, not alloyed"
+534,266,Gabon,578,Norway,83, Padlocks of base metal,2053.823,0.024068000000000003,Norway -  Padlocks of base metal
+535,266,Gabon,466,Mali,63, Electric blankets of textile material,60.253,0.023535,Mali -  Electric blankets of textile material
+536,266,Gabon,275,State of Palestine,84, Nuclear reactors,221.994,0.023254999999999998,State of Palestine -  Nuclear reactors
+537,266,Gabon,642,Romania,88," Gliders, hang gliders",213.738,0.023196,"Romania -  Gliders, hang gliders"
+538,266,Gabon,340,Honduras,65," Hat-forms, etc of felt, not shaped, no formed brim",163.347,0.023077,"Honduras -  Hat-forms, etc of felt, not shaped, no formed brim"
+539,266,Gabon,752,Sweden,87, Pedestrian controlled tractors,221.594,0.022867000000000002,Sweden -  Pedestrian controlled tractors
+540,266,Gabon,703,Slovakia,39, Polyethylene - specific gravity <0.94 in primary form,279.065,0.022779,Slovakia -  Polyethylene - specific gravity <0.94 in primary form
+541,266,Gabon,826,United Kingdom,63, Electric blankets of textile material,309.613,0.02238,United Kingdom -  Electric blankets of textile material
+542,266,Gabon,826,United Kingdom,88," Gliders, hang gliders",2482.272,0.022244,"United Kingdom -  Gliders, hang gliders"
+543,266,Gabon,372,Ireland,12, Soya beans,918.617,0.021959,Ireland -  Soya beans
+544,266,Gabon,784,United Arab Emirates,76," Aluminium unwrought, not alloyed",8.506,0.021932,"United Arab Emirates -  Aluminium unwrought, not alloyed"
+545,266,Gabon,203,Czechia,87, Pedestrian controlled tractors,515.115,0.021915,Czechia -  Pedestrian controlled tractors
+546,266,Gabon,040,Austria,34," Soaps, for toilet use, solid",93.759,0.021533,"Austria -  Soaps, for toilet use, solid"
+547,266,Gabon,670,Saint Vincent and the Grenadines,94," Seats, aircraft",1091.084,0.021123,"Saint Vincent and the Grenadines -  Seats, aircraft"
+548,266,Gabon,384,Côte d'Ivoire,66, Garden and similar umbrellas,206.388,0.021,Côte d'Ivoire -  Garden and similar umbrellas
+549,266,Gabon,834,"Tanzania, United Republic of",85, Electric motors of an output < 37.5 watts,149.402,0.020485,"Tanzania, United Republic of -  Electric motors of an output < 37.5 watts"
+550,266,Gabon,032,Argentina,90," Optical fibres, except for telecommunications",680.197,0.02047,"Argentina -  Optical fibres, except for telecommunications"
+551,266,Gabon,040,Austria,40," Natural rubber latex, including prevulcanised",294.976,0.020392,"Austria -  Natural rubber latex, including prevulcanised"
+552,266,Gabon,764,Thailand,69," Bricks, blocks and ceramic goods of siliceous earths",150.33,0.02,"Thailand -  Bricks, blocks and ceramic goods of siliceous earths"
+553,266,Gabon,702,Singapore,88," Gliders, hang gliders",6233.226,0.018744,"Singapore -  Gliders, hang gliders"
+554,266,Gabon,376,Israel,85, Electric motors of an output < 37.5 watts,1551.029,0.018715,Israel -  Electric motors of an output < 37.5 watts
+555,266,Gabon,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",95.755,0.018253,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+556,266,Gabon,372,Ireland,30," Glands and other organs, dried, for therapeutic uses",72.665,0.017937,"Ireland -  Glands and other organs, dried, for therapeutic uses"
+557,266,Gabon,643,Russian Federation,12, Soya beans,945.189,0.017827000000000003,Russian Federation -  Soya beans
+558,266,Gabon,032,Argentina,73, Sheet piling of iron or steel,48.63,0.017459,Argentina -  Sheet piling of iron or steel
+559,266,Gabon,702,Singapore,33, Essential oils of bergamot,827.564,0.016758,Singapore -  Essential oils of bergamot
+560,266,Gabon,616,Poland,87, Pedestrian controlled tractors,315.49,0.015931,Poland -  Pedestrian controlled tractors
+561,266,Gabon,156,China,85, Electric motors of an output < 37.5 watts,1426.705,0.015834,China -  Electric motors of an output < 37.5 watts
+562,266,Gabon,756,"Switzerland, Liechtenstein",93," Military weapons, other than hand guns, swords, etc",0.029,0.015129,"Switzerland, Liechtenstein -  Military weapons, other than hand guns, swords, etc"
+563,266,Gabon,756,"Switzerland, Liechtenstein",33, Essential oils of bergamot,293.615,0.014738,"Switzerland, Liechtenstein -  Essential oils of bergamot"
+564,266,Gabon,818,Egypt,40," Natural rubber latex, including prevulcanised",183.841,0.014267,"Egypt -  Natural rubber latex, including prevulcanised"
+565,266,Gabon,250,France,48, Newsprint,43.755,0.014215,France -  Newsprint
+566,266,Gabon,578,Norway,70," Glass cullet, waste or scrap, glass in the mass",50.852,0.014164,"Norway -  Glass cullet, waste or scrap, glass in the mass"
+567,266,Gabon,096,Brunei Darussalam,40," Natural rubber latex, including prevulcanised",1019.557,0.014,"Brunei Darussalam -  Natural rubber latex, including prevulcanised"
+568,266,Gabon,372,Ireland,28, Chlorine,7.434,0.013323,Ireland -  Chlorine
+569,266,Gabon,634,Qatar,88," Gliders, hang gliders",11056.524,0.013157,"Qatar -  Gliders, hang gliders"
+570,266,Gabon,048,Bahrain,39, Polyethylene - specific gravity <0.94 in primary form,434.285,0.012908,Bahrain -  Polyethylene - specific gravity <0.94 in primary form
+571,266,Gabon,703,Slovakia,25," Salt (sodium chloride) including solution, salt water",539.443,0.012868000000000001,"Slovakia -  Salt (sodium chloride) including solution, salt water"
+572,266,Gabon,344,"China, Hong Kong SAR",39, Polyethylene - specific gravity <0.94 in primary form,6121.517,0.012202,"China, Hong Kong SAR -  Polyethylene - specific gravity <0.94 in primary form"
+573,266,Gabon,528,Netherlands (Kingdom of the),95," Rideable wheeled toys, dolls carriages",194.233,0.011727,"Netherlands (Kingdom of the) -  Rideable wheeled toys, dolls carriages"
+574,266,Gabon,108,Burundi,64," Waterproof footwear (Wellingtons etc), metal toe cap",8.646,0.011670999999999999,"Burundi -  Waterproof footwear (Wellingtons etc), metal toe cap"
+575,266,Gabon,784,United Arab Emirates,21," Coffee extracts, essences, concentrates, preparations",135.314,0.011498,"United Arab Emirates -  Coffee extracts, essences, concentrates, preparations"
+576,266,Gabon,586,Pakistan,40," Natural rubber latex, including prevulcanised",19.722,0.011224999999999999,"Pakistan -  Natural rubber latex, including prevulcanised"
+577,266,Gabon,012,Algeria,61," Mens, boys overcoats, etc, of wool or hair, knit",272.228,0.011148,"Algeria -  Mens, boys overcoats, etc, of wool or hair, knit"
+578,266,Gabon,800,Uganda,63, Electric blankets of textile material,66.864,0.011109,Uganda -  Electric blankets of textile material
+579,266,Gabon,826,United Kingdom,25," Salt (sodium chloride) including solution, salt water",113.565,0.011080999999999999,"United Kingdom -  Salt (sodium chloride) including solution, salt water"
+580,266,Gabon,288,Ghana,57," Carpets of wool or fine animal hair, knotted",78.38,0.010740999999999999,"Ghana -  Carpets of wool or fine animal hair, knotted"
+581,266,Gabon,356,India,90," Optical fibres, except for telecommunications",1138.27,0.010734,"India -  Optical fibres, except for telecommunications"
+582,266,Gabon,756,"Switzerland, Liechtenstein",69," Bricks, blocks and ceramic goods of siliceous earths",135.113,0.010626,"Switzerland, Liechtenstein -  Bricks, blocks and ceramic goods of siliceous earths"
+583,266,Gabon,288,Ghana,63, Electric blankets of textile material,59.617,0.010605999999999999,Ghana -  Electric blankets of textile material
+584,266,Gabon,320,Guatemala,42," Saddlery and harness, of any material",20.572,0.010519,"Guatemala -  Saddlery and harness, of any material"
+585,266,Gabon,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,658.509,0.010084,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+586,266,Gabon,214,Dominican Republic,39, Polyethylene - specific gravity <0.94 in primary form,765.0,0.01,Dominican Republic -  Polyethylene - specific gravity <0.94 in primary form
+587,266,Gabon,729,Sudan,64," Waterproof footwear (Wellingtons etc), metal toe cap",84.009,0.01,"Sudan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+588,266,Gabon,028,Antigua and Barbuda,73, Sheet piling of iron or steel,605.635,0.01,Antigua and Barbuda -  Sheet piling of iron or steel
+589,266,Gabon,528,Netherlands (Kingdom of the),62," Mens, boys overcoats of wool or hair, not knit",515.245,0.009991,"Netherlands (Kingdom of the) -  Mens, boys overcoats of wool or hair, not knit"
+590,266,Gabon,694,Sierra Leone,34," Soaps, for toilet use, solid",44.976,0.009767,"Sierra Leone -  Soaps, for toilet use, solid"
+591,266,Gabon,690,Seychelles,39, Polyethylene - specific gravity <0.94 in primary form,235.236,0.009635,Seychelles -  Polyethylene - specific gravity <0.94 in primary form
+592,266,Gabon,516,Namibia,84, Nuclear reactors,190.85,0.009519,Namibia -  Nuclear reactors
+593,266,Gabon,800,Uganda,90," Optical fibres, except for telecommunications",86.446,0.009265,"Uganda -  Optical fibres, except for telecommunications"
+594,266,Gabon,616,Poland,85, Electric motors of an output < 37.5 watts,2235.104,0.009234,Poland -  Electric motors of an output < 37.5 watts
+595,266,Gabon,528,Netherlands (Kingdom of the),88," Gliders, hang gliders",1618.465,0.009108,"Netherlands (Kingdom of the) -  Gliders, hang gliders"
+596,266,Gabon,826,United Kingdom,90," Optical fibres, except for telecommunications",5202.291,0.009094,"United Kingdom -  Optical fibres, except for telecommunications"
+597,266,Gabon,276,Germany,29, Saturated acyclic hydrocarbons,1220.268,0.009,Germany -  Saturated acyclic hydrocarbons
+598,266,Gabon,516,Namibia,63, Electric blankets of textile material,85.774,0.008792,Namibia -  Electric blankets of textile material
+599,266,Gabon,288,Ghana,48, Newsprint,280.123,0.008284000000000001,Ghana -  Newsprint
+600,266,Gabon,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,145.079,0.008191,Sri Lanka -  Electric motors of an output < 37.5 watts
+601,266,Gabon,703,Slovakia,37, X-ray plates and films,513.652,0.008169000000000001,Slovakia -  X-ray plates and films
+602,266,Gabon,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,117.122,0.008010999999999999,Saudi Arabia -  Electric motors of an output < 37.5 watts
+603,266,Gabon,156,China,87, Pedestrian controlled tractors,270.708,0.00797,China -  Pedestrian controlled tractors
+604,266,Gabon,528,Netherlands (Kingdom of the),49," Brochures, leaflets and similar, in single sheets",8.383,0.007925,"Netherlands (Kingdom of the) -  Brochures, leaflets and similar, in single sheets"
+605,266,Gabon,586,Pakistan,29, Saturated acyclic hydrocarbons,144.175,0.007772,Pakistan -  Saturated acyclic hydrocarbons
+606,266,Gabon,288,Ghana,26," Iron ore, concentrate, not iron pyrites,unagglomerate",46.55,0.007599,"Ghana -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+607,266,Gabon,784,United Arab Emirates,90," Optical fibres, except for telecommunications",93.142,0.007385,"United Arab Emirates -  Optical fibres, except for telecommunications"
+608,266,Gabon,048,Bahrain,73, Sheet piling of iron or steel,290.176,0.007183,Bahrain -  Sheet piling of iron or steel
+609,266,Gabon,702,Singapore,70," Glass cullet, waste or scrap, glass in the mass",148.04,0.007157,"Singapore -  Glass cullet, waste or scrap, glass in the mass"
+610,266,Gabon,670,Saint Vincent and the Grenadines,46, Plaits and products of plaiting materials,1357.813,0.007056,Saint Vincent and the Grenadines -  Plaits and products of plaiting materials
+611,266,Gabon,703,Slovakia,84, Nuclear reactors,173.367,0.007054,Slovakia -  Nuclear reactors
+612,266,Gabon,694,Sierra Leone,96," Worked ivory, articles of ivory",41.26,0.006951,"Sierra Leone -  Worked ivory, articles of ivory"
+613,266,Gabon,208,Denmark,84, Nuclear reactors,413.428,0.006914,Denmark -  Nuclear reactors
+614,266,Gabon,454,Malawi,39, Polyethylene - specific gravity <0.94 in primary form,61.984,0.006787,Malawi -  Polyethylene - specific gravity <0.94 in primary form
+615,266,Gabon,716,Zimbabwe,85, Electric motors of an output < 37.5 watts,236.831,0.006658000000000001,Zimbabwe -  Electric motors of an output < 37.5 watts
+616,266,Gabon,616,Poland,13, Lac,86.1,0.006624,Poland -  Lac
+617,266,Gabon,288,Ghana,76," Aluminium unwrought, not alloyed",4197.316,0.0066029999999999995,"Ghana -  Aluminium unwrought, not alloyed"
+618,266,Gabon,578,Norway,71," Pearls natural, not permanently mounted or set",54.918,0.006595,"Norway -  Pearls natural, not permanently mounted or set"
+619,266,Gabon,320,Guatemala,63, Electric blankets of textile material,17.425,0.006584,Guatemala -  Electric blankets of textile material
+620,266,Gabon,800,Uganda,42," Saddlery and harness, of any material",36.288,0.006566,"Uganda -  Saddlery and harness, of any material"
+621,266,Gabon,203,Czechia,84, Nuclear reactors,89.561,0.006509,Czechia -  Nuclear reactors
+622,266,Gabon,250,France,70," Glass cullet, waste or scrap, glass in the mass",170.612,0.0063360000000000005,"France -  Glass cullet, waste or scrap, glass in the mass"
+623,266,Gabon,516,Namibia,87, Pedestrian controlled tractors,67.887,0.0063170000000000006,Namibia -  Pedestrian controlled tractors
+624,266,Gabon,800,Uganda,83, Padlocks of base metal,32.93,0.0060750000000000005,Uganda -  Padlocks of base metal
+625,266,Gabon,703,Slovakia,85, Electric motors of an output < 37.5 watts,2060.57,0.006,Slovakia -  Electric motors of an output < 37.5 watts
+626,266,Gabon,800,Uganda,84, Nuclear reactors,67.271,0.005986,Uganda -  Nuclear reactors
+627,266,Gabon,156,China,73, Sheet piling of iron or steel,398.478,0.005959,China -  Sheet piling of iron or steel
+628,266,Gabon,048,Bahrain,49," Brochures, leaflets and similar, in single sheets",170.901,0.0059370000000000004,"Bahrain -  Brochures, leaflets and similar, in single sheets"
+629,266,Gabon,372,Ireland,74, Copper mattes,3519.504,0.005867,Ireland -  Copper mattes
+630,266,Gabon,690,Seychelles,30," Glands and other organs, dried, for therapeutic uses",3292.166,0.005816,"Seychelles -  Glands and other organs, dried, for therapeutic uses"
+631,266,Gabon,454,Malawi,85, Electric motors of an output < 37.5 watts,190.532,0.005649,Malawi -  Electric motors of an output < 37.5 watts
+632,266,Gabon,144,Sri Lanka,84, Nuclear reactors,277.774,0.005601,Sri Lanka -  Nuclear reactors
+633,266,Gabon,616,Poland,39, Polyethylene - specific gravity <0.94 in primary form,60.956,0.005587,Poland -  Polyethylene - specific gravity <0.94 in primary form
+634,266,Gabon,250,France,32, Quebracho tanning extract,37.489,0.0055839999999999996,France -  Quebracho tanning extract
+635,266,Gabon,616,Poland,30," Glands and other organs, dried, for therapeutic uses",1019.356,0.005521,"Poland -  Glands and other organs, dried, for therapeutic uses"
+636,266,Gabon,516,Namibia,90," Optical fibres, except for telecommunications",210.757,0.005513,"Namibia -  Optical fibres, except for telecommunications"
+637,266,Gabon,144,Sri Lanka,54, Sewing thread of synthetic filaments,6.773,0.0055,Sri Lanka -  Sewing thread of synthetic filaments
+638,266,Gabon,108,Burundi,62," Mens, boys overcoats of wool or hair, not knit",1.759,0.005444,"Burundi -  Mens, boys overcoats of wool or hair, not knit"
+639,266,Gabon,156,China,82, Spades and shovels,126.058,0.005382,China -  Spades and shovels
+640,266,Gabon,694,Sierra Leone,95," Rideable wheeled toys, dolls carriages",147.163,0.005165,"Sierra Leone -  Rideable wheeled toys, dolls carriages"
+641,266,Gabon,392,Japan,85, Electric motors of an output < 37.5 watts,294.951,0.005162,Japan -  Electric motors of an output < 37.5 watts
+642,266,Gabon,372,Ireland,63, Electric blankets of textile material,185.506,0.0050750000000000005,Ireland -  Electric blankets of textile material
+643,266,Gabon,250,France,37, X-ray plates and films,51.01,0.005030000000000001,France -  X-ray plates and films
+644,266,Gabon,578,Norway,91," Wrist-watch, precious metal, battery, with hands",80.177,0.004738,"Norway -  Wrist-watch, precious metal, battery, with hands"
+645,266,Gabon,156,China,40," Natural rubber latex, including prevulcanised",107.569,0.004682,"China -  Natural rubber latex, including prevulcanised"
+646,266,Gabon,882,Samoa,40," Natural rubber latex, including prevulcanised",53.226,0.00462,"Samoa -  Natural rubber latex, including prevulcanised"
+647,266,Gabon,242,Fiji,85, Electric motors of an output < 37.5 watts,276.215,0.004607999999999999,Fiji -  Electric motors of an output < 37.5 watts
+648,266,Gabon,288,Ghana,42," Saddlery and harness, of any material",7.015,0.004513,"Ghana -  Saddlery and harness, of any material"
+649,266,Gabon,250,France,88," Gliders, hang gliders",2664.94,0.004490999999999999,"France -  Gliders, hang gliders"
+650,266,Gabon,324,Guinea,62," Mens, boys overcoats of wool or hair, not knit",43.536,0.004472,"Guinea -  Mens, boys overcoats of wool or hair, not knit"
+651,266,Gabon,800,Uganda,85, Electric motors of an output < 37.5 watts,37.073,0.004385,Uganda -  Electric motors of an output < 37.5 watts
+652,266,Gabon,682,Saudi Arabia,84, Nuclear reactors,31.812,0.004362,Saudi Arabia -  Nuclear reactors
+653,266,Gabon,208,Denmark,90," Optical fibres, except for telecommunications",1206.451,0.004358,"Denmark -  Optical fibres, except for telecommunications"
+654,266,Gabon,800,Uganda,69," Bricks, blocks and ceramic goods of siliceous earths",30.783,0.004298,"Uganda -  Bricks, blocks and ceramic goods of siliceous earths"
+655,266,Gabon,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",125.123,0.004165,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+656,266,Gabon,788,Tunisia,84, Nuclear reactors,76.442,0.004067,Tunisia -  Nuclear reactors
+657,266,Gabon,242,Fiji,87, Pedestrian controlled tractors,525.232,0.003966,Fiji -  Pedestrian controlled tractors
+658,266,Gabon,516,Namibia,39, Polyethylene - specific gravity <0.94 in primary form,35.098,0.00395,Namibia -  Polyethylene - specific gravity <0.94 in primary form
+659,266,Gabon,516,Namibia,94," Seats, aircraft",54.565,0.003735,"Namibia -  Seats, aircraft"
+660,266,Gabon,716,Zimbabwe,73, Sheet piling of iron or steel,89.487,0.00373,Zimbabwe -  Sheet piling of iron or steel
+661,266,Gabon,120,Cameroon,62," Mens, boys overcoats of wool or hair, not knit",36.606,0.0036190000000000003,"Cameroon -  Mens, boys overcoats of wool or hair, not knit"
+662,266,Gabon,214,Dominican Republic,90," Optical fibres, except for telecommunications",220.52,0.003512,"Dominican Republic -  Optical fibres, except for telecommunications"
+663,266,Gabon,048,Bahrain,87, Pedestrian controlled tractors,95.161,0.003319,Bahrain -  Pedestrian controlled tractors
+664,266,Gabon,694,Sierra Leone,62," Mens, boys overcoats of wool or hair, not knit",81.046,0.003281,"Sierra Leone -  Mens, boys overcoats of wool or hair, not knit"
+665,266,Gabon,516,Namibia,30," Glands and other organs, dried, for therapeutic uses",31.985,0.003226,"Namibia -  Glands and other organs, dried, for therapeutic uses"
+666,266,Gabon,694,Sierra Leone,39, Polyethylene - specific gravity <0.94 in primary form,75.727,0.0032229999999999997,Sierra Leone -  Polyethylene - specific gravity <0.94 in primary form
+667,266,Gabon,516,Namibia,83, Padlocks of base metal,43.647,0.00307,Namibia -  Padlocks of base metal
+668,266,Gabon,764,Thailand,70," Glass cullet, waste or scrap, glass in the mass",251.815,0.003,"Thailand -  Glass cullet, waste or scrap, glass in the mass"
+669,266,Gabon,076,Brazil,96," Worked ivory, articles of ivory",102.946,0.003,"Brazil -  Worked ivory, articles of ivory"
+670,266,Gabon,528,Netherlands (Kingdom of the),58," Woven pile fabric of wool or fine animal hair, w >30c",7.564,0.002706,"Netherlands (Kingdom of the) -  Woven pile fabric of wool or fine animal hair, w >30c"
+671,266,Gabon,144,Sri Lanka,55," Filament tow of nylon, polyamides",9.039,0.0026880000000000003,"Sri Lanka -  Filament tow of nylon, polyamides"
+672,266,Gabon,288,Ghana,96," Worked ivory, articles of ivory",20.37,0.002685,"Ghana -  Worked ivory, articles of ivory"
+673,266,Gabon,578,Norway,40," Natural rubber latex, including prevulcanised",187.912,0.002678,"Norway -  Natural rubber latex, including prevulcanised"
+674,266,Gabon,528,Netherlands (Kingdom of the),64," Waterproof footwear (Wellingtons etc), metal toe cap",85.337,0.002509,"Netherlands (Kingdom of the) -  Waterproof footwear (Wellingtons etc), metal toe cap"
+675,266,Gabon,208,Denmark,88," Gliders, hang gliders",1038.719,0.002404,"Denmark -  Gliders, hang gliders"
+676,266,Gabon,682,Saudi Arabia,88," Gliders, hang gliders",1709.427,0.002294,"Saudi Arabia -  Gliders, hang gliders"
+677,266,Gabon,703,Slovakia,86," Rail locomotives, externally electrically powered",168.871,0.002283,"Slovakia -  Rail locomotives, externally electrically powered"
+678,266,Gabon,694,Sierra Leone,64," Waterproof footwear (Wellingtons etc), metal toe cap",19.883,0.002277,"Sierra Leone -  Waterproof footwear (Wellingtons etc), metal toe cap"
+679,266,Gabon,040,Austria,87, Pedestrian controlled tractors,66.5,0.0021680000000000002,Austria -  Pedestrian controlled tractors
+680,266,Gabon,784,United Arab Emirates,84, Nuclear reactors,1084.288,0.0021379999999999997,United Arab Emirates -  Nuclear reactors
+681,266,Gabon,516,Namibia,62," Mens, boys overcoats of wool or hair, not knit",13.556,0.002093,"Namibia -  Mens, boys overcoats of wool or hair, not knit"
+682,266,Gabon,826,United Kingdom,64," Waterproof footwear (Wellingtons etc), metal toe cap",201.735,0.00206,"United Kingdom -  Waterproof footwear (Wellingtons etc), metal toe cap"
+683,266,Gabon,690,Seychelles,90," Optical fibres, except for telecommunications",90.062,0.00202,"Seychelles -  Optical fibres, except for telecommunications"
+684,266,Gabon,246,Finland,90," Optical fibres, except for telecommunications",178.18,0.002,"Finland -  Optical fibres, except for telecommunications"
+685,266,Gabon,076,Brazil,84, Nuclear reactors,1866.0,0.002,Brazil -  Nuclear reactors
+686,266,Gabon,702,Singapore,85, Electric motors of an output < 37.5 watts,108.946,0.00196,Singapore -  Electric motors of an output < 37.5 watts
+687,266,Gabon,048,Bahrain,85, Electric motors of an output < 37.5 watts,33.344,0.00182,Bahrain -  Electric motors of an output < 37.5 watts
+688,266,Gabon,250,France,09," Coffee, not roasted, not decaffeinated",23.861,0.001661,"France -  Coffee, not roasted, not decaffeinated"
+689,266,Gabon,616,Poland,64," Waterproof footwear (Wellingtons etc), metal toe cap",43.779,0.001597,"Poland -  Waterproof footwear (Wellingtons etc), metal toe cap"
+690,266,Gabon,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",65.913,0.001524,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+691,266,Gabon,702,Singapore,42," Saddlery and harness, of any material",67.697,0.001405,"Singapore -  Saddlery and harness, of any material"
+692,266,Gabon,690,Seychelles,83, Padlocks of base metal,177.6,0.001397,Seychelles -  Padlocks of base metal
+693,266,Gabon,702,Singapore,49," Brochures, leaflets and similar, in single sheets",12.244,0.0013759999999999998,"Singapore -  Brochures, leaflets and similar, in single sheets"
+694,266,Gabon,703,Slovakia,32, Quebracho tanning extract,227.54,0.001365,Slovakia -  Quebracho tanning extract
+695,266,Gabon,414,Kuwait,73, Sheet piling of iron or steel,361.184,0.001167,Kuwait -  Sheet piling of iron or steel
+696,266,Gabon,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",19.811,0.001166,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+697,266,Gabon,422,Lebanon,84, Nuclear reactors,45.62,0.001157,Lebanon -  Nuclear reactors
+698,266,Gabon,040,Austria,30," Glands and other organs, dried, for therapeutic uses",280.999,0.0011,"Austria -  Glands and other organs, dried, for therapeutic uses"
+699,266,Gabon,554,New Zealand,85, Electric motors of an output < 37.5 watts,52.362,0.001083,New Zealand -  Electric motors of an output < 37.5 watts
+700,266,Gabon,454,Malawi,84, Nuclear reactors,168.58,0.001038,Malawi -  Nuclear reactors
+701,266,Gabon,800,Uganda,30," Glands and other organs, dried, for therapeutic uses",7.903,0.0010229999999999998,"Uganda -  Glands and other organs, dried, for therapeutic uses"
+702,266,Gabon,600,Paraguay,87, Pedestrian controlled tractors,215.764,0.001003,Paraguay -  Pedestrian controlled tractors
+703,266,Gabon,246,Finland,39, Polyethylene - specific gravity <0.94 in primary form,181.931,0.001,Finland -  Polyethylene - specific gravity <0.94 in primary form
+704,266,Gabon,729,Sudan,86," Rail locomotives, externally electrically powered",1136.064,0.001,"Sudan -  Rail locomotives, externally electrically powered"
+705,266,Gabon,690,Seychelles,40," Natural rubber latex, including prevulcanised",208.555,0.0009609999999999999,"Seychelles -  Natural rubber latex, including prevulcanised"
+706,266,Gabon,800,Uganda,49," Brochures, leaflets and similar, in single sheets",15.344,0.000944,"Uganda -  Brochures, leaflets and similar, in single sheets"
+707,266,Gabon,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,80.63,0.0009419999999999999,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+708,266,Gabon,585,Palau,85, Electric motors of an output < 37.5 watts,12431.818,0.000919,Palau -  Electric motors of an output < 37.5 watts
+709,266,Gabon,028,Antigua and Barbuda,90," Optical fibres, except for telecommunications",1061.264,0.000884,"Antigua and Barbuda -  Optical fibres, except for telecommunications"
+710,266,Gabon,414,Kuwait,84, Nuclear reactors,6855.082,0.000878,Kuwait -  Nuclear reactors
+711,266,Gabon,784,United Arab Emirates,40," Natural rubber latex, including prevulcanised",37.674,0.000875,"United Arab Emirates -  Natural rubber latex, including prevulcanised"
+712,266,Gabon,120,Cameroon,85, Electric motors of an output < 37.5 watts,113.619,0.0008629999999999999,Cameroon -  Electric motors of an output < 37.5 watts
+713,266,Gabon,380,Italy,85, Electric motors of an output < 37.5 watts,108.397,0.0008629999999999999,Italy -  Electric motors of an output < 37.5 watts
+714,266,Gabon,834,"Tanzania, United Republic of",90," Optical fibres, except for telecommunications",31.147,0.0007740000000000001,"Tanzania, United Republic of -  Optical fibres, except for telecommunications"
+715,266,Gabon,422,Lebanon,87, Pedestrian controlled tractors,122.844,0.000742,Lebanon -  Pedestrian controlled tractors
+716,266,Gabon,410,"Korea, Republic of",84, Nuclear reactors,66.617,0.000737,"Korea, Republic of -  Nuclear reactors"
+717,266,Gabon,600,Paraguay,84, Nuclear reactors,37.941,0.000674,Paraguay -  Nuclear reactors
+718,266,Gabon,156,China,76," Aluminium unwrought, not alloyed",204.117,0.0006630000000000001,"China -  Aluminium unwrought, not alloyed"
+719,266,Gabon,562,Niger,87, Pedestrian controlled tractors,20.395,0.0006490000000000001,Niger -  Pedestrian controlled tractors
+720,266,Gabon,616,Poland,73, Sheet piling of iron or steel,134.903,0.000588,Poland -  Sheet piling of iron or steel
+721,266,Gabon,818,Egypt,90," Optical fibres, except for telecommunications",39.346,0.000587,"Egypt -  Optical fibres, except for telecommunications"
+722,266,Gabon,454,Malawi,38, Artificial graphite,34.256,0.0005520000000000001,Malawi -  Artificial graphite
+723,266,Gabon,203,Czechia,85, Electric motors of an output < 37.5 watts,551.411,0.000475,Czechia -  Electric motors of an output < 37.5 watts
+724,266,Gabon,690,Seychelles,85, Electric motors of an output < 37.5 watts,359.971,0.00045,Seychelles -  Electric motors of an output < 37.5 watts
+725,266,Gabon,585,Palau,84, Nuclear reactors,4.548,0.00045,Palau -  Nuclear reactors
+726,266,Gabon,144,Sri Lanka,40," Natural rubber latex, including prevulcanised",54.165,0.000365,"Sri Lanka -  Natural rubber latex, including prevulcanised"
+727,266,Gabon,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",100.444,0.000358,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+728,266,Gabon,528,Netherlands (Kingdom of the),76," Aluminium unwrought, not alloyed",189.281,0.000352,"Netherlands (Kingdom of the) -  Aluminium unwrought, not alloyed"
+729,266,Gabon,288,Ghana,74, Copper mattes,72.513,0.000339,Ghana -  Copper mattes
+730,266,Gabon,250,France,83, Padlocks of base metal,10.033,0.000306,France -  Padlocks of base metal
+731,266,Gabon,250,France,49," Brochures, leaflets and similar, in single sheets",3.031,0.000306,"France -  Brochures, leaflets and similar, in single sheets"
+732,266,Gabon,616,Poland,33, Essential oils of bergamot,24.686,0.00028399999999999996,Poland -  Essential oils of bergamot
+733,266,Gabon,616,Poland,90," Optical fibres, except for telecommunications",4.664,0.00027600000000000004,"Poland -  Optical fibres, except for telecommunications"
+734,266,Gabon,250,France,42," Saddlery and harness, of any material",5.028,0.000266,"France -  Saddlery and harness, of any material"
+735,266,Gabon,643,Russian Federation,61," Mens, boys overcoats, etc, of wool or hair, knit",9.219,0.00025,"Russian Federation -  Mens, boys overcoats, etc, of wool or hair, knit"
+736,266,Gabon,120,Cameroon,90," Optical fibres, except for telecommunications",20.164,0.000244,"Cameroon -  Optical fibres, except for telecommunications"
+737,266,Gabon,585,Palau,88," Gliders, hang gliders",688.06,0.000241,"Palau -  Gliders, hang gliders"
+738,266,Gabon,144,Sri Lanka,82, Spades and shovels,90.129,0.000199,Sri Lanka -  Spades and shovels
+739,266,Gabon,410,"Korea, Republic of",21," Coffee extracts, essences, concentrates, preparations",50.5,0.000191,"Korea, Republic of -  Coffee extracts, essences, concentrates, preparations"
+740,266,Gabon,372,Ireland,71," Pearls natural, not permanently mounted or set",12.653,0.000174,"Ireland -  Pearls natural, not permanently mounted or set"
+741,266,Gabon,156,China,90," Optical fibres, except for telecommunications",5.395,0.000148,"China -  Optical fibres, except for telecommunications"
+742,266,Gabon,528,Netherlands (Kingdom of the),30," Glands and other organs, dried, for therapeutic uses",3.766,0.000146,"Netherlands (Kingdom of the) -  Glands and other organs, dried, for therapeutic uses"
+743,266,Gabon,144,Sri Lanka,49," Brochures, leaflets and similar, in single sheets",1.19,0.00014299999999999998,"Sri Lanka -  Brochures, leaflets and similar, in single sheets"
+744,266,Gabon,818,Egypt,85, Electric motors of an output < 37.5 watts,2.896,0.00014000000000000001,Egypt -  Electric motors of an output < 37.5 watts
+745,266,Gabon,048,Bahrain,90," Optical fibres, except for telecommunications",0.801,0.00013700000000000002,"Bahrain -  Optical fibres, except for telecommunications"
+746,266,Gabon,616,Poland,58," Woven pile fabric of wool or fine animal hair, w >30c",2.346,0.000133,"Poland -  Woven pile fabric of wool or fine animal hair, w >30c"
+747,266,Gabon,643,Russian Federation,85, Electric motors of an output < 37.5 watts,54.282,0.000131,Russian Federation -  Electric motors of an output < 37.5 watts
+748,266,Gabon,250,France,71," Pearls natural, not permanently mounted or set",11.876,0.00013000000000000002,"France -  Pearls natural, not permanently mounted or set"
+749,266,Gabon,404,Kenya,85, Electric motors of an output < 37.5 watts,1.059,0.000129,Kenya -  Electric motors of an output < 37.5 watts
+750,266,Gabon,404,Kenya,84, Nuclear reactors,2.764,0.000124,Kenya -  Nuclear reactors
+751,266,Gabon,250,France,62," Mens, boys overcoats of wool or hair, not knit",3.7,0.000116,"France -  Mens, boys overcoats of wool or hair, not knit"
+752,266,Gabon,478,Mauritania,84, Nuclear reactors,17.003,0.000108,Mauritania -  Nuclear reactors
+753,266,Gabon,586,Pakistan,62," Mens, boys overcoats of wool or hair, not knit",2.617,0.000108,"Pakistan -  Mens, boys overcoats of wool or hair, not knit"
+754,266,Gabon,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",52.848,0.00010499999999999999,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+755,266,Gabon,208,Denmark,49," Brochures, leaflets and similar, in single sheets",7.397,8.1e-05,"Denmark -  Brochures, leaflets and similar, in single sheets"
+756,266,Gabon,784,United Arab Emirates,82, Spades and shovels,3.934,7.6e-05,United Arab Emirates -  Spades and shovels
+757,266,Gabon,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",3.173,5.2e-05,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+758,266,Gabon,528,Netherlands (Kingdom of the),75, Nickel mattes,13.041,2.9999999999999997e-05,Netherlands (Kingdom of the) -  Nickel mattes
+759,266,Gabon,392,Japan,01," Horses, live pure-bred breeding",5.692,2.4e-05,"Japan -  Horses, live pure-bred breeding"
+760,266,Gabon,250,France,30," Glands and other organs, dried, for therapeutic uses",2.28,1.9e-05,"France -  Glands and other organs, dried, for therapeutic uses"
+761,266,Gabon,410,"Korea, Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",8.63,1.7999999999999997e-05,"Korea, Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+762,266,Gabon,136,Cayman Islands,30," Glands and other organs, dried, for therapeutic uses",0.0,0.0,"Cayman Islands -  Glands and other organs, dried, for therapeutic uses"
+763,266,Gabon,136,Cayman Islands,38, Artificial graphite,0.0,0.0,Cayman Islands -  Artificial graphite
+764,266,Gabon,136,Cayman Islands,62," Mens, boys overcoats of wool or hair, not knit",0.0,0.0,"Cayman Islands -  Mens, boys overcoats of wool or hair, not knit"
+765,266,Gabon,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,0.0,0.0,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+766,266,Gabon,144,Sri Lanka,58," Woven pile fabric of wool or fine animal hair, w >30c",0.0,0.0,"Sri Lanka -  Woven pile fabric of wool or fine animal hair, w >30c"
+767,266,Gabon,144,Sri Lanka,68," Stone setts, curbstones, flagstones (except slate)",0.0,0.0,"Sri Lanka -  Stone setts, curbstones, flagstones (except slate)"
+768,266,Gabon,144,Sri Lanka,70," Glass cullet, waste or scrap, glass in the mass",0.0,0.0,"Sri Lanka -  Glass cullet, waste or scrap, glass in the mass"
+769,266,Gabon,144,Sri Lanka,73, Sheet piling of iron or steel,0.0,0.0,Sri Lanka -  Sheet piling of iron or steel
+770,266,Gabon,144,Sri Lanka,90," Optical fibres, except for telecommunications",0.0,0.0,"Sri Lanka -  Optical fibres, except for telecommunications"
+771,266,Gabon,012,Algeria,90," Optical fibres, except for telecommunications",0.0,0.0,"Algeria -  Optical fibres, except for telecommunications"
+772,266,Gabon,012,Algeria,85, Electric motors of an output < 37.5 watts,0.0,0.0,Algeria -  Electric motors of an output < 37.5 watts
+773,266,Gabon,012,Algeria,84, Nuclear reactors,0.0,0.0,Algeria -  Nuclear reactors
+774,266,Gabon,012,Algeria,76," Aluminium unwrought, not alloyed",0.0,0.0,"Algeria -  Aluminium unwrought, not alloyed"
+775,266,Gabon,012,Algeria,73, Sheet piling of iron or steel,0.0,0.0,Algeria -  Sheet piling of iron or steel
+776,266,Gabon,012,Algeria,39, Polyethylene - specific gravity <0.94 in primary form,0.0,0.0,Algeria -  Polyethylene - specific gravity <0.94 in primary form

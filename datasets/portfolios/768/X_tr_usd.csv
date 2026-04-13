@@ -1,0 +1,895 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,768,Togo,024,Angola,27," Anthracite, not agglomerated",896508973.881,1285244.3106570002,"Angola -  Anthracite, not agglomerated"
+1,768,Togo,012,Algeria,27," Anthracite, not agglomerated",494444211.095,1048457.066047,"Algeria -  Anthracite, not agglomerated"
+2,768,Togo,120,Cameroon,27," Anthracite, not agglomerated",155519608.12,219343.590361,"Cameroon -  Anthracite, not agglomerated"
+3,768,Togo,384,Côte d'Ivoire,27," Anthracite, not agglomerated",150853729.265,249628.605,"Côte d'Ivoire -  Anthracite, not agglomerated"
+4,768,Togo,156,China,12, Soya beans,72908516.335,47857.876845,China -  Soya beans
+5,768,Togo,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",30360728.561,109538.932914,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+6,768,Togo,566,Nigeria,27," Anthracite, not agglomerated",29143735.144,34.985910000000004,"Nigeria -  Anthracite, not agglomerated"
+7,768,Togo,324,Guinea,27," Anthracite, not agglomerated",28930668.22,91261.43083,"Guinea -  Anthracite, not agglomerated"
+8,768,Togo,356,India,27," Anthracite, not agglomerated",27690868.286,65920.567026,"India -  Anthracite, not agglomerated"
+9,768,Togo,686,Senegal,27," Anthracite, not agglomerated",26956438.801,68486.429815,"Senegal -  Anthracite, not agglomerated"
+10,768,Togo,356,India,08," Coconuts, fresh or dried",21714242.114,11136.476447000001,"India -  Coconuts, fresh or dried"
+11,768,Togo,204,Benin,15," Lard, other pig fat and poultry fat, rendered",17690546.902,17257.579,"Benin -  Lard, other pig fat and poultry fat, rendered"
+12,768,Togo,036,Australia,25," Salt (sodium chloride) including solution, salt water",16448288.365,183051.8,"Australia -  Salt (sodium chloride) including solution, salt water"
+13,768,Togo,704,Viet Nam,08," Coconuts, fresh or dried",15466076.042,1634.214961,"Viet Nam -  Coconuts, fresh or dried"
+14,768,Togo,792,Türkiye,89," Cruise ships, excursion boats, ferry boats",13517359.0,38894.62,"Türkiye -  Cruise ships, excursion boats, ferry boats"
+15,768,Togo,012,Algeria,09," Coffee, not roasted, not decaffeinated",11481083.922,2908.941943,"Algeria -  Coffee, not roasted, not decaffeinated"
+16,768,Togo,250,France,12, Soya beans,10036406.165,20419.315336,France -  Soya beans
+17,768,Togo,466,Mali,27," Anthracite, not agglomerated",9850765.934,15997.594141000001,"Mali -  Anthracite, not agglomerated"
+18,768,Togo,288,Ghana,25," Salt (sodium chloride) including solution, salt water",7282717.972,103524.736183,"Ghana -  Salt (sodium chloride) including solution, salt water"
+19,768,Togo,204,Benin,27," Anthracite, not agglomerated",6336805.619,10418.815,"Benin -  Anthracite, not agglomerated"
+20,768,Togo,528,Netherlands (Kingdom of the),15," Lard, other pig fat and poultry fat, rendered",5898802.437,5877.894795,"Netherlands (Kingdom of the) -  Lard, other pig fat and poultry fat, rendered"
+21,768,Togo,704,Viet Nam,27," Anthracite, not agglomerated",5702143.392,13137.965771,"Viet Nam -  Anthracite, not agglomerated"
+22,768,Togo,132,Cabo Verde,27," Anthracite, not agglomerated",5379825.597,10092.537547,"Cabo Verde -  Anthracite, not agglomerated"
+23,768,Togo,276,Germany,52," Cotton, not carded or combed",5021012.328,2804.1458939999998,"Germany -  Cotton, not carded or combed"
+24,768,Togo,620,Portugal,52," Cotton, not carded or combed",4905821.136,2620.818,"Portugal -  Cotton, not carded or combed"
+25,768,Togo,288,Ghana,27," Anthracite, not agglomerated",4725676.183,6777.060114,"Ghana -  Anthracite, not agglomerated"
+26,768,Togo,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",4579299.93,1.228902,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+27,768,Togo,854,Burkina Faso,27," Anthracite, not agglomerated",4477429.337,5438.306531,"Burkina Faso -  Anthracite, not agglomerated"
+28,768,Togo,854,Burkina Faso,25," Salt (sodium chloride) including solution, salt water",4476302.316,57170.280501,"Burkina Faso -  Salt (sodium chloride) including solution, salt water"
+29,768,Togo,288,Ghana,87, Pedestrian controlled tractors,4230757.086,1960.680374,Ghana -  Pedestrian controlled tractors
+30,768,Togo,356,India,25," Salt (sodium chloride) including solution, salt water",3598499.858,40232.077801,"India -  Salt (sodium chloride) including solution, salt water"
+31,768,Togo,854,Burkina Faso,72," Pig iron, non-alloy, <0.5% phosphorus",3573674.985,4622.744,"Burkina Faso -  Pig iron, non-alloy, <0.5% phosphorus"
+32,768,Togo,344,"China, Hong Kong SAR",03," Ornamental fish, live",3444474.947,162.60461600000002,"China, Hong Kong SAR -  Ornamental fish, live"
+33,768,Togo,478,Mauritania,27," Anthracite, not agglomerated",3294643.162,4364.55399,"Mauritania -  Anthracite, not agglomerated"
+34,768,Togo,686,Senegal,15," Lard, other pig fat and poultry fat, rendered",2991553.493,3844.648693,"Senegal -  Lard, other pig fat and poultry fat, rendered"
+35,768,Togo,764,Thailand,72," Pig iron, non-alloy, <0.5% phosphorus",2846678.956,9503.7,"Thailand -  Pig iron, non-alloy, <0.5% phosphorus"
+36,768,Togo,504,Morocco,09," Coffee, not roasted, not decaffeinated",2082173.123,739.724591,"Morocco -  Coffee, not roasted, not decaffeinated"
+37,768,Togo,840,United States of America,67," Bird skins and feathers, articles therefrom",2036732.453,75.17964500000001,"United States of America -  Bird skins and feathers, articles therefrom"
+38,768,Togo,288,Ghana,15," Lard, other pig fat and poultry fat, rendered",2017512.655,3196.875173,"Ghana -  Lard, other pig fat and poultry fat, rendered"
+39,768,Togo,356,India,44, Fuel wood,1895865.65,3670.630229,India -  Fuel wood
+40,768,Togo,422,Lebanon,71," Pearls natural, not permanently mounted or set",1811778.505,0.435674,"Lebanon -  Pearls natural, not permanently mounted or set"
+41,768,Togo,410,"Korea, Republic of",12, Soya beans,1733365.575,958.554966,"Korea, Republic of -  Soya beans"
+42,768,Togo,516,Namibia,27," Anthracite, not agglomerated",1602552.993,2321.240485,"Namibia -  Anthracite, not agglomerated"
+43,768,Togo,466,Mali,22, Mineral and aerated waters not sweetened or flavoured,1559904.139,1900.7128519999999,Mali -  Mineral and aerated waters not sweetened or flavoured
+44,768,Togo,250,France,08," Coconuts, fresh or dried",1529665.509,1754.227747,"France -  Coconuts, fresh or dried"
+45,768,Togo,288,Ghana,39, Polyethylene - specific gravity <0.94 in primary form,1483039.274,1383.905891,Ghana -  Polyethylene - specific gravity <0.94 in primary form
+46,768,Togo,724,Spain,12, Soya beans,1467372.155,5049.655,Spain -  Soya beans
+47,768,Togo,384,Côte d'Ivoire,22, Mineral and aerated waters not sweetened or flavoured,1390400.034,5798.586,Côte d'Ivoire -  Mineral and aerated waters not sweetened or flavoured
+48,768,Togo,792,Türkiye,12, Soya beans,1362354.0,2626.569,Türkiye -  Soya beans
+49,768,Togo,288,Ghana,02," Bovine carcasses and half carcasses, fresh or chilled",1347861.397,2099.123531,"Ghana -  Bovine carcasses and half carcasses, fresh or chilled"
+50,768,Togo,724,Spain,18," Cocoa beans, whole or broken, raw or roasted",1333716.22,608.746,"Spain -  Cocoa beans, whole or broken, raw or roasted"
+51,768,Togo,818,Egypt,89," Cruise ships, excursion boats, ferry boats",1263772.072,968.1682149999999,"Egypt -  Cruise ships, excursion boats, ferry boats"
+52,768,Togo,360,Indonesia,72," Pig iron, non-alloy, <0.5% phosphorus",1170601.787,4093.415986,"Indonesia -  Pig iron, non-alloy, <0.5% phosphorus"
+53,768,Togo,156,China,08," Coconuts, fresh or dried",1053901.796,1007.364791,"China -  Coconuts, fresh or dried"
+54,768,Togo,250,France,18," Cocoa beans, whole or broken, raw or roasted",953386.972,397.160367,"France -  Cocoa beans, whole or broken, raw or roasted"
+55,768,Togo,724,Spain,74, Copper mattes,948666.744,149.887,Spain -  Copper mattes
+56,768,Togo,840,United States of America,34," Soaps, for toilet use, solid",922311.506,219.808287,"United States of America -  Soaps, for toilet use, solid"
+57,768,Togo,562,Niger,25," Salt (sodium chloride) including solution, salt water",875085.459,6151.370957,"Niger -  Salt (sodium chloride) including solution, salt water"
+58,768,Togo,562,Niger,15," Lard, other pig fat and poultry fat, rendered",870115.886,1225.0010670000001,"Niger -  Lard, other pig fat and poultry fat, rendered"
+59,768,Togo,356,India,12, Soya beans,786989.59,1907.891098,India -  Soya beans
+60,768,Togo,764,Thailand,52," Cotton, not carded or combed",786914.25,402.961,"Thailand -  Cotton, not carded or combed"
+61,768,Togo,300,Greece,89," Cruise ships, excursion boats, ferry boats",785637.192,0.227,"Greece -  Cruise ships, excursion boats, ferry boats"
+62,768,Togo,288,Ghana,20," Cucumbers,gherkins, prepared or preserved by vinegar",782644.243,1002.4931829999999,"Ghana -  Cucumbers,gherkins, prepared or preserved by vinegar"
+63,768,Togo,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,775074.079,1539.661669,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+64,768,Togo,250,France,52," Cotton, not carded or combed",764561.269,401.36978600000003,"France -  Cotton, not carded or combed"
+65,768,Togo,854,Burkina Faso,39, Polyethylene - specific gravity <0.94 in primary form,758995.97,2128.453929,Burkina Faso -  Polyethylene - specific gravity <0.94 in primary form
+66,768,Togo,840,United States of America,08," Coconuts, fresh or dried",745531.341,96.76785799999999,"United States of America -  Coconuts, fresh or dried"
+67,768,Togo,288,Ghana,22, Mineral and aerated waters not sweetened or flavoured,719706.972,2545.602739,Ghana -  Mineral and aerated waters not sweetened or flavoured
+68,768,Togo,250,France,09," Coffee, not roasted, not decaffeinated",709639.936,262.752119,"France -  Coffee, not roasted, not decaffeinated"
+69,768,Togo,466,Mali,39, Polyethylene - specific gravity <0.94 in primary form,692132.819,1464.461475,Mali -  Polyethylene - specific gravity <0.94 in primary form
+70,768,Togo,562,Niger,72," Pig iron, non-alloy, <0.5% phosphorus",668360.969,1142.7902609999999,"Niger -  Pig iron, non-alloy, <0.5% phosphorus"
+71,768,Togo,410,"Korea, Republic of",25," Salt (sodium chloride) including solution, salt water",663651.41,6571.11759,"Korea, Republic of -  Salt (sodium chloride) including solution, salt water"
+72,768,Togo,410,"Korea, Republic of",74, Copper mattes,617853.558,180.43025899999998,"Korea, Republic of -  Copper mattes"
+73,768,Togo,854,Burkina Faso,31," Animal or vegetable fertilizers, in packs >10 kg",612743.554,2121.860188,"Burkina Faso -  Animal or vegetable fertilizers, in packs >10 kg"
+74,768,Togo,204,Benin,87, Pedestrian controlled tractors,588345.257,248.057,Benin -  Pedestrian controlled tractors
+75,768,Togo,288,Ghana,31," Animal or vegetable fertilizers, in packs >10 kg",575564.041,2349.3502080000003,"Ghana -  Animal or vegetable fertilizers, in packs >10 kg"
+76,768,Togo,288,Ghana,17," Raw sugar, cane",571843.055,1645.793312,"Ghana -  Raw sugar, cane"
+77,768,Togo,180,"Congo, Dem. Rep. of the",27," Anthracite, not agglomerated",498809.539,822.9,"Congo, Dem. Rep. of the -  Anthracite, not agglomerated"
+78,768,Togo,392,Japan,12, Soya beans,494517.963,404.148807,Japan -  Soya beans
+79,768,Togo,840,United States of America,15," Lard, other pig fat and poultry fat, rendered",489057.562,136.510644,"United States of America -  Lard, other pig fat and poultry fat, rendered"
+80,768,Togo,356,India,15," Lard, other pig fat and poultry fat, rendered",439780.678,491.62919300000004,"India -  Lard, other pig fat and poultry fat, rendered"
+81,768,Togo,380,Italy,12, Soya beans,430042.542,1104.750619,Italy -  Soya beans
+82,768,Togo,356,India,78, Lead refined unwrought,415260.877,388.84155,India -  Lead refined unwrought
+83,768,Togo,792,Türkiye,28, Chlorine,404216.0,6.003,Türkiye -  Chlorine
+84,768,Togo,288,Ghana,73, Sheet piling of iron or steel,396576.585,489.959928,Ghana -  Sheet piling of iron or steel
+85,768,Togo,854,Burkina Faso,46, Plaits and products of plaiting materials,395227.594,615.268475,Burkina Faso -  Plaits and products of plaiting materials
+86,768,Togo,356,India,85, Electric motors of an output < 37.5 watts,374195.02,754.827888,India -  Electric motors of an output < 37.5 watts
+87,768,Togo,562,Niger,73, Sheet piling of iron or steel,341678.195,698.690282,Niger -  Sheet piling of iron or steel
+88,768,Togo,276,Germany,71," Pearls natural, not permanently mounted or set",333617.515,31.313,"Germany -  Pearls natural, not permanently mounted or set"
+89,768,Togo,288,Ghana,04, Milk not concentrated nor sweetened < 1% fat,325868.194,255.871728,Ghana -  Milk not concentrated nor sweetened < 1% fat
+90,768,Togo,288,Ghana,72," Pig iron, non-alloy, <0.5% phosphorus",315428.067,387.463516,"Ghana -  Pig iron, non-alloy, <0.5% phosphorus"
+91,768,Togo,056,Belgium,12, Soya beans,311334.85,569.676218,Belgium -  Soya beans
+92,768,Togo,682,Saudi Arabia,86," Rail locomotives, externally electrically powered",288954.049,36.834604,"Saudi Arabia -  Rail locomotives, externally electrically powered"
+93,768,Togo,466,Mali,31," Animal or vegetable fertilizers, in packs >10 kg",287024.998,1200.16057,"Mali -  Animal or vegetable fertilizers, in packs >10 kg"
+94,768,Togo,466,Mali,46, Plaits and products of plaiting materials,285611.423,267.77540600000003,Mali -  Plaits and products of plaiting materials
+95,768,Togo,562,Niger,39, Polyethylene - specific gravity <0.94 in primary form,283667.743,1594.4048799999998,Niger -  Polyethylene - specific gravity <0.94 in primary form
+96,768,Togo,702,Singapore,72," Pig iron, non-alloy, <0.5% phosphorus",272436.026,1067.012639,"Singapore -  Pig iron, non-alloy, <0.5% phosphorus"
+97,768,Togo,250,France,67," Bird skins and feathers, articles therefrom",270126.126,7.073936,"France -  Bird skins and feathers, articles therefrom"
+98,768,Togo,566,Nigeria,84, Nuclear reactors,268469.702,184.178,Nigeria -  Nuclear reactors
+99,768,Togo,466,Mali,15," Lard, other pig fat and poultry fat, rendered",254412.572,620.5738610000001,"Mali -  Lard, other pig fat and poultry fat, rendered"
+100,768,Togo,854,Burkina Faso,04, Milk not concentrated nor sweetened < 1% fat,239139.048,515.544021,Burkina Faso -  Milk not concentrated nor sweetened < 1% fat
+101,768,Togo,854,Burkina Faso,21," Coffee extracts, essences, concentrates, preparations",236391.985,484.449652,"Burkina Faso -  Coffee extracts, essences, concentrates, preparations"
+102,768,Togo,356,India,74, Copper mattes,234093.198,88.304897,India -  Copper mattes
+103,768,Togo,724,Spain,07," Potatoes seed, fresh or chilled",232515.433,372.225,"Spain -  Potatoes seed, fresh or chilled"
+104,768,Togo,854,Burkina Faso,73, Sheet piling of iron or steel,221733.587,624.1911779999999,Burkina Faso -  Sheet piling of iron or steel
+105,768,Togo,826,United Kingdom,67," Bird skins and feathers, articles therefrom",206670.274,94.897084,"United Kingdom -  Bird skins and feathers, articles therefrom"
+106,768,Togo,344,"China, Hong Kong SAR",74, Copper mattes,193061.827,38.649159,"China, Hong Kong SAR -  Copper mattes"
+107,768,Togo,562,Niger,46, Plaits and products of plaiting materials,190184.351,639.7611119999999,Niger -  Plaits and products of plaiting materials
+108,768,Togo,384,Côte d'Ivoire,84, Nuclear reactors,190164.349,8.6,Côte d'Ivoire -  Nuclear reactors
+109,768,Togo,276,Germany,08," Coconuts, fresh or dried",175705.778,19.508770000000002,"Germany -  Coconuts, fresh or dried"
+110,768,Togo,562,Niger,22, Mineral and aerated waters not sweetened or flavoured,172447.718,367.718506,Niger -  Mineral and aerated waters not sweetened or flavoured
+111,768,Togo,132,Cabo Verde,87, Pedestrian controlled tractors,172392.485,10.29476,Cabo Verde -  Pedestrian controlled tractors
+112,768,Togo,384,Côte d'Ivoire,56," Sanitary towels, diapers and similar articles",168701.433,21.567,"Côte d'Ivoire -  Sanitary towels, diapers and similar articles"
+113,768,Togo,566,Nigeria,48, Newsprint,162792.166,108.809,Nigeria -  Newsprint
+114,768,Togo,854,Burkina Faso,63, Electric blankets of textile material,162188.689,251.64763399999998,Burkina Faso -  Electric blankets of textile material
+115,768,Togo,250,France,22, Mineral and aerated waters not sweetened or flavoured,160346.231,182.41791500000002,France -  Mineral and aerated waters not sweetened or flavoured
+116,768,Togo,380,Italy,09," Coffee, not roasted, not decaffeinated",157427.706,42.549954,"Italy -  Coffee, not roasted, not decaffeinated"
+117,768,Togo,562,Niger,27," Anthracite, not agglomerated",156717.748,137.48333300000002,"Niger -  Anthracite, not agglomerated"
+118,768,Togo,704,Viet Nam,12, Soya beans,156422.7,523.927685,Viet Nam -  Soya beans
+119,768,Togo,620,Portugal,09," Coffee, not roasted, not decaffeinated",152897.456,77.22,"Portugal -  Coffee, not roasted, not decaffeinated"
+120,768,Togo,324,Guinea,46, Plaits and products of plaiting materials,145704.912,214.448169,Guinea -  Plaits and products of plaiting materials
+121,768,Togo,288,Ghana,84, Nuclear reactors,145644.9,94.926792,Ghana -  Nuclear reactors
+122,768,Togo,288,Ghana,10, Durum wheat,144701.146,976.782476,Ghana -  Durum wheat
+123,768,Togo,250,France,20," Cucumbers,gherkins, prepared or preserved by vinegar",142487.414,137.062002,"France -  Cucumbers,gherkins, prepared or preserved by vinegar"
+124,768,Togo,702,Singapore,12, Soya beans,141883.035,102.181631,Singapore -  Soya beans
+125,768,Togo,288,Ghana,67," Bird skins and feathers, articles therefrom",141481.116,92.50797999999999,"Ghana -  Bird skins and feathers, articles therefrom"
+126,768,Togo,764,Thailand,76," Aluminium unwrought, not alloyed",140784.573,106.1,"Thailand -  Aluminium unwrought, not alloyed"
+127,768,Togo,270,Gambia,27," Anthracite, not agglomerated",139543.148,80.171,"Gambia -  Anthracite, not agglomerated"
+128,768,Togo,466,Mali,12, Soya beans,138452.584,2829.820211,Mali -  Soya beans
+129,768,Togo,854,Burkina Faso,61," Mens, boys overcoats, etc, of wool or hair, knit",136480.992,621.572626,"Burkina Faso -  Mens, boys overcoats, etc, of wool or hair, knit"
+130,768,Togo,288,Ghana,21," Coffee extracts, essences, concentrates, preparations",133963.192,166.623968,"Ghana -  Coffee extracts, essences, concentrates, preparations"
+131,768,Togo,854,Burkina Faso,22, Mineral and aerated waters not sweetened or flavoured,132010.012,1065.452331,Burkina Faso -  Mineral and aerated waters not sweetened or flavoured
+132,768,Togo,528,Netherlands (Kingdom of the),12, Soya beans,131272.054,301.079254,Netherlands (Kingdom of the) -  Soya beans
+133,768,Togo,854,Burkina Faso,19," Infant foods of cereals, flour, starch or milk, retai",130931.05,554.66454,"Burkina Faso -  Infant foods of cereals, flour, starch or milk, retai"
+134,768,Togo,466,Mali,84, Nuclear reactors,129336.587,267.833026,Mali -  Nuclear reactors
+135,768,Togo,384,Côte d'Ivoire,67," Bird skins and feathers, articles therefrom",124192.27,25.849,"Côte d'Ivoire -  Bird skins and feathers, articles therefrom"
+136,768,Togo,854,Burkina Faso,94," Seats, aircraft",113934.955,352.227152,"Burkina Faso -  Seats, aircraft"
+137,768,Togo,288,Ghana,63, Electric blankets of textile material,113306.677,79.841475,Ghana -  Electric blankets of textile material
+138,768,Togo,562,Niger,11, Wheat or meslin flour,109462.312,486.630817,Niger -  Wheat or meslin flour
+139,768,Togo,466,Mali,04, Milk not concentrated nor sweetened < 1% fat,108888.827,189.77963200000002,Mali -  Milk not concentrated nor sweetened < 1% fat
+140,768,Togo,562,Niger,04, Milk not concentrated nor sweetened < 1% fat,107818.113,49.825610999999995,Niger -  Milk not concentrated nor sweetened < 1% fat
+141,768,Togo,840,United States of America,84, Nuclear reactors,95916.221,9.321098,United States of America -  Nuclear reactors
+142,768,Togo,056,Belgium,71," Pearls natural, not permanently mounted or set",93632.785,6.059711,"Belgium -  Pearls natural, not permanently mounted or set"
+143,768,Togo,024,Angola,95," Rideable wheeled toys, dolls carriages",90541.144,17.83,"Angola -  Rideable wheeled toys, dolls carriages"
+144,768,Togo,120,Cameroon,39, Polyethylene - specific gravity <0.94 in primary form,89544.679,37.696182,Cameroon -  Polyethylene - specific gravity <0.94 in primary form
+145,768,Togo,250,France,39, Polyethylene - specific gravity <0.94 in primary form,89443.197,7.0067569999999995,France -  Polyethylene - specific gravity <0.94 in primary form
+146,768,Togo,056,Belgium,18," Cocoa beans, whole or broken, raw or roasted",89072.842,62.557993,"Belgium -  Cocoa beans, whole or broken, raw or roasted"
+147,768,Togo,562,Niger,87, Pedestrian controlled tractors,88771.537,12.234623,Niger -  Pedestrian controlled tractors
+148,768,Togo,466,Mali,87, Pedestrian controlled tractors,86247.855,68.724238,Mali -  Pedestrian controlled tractors
+149,768,Togo,288,Ghana,09," Coffee, not roasted, not decaffeinated",83734.9,566.6665529999999,"Ghana -  Coffee, not roasted, not decaffeinated"
+150,768,Togo,562,Niger,31," Animal or vegetable fertilizers, in packs >10 kg",83095.82,268.709425,"Niger -  Animal or vegetable fertilizers, in packs >10 kg"
+151,768,Togo,270,Gambia,20," Cucumbers,gherkins, prepared or preserved by vinegar",80183.076,270.106,"Gambia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+152,768,Togo,120,Cameroon,46, Plaits and products of plaiting materials,78950.252,106.80283100000001,Cameroon -  Plaits and products of plaiting materials
+153,768,Togo,288,Ghana,16," Sausages, similar products of meat, meat offal & bloo",77850.9,84.90254300000001,"Ghana -  Sausages, similar products of meat, meat offal & bloo"
+154,768,Togo,616,Poland,08," Coconuts, fresh or dried",77686.115,10.714426,"Poland -  Coconuts, fresh or dried"
+155,768,Togo,288,Ghana,56," Sanitary towels, diapers and similar articles",74742.054,81.227811,"Ghana -  Sanitary towels, diapers and similar articles"
+156,768,Togo,792,Türkiye,52," Cotton, not carded or combed",73788.0,143.928,"Türkiye -  Cotton, not carded or combed"
+157,768,Togo,466,Mali,29, Saturated acyclic hydrocarbons,73193.852,133.569644,Mali -  Saturated acyclic hydrocarbons
+158,768,Togo,288,Ghana,76," Aluminium unwrought, not alloyed",70877.637,30.488765,"Ghana -  Aluminium unwrought, not alloyed"
+159,768,Togo,562,Niger,34," Soaps, for toilet use, solid",70022.924,142.019829,"Niger -  Soaps, for toilet use, solid"
+160,768,Togo,724,Spain,11, Wheat or meslin flour,68835.453,58.195,Spain -  Wheat or meslin flour
+161,768,Togo,276,Germany,63, Electric blankets of textile material,68529.522,165.798,Germany -  Electric blankets of textile material
+162,768,Togo,854,Burkina Faso,48, Newsprint,68005.04,127.16161,Burkina Faso -  Newsprint
+163,768,Togo,826,United Kingdom,84, Nuclear reactors,66238.259,0.053840000000000006,United Kingdom -  Nuclear reactors
+164,768,Togo,840,United States of America,44, Fuel wood,65878.398,60.862885999999996,United States of America -  Fuel wood
+165,768,Togo,466,Mali,40," Natural rubber latex, including prevulcanised",64883.406,204.741425,"Mali -  Natural rubber latex, including prevulcanised"
+166,768,Togo,586,Pakistan,72," Pig iron, non-alloy, <0.5% phosphorus",63095.425,230.900472,"Pakistan -  Pig iron, non-alloy, <0.5% phosphorus"
+167,768,Togo,840,United States of America,11, Wheat or meslin flour,62291.913,67.599296,United States of America -  Wheat or meslin flour
+168,768,Togo,203,Czechia,09," Coffee, not roasted, not decaffeinated",61515.548,22.034769,"Czechia -  Coffee, not roasted, not decaffeinated"
+169,768,Togo,384,Côte d'Ivoire,17," Raw sugar, cane",57834.469,93.131,"Côte d'Ivoire -  Raw sugar, cane"
+170,768,Togo,854,Burkina Faso,11, Wheat or meslin flour,57582.908,131.535772,Burkina Faso -  Wheat or meslin flour
+171,768,Togo,586,Pakistan,41," Bovine skins, whole, raw",54094.748,8.775718000000001,"Pakistan -  Bovine skins, whole, raw"
+172,768,Togo,250,France,11, Wheat or meslin flour,53357.648,57.814235999999994,France -  Wheat or meslin flour
+173,768,Togo,686,Senegal,39, Polyethylene - specific gravity <0.94 in primary form,49097.204,118.692923,Senegal -  Polyethylene - specific gravity <0.94 in primary form
+174,768,Togo,686,Senegal,87, Pedestrian controlled tractors,47593.231,37.531594,Senegal -  Pedestrian controlled tractors
+175,768,Togo,562,Niger,84, Nuclear reactors,46310.613,28.396416000000002,Niger -  Nuclear reactors
+176,768,Togo,466,Mali,61," Mens, boys overcoats, etc, of wool or hair, knit",45873.526,45.387631,"Mali -  Mens, boys overcoats, etc, of wool or hair, knit"
+177,768,Togo,504,Morocco,85, Electric motors of an output < 37.5 watts,44450.741,13.881529,Morocco -  Electric motors of an output < 37.5 watts
+178,768,Togo,250,France,84, Nuclear reactors,44017.807,2.82601,France -  Nuclear reactors
+179,768,Togo,356,India,26," Iron ore, concentrate, not iron pyrites,unagglomerate",44011.172,47.826215,"India -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+180,768,Togo,120,Cameroon,04, Milk not concentrated nor sweetened < 1% fat,41742.262,41.174488,Cameroon -  Milk not concentrated nor sweetened < 1% fat
+181,768,Togo,250,France,73, Sheet piling of iron or steel,41651.991,18.1983,France -  Sheet piling of iron or steel
+182,768,Togo,854,Burkina Faso,12, Soya beans,41617.287,3368.879285,Burkina Faso -  Soya beans
+183,768,Togo,156,China,44, Fuel wood,41236.378,81.465761,China -  Fuel wood
+184,768,Togo,466,Mali,20," Cucumbers,gherkins, prepared or preserved by vinegar",40514.566,92.128714,"Mali -  Cucumbers,gherkins, prepared or preserved by vinegar"
+185,768,Togo,324,Guinea,56," Sanitary towels, diapers and similar articles",40373.551,68.191248,"Guinea -  Sanitary towels, diapers and similar articles"
+186,768,Togo,466,Mali,34," Soaps, for toilet use, solid",40271.128,61.143699999999995,"Mali -  Soaps, for toilet use, solid"
+187,768,Togo,562,Niger,76," Aluminium unwrought, not alloyed",40176.056,24.619636999999997,"Niger -  Aluminium unwrought, not alloyed"
+188,768,Togo,276,Germany,09," Coffee, not roasted, not decaffeinated",39537.732,14.007382,"Germany -  Coffee, not roasted, not decaffeinated"
+189,768,Togo,250,France,94," Seats, aircraft",39480.209,9.054578,"France -  Seats, aircraft"
+190,768,Togo,104,Myanmar,23," Flour or meal, pellet of meat or offal for animal fee",38571.792,105.97,"Myanmar -  Flour or meal, pellet of meat or offal for animal fee"
+191,768,Togo,380,Italy,18," Cocoa beans, whole or broken, raw or roasted",38525.307,26.538883000000002,"Italy -  Cocoa beans, whole or broken, raw or roasted"
+192,768,Togo,392,Japan,74, Copper mattes,37770.391,11.227272000000001,Japan -  Copper mattes
+193,768,Togo,566,Nigeria,87, Pedestrian controlled tractors,36913.875,103.8,Nigeria -  Pedestrian controlled tractors
+194,768,Togo,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,35098.299,4.494,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+195,768,Togo,466,Mali,09," Coffee, not roasted, not decaffeinated",35045.673,19.219755,"Mali -  Coffee, not roasted, not decaffeinated"
+196,768,Togo,384,Côte d'Ivoire,82, Spades and shovels,34507.216,18.299,Côte d'Ivoire -  Spades and shovels
+197,768,Togo,586,Pakistan,87, Pedestrian controlled tractors,34177.489,3.369283,Pakistan -  Pedestrian controlled tractors
+198,768,Togo,566,Nigeria,63, Electric blankets of textile material,33995.326,76.15,Nigeria -  Electric blankets of textile material
+199,768,Togo,288,Ghana,07," Potatoes seed, fresh or chilled",33513.692,170.660424,"Ghana -  Potatoes seed, fresh or chilled"
+200,768,Togo,288,Ghana,03," Ornamental fish, live",33231.166,57.104468999999995,"Ghana -  Ornamental fish, live"
+201,768,Togo,756,"Switzerland, Liechtenstein",18," Cocoa beans, whole or broken, raw or roasted",33134.272,10.019658999999999,"Switzerland, Liechtenstein -  Cocoa beans, whole or broken, raw or roasted"
+202,768,Togo,056,Belgium,09," Coffee, not roasted, not decaffeinated",32924.546,9.795157,"Belgium -  Coffee, not roasted, not decaffeinated"
+203,768,Togo,276,Germany,74, Copper mattes,32649.142,9.72,Germany -  Copper mattes
+204,768,Togo,826,United Kingdom,12, Soya beans,32602.694,35.958808,United Kingdom -  Soya beans
+205,768,Togo,036,Australia,08," Coconuts, fresh or dried",32435.388,3.969,"Australia -  Coconuts, fresh or dried"
+206,768,Togo,288,Ghana,12, Soya beans,32387.188,314.899592,Ghana -  Soya beans
+207,768,Togo,724,Spain,44, Fuel wood,31869.174,119.36,Spain -  Fuel wood
+208,768,Togo,686,Senegal,23," Flour or meal, pellet of meat or offal for animal fee",31663.919,221.917395,"Senegal -  Flour or meal, pellet of meat or offal for animal fee"
+209,768,Togo,384,Côte d'Ivoire,09," Coffee, not roasted, not decaffeinated",31027.461,1.273,"Côte d'Ivoire -  Coffee, not roasted, not decaffeinated"
+210,768,Togo,528,Netherlands (Kingdom of the),18," Cocoa beans, whole or broken, raw or roasted",30826.566,22.131022,"Netherlands (Kingdom of the) -  Cocoa beans, whole or broken, raw or roasted"
+211,768,Togo,854,Burkina Faso,38, Artificial graphite,30551.692,17.40287,Burkina Faso -  Artificial graphite
+212,768,Togo,276,Germany,67," Bird skins and feathers, articles therefrom",29947.18,6.592,"Germany -  Bird skins and feathers, articles therefrom"
+213,768,Togo,792,Türkiye,23," Flour or meal, pellet of meat or offal for animal fee",28905.0,241.14,"Türkiye -  Flour or meal, pellet of meat or offal for animal fee"
+214,768,Togo,466,Mali,19," Infant foods of cereals, flour, starch or milk, retai",27818.366,62.739858,"Mali -  Infant foods of cereals, flour, starch or milk, retai"
+215,768,Togo,466,Mali,48, Newsprint,27698.558,63.340711999999996,Mali -  Newsprint
+216,768,Togo,288,Ghana,33, Essential oils of bergamot,27680.528,86.397091,Ghana -  Essential oils of bergamot
+217,768,Togo,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",27673.627,20.631182,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+218,768,Togo,620,Portugal,11, Wheat or meslin flour,27468.857,16.668,Portugal -  Wheat or meslin flour
+219,768,Togo,276,Germany,18," Cocoa beans, whole or broken, raw or roasted",27417.18,13.004987,"Germany -  Cocoa beans, whole or broken, raw or roasted"
+220,768,Togo,056,Belgium,07," Potatoes seed, fresh or chilled",26839.607,24.945538,"Belgium -  Potatoes seed, fresh or chilled"
+221,768,Togo,466,Mali,56," Sanitary towels, diapers and similar articles",26401.347,90.89106600000001,"Mali -  Sanitary towels, diapers and similar articles"
+222,768,Togo,466,Mali,54, Sewing thread of synthetic filaments,26394.838,68.609488,Mali -  Sewing thread of synthetic filaments
+223,768,Togo,120,Cameroon,34," Soaps, for toilet use, solid",26136.919,22.055253,"Cameroon -  Soaps, for toilet use, solid"
+224,768,Togo,360,Indonesia,74, Copper mattes,25751.93,7.1903950000000005,Indonesia -  Copper mattes
+225,768,Togo,854,Burkina Faso,84, Nuclear reactors,25681.935,79.14588099999999,Burkina Faso -  Nuclear reactors
+226,768,Togo,250,France,07," Potatoes seed, fresh or chilled",25517.867,23.896685,"France -  Potatoes seed, fresh or chilled"
+227,768,Togo,036,Australia,63, Electric blankets of textile material,25300.347,35.474696,Australia -  Electric blankets of textile material
+228,768,Togo,250,France,15," Lard, other pig fat and poultry fat, rendered",25154.051,37.072396,"France -  Lard, other pig fat and poultry fat, rendered"
+229,768,Togo,288,Ghana,55," Filament tow of nylon, polyamides",24398.743,20.658664,"Ghana -  Filament tow of nylon, polyamides"
+230,768,Togo,466,Mali,63, Electric blankets of textile material,24253.73,40.164918,Mali -  Electric blankets of textile material
+231,768,Togo,120,Cameroon,70," Glass cullet, waste or scrap, glass in the mass",24060.805,231.39856,"Cameroon -  Glass cullet, waste or scrap, glass in the mass"
+232,768,Togo,466,Mali,21," Coffee extracts, essences, concentrates, preparations",23795.905,54.277808,"Mali -  Coffee extracts, essences, concentrates, preparations"
+233,768,Togo,356,India,79," Zinc, not alloyed, unwrought, >99% pure",23782.497,12.215654,"India -  Zinc, not alloyed, unwrought, >99% pure"
+234,768,Togo,270,Gambia,39, Polyethylene - specific gravity <0.94 in primary form,23387.902,64.763,Gambia -  Polyethylene - specific gravity <0.94 in primary form
+235,768,Togo,392,Japan,75, Nickel mattes,23013.419,12.254208,Japan -  Nickel mattes
+236,768,Togo,854,Burkina Faso,87, Pedestrian controlled tractors,22846.919,40.202809,Burkina Faso -  Pedestrian controlled tractors
+237,768,Togo,840,United States of America,29, Saturated acyclic hydrocarbons,22658.754,6.959918,United States of America -  Saturated acyclic hydrocarbons
+238,768,Togo,562,Niger,48, Newsprint,22381.664,62.161300000000004,Niger -  Newsprint
+239,768,Togo,056,Belgium,90," Optical fibres, except for telecommunications",21537.35,0.069259,"Belgium -  Optical fibres, except for telecommunications"
+240,768,Togo,120,Cameroon,48, Newsprint,21194.841,9.912704,Cameroon -  Newsprint
+241,768,Togo,562,Niger,86," Rail locomotives, externally electrically powered",21160.467,4.48604,"Niger -  Rail locomotives, externally electrically powered"
+242,768,Togo,288,Ghana,85, Electric motors of an output < 37.5 watts,21088.783,21.195113000000003,Ghana -  Electric motors of an output < 37.5 watts
+243,768,Togo,688,Serbia,18," Cocoa beans, whole or broken, raw or roasted",20631.634,8.905877,"Serbia -  Cocoa beans, whole or broken, raw or roasted"
+244,768,Togo,562,Niger,23," Flour or meal, pellet of meat or offal for animal fee",19501.631,279.102998,"Niger -  Flour or meal, pellet of meat or offal for animal fee"
+245,768,Togo,040,Austria,18," Cocoa beans, whole or broken, raw or roasted",19472.315,11.213846,"Austria -  Cocoa beans, whole or broken, raw or roasted"
+246,768,Togo,152,Chile,62," Mens, boys overcoats of wool or hair, not knit",19429.202,5.203417,"Chile -  Mens, boys overcoats of wool or hair, not knit"
+247,768,Togo,554,New Zealand,09," Coffee, not roasted, not decaffeinated",19325.82,18.428403999999997,"New Zealand -  Coffee, not roasted, not decaffeinated"
+248,768,Togo,288,Ghana,96," Worked ivory, articles of ivory",19232.542,19.432148,"Ghana -  Worked ivory, articles of ivory"
+249,768,Togo,854,Burkina Faso,17," Raw sugar, cane",18900.625,50.750964999999994,"Burkina Faso -  Raw sugar, cane"
+250,768,Togo,384,Côte d'Ivoire,30," Glands and other organs, dried, for therapeutic uses",18876.83,0.814,"Côte d'Ivoire -  Glands and other organs, dried, for therapeutic uses"
+251,768,Togo,384,Côte d'Ivoire,39, Polyethylene - specific gravity <0.94 in primary form,18839.886,2.284,Côte d'Ivoire -  Polyethylene - specific gravity <0.94 in primary form
+252,768,Togo,384,Côte d'Ivoire,19," Infant foods of cereals, flour, starch or milk, retai",18565.135,17.3,"Côte d'Ivoire -  Infant foods of cereals, flour, starch or milk, retai"
+253,768,Togo,800,Uganda,33, Essential oils of bergamot,17872.938,25.938559,Uganda -  Essential oils of bergamot
+254,768,Togo,840,United States of America,03," Ornamental fish, live",17651.058,0.207374,"United States of America -  Ornamental fish, live"
+255,768,Togo,528,Netherlands (Kingdom of the),07," Potatoes seed, fresh or chilled",17607.795,17.128237000000002,"Netherlands (Kingdom of the) -  Potatoes seed, fresh or chilled"
+256,768,Togo,562,Niger,94," Seats, aircraft",17502.787,17.458184000000003,"Niger -  Seats, aircraft"
+257,768,Togo,466,Mali,76," Aluminium unwrought, not alloyed",17415.229,9.918002,"Mali -  Aluminium unwrought, not alloyed"
+258,768,Togo,466,Mali,94," Seats, aircraft",17359.969,43.843764,"Mali -  Seats, aircraft"
+259,768,Togo,203,Czechia,08," Coconuts, fresh or dried",17348.506,2.596003,"Czechia -  Coconuts, fresh or dried"
+260,768,Togo,204,Benin,63, Electric blankets of textile material,17267.421,59.92,Benin -  Electric blankets of textile material
+261,768,Togo,276,Germany,85, Electric motors of an output < 37.5 watts,17230.925,3.8775720000000002,Germany -  Electric motors of an output < 37.5 watts
+262,768,Togo,380,Italy,08," Coconuts, fresh or dried",17042.216,1.231373,"Italy -  Coconuts, fresh or dried"
+263,768,Togo,288,Ghana,19," Infant foods of cereals, flour, starch or milk, retai",16968.115,47.496561,"Ghana -  Infant foods of cereals, flour, starch or milk, retai"
+264,768,Togo,566,Nigeria,34," Soaps, for toilet use, solid",16921.786,28.0,"Nigeria -  Soaps, for toilet use, solid"
+265,768,Togo,324,Guinea,33, Essential oils of bergamot,16848.619,33.742438,Guinea -  Essential oils of bergamot
+266,768,Togo,270,Gambia,04, Milk not concentrated nor sweetened < 1% fat,16736.787,201.92,Gambia -  Milk not concentrated nor sweetened < 1% fat
+267,768,Togo,380,Italy,71," Pearls natural, not permanently mounted or set",16712.305,1.3240150000000002,"Italy -  Pearls natural, not permanently mounted or set"
+268,768,Togo,056,Belgium,19," Infant foods of cereals, flour, starch or milk, retai",16131.656,12.280972,"Belgium -  Infant foods of cereals, flour, starch or milk, retai"
+269,768,Togo,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",16105.655,3.846562,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+270,768,Togo,288,Ghana,23," Flour or meal, pellet of meat or offal for animal fee",15968.082,169.549522,"Ghana -  Flour or meal, pellet of meat or offal for animal fee"
+271,768,Togo,466,Mali,59, Gum or amylaceous covered textiles for book covers et,15862.468,80.10525100000001,Mali -  Gum or amylaceous covered textiles for book covers et
+272,768,Togo,250,France,87, Pedestrian controlled tractors,15584.465,0.632204,France -  Pedestrian controlled tractors
+273,768,Togo,566,Nigeria,55," Filament tow of nylon, polyamides",14840.133,6.42,"Nigeria -  Filament tow of nylon, polyamides"
+274,768,Togo,140,Central African Republic,39, Polyethylene - specific gravity <0.94 in primary form,14090.749,63.913818,Central African Republic -  Polyethylene - specific gravity <0.94 in primary form
+275,768,Togo,250,France,85, Electric motors of an output < 37.5 watts,13893.084,0.547847,France -  Electric motors of an output < 37.5 watts
+276,768,Togo,466,Mali,38, Artificial graphite,13766.845,10.08506,Mali -  Artificial graphite
+277,768,Togo,288,Ghana,62," Mens, boys overcoats of wool or hair, not knit",13663.432,13.705775,"Ghana -  Mens, boys overcoats of wool or hair, not knit"
+278,768,Togo,562,Niger,21," Coffee extracts, essences, concentrates, preparations",13622.401,24.211444,"Niger -  Coffee extracts, essences, concentrates, preparations"
+279,768,Togo,380,Italy,74, Copper mattes,13595.224,3.7851640000000004,Italy -  Copper mattes
+280,768,Togo,288,Ghana,40," Natural rubber latex, including prevulcanised",13407.004,14.748520000000001,"Ghana -  Natural rubber latex, including prevulcanised"
+281,768,Togo,056,Belgium,74, Copper mattes,13362.616,5.763795,Belgium -  Copper mattes
+282,768,Togo,704,Viet Nam,52," Cotton, not carded or combed",13356.836,7.579256,"Viet Nam -  Cotton, not carded or combed"
+283,768,Togo,288,Ghana,34," Soaps, for toilet use, solid",12858.58,26.766034,"Ghana -  Soaps, for toilet use, solid"
+284,768,Togo,288,Ghana,35, Casein,12812.748,8.17574,Ghana -  Casein
+285,768,Togo,024,Angola,12, Soya beans,12733.366,11.764,Angola -  Soya beans
+286,768,Togo,250,France,70," Glass cullet, waste or scrap, glass in the mass",12717.395,16.785927,"France -  Glass cullet, waste or scrap, glass in the mass"
+287,768,Togo,120,Cameroon,76," Aluminium unwrought, not alloyed",12687.997,2.726172,"Cameroon -  Aluminium unwrought, not alloyed"
+288,768,Togo,562,Niger,63, Electric blankets of textile material,12455.636,47.258638,Niger -  Electric blankets of textile material
+289,768,Togo,466,Mali,96," Worked ivory, articles of ivory",12361.531,81.627392,"Mali -  Worked ivory, articles of ivory"
+290,768,Togo,288,Ghana,38, Artificial graphite,12136.029,12.945265,Ghana -  Artificial graphite
+291,768,Togo,384,Côte d'Ivoire,54, Sewing thread of synthetic filaments,11898.745,12.8,Côte d'Ivoire -  Sewing thread of synthetic filaments
+292,768,Togo,120,Cameroon,38, Artificial graphite,11893.485,7.395194999999999,Cameroon -  Artificial graphite
+293,768,Togo,478,Mauritania,23," Flour or meal, pellet of meat or offal for animal fee",11867.533,89.80470600000001,"Mauritania -  Flour or meal, pellet of meat or offal for animal fee"
+294,768,Togo,392,Japan,89," Cruise ships, excursion boats, ferry boats",11670.559,40.358824,"Japan -  Cruise ships, excursion boats, ferry boats"
+295,768,Togo,854,Burkina Faso,34," Soaps, for toilet use, solid",11467.594,61.890680999999994,"Burkina Faso -  Soaps, for toilet use, solid"
+296,768,Togo,508,Mozambique,56," Sanitary towels, diapers and similar articles",11465.18,6.25,"Mozambique -  Sanitary towels, diapers and similar articles"
+297,768,Togo,288,Ghana,94," Seats, aircraft",11351.719,5.713933,"Ghana -  Seats, aircraft"
+298,768,Togo,466,Mali,67," Bird skins and feathers, articles therefrom",11003.034,32.178023,"Mali -  Bird skins and feathers, articles therefrom"
+299,768,Togo,024,Angola,20," Cucumbers,gherkins, prepared or preserved by vinegar",10957.43,11.7648,"Angola -  Cucumbers,gherkins, prepared or preserved by vinegar"
+300,768,Togo,686,Senegal,84, Nuclear reactors,10895.918,18.465331,Senegal -  Nuclear reactors
+301,768,Togo,562,Niger,40," Natural rubber latex, including prevulcanised",10683.45,40.762377,"Niger -  Natural rubber latex, including prevulcanised"
+302,768,Togo,324,Guinea,04, Milk not concentrated nor sweetened < 1% fat,10556.768,33.811489,Guinea -  Milk not concentrated nor sweetened < 1% fat
+303,768,Togo,840,United States of America,33, Essential oils of bergamot,10554.082,0.5735650000000001,United States of America -  Essential oils of bergamot
+304,768,Togo,686,Senegal,34," Soaps, for toilet use, solid",10471.699,11.642318999999999,"Senegal -  Soaps, for toilet use, solid"
+305,768,Togo,724,Spain,84, Nuclear reactors,10471.363,9.515,Spain -  Nuclear reactors
+306,768,Togo,380,Italy,07," Potatoes seed, fresh or chilled",10267.065,5.3281469999999995,"Italy -  Potatoes seed, fresh or chilled"
+307,768,Togo,566,Nigeria,28, Chlorine,10245.509,8.0,Nigeria -  Chlorine
+308,768,Togo,566,Nigeria,85, Electric motors of an output < 37.5 watts,10149.498,10.0,Nigeria -  Electric motors of an output < 37.5 watts
+309,768,Togo,466,Mali,32, Quebracho tanning extract,10133.194,2.704951,Mali -  Quebracho tanning extract
+310,768,Togo,324,Guinea,34," Soaps, for toilet use, solid",9955.164,19.89877,"Guinea -  Soaps, for toilet use, solid"
+311,768,Togo,324,Guinea,09," Coffee, not roasted, not decaffeinated",9881.345,20.814037,"Guinea -  Coffee, not roasted, not decaffeinated"
+312,768,Togo,554,New Zealand,25," Salt (sodium chloride) including solution, salt water",9835.066,185.71768,"New Zealand -  Salt (sodium chloride) including solution, salt water"
+313,768,Togo,528,Netherlands (Kingdom of the),84, Nuclear reactors,9573.086,1.9332529999999999,Netherlands (Kingdom of the) -  Nuclear reactors
+314,768,Togo,120,Cameroon,55," Filament tow of nylon, polyamides",9568.118,5.979974,"Cameroon -  Filament tow of nylon, polyamides"
+315,768,Togo,854,Burkina Faso,85, Electric motors of an output < 37.5 watts,9513.052,74.79753,Burkina Faso -  Electric motors of an output < 37.5 watts
+316,768,Togo,422,Lebanon,63, Electric blankets of textile material,9455.465,15.383593000000001,Lebanon -  Electric blankets of textile material
+317,768,Togo,703,Slovakia,87, Pedestrian controlled tractors,9396.66,0.378539,Slovakia -  Pedestrian controlled tractors
+318,768,Togo,478,Mauritania,73, Sheet piling of iron or steel,9328.985,3.45233,Mauritania -  Sheet piling of iron or steel
+319,768,Togo,562,Niger,85, Electric motors of an output < 37.5 watts,9035.957,4.763529,Niger -  Electric motors of an output < 37.5 watts
+320,768,Togo,854,Burkina Faso,40," Natural rubber latex, including prevulcanised",9008.564,83.509224,"Burkina Faso -  Natural rubber latex, including prevulcanised"
+321,768,Togo,608,Philippines,84, Nuclear reactors,8905.593,0.9546870000000001,Philippines -  Nuclear reactors
+322,768,Togo,756,"Switzerland, Liechtenstein",12, Soya beans,8779.42,2.890922,"Switzerland, Liechtenstein -  Soya beans"
+323,768,Togo,288,Ghana,61," Mens, boys overcoats, etc, of wool or hair, knit",8723.974,3.291873,"Ghana -  Mens, boys overcoats, etc, of wool or hair, knit"
+324,768,Togo,324,Guinea,85, Electric motors of an output < 37.5 watts,8689.736,1.248425,Guinea -  Electric motors of an output < 37.5 watts
+325,768,Togo,528,Netherlands (Kingdom of the),29, Saturated acyclic hydrocarbons,8665.933,14.149826,Netherlands (Kingdom of the) -  Saturated acyclic hydrocarbons
+326,768,Togo,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",8355.899,1.547277,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+327,768,Togo,288,Ghana,64," Waterproof footwear (Wellingtons etc), metal toe cap",8345.546,10.030697,"Ghana -  Waterproof footwear (Wellingtons etc), metal toe cap"
+328,768,Togo,250,France,86," Rail locomotives, externally electrically powered",8308.909,1.988684,"France -  Rail locomotives, externally electrically powered"
+329,768,Togo,562,Niger,96," Worked ivory, articles of ivory",8262.775,38.356228,"Niger -  Worked ivory, articles of ivory"
+330,768,Togo,360,Indonesia,52," Cotton, not carded or combed",7757.656,5.3576049999999995,"Indonesia -  Cotton, not carded or combed"
+331,768,Togo,694,Sierra Leone,87, Pedestrian controlled tractors,7641.38,0.732039,Sierra Leone -  Pedestrian controlled tractors
+332,768,Togo,466,Mali,33, Essential oils of bergamot,7528.824,18.158133000000003,Mali -  Essential oils of bergamot
+333,768,Togo,324,Guinea,49," Brochures, leaflets and similar, in single sheets",7464.907,1.1939179999999998,"Guinea -  Brochures, leaflets and similar, in single sheets"
+334,768,Togo,384,Côte d'Ivoire,73, Sheet piling of iron or steel,7454.64,0.652,Côte d'Ivoire -  Sheet piling of iron or steel
+335,768,Togo,616,Poland,87, Pedestrian controlled tractors,7327.862,0.987183,Poland -  Pedestrian controlled tractors
+336,768,Togo,356,India,47, Mechanical wood pulp,7264.936,38.728924,India -  Mechanical wood pulp
+337,768,Togo,288,Ghana,11, Wheat or meslin flour,7214.589,73.391629,Ghana -  Wheat or meslin flour
+338,768,Togo,056,Belgium,20," Cucumbers,gherkins, prepared or preserved by vinegar",7207.034,6.714233,"Belgium -  Cucumbers,gherkins, prepared or preserved by vinegar"
+339,768,Togo,854,Burkina Faso,96," Worked ivory, articles of ivory",7202.704,51.545038999999996,"Burkina Faso -  Worked ivory, articles of ivory"
+340,768,Togo,356,India,76," Aluminium unwrought, not alloyed",7115.242,7.697874,"India -  Aluminium unwrought, not alloyed"
+341,768,Togo,840,United States of America,21," Coffee extracts, essences, concentrates, preparations",7103.129,5.091121,"United States of America -  Coffee extracts, essences, concentrates, preparations"
+342,768,Togo,466,Mali,95," Rideable wheeled toys, dolls carriages",7098.135,39.22755,"Mali -  Rideable wheeled toys, dolls carriages"
+343,768,Togo,120,Cameroon,19," Infant foods of cereals, flour, starch or milk, retai",7030.731,18.82548,"Cameroon -  Infant foods of cereals, flour, starch or milk, retai"
+344,768,Togo,140,Central African Republic,48, Newsprint,6986.963,26.77822,Central African Republic -  Newsprint
+345,768,Togo,724,Spain,63, Electric blankets of textile material,6975.296,3.68,Spain -  Electric blankets of textile material
+346,768,Togo,528,Netherlands (Kingdom of the),22, Mineral and aerated waters not sweetened or flavoured,6873.73,6.068553,Netherlands (Kingdom of the) -  Mineral and aerated waters not sweetened or flavoured
+347,768,Togo,528,Netherlands (Kingdom of the),09," Coffee, not roasted, not decaffeinated",6823.01,0.590433,"Netherlands (Kingdom of the) -  Coffee, not roasted, not decaffeinated"
+348,768,Togo,156,China,52," Cotton, not carded or combed",6809.893,3.776461,"China -  Cotton, not carded or combed"
+349,768,Togo,380,Italy,87, Pedestrian controlled tractors,6671.891,3.5124,Italy -  Pedestrian controlled tractors
+350,768,Togo,854,Burkina Faso,32, Quebracho tanning extract,6638.341,25.006151999999997,Burkina Faso -  Quebracho tanning extract
+351,768,Togo,324,Guinea,63, Electric blankets of textile material,6636.634,77.462446,Guinea -  Electric blankets of textile material
+352,768,Togo,324,Guinea,84, Nuclear reactors,6629.019,0.8060729999999999,Guinea -  Nuclear reactors
+353,768,Togo,156,China,18," Cocoa beans, whole or broken, raw or roasted",6606.072,4.379175,"China -  Cocoa beans, whole or broken, raw or roasted"
+354,768,Togo,288,Ghana,82, Spades and shovels,6412.99,13.990865,Ghana -  Spades and shovels
+355,768,Togo,270,Gambia,11, Wheat or meslin flour,6391.263,67.43,Gambia -  Wheat or meslin flour
+356,768,Togo,508,Mozambique,54, Sewing thread of synthetic filaments,6386.1,0.85,Mozambique -  Sewing thread of synthetic filaments
+357,768,Togo,686,Senegal,46, Plaits and products of plaiting materials,6384.077,16.075572,Senegal -  Plaits and products of plaiting materials
+358,768,Togo,288,Ghana,48, Newsprint,6269.664,9.951481,Ghana -  Newsprint
+359,768,Togo,356,India,23," Flour or meal, pellet of meat or offal for animal fee",6180.297,96.578436,"India -  Flour or meal, pellet of meat or offal for animal fee"
+360,768,Togo,466,Mali,55," Filament tow of nylon, polyamides",6173.046,7.124967,"Mali -  Filament tow of nylon, polyamides"
+361,768,Togo,360,Indonesia,29, Saturated acyclic hydrocarbons,5990.213,0.952288,Indonesia -  Saturated acyclic hydrocarbons
+362,768,Togo,724,Spain,85, Electric motors of an output < 37.5 watts,5978.385,2.21,Spain -  Electric motors of an output < 37.5 watts
+363,768,Togo,056,Belgium,08," Coconuts, fresh or dried",5976.395,2.749993,"Belgium -  Coconuts, fresh or dried"
+364,768,Togo,840,United States of America,07," Potatoes seed, fresh or chilled",5969.737,8.022593,"United States of America -  Potatoes seed, fresh or chilled"
+365,768,Togo,120,Cameroon,56," Sanitary towels, diapers and similar articles",5937.843,3.182942,"Cameroon -  Sanitary towels, diapers and similar articles"
+366,768,Togo,854,Burkina Faso,33, Essential oils of bergamot,5746.545,27.95893,Burkina Faso -  Essential oils of bergamot
+367,768,Togo,686,Senegal,94," Seats, aircraft",5635.404,24.736681,"Senegal -  Seats, aircraft"
+368,768,Togo,686,Senegal,44, Fuel wood,5567.605,6.909362,Senegal -  Fuel wood
+369,768,Togo,120,Cameroon,33, Essential oils of bergamot,5502.58,4.751855,Cameroon -  Essential oils of bergamot
+370,768,Togo,466,Mali,30," Glands and other organs, dried, for therapeutic uses",5489.554,2.149014,"Mali -  Glands and other organs, dried, for therapeutic uses"
+371,768,Togo,466,Mali,82, Spades and shovels,5474.982,20.813008,Mali -  Spades and shovels
+372,768,Togo,276,Germany,94," Seats, aircraft",5468.391,2.8,"Germany -  Seats, aircraft"
+373,768,Togo,380,Italy,03," Ornamental fish, live",5321.819,0.017072,"Italy -  Ornamental fish, live"
+374,768,Togo,384,Côte d'Ivoire,83, Padlocks of base metal,5309.131,0.343,Côte d'Ivoire -  Padlocks of base metal
+375,768,Togo,384,Côte d'Ivoire,38, Artificial graphite,5266.253,0.685,Côte d'Ivoire -  Artificial graphite
+376,768,Togo,466,Mali,64," Waterproof footwear (Wellingtons etc), metal toe cap",5230.851,10.433713,"Mali -  Waterproof footwear (Wellingtons etc), metal toe cap"
+377,768,Togo,756,"Switzerland, Liechtenstein",22, Mineral and aerated waters not sweetened or flavoured,5213.702,3.64719,"Switzerland, Liechtenstein -  Mineral and aerated waters not sweetened or flavoured"
+378,768,Togo,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",5079.916,0.46819299999999997,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+379,768,Togo,686,Senegal,33, Essential oils of bergamot,4957.32,35.001716,Senegal -  Essential oils of bergamot
+380,768,Togo,288,Ghana,54, Sewing thread of synthetic filaments,4928.291,6.960624,Ghana -  Sewing thread of synthetic filaments
+381,768,Togo,156,China,74, Copper mattes,4894.801,2.176109,China -  Copper mattes
+382,768,Togo,288,Ghana,29, Saturated acyclic hydrocarbons,4833.822,6.442533999999999,Ghana -  Saturated acyclic hydrocarbons
+383,768,Togo,854,Burkina Faso,64," Waterproof footwear (Wellingtons etc), metal toe cap",4824.761,16.860929,"Burkina Faso -  Waterproof footwear (Wellingtons etc), metal toe cap"
+384,768,Togo,466,Mali,35, Casein,4807.819,5.00584,Mali -  Casein
+385,768,Togo,360,Indonesia,73, Sheet piling of iron or steel,4778.188,1.5975789999999999,Indonesia -  Sheet piling of iron or steel
+386,768,Togo,288,Ghana,59, Gum or amylaceous covered textiles for book covers et,4717.716,2.626893,Ghana -  Gum or amylaceous covered textiles for book covers et
+387,768,Togo,120,Cameroon,22, Mineral and aerated waters not sweetened or flavoured,4694.691,0.18857300000000002,Cameroon -  Mineral and aerated waters not sweetened or flavoured
+388,768,Togo,324,Guinea,67," Bird skins and feathers, articles therefrom",4653.415,151.537197,"Guinea -  Bird skins and feathers, articles therefrom"
+389,768,Togo,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,4635.379,0.136347,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+390,768,Togo,562,Niger,28, Chlorine,4587.348,30.525381000000003,Niger -  Chlorine
+391,768,Togo,466,Mali,05," Hair, human, unworked, waste of human hair",4541.292,10.430563,"Mali -  Hair, human, unworked, waste of human hair"
+392,768,Togo,270,Gambia,54, Sewing thread of synthetic filaments,4521.456,17.04,Gambia -  Sewing thread of synthetic filaments
+393,768,Togo,056,Belgium,11, Wheat or meslin flour,4480.003,6.763492,Belgium -  Wheat or meslin flour
+394,768,Togo,854,Burkina Faso,83, Padlocks of base metal,4471.698,16.959559000000002,Burkina Faso -  Padlocks of base metal
+395,768,Togo,854,Burkina Faso,57," Carpets of wool or fine animal hair, knotted",4437.673,22.406565999999998,"Burkina Faso -  Carpets of wool or fine animal hair, knotted"
+396,768,Togo,380,Italy,84, Nuclear reactors,4425.826,0.7353419999999999,Italy -  Nuclear reactors
+397,768,Togo,288,Ghana,32, Quebracho tanning extract,4374.232,5.418556,Ghana -  Quebracho tanning extract
+398,768,Togo,508,Mozambique,63, Electric blankets of textile material,4333.83,0.531005,Mozambique -  Electric blankets of textile material
+399,768,Togo,854,Burkina Faso,95," Rideable wheeled toys, dolls carriages",4316.603,40.123152000000005,"Burkina Faso -  Rideable wheeled toys, dolls carriages"
+400,768,Togo,466,Mali,10, Durum wheat,4305.694,4.622136,Mali -  Durum wheat
+401,768,Togo,384,Côte d'Ivoire,94," Seats, aircraft",4186.464,0.13,"Côte d'Ivoire -  Seats, aircraft"
+402,768,Togo,756,"Switzerland, Liechtenstein",67," Bird skins and feathers, articles therefrom",4177.992,2.112218,"Switzerland, Liechtenstein -  Bird skins and feathers, articles therefrom"
+403,768,Togo,246,Finland,07," Potatoes seed, fresh or chilled",4102.263,1.409,"Finland -  Potatoes seed, fresh or chilled"
+404,768,Togo,854,Burkina Faso,20," Cucumbers,gherkins, prepared or preserved by vinegar",4056.354,27.198878,"Burkina Faso -  Cucumbers,gherkins, prepared or preserved by vinegar"
+405,768,Togo,442,Luxembourg,08," Coconuts, fresh or dried",4046.061,3.438081,"Luxembourg -  Coconuts, fresh or dried"
+406,768,Togo,854,Burkina Faso,76," Aluminium unwrought, not alloyed",3745.175,24.801003,"Burkina Faso -  Aluminium unwrought, not alloyed"
+407,768,Togo,752,Sweden,07," Potatoes seed, fresh or chilled",3723.847,11.0,"Sweden -  Potatoes seed, fresh or chilled"
+408,768,Togo,056,Belgium,15," Lard, other pig fat and poultry fat, rendered",3693.63,2.290006,"Belgium -  Lard, other pig fat and poultry fat, rendered"
+409,768,Togo,840,United States of America,12, Soya beans,3582.063,10.750943,United States of America -  Soya beans
+410,768,Togo,384,Côte d'Ivoire,49," Brochures, leaflets and similar, in single sheets",3568.651,0.374,"Côte d'Ivoire -  Brochures, leaflets and similar, in single sheets"
+411,768,Togo,854,Burkina Faso,30," Glands and other organs, dried, for therapeutic uses",3521.906,0.158969,"Burkina Faso -  Glands and other organs, dried, for therapeutic uses"
+412,768,Togo,562,Niger,30," Glands and other organs, dried, for therapeutic uses",3450.745,0.412711,"Niger -  Glands and other organs, dried, for therapeutic uses"
+413,768,Togo,360,Indonesia,38, Artificial graphite,3419.454,0.081795,Indonesia -  Artificial graphite
+414,768,Togo,288,Ghana,44, Fuel wood,3405.421,6.786205,Ghana -  Fuel wood
+415,768,Togo,288,Ghana,95," Rideable wheeled toys, dolls carriages",3405.009,5.413451,"Ghana -  Rideable wheeled toys, dolls carriages"
+416,768,Togo,270,Gambia,21," Coffee extracts, essences, concentrates, preparations",3317.061,21.68,"Gambia -  Coffee extracts, essences, concentrates, preparations"
+417,768,Togo,324,Guinea,22, Mineral and aerated waters not sweetened or flavoured,3282.967,2.8615459999999997,Guinea -  Mineral and aerated waters not sweetened or flavoured
+418,768,Togo,410,"Korea, Republic of",63, Electric blankets of textile material,3278.565,2.296987,"Korea, Republic of -  Electric blankets of textile material"
+419,768,Togo,854,Burkina Faso,67," Bird skins and feathers, articles therefrom",3268.211,22.216626,"Burkina Faso -  Bird skins and feathers, articles therefrom"
+420,768,Togo,208,Denmark,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",3263.181,1.299207,"Denmark -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+421,768,Togo,040,Austria,85, Electric motors of an output < 37.5 watts,3243.491,0.164362,Austria -  Electric motors of an output < 37.5 watts
+422,768,Togo,528,Netherlands (Kingdom of the),74, Copper mattes,3213.586,1.044279,Netherlands (Kingdom of the) -  Copper mattes
+423,768,Togo,144,Sri Lanka,84, Nuclear reactors,3213.341,0.6745760000000001,Sri Lanka -  Nuclear reactors
+424,768,Togo,466,Mali,73, Sheet piling of iron or steel,3205.275,12.969826,Mali -  Sheet piling of iron or steel
+425,768,Togo,854,Burkina Faso,90," Optical fibres, except for telecommunications",3192.649,1.8193679999999999,"Burkina Faso -  Optical fibres, except for telecommunications"
+426,768,Togo,466,Mali,58," Woven pile fabric of wool or fine animal hair, w >30c",3134.367,7.580421,"Mali -  Woven pile fabric of wool or fine animal hair, w >30c"
+427,768,Togo,276,Germany,07," Potatoes seed, fresh or chilled",3125.896,8.251673,"Germany -  Potatoes seed, fresh or chilled"
+428,768,Togo,250,France,63, Electric blankets of textile material,3122.852,0.925034,France -  Electric blankets of textile material
+429,768,Togo,894,Zambia,61," Mens, boys overcoats, etc, of wool or hair, knit",3119.781,1.0278889999999998,"Zambia -  Mens, boys overcoats, etc, of wool or hair, knit"
+430,768,Togo,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,3084.211,0.530828,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+431,768,Togo,756,"Switzerland, Liechtenstein",15," Lard, other pig fat and poultry fat, rendered",3053.174,1.313328,"Switzerland, Liechtenstein -  Lard, other pig fat and poultry fat, rendered"
+432,768,Togo,120,Cameroon,82, Spades and shovels,3023.638,0.004272000000000001,Cameroon -  Spades and shovels
+433,768,Togo,854,Burkina Faso,42," Saddlery and harness, of any material",3023.627,30.016195,"Burkina Faso -  Saddlery and harness, of any material"
+434,768,Togo,702,Singapore,88," Gliders, hang gliders",2999.199,0.008506,"Singapore -  Gliders, hang gliders"
+435,768,Togo,156,China,85, Electric motors of an output < 37.5 watts,2948.726,0.016182,China -  Electric motors of an output < 37.5 watts
+436,768,Togo,756,"Switzerland, Liechtenstein",11, Wheat or meslin flour,2924.043,0.971591,"Switzerland, Liechtenstein -  Wheat or meslin flour"
+437,768,Togo,012,Algeria,49," Brochures, leaflets and similar, in single sheets",2917.879,1.284451,"Algeria -  Brochures, leaflets and similar, in single sheets"
+438,768,Togo,840,United States of America,19," Infant foods of cereals, flour, starch or milk, retai",2914.828,4.944463,"United States of America -  Infant foods of cereals, flour, starch or milk, retai"
+439,768,Togo,324,Guinea,90," Optical fibres, except for telecommunications",2903.184,0.658107,"Guinea -  Optical fibres, except for telecommunications"
+440,768,Togo,756,"Switzerland, Liechtenstein",83, Padlocks of base metal,2723.003,0.39331,"Switzerland, Liechtenstein -  Padlocks of base metal"
+441,768,Togo,442,Luxembourg,18," Cocoa beans, whole or broken, raw or roasted",2718.02,0.104691,"Luxembourg -  Cocoa beans, whole or broken, raw or roasted"
+442,768,Togo,840,United States of America,90," Optical fibres, except for telecommunications",2692.24,0.066422,"United States of America -  Optical fibres, except for telecommunications"
+443,768,Togo,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",2676.297,0.003169,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+444,768,Togo,384,Côte d'Ivoire,95," Rideable wheeled toys, dolls carriages",2666.608,0.192,"Côte d'Ivoire -  Rideable wheeled toys, dolls carriages"
+445,768,Togo,056,Belgium,67," Bird skins and feathers, articles therefrom",2628.681,0.907606,"Belgium -  Bird skins and feathers, articles therefrom"
+446,768,Togo,056,Belgium,22, Mineral and aerated waters not sweetened or flavoured,2628.491,1.992701,Belgium -  Mineral and aerated waters not sweetened or flavoured
+447,768,Togo,300,Greece,84, Nuclear reactors,2554.858,2.4,Greece -  Nuclear reactors
+448,768,Togo,562,Niger,90," Optical fibres, except for telecommunications",2544.314,0.20877,"Niger -  Optical fibres, except for telecommunications"
+449,768,Togo,156,China,94," Seats, aircraft",2540.627,0.793594,"China -  Seats, aircraft"
+450,768,Togo,854,Burkina Faso,55," Filament tow of nylon, polyamides",2435.134,11.271429,"Burkina Faso -  Filament tow of nylon, polyamides"
+451,768,Togo,288,Ghana,58," Woven pile fabric of wool or fine animal hair, w >30c",2433.216,3.109225,"Ghana -  Woven pile fabric of wool or fine animal hair, w >30c"
+452,768,Togo,384,Côte d'Ivoire,90," Optical fibres, except for telecommunications",2379.001,0.129,"Côte d'Ivoire -  Optical fibres, except for telecommunications"
+453,768,Togo,694,Sierra Leone,33, Essential oils of bergamot,2361.681,4.726302,Sierra Leone -  Essential oils of bergamot
+454,768,Togo,270,Gambia,63, Electric blankets of textile material,2341.971,16.43,Gambia -  Electric blankets of textile material
+455,768,Togo,478,Mauritania,04, Milk not concentrated nor sweetened < 1% fat,2322.605,54.362002000000004,Mauritania -  Milk not concentrated nor sweetened < 1% fat
+456,768,Togo,120,Cameroon,35, Casein,2280.12,1.140287,Cameroon -  Casein
+457,768,Togo,840,United States of America,09," Coffee, not roasted, not decaffeinated",2272.844,0.262866,"United States of America -  Coffee, not roasted, not decaffeinated"
+458,768,Togo,204,Benin,32, Quebracho tanning extract,2240.306,19.0,Benin -  Quebracho tanning extract
+459,768,Togo,288,Ghana,49," Brochures, leaflets and similar, in single sheets",2223.368,0.825148,"Ghana -  Brochures, leaflets and similar, in single sheets"
+460,768,Togo,562,Niger,10, Durum wheat,2174.734,13.277308000000001,Niger -  Durum wheat
+461,768,Togo,380,Italy,11, Wheat or meslin flour,2158.401,4.897005,Italy -  Wheat or meslin flour
+462,768,Togo,756,"Switzerland, Liechtenstein",07," Potatoes seed, fresh or chilled",2152.151,0.392236,"Switzerland, Liechtenstein -  Potatoes seed, fresh or chilled"
+463,768,Togo,422,Lebanon,87, Pedestrian controlled tractors,2134.836,1.027378,Lebanon -  Pedestrian controlled tractors
+464,768,Togo,120,Cameroon,96," Worked ivory, articles of ivory",2132.157,3.122096,"Cameroon -  Worked ivory, articles of ivory"
+465,768,Togo,826,United Kingdom,85, Electric motors of an output < 37.5 watts,2129.874,0.015792,United Kingdom -  Electric motors of an output < 37.5 watts
+466,768,Togo,729,Sudan,94," Seats, aircraft",2128.187,0.97,"Sudan -  Seats, aircraft"
+467,768,Togo,466,Mali,70," Glass cullet, waste or scrap, glass in the mass",2099.217,3.460918,"Mali -  Glass cullet, waste or scrap, glass in the mass"
+468,768,Togo,694,Sierra Leone,84, Nuclear reactors,2079.335,2.273969,Sierra Leone -  Nuclear reactors
+469,768,Togo,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",2058.789,0.20369,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+470,768,Togo,504,Morocco,63, Electric blankets of textile material,2034.812,5.663139,Morocco -  Electric blankets of textile material
+471,768,Togo,056,Belgium,44, Fuel wood,2029.608,0.496436,Belgium -  Fuel wood
+472,768,Togo,270,Gambia,94," Seats, aircraft",2008.383,22.0,"Gambia -  Seats, aircraft"
+473,768,Togo,686,Senegal,63, Electric blankets of textile material,1999.22,1.506125,Senegal -  Electric blankets of textile material
+474,768,Togo,116,Cambodia,87, Pedestrian controlled tractors,1995.2,0.133938,Cambodia -  Pedestrian controlled tractors
+475,768,Togo,324,Guinea,15," Lard, other pig fat and poultry fat, rendered",1982.795,1.684907,"Guinea -  Lard, other pig fat and poultry fat, rendered"
+476,768,Togo,840,United States of America,04, Milk not concentrated nor sweetened < 1% fat,1980.783,2.170654,United States of America -  Milk not concentrated nor sweetened < 1% fat
+477,768,Togo,800,Uganda,34," Soaps, for toilet use, solid",1970.596,0.80444,"Uganda -  Soaps, for toilet use, solid"
+478,768,Togo,040,Austria,84, Nuclear reactors,1951.705,0.182479,Austria -  Nuclear reactors
+479,768,Togo,384,Côte d'Ivoire,31," Animal or vegetable fertilizers, in packs >10 kg",1941.57,1.022,"Côte d'Ivoire -  Animal or vegetable fertilizers, in packs >10 kg"
+480,768,Togo,384,Côte d'Ivoire,48, Newsprint,1930.24,0.077,Côte d'Ivoire -  Newsprint
+481,768,Togo,854,Burkina Faso,44, Fuel wood,1925.451,1.292526,Burkina Faso -  Fuel wood
+482,768,Togo,340,Honduras,67," Bird skins and feathers, articles therefrom",1906.39,2.501592,"Honduras -  Bird skins and feathers, articles therefrom"
+483,768,Togo,800,Uganda,61," Mens, boys overcoats, etc, of wool or hair, knit",1904.411,0.9564819999999999,"Uganda -  Mens, boys overcoats, etc, of wool or hair, knit"
+484,768,Togo,854,Burkina Faso,68," Stone setts, curbstones, flagstones (except slate)",1893.397,11.00559,"Burkina Faso -  Stone setts, curbstones, flagstones (except slate)"
+485,768,Togo,288,Ghana,28, Chlorine,1882.936,3.9927330000000003,Ghana -  Chlorine
+486,768,Togo,203,Czechia,84, Nuclear reactors,1881.18,0.112505,Czechia -  Nuclear reactors
+487,768,Togo,466,Mali,90," Optical fibres, except for telecommunications",1874.626,2.976035,"Mali -  Optical fibres, except for telecommunications"
+488,768,Togo,250,France,34," Soaps, for toilet use, solid",1856.364,0.710991,"France -  Soaps, for toilet use, solid"
+489,768,Togo,276,Germany,44, Fuel wood,1849.669,0.03,Germany -  Fuel wood
+490,768,Togo,562,Niger,42," Saddlery and harness, of any material",1808.052,17.919088,"Niger -  Saddlery and harness, of any material"
+491,768,Togo,120,Cameroon,36, Propellent powders,1767.854,3.669455,Cameroon -  Propellent powders
+492,768,Togo,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,1758.473,0.23030099999999998,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+493,768,Togo,270,Gambia,49," Brochures, leaflets and similar, in single sheets",1744.414,12.7,"Gambia -  Brochures, leaflets and similar, in single sheets"
+494,768,Togo,834,"Tanzania, United Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",1742.076,0.773245,"Tanzania, United Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+495,768,Togo,324,Guinea,87, Pedestrian controlled tractors,1733.505,6.890588,Guinea -  Pedestrian controlled tractors
+496,768,Togo,854,Burkina Faso,70," Glass cullet, waste or scrap, glass in the mass",1732.623,11.242049000000002,"Burkina Faso -  Glass cullet, waste or scrap, glass in the mass"
+497,768,Togo,288,Ghana,83, Padlocks of base metal,1717.075,1.223007,Ghana -  Padlocks of base metal
+498,768,Togo,392,Japan,40," Natural rubber latex, including prevulcanised",1715.063,0.000624,"Japan -  Natural rubber latex, including prevulcanised"
+499,768,Togo,694,Sierra Leone,08," Coconuts, fresh or dried",1673.651,2.846289,"Sierra Leone -  Coconuts, fresh or dried"
+500,768,Togo,288,Ghana,52," Cotton, not carded or combed",1664.566,1.24049,"Ghana -  Cotton, not carded or combed"
+501,768,Togo,288,Ghana,68," Stone setts, curbstones, flagstones (except slate)",1654.99,15.307274,"Ghana -  Stone setts, curbstones, flagstones (except slate)"
+502,768,Togo,270,Gambia,33, Essential oils of bergamot,1648.946,24.37,Gambia -  Essential oils of bergamot
+503,768,Togo,466,Mali,85, Electric motors of an output < 37.5 watts,1555.957,1.780618,Mali -  Electric motors of an output < 37.5 watts
+504,768,Togo,120,Cameroon,20," Cucumbers,gherkins, prepared or preserved by vinegar",1546.795,3.274373,"Cameroon -  Cucumbers,gherkins, prepared or preserved by vinegar"
+505,768,Togo,840,United States of America,63, Electric blankets of textile material,1478.184,0.212425,United States of America -  Electric blankets of textile material
+506,768,Togo,702,Singapore,84, Nuclear reactors,1464.892,0.142067,Singapore -  Nuclear reactors
+507,768,Togo,204,Benin,84, Nuclear reactors,1461.882,21.3,Benin -  Nuclear reactors
+508,768,Togo,854,Burkina Faso,15," Lard, other pig fat and poultry fat, rendered",1461.398,28.794429,"Burkina Faso -  Lard, other pig fat and poultry fat, rendered"
+509,768,Togo,288,Ghana,47, Mechanical wood pulp,1429.377,21.392388,Ghana -  Mechanical wood pulp
+510,768,Togo,384,Côte d'Ivoire,34," Soaps, for toilet use, solid",1423.523,0.235,"Côte d'Ivoire -  Soaps, for toilet use, solid"
+511,768,Togo,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,1410.246,0.355642,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+512,768,Togo,270,Gambia,84, Nuclear reactors,1404.319,0.05,Gambia -  Nuclear reactors
+513,768,Togo,694,Sierra Leone,63, Electric blankets of textile material,1365.461,0.618658,Sierra Leone -  Electric blankets of textile material
+514,768,Togo,528,Netherlands (Kingdom of the),08," Coconuts, fresh or dried",1343.637,1.331947,"Netherlands (Kingdom of the) -  Coconuts, fresh or dried"
+515,768,Togo,562,Niger,56," Sanitary towels, diapers and similar articles",1324.349,0.5027320000000001,"Niger -  Sanitary towels, diapers and similar articles"
+516,768,Togo,562,Niger,19," Infant foods of cereals, flour, starch or milk, retai",1322.924,10.915561,"Niger -  Infant foods of cereals, flour, starch or milk, retai"
+517,768,Togo,562,Niger,29, Saturated acyclic hydrocarbons,1309.386,0.094568,Niger -  Saturated acyclic hydrocarbons
+518,768,Togo,384,Côte d'Ivoire,18," Cocoa beans, whole or broken, raw or roasted",1270.273,1.361,"Côte d'Ivoire -  Cocoa beans, whole or broken, raw or roasted"
+519,768,Togo,586,Pakistan,52," Cotton, not carded or combed",1248.37,0.792988,"Pakistan -  Cotton, not carded or combed"
+520,768,Togo,144,Sri Lanka,12, Soya beans,1242.713,4.171074,Sri Lanka -  Soya beans
+521,768,Togo,840,United States of America,52," Cotton, not carded or combed",1232.98,0.226952,"United States of America -  Cotton, not carded or combed"
+522,768,Togo,854,Burkina Faso,56," Sanitary towels, diapers and similar articles",1226.561,6.166209,"Burkina Faso -  Sanitary towels, diapers and similar articles"
+523,768,Togo,752,Sweden,10, Durum wheat,1200.924,3.567894,Sweden -  Durum wheat
+524,768,Togo,056,Belgium,85, Electric motors of an output < 37.5 watts,1181.327,0.154826,Belgium -  Electric motors of an output < 37.5 watts
+525,768,Togo,840,United States of America,60," ""Long pile"" knit or crochet textile fabric",1174.246,0.049109,"United States of America -  ""Long pile"" knit or crochet textile fabric"
+526,768,Togo,250,France,48, Newsprint,1148.7,0.6506559999999999,France -  Newsprint
+527,768,Togo,528,Netherlands (Kingdom of the),87, Pedestrian controlled tractors,1136.816,2.3897399999999998,Netherlands (Kingdom of the) -  Pedestrian controlled tractors
+528,768,Togo,056,Belgium,89," Cruise ships, excursion boats, ferry boats",1135.921,0.25182,"Belgium -  Cruise ships, excursion boats, ferry boats"
+529,768,Togo,120,Cameroon,69," Bricks, blocks and ceramic goods of siliceous earths",1122.109,0.714568,"Cameroon -  Bricks, blocks and ceramic goods of siliceous earths"
+530,768,Togo,562,Niger,33, Essential oils of bergamot,1122.087,7.345823,Niger -  Essential oils of bergamot
+531,768,Togo,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",1115.356,0.036785,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+532,768,Togo,554,New Zealand,84, Nuclear reactors,1110.462,0.02224,New Zealand -  Nuclear reactors
+533,768,Togo,208,Denmark,12, Soya beans,1101.594,0.08982899999999999,Denmark -  Soya beans
+534,768,Togo,384,Côte d'Ivoire,21," Coffee extracts, essences, concentrates, preparations",1014.799,1.35,"Côte d'Ivoire -  Coffee extracts, essences, concentrates, preparations"
+535,768,Togo,840,United States of America,94," Seats, aircraft",1014.676,0.264401,"United States of America -  Seats, aircraft"
+536,768,Togo,288,Ghana,90," Optical fibres, except for telecommunications",1013.858,8.482409,"Ghana -  Optical fibres, except for telecommunications"
+537,768,Togo,466,Mali,17," Raw sugar, cane",947.295,0.483872,"Mali -  Raw sugar, cane"
+538,768,Togo,250,France,90," Optical fibres, except for telecommunications",937.246,0.014978,"France -  Optical fibres, except for telecommunications"
+539,768,Togo,360,Indonesia,85, Electric motors of an output < 37.5 watts,925.981,0.02898,Indonesia -  Electric motors of an output < 37.5 watts
+540,768,Togo,562,Niger,32, Quebracho tanning extract,921.975,1.7234559999999999,Niger -  Quebracho tanning extract
+541,768,Togo,562,Niger,70," Glass cullet, waste or scrap, glass in the mass",921.042,5.205337999999999,"Niger -  Glass cullet, waste or scrap, glass in the mass"
+542,768,Togo,562,Niger,44, Fuel wood,918.416,3.582945,Niger -  Fuel wood
+543,768,Togo,562,Niger,18," Cocoa beans, whole or broken, raw or roasted",914.529,7.272756,"Niger -  Cocoa beans, whole or broken, raw or roasted"
+544,768,Togo,566,Nigeria,53," Flax fibre, raw or retted",913.069,10.0,"Nigeria -  Flax fibre, raw or retted"
+545,768,Togo,504,Morocco,94," Seats, aircraft",896.863,0.187914,"Morocco -  Seats, aircraft"
+546,768,Togo,752,Sweden,12, Soya beans,886.528,3.0,Sweden -  Soya beans
+547,768,Togo,562,Niger,17," Raw sugar, cane",879.908,0.5469339999999999,"Niger -  Raw sugar, cane"
+548,768,Togo,686,Senegal,30," Glands and other organs, dried, for therapeutic uses",875.264,0.275207,"Senegal -  Glands and other organs, dried, for therapeutic uses"
+549,768,Togo,854,Burkina Faso,69," Bricks, blocks and ceramic goods of siliceous earths",871.884,4.939414,"Burkina Faso -  Bricks, blocks and ceramic goods of siliceous earths"
+550,768,Togo,288,Ghana,69," Bricks, blocks and ceramic goods of siliceous earths",870.954,3.183599,"Ghana -  Bricks, blocks and ceramic goods of siliceous earths"
+551,768,Togo,324,Guinea,95," Rideable wheeled toys, dolls carriages",851.004,0.111906,"Guinea -  Rideable wheeled toys, dolls carriages"
+552,768,Togo,250,France,42," Saddlery and harness, of any material",839.581,0.048033,"France -  Saddlery and harness, of any material"
+553,768,Togo,466,Mali,69," Bricks, blocks and ceramic goods of siliceous earths",811.02,1.356886,"Mali -  Bricks, blocks and ceramic goods of siliceous earths"
+554,768,Togo,854,Burkina Faso,86," Rail locomotives, externally electrically powered",791.759,1.251377,"Burkina Faso -  Rail locomotives, externally electrically powered"
+555,768,Togo,686,Senegal,85, Electric motors of an output < 37.5 watts,780.268,5.120436,Senegal -  Electric motors of an output < 37.5 watts
+556,768,Togo,203,Czechia,82, Spades and shovels,767.637,0.062253,Czechia -  Spades and shovels
+557,768,Togo,372,Ireland,90," Optical fibres, except for telecommunications",767.02,0.014171,"Ireland -  Optical fibres, except for telecommunications"
+558,768,Togo,554,New Zealand,08," Coconuts, fresh or dried",751.797,0.19665100000000002,"New Zealand -  Coconuts, fresh or dried"
+559,768,Togo,344,"China, Hong Kong SAR",90," Optical fibres, except for telecommunications",723.787,0.007782,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+560,768,Togo,562,Niger,38, Artificial graphite,720.731,3.496273,Niger -  Artificial graphite
+561,768,Togo,586,Pakistan,32, Quebracho tanning extract,708.006,0.259335,Pakistan -  Quebracho tanning extract
+562,768,Togo,372,Ireland,85, Electric motors of an output < 37.5 watts,704.085,0.007815,Ireland -  Electric motors of an output < 37.5 watts
+563,768,Togo,356,India,18," Cocoa beans, whole or broken, raw or roasted",700.189,0.412205,"India -  Cocoa beans, whole or broken, raw or roasted"
+564,768,Togo,356,India,52," Cotton, not carded or combed",689.558,0.344275,"India -  Cotton, not carded or combed"
+565,768,Togo,562,Niger,55," Filament tow of nylon, polyamides",685.441,3.1570549999999997,"Niger -  Filament tow of nylon, polyamides"
+566,768,Togo,562,Niger,61," Mens, boys overcoats, etc, of wool or hair, knit",680.137,3.57938,"Niger -  Mens, boys overcoats, etc, of wool or hair, knit"
+567,768,Togo,724,Spain,86," Rail locomotives, externally electrically powered",674.703,4.84,"Spain -  Rail locomotives, externally electrically powered"
+568,768,Togo,410,"Korea, Republic of",55," Filament tow of nylon, polyamides",668.698,1.556928,"Korea, Republic of -  Filament tow of nylon, polyamides"
+569,768,Togo,020,Andorra,85, Electric motors of an output < 37.5 watts,667.0,0.000953,Andorra -  Electric motors of an output < 37.5 watts
+570,768,Togo,410,"Korea, Republic of",76," Aluminium unwrought, not alloyed",663.765,0.868113,"Korea, Republic of -  Aluminium unwrought, not alloyed"
+571,768,Togo,372,Ireland,68," Stone setts, curbstones, flagstones (except slate)",654.378,0.579917,"Ireland -  Stone setts, curbstones, flagstones (except slate)"
+572,768,Togo,392,Japan,18," Cocoa beans, whole or broken, raw or roasted",652.804,0.07806199999999999,"Japan -  Cocoa beans, whole or broken, raw or roasted"
+573,768,Togo,724,Spain,76," Aluminium unwrought, not alloyed",652.388,0.24,"Spain -  Aluminium unwrought, not alloyed"
+574,768,Togo,356,India,84, Nuclear reactors,642.928,0.010739,India -  Nuclear reactors
+575,768,Togo,250,France,44, Fuel wood,637.596,0.105459,France -  Fuel wood
+576,768,Togo,854,Burkina Faso,74, Copper mattes,620.724,6.211456,Burkina Faso -  Copper mattes
+577,768,Togo,250,France,46, Plaits and products of plaiting materials,620.064,0.113657,France -  Plaits and products of plaiting materials
+578,768,Togo,392,Japan,83, Padlocks of base metal,606.455,0.034201,Japan -  Padlocks of base metal
+579,768,Togo,324,Guinea,44, Fuel wood,602.649,0.016079999999999997,Guinea -  Fuel wood
+580,768,Togo,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",596.985,0.009701000000000001,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+581,768,Togo,288,Ghana,42," Saddlery and harness, of any material",591.687,2.591444,"Ghana -  Saddlery and harness, of any material"
+582,768,Togo,344,"China, Hong Kong SAR",05," Hair, human, unworked, waste of human hair",578.054,0.000768,"China, Hong Kong SAR -  Hair, human, unworked, waste of human hair"
+583,768,Togo,854,Burkina Faso,49," Brochures, leaflets and similar, in single sheets",561.825,0.368535,"Burkina Faso -  Brochures, leaflets and similar, in single sheets"
+584,768,Togo,826,United Kingdom,90," Optical fibres, except for telecommunications",561.024,0.036619,"United Kingdom -  Optical fibres, except for telecommunications"
+585,768,Togo,466,Mali,52," Cotton, not carded or combed",555.339,0.514081,"Mali -  Cotton, not carded or combed"
+586,768,Togo,392,Japan,85, Electric motors of an output < 37.5 watts,550.1,0.072535,Japan -  Electric motors of an output < 37.5 watts
+587,768,Togo,056,Belgium,84, Nuclear reactors,549.947,0.37931,Belgium -  Nuclear reactors
+588,768,Togo,324,Guinea,58," Woven pile fabric of wool or fine animal hair, w >30c",541.48,3.919757,"Guinea -  Woven pile fabric of wool or fine animal hair, w >30c"
+589,768,Togo,288,Ghana,92," Upright pianos, including auto-players",527.83,0.047460999999999996,"Ghana -  Upright pianos, including auto-players"
+590,768,Togo,528,Netherlands (Kingdom of the),39, Polyethylene - specific gravity <0.94 in primary form,504.957,0.007272,Netherlands (Kingdom of the) -  Polyethylene - specific gravity <0.94 in primary form
+591,768,Togo,380,Italy,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",499.337,0.031436,"Italy -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+592,768,Togo,528,Netherlands (Kingdom of the),65," Hat-forms, etc of felt, not shaped, no formed brim",498.042,0.10104099999999999,"Netherlands (Kingdom of the) -  Hat-forms, etc of felt, not shaped, no formed brim"
+593,768,Togo,288,Ghana,70," Glass cullet, waste or scrap, glass in the mass",495.409,0.896755,"Ghana -  Glass cullet, waste or scrap, glass in the mass"
+594,768,Togo,554,New Zealand,63, Electric blankets of textile material,494.919,0.052666,New Zealand -  Electric blankets of textile material
+595,768,Togo,528,Netherlands (Kingdom of the),47, Mechanical wood pulp,488.984,3.6402550000000002,Netherlands (Kingdom of the) -  Mechanical wood pulp
+596,768,Togo,056,Belgium,63, Electric blankets of textile material,487.832,0.227238,Belgium -  Electric blankets of textile material
+597,768,Togo,562,Niger,07," Potatoes seed, fresh or chilled",482.406,2.856001,"Niger -  Potatoes seed, fresh or chilled"
+598,768,Togo,250,France,33, Essential oils of bergamot,473.678,0.052339,France -  Essential oils of bergamot
+599,768,Togo,250,France,40," Natural rubber latex, including prevulcanised",473.091,0.033962000000000006,"France -  Natural rubber latex, including prevulcanised"
+600,768,Togo,562,Niger,64," Waterproof footwear (Wellingtons etc), metal toe cap",472.749,0.897778,"Niger -  Waterproof footwear (Wellingtons etc), metal toe cap"
+601,768,Togo,528,Netherlands (Kingdom of the),25," Salt (sodium chloride) including solution, salt water",471.887,0.22829,"Netherlands (Kingdom of the) -  Salt (sodium chloride) including solution, salt water"
+602,768,Togo,694,Sierra Leone,73, Sheet piling of iron or steel,468.093,1.329933,Sierra Leone -  Sheet piling of iron or steel
+603,768,Togo,180,"Congo, Dem. Rep. of the",34," Soaps, for toilet use, solid",463.239,0.573581,"Congo, Dem. Rep. of the -  Soaps, for toilet use, solid"
+604,768,Togo,854,Burkina Faso,65," Hat-forms, etc of felt, not shaped, no formed brim",459.174,0.007073,"Burkina Faso -  Hat-forms, etc of felt, not shaped, no formed brim"
+605,768,Togo,643,Russian Federation,33, Essential oils of bergamot,454.705,0.143875,Russian Federation -  Essential oils of bergamot
+606,768,Togo,246,Finland,21," Coffee extracts, essences, concentrates, preparations",452.71,0.1,"Finland -  Coffee extracts, essences, concentrates, preparations"
+607,768,Togo,404,Kenya,73, Sheet piling of iron or steel,452.021,0.239519,Kenya -  Sheet piling of iron or steel
+608,768,Togo,056,Belgium,87, Pedestrian controlled tractors,450.276,0.026414,Belgium -  Pedestrian controlled tractors
+609,768,Togo,404,Kenya,94," Seats, aircraft",443.358,0.2243,"Kenya -  Seats, aircraft"
+610,768,Togo,804,Ukraine,09," Coffee, not roasted, not decaffeinated",430.92,0.189736,"Ukraine -  Coffee, not roasted, not decaffeinated"
+611,768,Togo,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",430.099,0.028916,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+612,768,Togo,288,Ghana,18," Cocoa beans, whole or broken, raw or roasted",429.565,0.270946,"Ghana -  Cocoa beans, whole or broken, raw or roasted"
+613,768,Togo,324,Guinea,73, Sheet piling of iron or steel,422.744,0.025504000000000002,Guinea -  Sheet piling of iron or steel
+614,768,Togo,756,"Switzerland, Liechtenstein",06," Bulbs, tubers, corms, crowns and rhizomes, dormant",422.067,0.086518,"Switzerland, Liechtenstein -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+615,768,Togo,392,Japan,62," Mens, boys overcoats of wool or hair, not knit",416.442,0.00266,"Japan -  Mens, boys overcoats of wool or hair, not knit"
+616,768,Togo,116,Cambodia,85, Electric motors of an output < 37.5 watts,413.604,0.017904,Cambodia -  Electric motors of an output < 37.5 watts
+617,768,Togo,056,Belgium,48, Newsprint,407.153,0.124466,Belgium -  Newsprint
+618,768,Togo,324,Guinea,76," Aluminium unwrought, not alloyed",390.465,0.19144999999999998,"Guinea -  Aluminium unwrought, not alloyed"
+619,768,Togo,180,"Congo, Dem. Rep. of the",33, Essential oils of bergamot,389.898,1.1013689999999998,"Congo, Dem. Rep. of the -  Essential oils of bergamot"
+620,768,Togo,120,Cameroon,25," Salt (sodium chloride) including solution, salt water",386.744,2.687965,"Cameroon -  Salt (sodium chloride) including solution, salt water"
+621,768,Togo,466,Mali,44, Fuel wood,372.626,10.116703,Mali -  Fuel wood
+622,768,Togo,250,France,19," Infant foods of cereals, flour, starch or milk, retai",367.001,0.153914,"France -  Infant foods of cereals, flour, starch or milk, retai"
+623,768,Togo,270,Gambia,34," Soaps, for toilet use, solid",363.613,6.9,"Gambia -  Soaps, for toilet use, solid"
+624,768,Togo,203,Czechia,85, Electric motors of an output < 37.5 watts,353.66,0.028542,Czechia -  Electric motors of an output < 37.5 watts
+625,768,Togo,324,Guinea,96," Worked ivory, articles of ivory",353.476,0.135971,"Guinea -  Worked ivory, articles of ivory"
+626,768,Togo,324,Guinea,61," Mens, boys overcoats, etc, of wool or hair, knit",348.99,2.075941,"Guinea -  Mens, boys overcoats, etc, of wool or hair, knit"
+627,768,Togo,288,Ghana,74, Copper mattes,348.85,0.141018,Ghana -  Copper mattes
+628,768,Togo,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",340.22,0.000134,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+629,768,Togo,854,Burkina Faso,28, Chlorine,334.578,7.198701,Burkina Faso -  Chlorine
+630,768,Togo,120,Cameroon,23," Flour or meal, pellet of meat or offal for animal fee",326.554,0.115664,"Cameroon -  Flour or meal, pellet of meat or offal for animal fee"
+631,768,Togo,646,Rwanda,90," Optical fibres, except for telecommunications",322.734,0.020767,"Rwanda -  Optical fibres, except for telecommunications"
+632,768,Togo,324,Guinea,39, Polyethylene - specific gravity <0.94 in primary form,322.581,0.027971,Guinea -  Polyethylene - specific gravity <0.94 in primary form
+633,768,Togo,056,Belgium,76," Aluminium unwrought, not alloyed",318.058,0.15754200000000002,"Belgium -  Aluminium unwrought, not alloyed"
+634,768,Togo,250,France,62," Mens, boys overcoats of wool or hair, not knit",315.689,0.012232,"France -  Mens, boys overcoats of wool or hair, not knit"
+635,768,Togo,756,"Switzerland, Liechtenstein",69," Bricks, blocks and ceramic goods of siliceous earths",313.829,0.045043999999999994,"Switzerland, Liechtenstein -  Bricks, blocks and ceramic goods of siliceous earths"
+636,768,Togo,120,Cameroon,30," Glands and other organs, dried, for therapeutic uses",313.163,0.007819,"Cameroon -  Glands and other organs, dried, for therapeutic uses"
+637,768,Togo,056,Belgium,94," Seats, aircraft",310.381,0.136732,"Belgium -  Seats, aircraft"
+638,768,Togo,360,Indonesia,84, Nuclear reactors,309.573,0.013033,Indonesia -  Nuclear reactors
+639,768,Togo,586,Pakistan,27," Anthracite, not agglomerated",292.053,0.875805,"Pakistan -  Anthracite, not agglomerated"
+640,768,Togo,686,Senegal,70," Glass cullet, waste or scrap, glass in the mass",286.177,0.012924,"Senegal -  Glass cullet, waste or scrap, glass in the mass"
+641,768,Togo,704,Viet Nam,85, Electric motors of an output < 37.5 watts,264.348,0.004169,Viet Nam -  Electric motors of an output < 37.5 watts
+642,768,Togo,056,Belgium,21," Coffee extracts, essences, concentrates, preparations",255.776,0.119938,"Belgium -  Coffee extracts, essences, concentrates, preparations"
+643,768,Togo,854,Burkina Faso,09," Coffee, not roasted, not decaffeinated",254.288,3.466783,"Burkina Faso -  Coffee, not roasted, not decaffeinated"
+644,768,Togo,208,Denmark,84, Nuclear reactors,253.031,0.052090000000000004,Denmark -  Nuclear reactors
+645,768,Togo,203,Czechia,90," Optical fibres, except for telecommunications",252.382,0.0075650000000000005,"Czechia -  Optical fibres, except for telecommunications"
+646,768,Togo,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",246.239,0.010616,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+647,768,Togo,410,"Korea, Republic of",90," Optical fibres, except for telecommunications",244.42,0.000424,"Korea, Republic of -  Optical fibres, except for telecommunications"
+648,768,Togo,686,Senegal,54, Sewing thread of synthetic filaments,241.865,0.756676,Senegal -  Sewing thread of synthetic filaments
+649,768,Togo,120,Cameroon,84, Nuclear reactors,239.264,1.205087,Cameroon -  Nuclear reactors
+650,768,Togo,040,Austria,08," Coconuts, fresh or dried",238.928,0.129221,"Austria -  Coconuts, fresh or dried"
+651,768,Togo,422,Lebanon,84, Nuclear reactors,238.685,0.13958,Lebanon -  Nuclear reactors
+652,768,Togo,854,Burkina Faso,10, Durum wheat,234.784,0.627606,Burkina Faso -  Durum wheat
+653,768,Togo,694,Sierra Leone,34," Soaps, for toilet use, solid",234.695,1.551243,"Sierra Leone -  Soaps, for toilet use, solid"
+654,768,Togo,562,Niger,69," Bricks, blocks and ceramic goods of siliceous earths",229.975,2.053841,"Niger -  Bricks, blocks and ceramic goods of siliceous earths"
+655,768,Togo,356,India,82, Spades and shovels,229.377,0.030739000000000002,India -  Spades and shovels
+656,768,Togo,480,Mauritius,33, Essential oils of bergamot,227.692,0.009381,Mauritius -  Essential oils of bergamot
+657,768,Togo,840,United States of America,16," Sausages, similar products of meat, meat offal & bloo",226.901,0.023420000000000003,"United States of America -  Sausages, similar products of meat, meat offal & bloo"
+658,768,Togo,562,Niger,12, Soya beans,224.742,4.029495,Niger -  Soya beans
+659,768,Togo,752,Sweden,18," Cocoa beans, whole or broken, raw or roasted",223.064,0.038403,"Sweden -  Cocoa beans, whole or broken, raw or roasted"
+660,768,Togo,352,Iceland,42," Saddlery and harness, of any material",219.196,0.004883,"Iceland -  Saddlery and harness, of any material"
+661,768,Togo,752,Sweden,34," Soaps, for toilet use, solid",218.614,0.095128,"Sweden -  Soaps, for toilet use, solid"
+662,768,Togo,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,217.277,0.010823000000000001,Czechia -  Polyethylene - specific gravity <0.94 in primary form
+663,768,Togo,410,"Korea, Republic of",84, Nuclear reactors,215.71,0.00419,"Korea, Republic of -  Nuclear reactors"
+664,768,Togo,380,Italy,90," Optical fibres, except for telecommunications",210.492,0.014182,"Italy -  Optical fibres, except for telecommunications"
+665,768,Togo,562,Niger,57," Carpets of wool or fine animal hair, knotted",199.003,2.638735,"Niger -  Carpets of wool or fine animal hair, knotted"
+666,768,Togo,694,Sierra Leone,94," Seats, aircraft",198.512,1.170784,"Sierra Leone -  Seats, aircraft"
+667,768,Togo,288,Ghana,36, Propellent powders,197.256,0.033606000000000004,Ghana -  Propellent powders
+668,768,Togo,694,Sierra Leone,85, Electric motors of an output < 37.5 watts,196.451,1.33351,Sierra Leone -  Electric motors of an output < 37.5 watts
+669,768,Togo,372,Ireland,22, Mineral and aerated waters not sweetened or flavoured,196.423,0.084578,Ireland -  Mineral and aerated waters not sweetened or flavoured
+670,768,Togo,854,Burkina Faso,35, Casein,192.388,1.2301780000000002,Burkina Faso -  Casein
+671,768,Togo,203,Czechia,73, Sheet piling of iron or steel,191.738,0.042743,Czechia -  Sheet piling of iron or steel
+672,768,Togo,784,United Arab Emirates,74, Copper mattes,191.581,1.223365,United Arab Emirates -  Copper mattes
+673,768,Togo,562,Niger,20," Cucumbers,gherkins, prepared or preserved by vinegar",189.713,0.023391,"Niger -  Cucumbers,gherkins, prepared or preserved by vinegar"
+674,768,Togo,528,Netherlands (Kingdom of the),27," Anthracite, not agglomerated",189.419,0.514695,"Netherlands (Kingdom of the) -  Anthracite, not agglomerated"
+675,768,Togo,203,Czechia,56," Sanitary towels, diapers and similar articles",186.909,0.015424,"Czechia -  Sanitary towels, diapers and similar articles"
+676,768,Togo,250,France,88," Gliders, hang gliders",182.167,0.000432,"France -  Gliders, hang gliders"
+677,768,Togo,818,Egypt,40," Natural rubber latex, including prevulcanised",181.768,0.03201,"Egypt -  Natural rubber latex, including prevulcanised"
+678,768,Togo,694,Sierra Leone,95," Rideable wheeled toys, dolls carriages",180.138,1.124388,"Sierra Leone -  Rideable wheeled toys, dolls carriages"
+679,768,Togo,376,Israel,85, Electric motors of an output < 37.5 watts,179.978,0.001137,Israel -  Electric motors of an output < 37.5 watts
+680,768,Togo,578,Norway,09," Coffee, not roasted, not decaffeinated",178.325,0.009865,"Norway -  Coffee, not roasted, not decaffeinated"
+681,768,Togo,324,Guinea,68," Stone setts, curbstones, flagstones (except slate)",177.49,0.021609000000000003,"Guinea -  Stone setts, curbstones, flagstones (except slate)"
+682,768,Togo,056,Belgium,82, Spades and shovels,176.658,0.102299,Belgium -  Spades and shovels
+683,768,Togo,372,Ireland,44, Fuel wood,175.46,0.01272,Ireland -  Fuel wood
+684,768,Togo,756,"Switzerland, Liechtenstein",19," Infant foods of cereals, flour, starch or milk, retai",171.06,0.19686199999999998,"Switzerland, Liechtenstein -  Infant foods of cereals, flour, starch or milk, retai"
+685,768,Togo,156,China,48, Newsprint,166.908,0.009952,China -  Newsprint
+686,768,Togo,156,China,25," Salt (sodium chloride) including solution, salt water",164.076,0.015192,"China -  Salt (sodium chloride) including solution, salt water"
+687,768,Togo,056,Belgium,96," Worked ivory, articles of ivory",150.842,0.108092,"Belgium -  Worked ivory, articles of ivory"
+688,768,Togo,466,Mali,36, Propellent powders,149.498,0.24179599999999998,Mali -  Propellent powders
+689,768,Togo,840,United States of America,93," Military weapons, other than hand guns, swords, etc",148.247,0.024478000000000003,"United States of America -  Military weapons, other than hand guns, swords, etc"
+690,768,Togo,203,Czechia,83, Padlocks of base metal,145.83,0.045533000000000004,Czechia -  Padlocks of base metal
+691,768,Togo,270,Gambia,07," Potatoes seed, fresh or chilled",141.938,0.4,"Gambia -  Potatoes seed, fresh or chilled"
+692,768,Togo,480,Mauritius,22, Mineral and aerated waters not sweetened or flavoured,137.466,0.029,Mauritius -  Mineral and aerated waters not sweetened or flavoured
+693,768,Togo,702,Singapore,95," Rideable wheeled toys, dolls carriages",136.876,0.015806,"Singapore -  Rideable wheeled toys, dolls carriages"
+694,768,Togo,686,Senegal,90," Optical fibres, except for telecommunications",136.244,1.259333,"Senegal -  Optical fibres, except for telecommunications"
+695,768,Togo,788,Tunisia,52," Cotton, not carded or combed",133.806,0.0792,"Tunisia -  Cotton, not carded or combed"
+696,768,Togo,324,Guinea,30," Glands and other organs, dried, for therapeutic uses",133.681,0.34308,"Guinea -  Glands and other organs, dried, for therapeutic uses"
+697,768,Togo,384,Côte d'Ivoire,32, Quebracho tanning extract,132.242,0.14,Côte d'Ivoire -  Quebracho tanning extract
+698,768,Togo,120,Cameroon,28, Chlorine,130.216,5.026542,Cameroon -  Chlorine
+699,768,Togo,562,Niger,74, Copper mattes,130.177,1.3678379999999999,Niger -  Copper mattes
+700,768,Togo,694,Sierra Leone,42," Saddlery and harness, of any material",128.681,1.031559,"Sierra Leone -  Saddlery and harness, of any material"
+701,768,Togo,788,Tunisia,71," Pearls natural, not permanently mounted or set",126.286,0.226912,"Tunisia -  Pearls natural, not permanently mounted or set"
+702,768,Togo,528,Netherlands (Kingdom of the),62," Mens, boys overcoats of wool or hair, not knit",125.995,0.02571,"Netherlands (Kingdom of the) -  Mens, boys overcoats of wool or hair, not knit"
+703,768,Togo,324,Guinea,93," Military weapons, other than hand guns, swords, etc",124.794,0.286802,"Guinea -  Military weapons, other than hand guns, swords, etc"
+704,768,Togo,562,Niger,82, Spades and shovels,121.984,0.632236,Niger -  Spades and shovels
+705,768,Togo,250,France,13, Lac,121.242,0.003876,France -  Lac
+706,768,Togo,840,United States of America,42," Saddlery and harness, of any material",119.336,0.007108,"United States of America -  Saddlery and harness, of any material"
+707,768,Togo,562,Niger,95," Rideable wheeled toys, dolls carriages",118.288,2.307647,"Niger -  Rideable wheeled toys, dolls carriages"
+708,768,Togo,528,Netherlands (Kingdom of the),33, Essential oils of bergamot,117.688,0.054232,Netherlands (Kingdom of the) -  Essential oils of bergamot
+709,768,Togo,250,France,49," Brochures, leaflets and similar, in single sheets",116.361,0.013508,"France -  Brochures, leaflets and similar, in single sheets"
+710,768,Togo,056,Belgium,39, Polyethylene - specific gravity <0.94 in primary form,116.341,0.041451,Belgium -  Polyethylene - specific gravity <0.94 in primary form
+711,768,Togo,056,Belgium,34," Soaps, for toilet use, solid",114.629,0.020350999999999998,"Belgium -  Soaps, for toilet use, solid"
+712,768,Togo,756,"Switzerland, Liechtenstein",65," Hat-forms, etc of felt, not shaped, no formed brim",112.889,0.004613000000000001,"Switzerland, Liechtenstein -  Hat-forms, etc of felt, not shaped, no formed brim"
+713,768,Togo,288,Ghana,66, Garden and similar umbrellas,110.771,0.361875,Ghana -  Garden and similar umbrellas
+714,768,Togo,752,Sweden,09," Coffee, not roasted, not decaffeinated",109.534,0.038016,"Sweden -  Coffee, not roasted, not decaffeinated"
+715,768,Togo,056,Belgium,69," Bricks, blocks and ceramic goods of siliceous earths",109.011,0.041134,"Belgium -  Bricks, blocks and ceramic goods of siliceous earths"
+716,768,Togo,752,Sweden,15," Lard, other pig fat and poultry fat, rendered",106.583,0.1278,"Sweden -  Lard, other pig fat and poultry fat, rendered"
+717,768,Togo,562,Niger,13, Lac,106.231,0.583001,Niger -  Lac
+718,768,Togo,854,Burkina Faso,52," Cotton, not carded or combed",104.929,0.514082,"Burkina Faso -  Cotton, not carded or combed"
+719,768,Togo,056,Belgium,61," Mens, boys overcoats, etc, of wool or hair, knit",104.216,0.00483,"Belgium -  Mens, boys overcoats, etc, of wool or hair, knit"
+720,768,Togo,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,101.782,0.021623999999999997,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+721,768,Togo,112,Belarus,09," Coffee, not roasted, not decaffeinated",101.087,0.041328000000000004,"Belarus -  Coffee, not roasted, not decaffeinated"
+722,768,Togo,156,China,83, Padlocks of base metal,100.373,0.19921799999999998,China -  Padlocks of base metal
+723,768,Togo,324,Guinea,17," Raw sugar, cane",94.002,0.153192,"Guinea -  Raw sugar, cane"
+724,768,Togo,756,"Switzerland, Liechtenstein",33, Essential oils of bergamot,93.122,0.013649,"Switzerland, Liechtenstein -  Essential oils of bergamot"
+725,768,Togo,586,Pakistan,17," Raw sugar, cane",89.981,0.044164999999999996,"Pakistan -  Raw sugar, cane"
+726,768,Togo,422,Lebanon,94," Seats, aircraft",89.131,0.026763000000000002,"Lebanon -  Seats, aircraft"
+727,768,Togo,854,Burkina Faso,18," Cocoa beans, whole or broken, raw or roasted",88.506,0.7173160000000001,"Burkina Faso -  Cocoa beans, whole or broken, raw or roasted"
+728,768,Togo,800,Uganda,62," Mens, boys overcoats of wool or hair, not knit",85.476,0.047487,"Uganda -  Mens, boys overcoats of wool or hair, not knit"
+729,768,Togo,203,Czechia,71," Pearls natural, not permanently mounted or set",82.252,1e-06,"Czechia -  Pearls natural, not permanently mounted or set"
+730,768,Togo,250,France,38, Artificial graphite,81.362,0.000523,France -  Artificial graphite
+731,768,Togo,440,Lithuania,85, Electric motors of an output < 37.5 watts,80.478,0.000121,Lithuania -  Electric motors of an output < 37.5 watts
+732,768,Togo,834,"Tanzania, United Republic of",85, Electric motors of an output < 37.5 watts,79.106,0.002869,"Tanzania, United Republic of -  Electric motors of an output < 37.5 watts"
+733,768,Togo,826,United Kingdom,54, Sewing thread of synthetic filaments,75.14,0.001966,United Kingdom -  Sewing thread of synthetic filaments
+734,768,Togo,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",73.877,0.001879,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+735,768,Togo,156,China,73, Sheet piling of iron or steel,70.605,0.004006,China -  Sheet piling of iron or steel
+736,768,Togo,120,Cameroon,40," Natural rubber latex, including prevulcanised",68.985,6.0231390000000005,"Cameroon -  Natural rubber latex, including prevulcanised"
+737,768,Togo,180,"Congo, Dem. Rep. of the",29, Saturated acyclic hydrocarbons,67.377,0.193946,"Congo, Dem. Rep. of the -  Saturated acyclic hydrocarbons"
+738,768,Togo,854,Burkina Faso,62," Mens, boys overcoats of wool or hair, not knit",66.648,0.303015,"Burkina Faso -  Mens, boys overcoats of wool or hair, not knit"
+739,768,Togo,756,"Switzerland, Liechtenstein",28, Chlorine,66.508,0.022556,"Switzerland, Liechtenstein -  Chlorine"
+740,768,Togo,404,Kenya,69," Bricks, blocks and ceramic goods of siliceous earths",66.321,0.044888,"Kenya -  Bricks, blocks and ceramic goods of siliceous earths"
+741,768,Togo,466,Mali,65," Hat-forms, etc of felt, not shaped, no formed brim",64.823,0.678117,"Mali -  Hat-forms, etc of felt, not shaped, no formed brim"
+742,768,Togo,120,Cameroon,52," Cotton, not carded or combed",64.016,0.021382,"Cameroon -  Cotton, not carded or combed"
+743,768,Togo,702,Singapore,49," Brochures, leaflets and similar, in single sheets",62.917,0.009207,"Singapore -  Brochures, leaflets and similar, in single sheets"
+744,768,Togo,562,Niger,67," Bird skins and feathers, articles therefrom",62.56,0.45110500000000003,"Niger -  Bird skins and feathers, articles therefrom"
+745,768,Togo,056,Belgium,14, Bamboos used primarily for plaiting,61.335,0.195554,Belgium -  Bamboos used primarily for plaiting
+746,768,Togo,056,Belgium,33, Essential oils of bergamot,60.935,0.017426999999999998,Belgium -  Essential oils of bergamot
+747,768,Togo,360,Indonesia,83, Padlocks of base metal,59.826,0.002048,Indonesia -  Padlocks of base metal
+748,768,Togo,208,Denmark,88," Gliders, hang gliders",59.109,0.000451,"Denmark -  Gliders, hang gliders"
+749,768,Togo,040,Austria,09," Coffee, not roasted, not decaffeinated",58.503,0.033244,"Austria -  Coffee, not roasted, not decaffeinated"
+750,768,Togo,528,Netherlands (Kingdom of the),11, Wheat or meslin flour,58.095,2.2530900000000003,Netherlands (Kingdom of the) -  Wheat or meslin flour
+751,768,Togo,120,Cameroon,94," Seats, aircraft",56.932,0.070797,"Cameroon -  Seats, aircraft"
+752,768,Togo,854,Burkina Faso,45," Natural cork, raw or simply prepared",56.069,0.5215510000000001,"Burkina Faso -  Natural cork, raw or simply prepared"
+753,768,Togo,854,Burkina Faso,51," Greasy shorn wool, not carded or combed",55.31,0.12936,"Burkina Faso -  Greasy shorn wool, not carded or combed"
+754,768,Togo,056,Belgium,17," Raw sugar, cane",52.713,0.04875,"Belgium -  Raw sugar, cane"
+755,768,Togo,504,Morocco,90," Optical fibres, except for telecommunications",51.92,0.000601,"Morocco -  Optical fibres, except for telecommunications"
+756,768,Togo,562,Niger,52," Cotton, not carded or combed",49.725,0.057506999999999996,"Niger -  Cotton, not carded or combed"
+757,768,Togo,203,Czechia,94," Seats, aircraft",48.24,0.002663,"Czechia -  Seats, aircraft"
+758,768,Togo,120,Cameroon,17," Raw sugar, cane",47.386,0.01066,"Cameroon -  Raw sugar, cane"
+759,768,Togo,504,Morocco,84, Nuclear reactors,45.674,0.13980199999999998,Morocco -  Nuclear reactors
+760,768,Togo,834,"Tanzania, United Republic of",84, Nuclear reactors,44.524,0.007917,"Tanzania, United Republic of -  Nuclear reactors"
+761,768,Togo,404,Kenya,63, Electric blankets of textile material,44.491,0.07323600000000001,Kenya -  Electric blankets of textile material
+762,768,Togo,056,Belgium,62," Mens, boys overcoats of wool or hair, not knit",44.171,0.022224,"Belgium -  Mens, boys overcoats of wool or hair, not knit"
+763,768,Togo,208,Denmark,09," Coffee, not roasted, not decaffeinated",40.648,0.007649,"Denmark -  Coffee, not roasted, not decaffeinated"
+764,768,Togo,528,Netherlands (Kingdom of the),82, Spades and shovels,40.41,0.005407,Netherlands (Kingdom of the) -  Spades and shovels
+765,768,Togo,504,Morocco,67," Bird skins and feathers, articles therefrom",38.229,0.013202,"Morocco -  Bird skins and feathers, articles therefrom"
+766,768,Togo,040,Austria,73, Sheet piling of iron or steel,36.56,0.004413,Austria -  Sheet piling of iron or steel
+767,768,Togo,854,Burkina Faso,59, Gum or amylaceous covered textiles for book covers et,35.563,0.051893999999999996,Burkina Faso -  Gum or amylaceous covered textiles for book covers et
+768,768,Togo,854,Burkina Faso,07," Potatoes seed, fresh or chilled",35.281,0.233287,"Burkina Faso -  Potatoes seed, fresh or chilled"
+769,768,Togo,120,Cameroon,63, Electric blankets of textile material,35.038,0.383861,Cameroon -  Electric blankets of textile material
+770,768,Togo,524,Nepal,03," Ornamental fish, live",34.636,0.001148,"Nepal -  Ornamental fish, live"
+771,768,Togo,380,Italy,52," Cotton, not carded or combed",34.345,0.036257,"Italy -  Cotton, not carded or combed"
+772,768,Togo,360,Indonesia,95," Rideable wheeled toys, dolls carriages",33.973,0.004577,"Indonesia -  Rideable wheeled toys, dolls carriages"
+773,768,Togo,834,"Tanzania, United Republic of",90," Optical fibres, except for telecommunications",33.434,0.003245,"Tanzania, United Republic of -  Optical fibres, except for telecommunications"
+774,768,Togo,694,Sierra Leone,83, Padlocks of base metal,32.949,0.29879500000000003,Sierra Leone -  Padlocks of base metal
+775,768,Togo,203,Czechia,63, Electric blankets of textile material,31.934,0.001983,Czechia -  Electric blankets of textile material
+776,768,Togo,562,Niger,62," Mens, boys overcoats of wool or hair, not knit",31.497,0.040677,"Niger -  Mens, boys overcoats of wool or hair, not knit"
+777,768,Togo,694,Sierra Leone,39, Polyethylene - specific gravity <0.94 in primary form,31.342,0.453618,Sierra Leone -  Polyethylene - specific gravity <0.94 in primary form
+778,768,Togo,250,France,71," Pearls natural, not permanently mounted or set",30.512,0.0006670000000000001,"France -  Pearls natural, not permanently mounted or set"
+779,768,Togo,694,Sierra Leone,76," Aluminium unwrought, not alloyed",29.832,0.22526,"Sierra Leone -  Aluminium unwrought, not alloyed"
+780,768,Togo,120,Cameroon,87, Pedestrian controlled tractors,28.853,0.014316,Cameroon -  Pedestrian controlled tractors
+781,768,Togo,120,Cameroon,85, Electric motors of an output < 37.5 watts,28.726,0.033847999999999996,Cameroon -  Electric motors of an output < 37.5 watts
+782,768,Togo,250,France,76," Aluminium unwrought, not alloyed",27.409,0.001553,"France -  Aluminium unwrought, not alloyed"
+783,768,Togo,072,Botswana,85, Electric motors of an output < 37.5 watts,27.28,0.000666,Botswana -  Electric motors of an output < 37.5 watts
+784,768,Togo,356,India,90," Optical fibres, except for telecommunications",26.672,0.000571,"India -  Optical fibres, except for telecommunications"
+785,768,Togo,144,Sri Lanka,03," Ornamental fish, live",26.56,0.002099,"Sri Lanka -  Ornamental fish, live"
+786,768,Togo,140,Central African Republic,30," Glands and other organs, dried, for therapeutic uses",26.21,0.004072,"Central African Republic -  Glands and other organs, dried, for therapeutic uses"
+787,768,Togo,404,Kenya,42," Saddlery and harness, of any material",25.888,0.142963,"Kenya -  Saddlery and harness, of any material"
+788,768,Togo,344,"China, Hong Kong SAR",41," Bovine skins, whole, raw",25.042,0.0009809999999999999,"China, Hong Kong SAR -  Bovine skins, whole, raw"
+789,768,Togo,578,Norway,08," Coconuts, fresh or dried",24.156,0.0062699999999999995,"Norway -  Coconuts, fresh or dried"
+790,768,Togo,854,Burkina Faso,71," Pearls natural, not permanently mounted or set",23.7,0.342173,"Burkina Faso -  Pearls natural, not permanently mounted or set"
+791,768,Togo,756,"Switzerland, Liechtenstein",25," Salt (sodium chloride) including solution, salt water",23.559,0.007787,"Switzerland, Liechtenstein -  Salt (sodium chloride) including solution, salt water"
+792,768,Togo,800,Uganda,63, Electric blankets of textile material,22.746,0.01433,Uganda -  Electric blankets of textile material
+793,768,Togo,528,Netherlands (Kingdom of the),83, Padlocks of base metal,22.021,0.000265,Netherlands (Kingdom of the) -  Padlocks of base metal
+794,768,Togo,208,Denmark,90," Optical fibres, except for telecommunications",21.034,0.0007379999999999999,"Denmark -  Optical fibres, except for telecommunications"
+795,768,Togo,800,Uganda,94," Seats, aircraft",20.52,0.010429,"Uganda -  Seats, aircraft"
+796,768,Togo,376,Israel,71," Pearls natural, not permanently mounted or set",20.344,0.002781,"Israel -  Pearls natural, not permanently mounted or set"
+797,768,Togo,288,Ghana,65," Hat-forms, etc of felt, not shaped, no formed brim",20.314,0.017692,"Ghana -  Hat-forms, etc of felt, not shaped, no formed brim"
+798,768,Togo,324,Guinea,92," Upright pianos, including auto-players",19.964,0.001665,"Guinea -  Upright pianos, including auto-players"
+799,768,Togo,562,Niger,65," Hat-forms, etc of felt, not shaped, no formed brim",19.307,0.621854,"Niger -  Hat-forms, etc of felt, not shaped, no formed brim"
+800,768,Togo,554,New Zealand,90," Optical fibres, except for telecommunications",18.509,0.000707,"New Zealand -  Optical fibres, except for telecommunications"
+801,768,Togo,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",17.76,0.0059050000000000005,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+802,768,Togo,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",16.699,4.4999999999999996e-05,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+803,768,Togo,642,Romania,90," Optical fibres, except for telecommunications",16.579,8.2e-05,"Romania -  Optical fibres, except for telecommunications"
+804,768,Togo,784,United Arab Emirates,08," Coconuts, fresh or dried",15.951,0.007665,"United Arab Emirates -  Coconuts, fresh or dried"
+805,768,Togo,528,Netherlands (Kingdom of the),21," Coffee extracts, essences, concentrates, preparations",15.751,0.010987,"Netherlands (Kingdom of the) -  Coffee extracts, essences, concentrates, preparations"
+806,768,Togo,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",15.398,0.002095,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+807,768,Togo,152,Chile,64," Waterproof footwear (Wellingtons etc), metal toe cap",15.313,0.0007059999999999999,"Chile -  Waterproof footwear (Wellingtons etc), metal toe cap"
+808,768,Togo,524,Nepal,85, Electric motors of an output < 37.5 watts,14.802,0.001399,Nepal -  Electric motors of an output < 37.5 watts
+809,768,Togo,040,Austria,71," Pearls natural, not permanently mounted or set",14.647,0.000782,"Austria -  Pearls natural, not permanently mounted or set"
+810,768,Togo,144,Sri Lanka,54, Sewing thread of synthetic filaments,14.492,0.0015329999999999999,Sri Lanka -  Sewing thread of synthetic filaments
+811,768,Togo,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",14.091,0.004441,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+812,768,Togo,528,Netherlands (Kingdom of the),88," Gliders, hang gliders",14.055,0.000134,"Netherlands (Kingdom of the) -  Gliders, hang gliders"
+813,768,Togo,288,Ghana,30," Glands and other organs, dried, for therapeutic uses",13.641,0.010957000000000001,"Ghana -  Glands and other organs, dried, for therapeutic uses"
+814,768,Togo,048,Bahrain,71," Pearls natural, not permanently mounted or set",13.636,8e-06,"Bahrain -  Pearls natural, not permanently mounted or set"
+815,768,Togo,686,Senegal,42," Saddlery and harness, of any material",13.431,0.006423,"Senegal -  Saddlery and harness, of any material"
+816,768,Togo,250,France,30," Glands and other organs, dried, for therapeutic uses",13.315,0.000124,"France -  Glands and other organs, dried, for therapeutic uses"
+817,768,Togo,156,China,69," Bricks, blocks and ceramic goods of siliceous earths",12.451,0.031114999999999997,"China -  Bricks, blocks and ceramic goods of siliceous earths"
+818,768,Togo,410,"Korea, Republic of",91," Wrist-watch, precious metal, battery, with hands",12.4,0.000122,"Korea, Republic of -  Wrist-watch, precious metal, battery, with hands"
+819,768,Togo,826,United Kingdom,07," Potatoes seed, fresh or chilled",11.648,0.027962,"United Kingdom -  Potatoes seed, fresh or chilled"
+820,768,Togo,756,"Switzerland, Liechtenstein",49," Brochures, leaflets and similar, in single sheets",11.364,0.000625,"Switzerland, Liechtenstein -  Brochures, leaflets and similar, in single sheets"
+821,768,Togo,360,Indonesia,62," Mens, boys overcoats of wool or hair, not knit",11.323,0.0005430000000000001,"Indonesia -  Mens, boys overcoats of wool or hair, not knit"
+822,768,Togo,372,Ireland,25," Salt (sodium chloride) including solution, salt water",11.071,0.004004,"Ireland -  Salt (sodium chloride) including solution, salt water"
+823,768,Togo,056,Belgium,83, Padlocks of base metal,10.511,0.001498,Belgium -  Padlocks of base metal
+824,768,Togo,250,France,25," Salt (sodium chloride) including solution, salt water",10.225,0.028714,"France -  Salt (sodium chloride) including solution, salt water"
+825,768,Togo,360,Indonesia,90," Optical fibres, except for telecommunications",9.58,0.000379,"Indonesia -  Optical fibres, except for telecommunications"
+826,768,Togo,643,Russian Federation,49," Brochures, leaflets and similar, in single sheets",9.131,5e-06,"Russian Federation -  Brochures, leaflets and similar, in single sheets"
+827,768,Togo,120,Cameroon,90," Optical fibres, except for telecommunications",8.992,0.040645,"Cameroon -  Optical fibres, except for telecommunications"
+828,768,Togo,144,Sri Lanka,61," Mens, boys overcoats, etc, of wool or hair, knit",8.528,0.003776,"Sri Lanka -  Mens, boys overcoats, etc, of wool or hair, knit"
+829,768,Togo,840,United States of America,01," Horses, live pure-bred breeding",8.422,0.00027,"United States of America -  Horses, live pure-bred breeding"
+830,768,Togo,372,Ireland,61," Mens, boys overcoats, etc, of wool or hair, knit",8.163,0.000224,"Ireland -  Mens, boys overcoats, etc, of wool or hair, knit"
+831,768,Togo,466,Mali,49," Brochures, leaflets and similar, in single sheets",7.92,0.009073000000000001,"Mali -  Brochures, leaflets and similar, in single sheets"
+832,768,Togo,288,Ghana,71," Pearls natural, not permanently mounted or set",7.875,0.041014,"Ghana -  Pearls natural, not permanently mounted or set"
+833,768,Togo,466,Mali,42," Saddlery and harness, of any material",7.434,0.011982,"Mali -  Saddlery and harness, of any material"
+834,768,Togo,372,Ireland,33, Essential oils of bergamot,7.422,0.0066040000000000005,Ireland -  Essential oils of bergamot
+835,768,Togo,784,United Arab Emirates,76," Aluminium unwrought, not alloyed",7.329,0.020915,"United Arab Emirates -  Aluminium unwrought, not alloyed"
+836,768,Togo,756,"Switzerland, Liechtenstein",52," Cotton, not carded or combed",6.85,0.0008139999999999999,"Switzerland, Liechtenstein -  Cotton, not carded or combed"
+837,768,Togo,756,"Switzerland, Liechtenstein",64," Waterproof footwear (Wellingtons etc), metal toe cap",6.81,0.00046800000000000005,"Switzerland, Liechtenstein -  Waterproof footwear (Wellingtons etc), metal toe cap"
+838,768,Togo,108,Burundi,52," Cotton, not carded or combed",5.978,0.000439,"Burundi -  Cotton, not carded or combed"
+839,768,Togo,144,Sri Lanka,62," Mens, boys overcoats of wool or hair, not knit",5.756,0.001888,"Sri Lanka -  Mens, boys overcoats of wool or hair, not knit"
+840,768,Togo,404,Kenya,85, Electric motors of an output < 37.5 watts,5.291,0.002064,Kenya -  Electric motors of an output < 37.5 watts
+841,768,Togo,694,Sierra Leone,90," Optical fibres, except for telecommunications",5.086,0.02222,"Sierra Leone -  Optical fibres, except for telecommunications"
+842,768,Togo,276,Germany,01," Horses, live pure-bred breeding",5.072,8.999999999999999e-06,"Germany -  Horses, live pure-bred breeding"
+843,768,Togo,208,Denmark,62," Mens, boys overcoats of wool or hair, not knit",4.476,0.000799,"Denmark -  Mens, boys overcoats of wool or hair, not knit"
+844,768,Togo,586,Pakistan,49," Brochures, leaflets and similar, in single sheets",4.092,0.00045400000000000003,"Pakistan -  Brochures, leaflets and similar, in single sheets"
+845,768,Togo,352,Iceland,62," Mens, boys overcoats of wool or hair, not knit",3.818,6.900000000000001e-05,"Iceland -  Mens, boys overcoats of wool or hair, not knit"
+846,768,Togo,562,Niger,49," Brochures, leaflets and similar, in single sheets",3.741,0.002805,"Niger -  Brochures, leaflets and similar, in single sheets"
+847,768,Togo,558,Nicaragua,84, Nuclear reactors,3.317,0.000191,Nicaragua -  Nuclear reactors
+848,768,Togo,894,Zambia,64," Waterproof footwear (Wellingtons etc), metal toe cap",2.997,0.063738,"Zambia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+849,768,Togo,120,Cameroon,49," Brochures, leaflets and similar, in single sheets",2.944,0.002731,"Cameroon -  Brochures, leaflets and similar, in single sheets"
+850,768,Togo,108,Burundi,61," Mens, boys overcoats, etc, of wool or hair, knit",2.635,0.000235,"Burundi -  Mens, boys overcoats, etc, of wool or hair, knit"
+851,768,Togo,032,Argentina,01," Horses, live pure-bred breeding",2.58,4e-05,"Argentina -  Horses, live pure-bred breeding"
+852,768,Togo,466,Mali,07," Potatoes seed, fresh or chilled",2.39,0.665607,"Mali -  Potatoes seed, fresh or chilled"
+853,768,Togo,686,Senegal,49," Brochures, leaflets and similar, in single sheets",2.178,0.000475,"Senegal -  Brochures, leaflets and similar, in single sheets"
+854,768,Togo,144,Sri Lanka,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",2.07,0.0008070000000000001,"Sri Lanka -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+855,768,Togo,380,Italy,25," Salt (sodium chloride) including solution, salt water",1.931,0.009415,"Italy -  Salt (sodium chloride) including solution, salt water"
+856,768,Togo,288,Ghana,41," Bovine skins, whole, raw",1.916,0.0006860000000000001,"Ghana -  Bovine skins, whole, raw"
+857,768,Togo,562,Niger,58," Woven pile fabric of wool or fine animal hair, w >30c",1.856,0.001156,"Niger -  Woven pile fabric of wool or fine animal hair, w >30c"
+858,768,Togo,854,Burkina Faso,58," Woven pile fabric of wool or fine animal hair, w >30c",1.725,0.004272000000000001,"Burkina Faso -  Woven pile fabric of wool or fine animal hair, w >30c"
+859,768,Togo,144,Sri Lanka,64," Waterproof footwear (Wellingtons etc), metal toe cap",1.602,0.000195,"Sri Lanka -  Waterproof footwear (Wellingtons etc), metal toe cap"
+860,768,Togo,528,Netherlands (Kingdom of the),71," Pearls natural, not permanently mounted or set",1.538,0.000101,"Netherlands (Kingdom of the) -  Pearls natural, not permanently mounted or set"
+861,768,Togo,410,"Korea, Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",1.325,1e-05,"Korea, Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+862,768,Togo,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",0.997,2.6e-05,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+863,768,Togo,422,Lebanon,08," Coconuts, fresh or dried",0.867,2.3e-05,"Lebanon -  Coconuts, fresh or dried"
+864,768,Togo,288,Ghana,91," Wrist-watch, precious metal, battery, with hands",0.767,0.000892,"Ghana -  Wrist-watch, precious metal, battery, with hands"
+865,768,Togo,562,Niger,14, Bamboos used primarily for plaiting,0.712,0.00041999999999999996,Niger -  Bamboos used primarily for plaiting
+866,768,Togo,686,Senegal,61," Mens, boys overcoats, etc, of wool or hair, knit",0.631,0.000115,"Senegal -  Mens, boys overcoats, etc, of wool or hair, knit"
+867,768,Togo,180,"Congo, Dem. Rep. of the",45," Natural cork, raw or simply prepared",0.51,1.579521,"Congo, Dem. Rep. of the -  Natural cork, raw or simply prepared"
+868,768,Togo,404,Kenya,41," Bovine skins, whole, raw",0.308,9.900000000000001e-05,"Kenya -  Bovine skins, whole, raw"
+869,768,Togo,784,United Arab Emirates,01," Horses, live pure-bred breeding",0.106,2.8e-05,"United Arab Emirates -  Horses, live pure-bred breeding"
+870,768,Togo,288,Ghana,93," Military weapons, other than hand guns, swords, etc",0.051,0.000374,"Ghana -  Military weapons, other than hand guns, swords, etc"
+871,768,Togo,344,"China, Hong Kong SAR",01," Horses, live pure-bred breeding",0.015,0.0,"China, Hong Kong SAR -  Horses, live pure-bred breeding"
+872,768,Togo,466,Mali,51," Greasy shorn wool, not carded or combed",0.009,5e-06,"Mali -  Greasy shorn wool, not carded or combed"
+873,768,Togo,392,Japan,01," Horses, live pure-bred breeding",0.003,0.0,"Japan -  Horses, live pure-bred breeding"
+874,768,Togo,056,Belgium,10, Durum wheat,0.003,2e-06,Belgium -  Durum wheat
+875,768,Togo,410,"Korea, Republic of",01," Horses, live pure-bred breeding",0.001,0.0,"Korea, Republic of -  Horses, live pure-bred breeding"
+876,768,Togo,818,Egypt,01," Horses, live pure-bred breeding",0.0,0.0,"Egypt -  Horses, live pure-bred breeding"
+877,768,Togo,012,Algeria,44, Fuel wood,0.0,0.0,Algeria -  Fuel wood
+878,768,Togo,222,El Salvador,01," Horses, live pure-bred breeding",0.0,0.0,"El Salvador -  Horses, live pure-bred breeding"
+879,768,Togo,156,China,01," Horses, live pure-bred breeding",0.0,0.0,"China -  Horses, live pure-bred breeding"
+880,768,Togo,056,Belgium,01," Horses, live pure-bred breeding",0.0,0.0,"Belgium -  Horses, live pure-bred breeding"
+881,768,Togo,144,Sri Lanka,90," Optical fibres, except for telecommunications",0.0,0.0,"Sri Lanka -  Optical fibres, except for telecommunications"
+882,768,Togo,360,Indonesia,01," Horses, live pure-bred breeding",0.0,0.0,"Indonesia -  Horses, live pure-bred breeding"
+883,768,Togo,528,Netherlands (Kingdom of the),01," Horses, live pure-bred breeding",0.0,0.0,"Netherlands (Kingdom of the) -  Horses, live pure-bred breeding"
+884,768,Togo,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,0.0,0.0,Sri Lanka -  Electric motors of an output < 37.5 watts
+885,768,Togo,144,Sri Lanka,76," Aluminium unwrought, not alloyed",0.0,0.0,"Sri Lanka -  Aluminium unwrought, not alloyed"
+886,768,Togo,144,Sri Lanka,73, Sheet piling of iron or steel,0.0,0.0,Sri Lanka -  Sheet piling of iron or steel
+887,768,Togo,144,Sri Lanka,42," Saddlery and harness, of any material",0.0,0.0,"Sri Lanka -  Saddlery and harness, of any material"
+888,768,Togo,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,0.0,0.0,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+889,768,Togo,854,Burkina Faso,08," Coconuts, fresh or dried",0.0,0.0,"Burkina Faso -  Coconuts, fresh or dried"
+890,768,Togo,854,Burkina Faso,50, Silk-worm cocoons suitable for reeling,0.0,0.0,Burkina Faso -  Silk-worm cocoons suitable for reeling
+891,768,Togo,380,Italy,01," Horses, live pure-bred breeding",0.0,0.0,"Italy -  Horses, live pure-bred breeding"
+892,768,Togo,144,Sri Lanka,01," Horses, live pure-bred breeding",0.0,0.0,"Sri Lanka -  Horses, live pure-bred breeding"
+893,768,Togo,144,Sri Lanka,11, Wheat or meslin flour,0.0,0.0,Sri Lanka -  Wheat or meslin flour

@@ -1,0 +1,704 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,562,Niger,156,China,12, Soya beans,94095344.492,66028.88254,China -  Soya beans
+1,562,Niger,466,Mali,27," Anthracite, not agglomerated",26318686.426,39209.829363,"Mali -  Anthracite, not agglomerated"
+2,562,Niger,854,Burkina Faso,27," Anthracite, not agglomerated",7220082.186,10707.634159,"Burkina Faso -  Anthracite, not agglomerated"
+3,562,Niger,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",5202685.087,1.473702,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+4,562,Niger,724,Spain,07," Potatoes seed, fresh or chilled",2719722.697,2621.0,"Spain -  Potatoes seed, fresh or chilled"
+5,562,Niger,076,Brazil,28, Chlorine,2418488.0,12.719,Brazil -  Chlorine
+6,562,Niger,036,Australia,18," Cocoa beans, whole or broken, raw or roasted",922265.133,197.8433,"Australia -  Cocoa beans, whole or broken, raw or roasted"
+7,562,Niger,566,Nigeria,84, Nuclear reactors,911893.068,25.85,Nigeria -  Nuclear reactors
+8,562,Niger,566,Nigeria,52," Cotton, not carded or combed",469507.115,15.9,"Nigeria -  Cotton, not carded or combed"
+9,562,Niger,840,United States of America,84, Nuclear reactors,390124.223,68.392523,United States of America -  Nuclear reactors
+10,562,Niger,566,Nigeria,87, Pedestrian controlled tractors,265361.72,43.5,Nigeria -  Pedestrian controlled tractors
+11,562,Niger,036,Australia,02," Bovine carcasses and half carcasses, fresh or chilled",253165.277,76.518,"Australia -  Bovine carcasses and half carcasses, fresh or chilled"
+12,562,Niger,686,Senegal,87, Pedestrian controlled tractors,228724.677,106.48353,Senegal -  Pedestrian controlled tractors
+13,562,Niger,096,Brunei Darussalam,02," Bovine carcasses and half carcasses, fresh or chilled",173867.778,57.099,"Brunei Darussalam -  Bovine carcasses and half carcasses, fresh or chilled"
+14,562,Niger,300,Greece,44, Fuel wood,169620.356,549.6,Greece -  Fuel wood
+15,562,Niger,686,Senegal,04, Milk not concentrated nor sweetened < 1% fat,165681.228,52.621546,Senegal -  Milk not concentrated nor sweetened < 1% fat
+16,562,Niger,616,Poland,12, Soya beans,154256.744,88.276407,Poland -  Soya beans
+17,562,Niger,894,Zambia,87, Pedestrian controlled tractors,153789.231,17.115912,Zambia -  Pedestrian controlled tractors
+18,562,Niger,702,Singapore,12, Soya beans,150172.945,101.313511,Singapore -  Soya beans
+19,562,Niger,840,United States of America,08," Coconuts, fresh or dried",147922.081,18.516333,"United States of America -  Coconuts, fresh or dried"
+20,562,Niger,410,"Korea, Republic of",12, Soya beans,143568.921,91.347391,"Korea, Republic of -  Soya beans"
+21,562,Niger,840,United States of America,85, Electric motors of an output < 37.5 watts,143485.039,7.235937,United States of America -  Electric motors of an output < 37.5 watts
+22,562,Niger,250,France,72," Pig iron, non-alloy, <0.5% phosphorus",137074.387,105.940165,"France -  Pig iron, non-alloy, <0.5% phosphorus"
+23,562,Niger,104,Myanmar,29, Saturated acyclic hydrocarbons,125999.612,59.28,Myanmar -  Saturated acyclic hydrocarbons
+24,562,Niger,566,Nigeria,08," Coconuts, fresh or dried",122764.972,60.355759,"Nigeria -  Coconuts, fresh or dried"
+25,562,Niger,392,Japan,12, Soya beans,122300.476,92.089927,Japan -  Soya beans
+26,562,Niger,250,France,38, Artificial graphite,117324.585,34.498281000000006,France -  Artificial graphite
+27,562,Niger,288,Ghana,07," Potatoes seed, fresh or chilled",110667.197,419.46438,"Ghana -  Potatoes seed, fresh or chilled"
+28,562,Niger,250,France,13, Lac,108585.638,37.298430999999994,France -  Lac
+29,562,Niger,566,Nigeria,07," Potatoes seed, fresh or chilled",105630.826,52.53,"Nigeria -  Potatoes seed, fresh or chilled"
+30,562,Niger,036,Australia,84, Nuclear reactors,95085.606,3.301903,Australia -  Nuclear reactors
+31,562,Niger,036,Australia,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",92464.065,23.602,"Australia -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+32,562,Niger,404,Kenya,39, Polyethylene - specific gravity <0.94 in primary form,92221.109,62.738996,Kenya -  Polyethylene - specific gravity <0.94 in primary form
+33,562,Niger,203,Czechia,94," Seats, aircraft",87643.899,1.213466,"Czechia -  Seats, aircraft"
+34,562,Niger,616,Poland,87, Pedestrian controlled tractors,84050.406,24.141158,Poland -  Pedestrian controlled tractors
+35,562,Niger,288,Ghana,84, Nuclear reactors,81617.891,14.32145,Ghana -  Nuclear reactors
+36,562,Niger,566,Nigeria,19," Infant foods of cereals, flour, starch or milk, retai",80178.844,260.053,"Nigeria -  Infant foods of cereals, flour, starch or milk, retai"
+37,562,Niger,036,Australia,11, Wheat or meslin flour,77520.65,24.6,Australia -  Wheat or meslin flour
+38,562,Niger,840,United States of America,88," Gliders, hang gliders",74952.285,0.100983,"United States of America -  Gliders, hang gliders"
+39,562,Niger,566,Nigeria,41," Bovine skins, whole, raw",74851.925,48.0,"Nigeria -  Bovine skins, whole, raw"
+40,562,Niger,826,United Kingdom,84, Nuclear reactors,71972.586,0.245698,United Kingdom -  Nuclear reactors
+41,562,Niger,104,Myanmar,39, Polyethylene - specific gravity <0.94 in primary form,61018.728,22.5,Myanmar -  Polyethylene - specific gravity <0.94 in primary form
+42,562,Niger,203,Czechia,70," Glass cullet, waste or scrap, glass in the mass",57082.821,109.422369,"Czechia -  Glass cullet, waste or scrap, glass in the mass"
+43,562,Niger,036,Australia,90," Optical fibres, except for telecommunications",52794.45,0.462294,"Australia -  Optical fibres, except for telecommunications"
+44,562,Niger,104,Myanmar,85, Electric motors of an output < 37.5 watts,50929.557,2.4378249999999997,Myanmar -  Electric motors of an output < 37.5 watts
+45,562,Niger,643,Russian Federation,84, Nuclear reactors,50775.934,3.06892,Russian Federation -  Nuclear reactors
+46,562,Niger,288,Ghana,87, Pedestrian controlled tractors,50023.773,8.461392,Ghana -  Pedestrian controlled tractors
+47,562,Niger,036,Australia,54, Sewing thread of synthetic filaments,48660.119,2.874,Australia -  Sewing thread of synthetic filaments
+48,562,Niger,840,United States of America,95," Rideable wheeled toys, dolls carriages",43799.968,3.78747,"United States of America -  Rideable wheeled toys, dolls carriages"
+49,562,Niger,288,Ghana,22, Mineral and aerated waters not sweetened or flavoured,43519.724,111.37846400000001,Ghana -  Mineral and aerated waters not sweetened or flavoured
+50,562,Niger,686,Senegal,31," Animal or vegetable fertilizers, in packs >10 kg",42086.965,28.152492,"Senegal -  Animal or vegetable fertilizers, in packs >10 kg"
+51,562,Niger,276,Germany,38, Artificial graphite,40421.532,0.085575,Germany -  Artificial graphite
+52,562,Niger,740,Suriname,09," Coffee, not roasted, not decaffeinated",39366.957,6.958,"Suriname -  Coffee, not roasted, not decaffeinated"
+53,562,Niger,840,United States of America,40," Natural rubber latex, including prevulcanised",38258.941,5.744669,"United States of America -  Natural rubber latex, including prevulcanised"
+54,562,Niger,276,Germany,29, Saturated acyclic hydrocarbons,37508.678,0.767535,Germany -  Saturated acyclic hydrocarbons
+55,562,Niger,356,India,09," Coffee, not roasted, not decaffeinated",36827.143,34.714965,"India -  Coffee, not roasted, not decaffeinated"
+56,562,Niger,036,Australia,39, Polyethylene - specific gravity <0.94 in primary form,36266.032,2.614441,Australia -  Polyethylene - specific gravity <0.94 in primary form
+57,562,Niger,250,France,15," Lard, other pig fat and poultry fat, rendered",36089.132,32.34611,"France -  Lard, other pig fat and poultry fat, rendered"
+58,562,Niger,096,Brunei Darussalam,23," Flour or meal, pellet of meat or offal for animal fee",35689.302,29.539,"Brunei Darussalam -  Flour or meal, pellet of meat or offal for animal fee"
+59,562,Niger,036,Australia,87, Pedestrian controlled tractors,33224.99,2.606484,Australia -  Pedestrian controlled tractors
+60,562,Niger,585,Palau,74, Copper mattes,31431.885,0.076557,Palau -  Copper mattes
+61,562,Niger,410,"Korea, Republic of",84, Nuclear reactors,30911.268,0.283827,"Korea, Republic of -  Nuclear reactors"
+62,562,Niger,566,Nigeria,09," Coffee, not roasted, not decaffeinated",29848.917,21.1,"Nigeria -  Coffee, not roasted, not decaffeinated"
+63,562,Niger,036,Australia,56," Sanitary towels, diapers and similar articles",29830.109,4.918253,"Australia -  Sanitary towels, diapers and similar articles"
+64,562,Niger,840,United States of America,76," Aluminium unwrought, not alloyed",29389.697,6.077230999999999,"United States of America -  Aluminium unwrought, not alloyed"
+65,562,Niger,566,Nigeria,17," Raw sugar, cane",28565.382,63.5,"Nigeria -  Raw sugar, cane"
+66,562,Niger,104,Myanmar,23," Flour or meal, pellet of meat or offal for animal fee",27958.439,36.0,"Myanmar -  Flour or meal, pellet of meat or offal for animal fee"
+67,562,Niger,804,Ukraine,84, Nuclear reactors,27700.685,1.68807,Ukraine -  Nuclear reactors
+68,562,Niger,096,Brunei Darussalam,07," Potatoes seed, fresh or chilled",27199.586,56.9,"Brunei Darussalam -  Potatoes seed, fresh or chilled"
+69,562,Niger,840,United States of America,94," Seats, aircraft",26327.594,6.296646,"United States of America -  Seats, aircraft"
+70,562,Niger,840,United States of America,38, Artificial graphite,24562.491,2.130106,United States of America -  Artificial graphite
+71,562,Niger,250,France,87, Pedestrian controlled tractors,24315.012,2.118503,France -  Pedestrian controlled tractors
+72,562,Niger,752,Sweden,87, Pedestrian controlled tractors,24172.607,2.0,Sweden -  Pedestrian controlled tractors
+73,562,Niger,604,Peru,48, Newsprint,24097.35,52.432,Peru -  Newsprint
+74,562,Niger,076,Brazil,12, Soya beans,23772.0,12.05,Brazil -  Soya beans
+75,562,Niger,036,Australia,94," Seats, aircraft",23335.406,3.1944749999999997,"Australia -  Seats, aircraft"
+76,562,Niger,566,Nigeria,94," Seats, aircraft",23137.255,0.045,"Nigeria -  Seats, aircraft"
+77,562,Niger,702,Singapore,88," Gliders, hang gliders",22566.322,0.063927,"Singapore -  Gliders, hang gliders"
+78,562,Niger,250,France,11, Wheat or meslin flour,22354.268,9.280707,France -  Wheat or meslin flour
+79,562,Niger,246,Finland,85, Electric motors of an output < 37.5 watts,22068.6,4.308,Finland -  Electric motors of an output < 37.5 watts
+80,562,Niger,620,Portugal,70," Glass cullet, waste or scrap, glass in the mass",21909.325,78.0,"Portugal -  Glass cullet, waste or scrap, glass in the mass"
+81,562,Niger,376,Israel,85, Electric motors of an output < 37.5 watts,21584.417,0.16572499999999998,Israel -  Electric motors of an output < 37.5 watts
+82,562,Niger,250,France,09," Coffee, not roasted, not decaffeinated",20428.528,4.0122539999999995,"France -  Coffee, not roasted, not decaffeinated"
+83,562,Niger,740,Suriname,21," Coffee extracts, essences, concentrates, preparations",19565.17,1.146,"Suriname -  Coffee extracts, essences, concentrates, preparations"
+84,562,Niger,250,France,39, Polyethylene - specific gravity <0.94 in primary form,19497.797,9.072882,France -  Polyethylene - specific gravity <0.94 in primary form
+85,562,Niger,616,Poland,40," Natural rubber latex, including prevulcanised",19341.989,15.287848,"Poland -  Natural rubber latex, including prevulcanised"
+86,562,Niger,180,"Congo, Dem. Rep. of the",18," Cocoa beans, whole or broken, raw or roasted",19020.44,10.076,"Congo, Dem. Rep. of the -  Cocoa beans, whole or broken, raw or roasted"
+87,562,Niger,792,Türkiye,39, Polyethylene - specific gravity <0.94 in primary form,19007.0,6.0,Türkiye -  Polyethylene - specific gravity <0.94 in primary form
+88,562,Niger,104,Myanmar,90," Optical fibres, except for telecommunications",18717.408,0.07484099999999999,"Myanmar -  Optical fibres, except for telecommunications"
+89,562,Niger,854,Burkina Faso,94," Seats, aircraft",18553.816,6.623194000000001,"Burkina Faso -  Seats, aircraft"
+90,562,Niger,012,Algeria,09," Coffee, not roasted, not decaffeinated",18475.967,12.323886,"Algeria -  Coffee, not roasted, not decaffeinated"
+91,562,Niger,276,Germany,84, Nuclear reactors,17070.76,1.213558,Germany -  Nuclear reactors
+92,562,Niger,250,France,84, Nuclear reactors,16614.523,1.121154,France -  Nuclear reactors
+93,562,Niger,682,Saudi Arabia,84, Nuclear reactors,16422.726,0.057825,Saudi Arabia -  Nuclear reactors
+94,562,Niger,203,Czechia,90," Optical fibres, except for telecommunications",16162.905,0.098411,"Czechia -  Optical fibres, except for telecommunications"
+95,562,Niger,076,Brazil,84, Nuclear reactors,15735.0,1.198,Brazil -  Nuclear reactors
+96,562,Niger,204,Benin,87, Pedestrian controlled tractors,15347.462,19.0,Benin -  Pedestrian controlled tractors
+97,562,Niger,608,Philippines,76," Aluminium unwrought, not alloyed",14939.176,2.961922,"Philippines -  Aluminium unwrought, not alloyed"
+98,562,Niger,384,Côte d'Ivoire,87, Pedestrian controlled tractors,14585.125,2.216,Côte d'Ivoire -  Pedestrian controlled tractors
+99,562,Niger,156,China,44, Fuel wood,14471.16,20.675075,China -  Fuel wood
+100,562,Niger,288,Ghana,28, Chlorine,14387.422,216.499052,Ghana -  Chlorine
+101,562,Niger,356,India,13, Lac,14200.807,96.350736,India -  Lac
+102,562,Niger,036,Australia,40," Natural rubber latex, including prevulcanised",14033.707,0.647711,"Australia -  Natural rubber latex, including prevulcanised"
+103,562,Niger,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,13939.692,1.732542,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+104,562,Niger,246,Finland,39, Polyethylene - specific gravity <0.94 in primary form,13738.913,0.114,Finland -  Polyethylene - specific gravity <0.94 in primary form
+105,562,Niger,360,Indonesia,86," Rail locomotives, externally electrically powered",13623.243,0.862913,"Indonesia -  Rail locomotives, externally electrically powered"
+106,562,Niger,784,United Arab Emirates,03," Ornamental fish, live",13070.426,0.401006,"United Arab Emirates -  Ornamental fish, live"
+107,562,Niger,024,Angola,67," Bird skins and feathers, articles therefrom",12964.615,22.732,"Angola -  Bird skins and feathers, articles therefrom"
+108,562,Niger,404,Kenya,84, Nuclear reactors,12660.318,5.6304549999999995,Kenya -  Nuclear reactors
+109,562,Niger,554,New Zealand,54, Sewing thread of synthetic filaments,12571.036,1.518979,New Zealand -  Sewing thread of synthetic filaments
+110,562,Niger,360,Indonesia,27," Anthracite, not agglomerated",12474.536,14.965127,"Indonesia -  Anthracite, not agglomerated"
+111,562,Niger,840,United States of America,32, Quebracho tanning extract,12382.709,0.81472,United States of America -  Quebracho tanning extract
+112,562,Niger,250,France,12, Soya beans,11754.367,2.392713,France -  Soya beans
+113,562,Niger,604,Peru,87, Pedestrian controlled tractors,11704.37,0.0875,Peru -  Pedestrian controlled tractors
+114,562,Niger,203,Czechia,12, Soya beans,11580.276,4.337671,Czechia -  Soya beans
+115,562,Niger,288,Ghana,12, Soya beans,10996.144,55.077134,Ghana -  Soya beans
+116,562,Niger,276,Germany,85, Electric motors of an output < 37.5 watts,10502.347,0.426987,Germany -  Electric motors of an output < 37.5 watts
+117,562,Niger,360,Indonesia,73, Sheet piling of iron or steel,10409.42,0.034154000000000004,Indonesia -  Sheet piling of iron or steel
+118,562,Niger,840,United States of America,49," Brochures, leaflets and similar, in single sheets",10286.678,1.108954,"United States of America -  Brochures, leaflets and similar, in single sheets"
+119,562,Niger,566,Nigeria,21," Coffee extracts, essences, concentrates, preparations",9930.229,107.0,"Nigeria -  Coffee extracts, essences, concentrates, preparations"
+120,562,Niger,156,China,13, Lac,9853.253,58.292916,China -  Lac
+121,562,Niger,132,Cabo Verde,02," Bovine carcasses and half carcasses, fresh or chilled",9850.071,11.053511,"Cabo Verde -  Bovine carcasses and half carcasses, fresh or chilled"
+122,562,Niger,324,Guinea,84, Nuclear reactors,9674.303,1.6183109999999998,Guinea -  Nuclear reactors
+123,562,Niger,242,Fiji,84, Nuclear reactors,9602.306,0.05957,Fiji -  Nuclear reactors
+124,562,Niger,854,Burkina Faso,09," Coffee, not roasted, not decaffeinated",9546.139,287.51180800000003,"Burkina Faso -  Coffee, not roasted, not decaffeinated"
+125,562,Niger,466,Mali,09," Coffee, not roasted, not decaffeinated",9457.821,150.463157,"Mali -  Coffee, not roasted, not decaffeinated"
+126,562,Niger,662,Saint Lucia,20," Cucumbers,gherkins, prepared or preserved by vinegar",9165.225,0.10460299999999999,"Saint Lucia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+127,562,Niger,682,Saudi Arabia,88," Gliders, hang gliders",8782.625,0.047186,"Saudi Arabia -  Gliders, hang gliders"
+128,562,Niger,250,France,85, Electric motors of an output < 37.5 watts,8676.297,0.686014,France -  Electric motors of an output < 37.5 watts
+129,562,Niger,818,Egypt,94," Seats, aircraft",8184.521,3.139919,"Egypt -  Seats, aircraft"
+130,562,Niger,360,Indonesia,85, Electric motors of an output < 37.5 watts,8124.493,0.033487,Indonesia -  Electric motors of an output < 37.5 watts
+131,562,Niger,036,Australia,49," Brochures, leaflets and similar, in single sheets",7887.79,0.7129719999999999,"Australia -  Brochures, leaflets and similar, in single sheets"
+132,562,Niger,643,Russian Federation,28, Chlorine,7849.488,486.81052500000004,Russian Federation -  Chlorine
+133,562,Niger,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,7847.737,2.510831,Czechia -  Polyethylene - specific gravity <0.94 in primary form
+134,562,Niger,840,United States of America,83, Padlocks of base metal,7784.104,0.019295000000000003,United States of America -  Padlocks of base metal
+135,562,Niger,840,United States of America,57," Carpets of wool or fine animal hair, knotted",7763.192,0.093791,"United States of America -  Carpets of wool or fine animal hair, knotted"
+136,562,Niger,156,China,28, Chlorine,7668.102,2.2325880000000002,China -  Chlorine
+137,562,Niger,288,Ghana,94," Seats, aircraft",7610.655,0.07128100000000001,"Ghana -  Seats, aircraft"
+138,562,Niger,360,Indonesia,84, Nuclear reactors,7594.043,0.087507,Indonesia -  Nuclear reactors
+139,562,Niger,840,United States of America,73, Sheet piling of iron or steel,7459.967,0.003857,United States of America -  Sheet piling of iron or steel
+140,562,Niger,288,Ghana,20," Cucumbers,gherkins, prepared or preserved by vinegar",7381.712,58.271588,"Ghana -  Cucumbers,gherkins, prepared or preserved by vinegar"
+141,562,Niger,690,Seychelles,35, Casein,7376.138,0.78079,Seychelles -  Casein
+142,562,Niger,554,New Zealand,40," Natural rubber latex, including prevulcanised",7307.071,1.289998,"New Zealand -  Natural rubber latex, including prevulcanised"
+143,562,Niger,616,Poland,03," Ornamental fish, live",7001.225,0.145756,"Poland -  Ornamental fish, live"
+144,562,Niger,854,Burkina Faso,08," Coconuts, fresh or dried",6919.868,228.386312,"Burkina Faso -  Coconuts, fresh or dried"
+145,562,Niger,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,6881.449,1.552713,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+146,562,Niger,764,Thailand,39, Polyethylene - specific gravity <0.94 in primary form,6750.025,0.709,Thailand -  Polyethylene - specific gravity <0.94 in primary form
+147,562,Niger,250,France,07," Potatoes seed, fresh or chilled",6735.427,11.584031000000001,"France -  Potatoes seed, fresh or chilled"
+148,562,Niger,887,Yemen,09," Coffee, not roasted, not decaffeinated",6717.972,3.5910970000000004,"Yemen -  Coffee, not roasted, not decaffeinated"
+149,562,Niger,250,France,28, Chlorine,6590.57,1.4011,France -  Chlorine
+150,562,Niger,566,Nigeria,38, Artificial graphite,6416.309,2.3,Nigeria -  Artificial graphite
+151,562,Niger,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",6393.349,0.029346,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+152,562,Niger,854,Burkina Faso,87, Pedestrian controlled tractors,6384.017,13.887944,Burkina Faso -  Pedestrian controlled tractors
+153,562,Niger,566,Nigeria,96," Worked ivory, articles of ivory",6318.515,1.5,"Nigeria -  Worked ivory, articles of ivory"
+154,562,Niger,840,United States of America,35, Casein,6253.724,0.5461269999999999,United States of America -  Casein
+155,562,Niger,434,Libya,84, Nuclear reactors,6060.496,2.699689,Libya -  Nuclear reactors
+156,562,Niger,454,Malawi,94," Seats, aircraft",5912.141,0.26241699999999996,"Malawi -  Seats, aircraft"
+157,562,Niger,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,5776.403,0.616486,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+158,562,Niger,156,China,84, Nuclear reactors,5621.747,0.07031399999999999,China -  Nuclear reactors
+159,562,Niger,854,Burkina Faso,39, Polyethylene - specific gravity <0.94 in primary form,5586.251,8.154937,Burkina Faso -  Polyethylene - specific gravity <0.94 in primary form
+160,562,Niger,203,Czechia,09," Coffee, not roasted, not decaffeinated",5458.17,0.900123,"Czechia -  Coffee, not roasted, not decaffeinated"
+161,562,Niger,156,China,85, Electric motors of an output < 37.5 watts,5447.846,0.135429,China -  Electric motors of an output < 37.5 watts
+162,562,Niger,036,Australia,68," Stone setts, curbstones, flagstones (except slate)",5385.75,6.019,"Australia -  Stone setts, curbstones, flagstones (except slate)"
+163,562,Niger,250,France,25," Salt (sodium chloride) including solution, salt water",5372.361,8.466104,"France -  Salt (sodium chloride) including solution, salt water"
+164,562,Niger,356,India,90," Optical fibres, except for telecommunications",5348.321,0.130873,"India -  Optical fibres, except for telecommunications"
+165,562,Niger,854,Burkina Faso,04, Milk not concentrated nor sweetened < 1% fat,5225.956,1.848819,Burkina Faso -  Milk not concentrated nor sweetened < 1% fat
+166,562,Niger,616,Poland,85, Electric motors of an output < 37.5 watts,5194.16,0.107509,Poland -  Electric motors of an output < 37.5 watts
+167,562,Niger,566,Nigeria,39, Polyethylene - specific gravity <0.94 in primary form,5182.811,1.5,Nigeria -  Polyethylene - specific gravity <0.94 in primary form
+168,562,Niger,466,Mali,08," Coconuts, fresh or dried",5167.54,88.12831299999999,"Mali -  Coconuts, fresh or dried"
+169,562,Niger,585,Palau,38, Artificial graphite,5124.014,0.045912999999999995,Palau -  Artificial graphite
+170,562,Niger,854,Burkina Faso,11, Wheat or meslin flour,5089.27,6.258449,Burkina Faso -  Wheat or meslin flour
+171,562,Niger,204,Benin,69," Bricks, blocks and ceramic goods of siliceous earths",5072.116,27.627,"Benin -  Bricks, blocks and ceramic goods of siliceous earths"
+172,562,Niger,276,Germany,90," Optical fibres, except for telecommunications",4965.001,0.08618600000000001,"Germany -  Optical fibres, except for telecommunications"
+173,562,Niger,703,Slovakia,85, Electric motors of an output < 37.5 watts,4961.126,0.017721,Slovakia -  Electric motors of an output < 37.5 watts
+174,562,Niger,454,Malawi,90," Optical fibres, except for telecommunications",4940.415,0.064851,"Malawi -  Optical fibres, except for telecommunications"
+175,562,Niger,566,Nigeria,04, Milk not concentrated nor sweetened < 1% fat,4868.264,18.0,Nigeria -  Milk not concentrated nor sweetened < 1% fat
+176,562,Niger,496,Mongolia,40," Natural rubber latex, including prevulcanised",4856.947,0.087957,"Mongolia -  Natural rubber latex, including prevulcanised"
+177,562,Niger,854,Burkina Faso,72," Pig iron, non-alloy, <0.5% phosphorus",4848.159,3.1816060000000004,"Burkina Faso -  Pig iron, non-alloy, <0.5% phosphorus"
+178,562,Niger,156,China,39, Polyethylene - specific gravity <0.94 in primary form,4810.975,0.07632599999999999,China -  Polyethylene - specific gravity <0.94 in primary form
+179,562,Niger,276,Germany,44, Fuel wood,4808.104,15.18,Germany -  Fuel wood
+180,562,Niger,585,Palau,90," Optical fibres, except for telecommunications",4682.844,0.021512,"Palau -  Optical fibres, except for telecommunications"
+181,562,Niger,328,Guyana,72," Pig iron, non-alloy, <0.5% phosphorus",4594.07,8.0,"Guyana -  Pig iron, non-alloy, <0.5% phosphorus"
+182,562,Niger,585,Palau,84, Nuclear reactors,4589.175,0.303442,Palau -  Nuclear reactors
+183,562,Niger,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,4580.14,0.024050000000000002,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+184,562,Niger,690,Seychelles,30," Glands and other organs, dried, for therapeutic uses",4499.247,0.256229,"Seychelles -  Glands and other organs, dried, for therapeutic uses"
+185,562,Niger,703,Slovakia,27," Anthracite, not agglomerated",4470.469,1.248,"Slovakia -  Anthracite, not agglomerated"
+186,562,Niger,288,Ghana,10, Durum wheat,4451.607,15.730906999999998,Ghana -  Durum wheat
+187,562,Niger,233,Estonia,80, Tin not alloyed unwrought,4345.326,3.893,Estonia -  Tin not alloyed unwrought
+188,562,Niger,076,Brazil,58," Woven pile fabric of wool or fine animal hair, w >30c",4327.0,0.125,"Brazil -  Woven pile fabric of wool or fine animal hair, w >30c"
+189,562,Niger,840,United States of America,90," Optical fibres, except for telecommunications",4307.259,0.07134099999999999,"United States of America -  Optical fibres, except for telecommunications"
+190,562,Niger,040,Austria,20," Cucumbers,gherkins, prepared or preserved by vinegar",4182.199,0.42872899999999997,"Austria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+191,562,Niger,686,Senegal,29, Saturated acyclic hydrocarbons,4122.708,4.239313,Senegal -  Saturated acyclic hydrocarbons
+192,562,Niger,566,Nigeria,23," Flour or meal, pellet of meat or offal for animal fee",4112.637,18.0,"Nigeria -  Flour or meal, pellet of meat or offal for animal fee"
+193,562,Niger,643,Russian Federation,73, Sheet piling of iron or steel,4091.978,0.028111,Russian Federation -  Sheet piling of iron or steel
+194,562,Niger,036,Australia,76," Aluminium unwrought, not alloyed",4057.728,0.356,"Australia -  Aluminium unwrought, not alloyed"
+195,562,Niger,246,Finland,42," Saddlery and harness, of any material",3999.538,0.104,"Finland -  Saddlery and harness, of any material"
+196,562,Niger,566,Nigeria,63, Electric blankets of textile material,3996.964,3.05,Nigeria -  Electric blankets of textile material
+197,562,Niger,276,Germany,07," Potatoes seed, fresh or chilled",3988.37,0.520189,"Germany -  Potatoes seed, fresh or chilled"
+198,562,Niger,250,France,73, Sheet piling of iron or steel,3981.009,1.430411,France -  Sheet piling of iron or steel
+199,562,Niger,682,Saudi Arabia,40," Natural rubber latex, including prevulcanised",3962.862,0.121516,"Saudi Arabia -  Natural rubber latex, including prevulcanised"
+200,562,Niger,250,France,90," Optical fibres, except for telecommunications",3961.958,0.109721,"France -  Optical fibres, except for telecommunications"
+201,562,Niger,372,Ireland,94," Seats, aircraft",3909.478,0.500081,"Ireland -  Seats, aircraft"
+202,562,Niger,250,France,70," Glass cullet, waste or scrap, glass in the mass",3892.986,1.690983,"France -  Glass cullet, waste or scrap, glass in the mass"
+203,562,Niger,854,Burkina Faso,31," Animal or vegetable fertilizers, in packs >10 kg",3877.511,74.493159,"Burkina Faso -  Animal or vegetable fertilizers, in packs >10 kg"
+204,562,Niger,608,Philippines,84, Nuclear reactors,3828.764,0.314232,Philippines -  Nuclear reactors
+205,562,Niger,466,Mali,20," Cucumbers,gherkins, prepared or preserved by vinegar",3766.734,2.643415,"Mali -  Cucumbers,gherkins, prepared or preserved by vinegar"
+206,562,Niger,276,Germany,03," Ornamental fish, live",3751.268,0.325452,"Germany -  Ornamental fish, live"
+207,562,Niger,246,Finland,68," Stone setts, curbstones, flagstones (except slate)",3708.174,0.015,"Finland -  Stone setts, curbstones, flagstones (except slate)"
+208,562,Niger,604,Peru,37, X-ray plates and films,3684.65,0.04088,Peru -  X-ray plates and films
+209,562,Niger,826,United Kingdom,85, Electric motors of an output < 37.5 watts,3595.38,0.005863,United Kingdom -  Electric motors of an output < 37.5 watts
+210,562,Niger,356,India,39, Polyethylene - specific gravity <0.94 in primary form,3496.762,7.9698850000000006,India -  Polyethylene - specific gravity <0.94 in primary form
+211,562,Niger,036,Australia,30," Glands and other organs, dried, for therapeutic uses",3493.067,0.051364,"Australia -  Glands and other organs, dried, for therapeutic uses"
+212,562,Niger,840,United States of America,70," Glass cullet, waste or scrap, glass in the mass",3398.307,0.604282,"United States of America -  Glass cullet, waste or scrap, glass in the mass"
+213,562,Niger,203,Czechia,27," Anthracite, not agglomerated",3390.326,0.9168339999999999,"Czechia -  Anthracite, not agglomerated"
+214,562,Niger,643,Russian Federation,85, Electric motors of an output < 37.5 watts,3387.795,0.020784,Russian Federation -  Electric motors of an output < 37.5 watts
+215,562,Niger,702,Singapore,83, Padlocks of base metal,3275.526,0.348281,Singapore -  Padlocks of base metal
+216,562,Niger,036,Australia,07," Potatoes seed, fresh or chilled",3235.638,0.5,"Australia -  Potatoes seed, fresh or chilled"
+217,562,Niger,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,3097.496,1.0694659999999998,Austria -  Polyethylene - specific gravity <0.94 in primary form
+218,562,Niger,360,Indonesia,40," Natural rubber latex, including prevulcanised",3049.959,0.017313,"Indonesia -  Natural rubber latex, including prevulcanised"
+219,562,Niger,616,Poland,32, Quebracho tanning extract,3025.041,0.899563,Poland -  Quebracho tanning extract
+220,562,Niger,156,China,73, Sheet piling of iron or steel,2996.715,0.123276,China -  Sheet piling of iron or steel
+221,562,Niger,894,Zambia,39, Polyethylene - specific gravity <0.94 in primary form,2976.883,0.47359300000000004,Zambia -  Polyethylene - specific gravity <0.94 in primary form
+222,562,Niger,356,India,44, Fuel wood,2948.915,6.6888689999999995,India -  Fuel wood
+223,562,Niger,250,France,02," Bovine carcasses and half carcasses, fresh or chilled",2892.652,0.410645,"France -  Bovine carcasses and half carcasses, fresh or chilled"
+224,562,Niger,840,United States of America,60," ""Long pile"" knit or crochet textile fabric",2889.334,0.113229,"United States of America -  ""Long pile"" knit or crochet textile fabric"
+225,562,Niger,454,Malawi,85, Electric motors of an output < 37.5 watts,2886.646,0.35615199999999997,Malawi -  Electric motors of an output < 37.5 watts
+226,562,Niger,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",2883.632,0.014275,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+227,562,Niger,454,Malawi,84, Nuclear reactors,2829.22,0.094122,Malawi -  Nuclear reactors
+228,562,Niger,566,Nigeria,20," Cucumbers,gherkins, prepared or preserved by vinegar",2768.434,18.0,"Nigeria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+229,562,Niger,840,United States of America,18," Cocoa beans, whole or broken, raw or roasted",2767.499,0.8229,"United States of America -  Cocoa beans, whole or broken, raw or roasted"
+230,562,Niger,250,France,95," Rideable wheeled toys, dolls carriages",2751.147,0.315007,"France -  Rideable wheeled toys, dolls carriages"
+231,562,Niger,250,France,71," Pearls natural, not permanently mounted or set",2725.494,0.021831,"France -  Pearls natural, not permanently mounted or set"
+232,562,Niger,068,Bolivia (Plurinational State of),70," Glass cullet, waste or scrap, glass in the mass",2591.92,0.661,"Bolivia (Plurinational State of) -  Glass cullet, waste or scrap, glass in the mass"
+233,562,Niger,585,Palau,85, Electric motors of an output < 37.5 watts,2568.394,0.292646,Palau -  Electric motors of an output < 37.5 watts
+234,562,Niger,682,Saudi Arabia,62," Mens, boys overcoats of wool or hair, not knit",2548.751,0.106595,"Saudi Arabia -  Mens, boys overcoats of wool or hair, not knit"
+235,562,Niger,740,Suriname,22, Mineral and aerated waters not sweetened or flavoured,2535.384,1.121,Suriname -  Mineral and aerated waters not sweetened or flavoured
+236,562,Niger,826,United Kingdom,87, Pedestrian controlled tractors,2464.233,0.022640999999999998,United Kingdom -  Pedestrian controlled tractors
+237,562,Niger,233,Estonia,85, Electric motors of an output < 37.5 watts,2406.278,0.0237,Estonia -  Electric motors of an output < 37.5 watts
+238,562,Niger,702,Singapore,84, Nuclear reactors,2372.95,0.12196599999999999,Singapore -  Nuclear reactors
+239,562,Niger,288,Ghana,39, Polyethylene - specific gravity <0.94 in primary form,2360.23,193.139787,Ghana -  Polyethylene - specific gravity <0.94 in primary form
+240,562,Niger,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,2323.098,0.013821,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+241,562,Niger,566,Nigeria,15," Lard, other pig fat and poultry fat, rendered",2311.488,1.029625,"Nigeria -  Lard, other pig fat and poultry fat, rendered"
+242,562,Niger,203,Czechia,08," Coconuts, fresh or dried",2306.062,0.29763,"Czechia -  Coconuts, fresh or dried"
+243,562,Niger,894,Zambia,84, Nuclear reactors,2298.795,0.0013189999999999999,Zambia -  Nuclear reactors
+244,562,Niger,854,Burkina Faso,29, Saturated acyclic hydrocarbons,2286.634,2.804554,Burkina Faso -  Saturated acyclic hydrocarbons
+245,562,Niger,818,Egypt,29, Saturated acyclic hydrocarbons,2245.123,0.193942,Egypt -  Saturated acyclic hydrocarbons
+246,562,Niger,090,Solomon Islands,21," Coffee extracts, essences, concentrates, preparations",2198.185,0.7527419999999999,"Solomon Islands -  Coffee extracts, essences, concentrates, preparations"
+247,562,Niger,112,Belarus,09," Coffee, not roasted, not decaffeinated",2183.62,1.0554649999999999,"Belarus -  Coffee, not roasted, not decaffeinated"
+248,562,Niger,566,Nigeria,33, Essential oils of bergamot,2086.388,0.75,Nigeria -  Essential oils of bergamot
+249,562,Niger,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,2075.667,0.009321,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+250,562,Niger,826,United Kingdom,70," Glass cullet, waste or scrap, glass in the mass",2073.749,0.023678,"United Kingdom -  Glass cullet, waste or scrap, glass in the mass"
+251,562,Niger,840,United States of America,07," Potatoes seed, fresh or chilled",2070.984,2.6710979999999998,"United States of America -  Potatoes seed, fresh or chilled"
+252,562,Niger,854,Burkina Faso,84, Nuclear reactors,2064.212,3.2853470000000002,Burkina Faso -  Nuclear reactors
+253,562,Niger,894,Zambia,19," Infant foods of cereals, flour, starch or milk, retai",2026.551,3.716964,"Zambia -  Infant foods of cereals, flour, starch or milk, retai"
+254,562,Niger,376,Israel,32, Quebracho tanning extract,1990.752,0.609359,Israel -  Quebracho tanning extract
+255,562,Niger,528,Netherlands (Kingdom of the),88," Gliders, hang gliders",1957.141,0.001444,"Netherlands (Kingdom of the) -  Gliders, hang gliders"
+256,562,Niger,686,Senegal,94," Seats, aircraft",1890.714,1.213248,"Senegal -  Seats, aircraft"
+257,562,Niger,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,1855.716,0.006607,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+258,562,Niger,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,1848.48,0.018068999999999998,Saudi Arabia -  Electric motors of an output < 37.5 watts
+259,562,Niger,288,Ghana,21," Coffee extracts, essences, concentrates, preparations",1845.862,14.363985000000001,"Ghana -  Coffee extracts, essences, concentrates, preparations"
+260,562,Niger,616,Poland,68," Stone setts, curbstones, flagstones (except slate)",1835.599,0.131163,"Poland -  Stone setts, curbstones, flagstones (except slate)"
+261,562,Niger,686,Senegal,28, Chlorine,1827.613,10.059991,Senegal -  Chlorine
+262,562,Niger,554,New Zealand,88," Gliders, hang gliders",1824.025,0.006037,"New Zealand -  Gliders, hang gliders"
+263,562,Niger,288,Ghana,08," Coconuts, fresh or dried",1821.247,9.344382,"Ghana -  Coconuts, fresh or dried"
+264,562,Niger,276,Germany,73, Sheet piling of iron or steel,1812.027,0.002155,Germany -  Sheet piling of iron or steel
+265,562,Niger,024,Angola,22, Mineral and aerated waters not sweetened or flavoured,1804.049,1.44,Angola -  Mineral and aerated waters not sweetened or flavoured
+266,562,Niger,554,New Zealand,90," Optical fibres, except for telecommunications",1797.858,0.043856,"New Zealand -  Optical fibres, except for telecommunications"
+267,562,Niger,048,Bahrain,84, Nuclear reactors,1752.985,0.032447000000000004,Bahrain -  Nuclear reactors
+268,562,Niger,276,Germany,40," Natural rubber latex, including prevulcanised",1713.574,0.03,"Germany -  Natural rubber latex, including prevulcanised"
+269,562,Niger,288,Ghana,09," Coffee, not roasted, not decaffeinated",1709.868,6.176683,"Ghana -  Coffee, not roasted, not decaffeinated"
+270,562,Niger,682,Saudi Arabia,02," Bovine carcasses and half carcasses, fresh or chilled",1700.99,0.374957,"Saudi Arabia -  Bovine carcasses and half carcasses, fresh or chilled"
+271,562,Niger,854,Burkina Faso,10, Durum wheat,1682.118,1.7235429999999998,Burkina Faso -  Durum wheat
+272,562,Niger,554,New Zealand,69," Bricks, blocks and ceramic goods of siliceous earths",1635.537,2.644901,"New Zealand -  Bricks, blocks and ceramic goods of siliceous earths"
+273,562,Niger,554,New Zealand,68," Stone setts, curbstones, flagstones (except slate)",1601.598,3.2177759999999997,"New Zealand -  Stone setts, curbstones, flagstones (except slate)"
+274,562,Niger,608,Philippines,85, Electric motors of an output < 37.5 watts,1581.294,0.017346,Philippines -  Electric motors of an output < 37.5 watts
+275,562,Niger,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",1563.758,0.931703,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+276,562,Niger,120,Cameroon,94," Seats, aircraft",1561.977,0.130966,"Cameroon -  Seats, aircraft"
+277,562,Niger,703,Slovakia,84, Nuclear reactors,1522.812,0.009065,Slovakia -  Nuclear reactors
+278,562,Niger,233,Estonia,73, Sheet piling of iron or steel,1516.421,0.027,Estonia -  Sheet piling of iron or steel
+279,562,Niger,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,1511.798,0.695264,Germany -  Polyethylene - specific gravity <0.94 in primary form
+280,562,Niger,554,New Zealand,33, Essential oils of bergamot,1489.611,0.247946,New Zealand -  Essential oils of bergamot
+281,562,Niger,682,Saudi Arabia,94," Seats, aircraft",1476.958,0.005811,"Saudi Arabia -  Seats, aircraft"
+282,562,Niger,056,Belgium,12, Soya beans,1476.336,0.396432,Belgium -  Soya beans
+283,562,Niger,203,Czechia,85, Electric motors of an output < 37.5 watts,1456.06,0.022678,Czechia -  Electric motors of an output < 37.5 watts
+284,562,Niger,702,Singapore,90," Optical fibres, except for telecommunications",1408.15,0.031812,"Singapore -  Optical fibres, except for telecommunications"
+285,562,Niger,012,Algeria,85, Electric motors of an output < 37.5 watts,1340.386,0.18365299999999998,Algeria -  Electric motors of an output < 37.5 watts
+286,562,Niger,643,Russian Federation,33, Essential oils of bergamot,1334.127,0.079621,Russian Federation -  Essential oils of bergamot
+287,562,Niger,756,"Switzerland, Liechtenstein",07," Potatoes seed, fresh or chilled",1331.618,0.135509,"Switzerland, Liechtenstein -  Potatoes seed, fresh or chilled"
+288,562,Niger,466,Mali,85, Electric motors of an output < 37.5 watts,1314.783,7.378148,Mali -  Electric motors of an output < 37.5 watts
+289,562,Niger,840,United States of America,71," Pearls natural, not permanently mounted or set",1308.689,0.005261999999999999,"United States of America -  Pearls natural, not permanently mounted or set"
+290,562,Niger,040,Austria,25," Salt (sodium chloride) including solution, salt water",1293.229,2.4690920000000003,"Austria -  Salt (sodium chloride) including solution, salt water"
+291,562,Niger,270,Gambia,94," Seats, aircraft",1280.392,2.013,"Gambia -  Seats, aircraft"
+292,562,Niger,764,Thailand,38, Artificial graphite,1265.248,0.25,Thailand -  Artificial graphite
+293,562,Niger,056,Belgium,73, Sheet piling of iron or steel,1198.201,0.0020009999999999997,Belgium -  Sheet piling of iron or steel
+294,562,Niger,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,1191.485,1.029251,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+295,562,Niger,702,Singapore,85, Electric motors of an output < 37.5 watts,1186.843,0.168443,Singapore -  Electric motors of an output < 37.5 watts
+296,562,Niger,052,Barbados,20," Cucumbers,gherkins, prepared or preserved by vinegar",1182.916,0.14191900000000002,"Barbados -  Cucumbers,gherkins, prepared or preserved by vinegar"
+297,562,Niger,643,Russian Federation,35, Casein,1180.951,0.098224,Russian Federation -  Casein
+298,562,Niger,156,China,83, Padlocks of base metal,1175.925,0.0013,China -  Padlocks of base metal
+299,562,Niger,854,Burkina Faso,85, Electric motors of an output < 37.5 watts,1159.936,3.068464,Burkina Faso -  Electric motors of an output < 37.5 watts
+300,562,Niger,670,Saint Vincent and the Grenadines,28, Chlorine,1116.137,0.773179,Saint Vincent and the Grenadines -  Chlorine
+301,562,Niger,670,Saint Vincent and the Grenadines,84, Nuclear reactors,1111.143,0.057576999999999996,Saint Vincent and the Grenadines -  Nuclear reactors
+302,562,Niger,270,Gambia,87, Pedestrian controlled tractors,1093.287,0.85,Gambia -  Pedestrian controlled tractors
+303,562,Niger,670,Saint Vincent and the Grenadines,20," Cucumbers,gherkins, prepared or preserved by vinegar",1054.615,0.588913,"Saint Vincent and the Grenadines -  Cucumbers,gherkins, prepared or preserved by vinegar"
+304,562,Niger,404,Kenya,37, X-ray plates and films,1052.532,0.051897,Kenya -  X-ray plates and films
+305,562,Niger,854,Burkina Faso,44, Fuel wood,1049.266,0.25194300000000003,Burkina Faso -  Fuel wood
+306,562,Niger,528,Netherlands (Kingdom of the),48, Newsprint,1023.785,0.057143,Netherlands (Kingdom of the) -  Newsprint
+307,562,Niger,048,Bahrain,17," Raw sugar, cane",1012.701,0.356292,"Bahrain -  Raw sugar, cane"
+308,562,Niger,068,Bolivia (Plurinational State of),37, X-ray plates and films,1012.4,0.046310000000000004,Bolivia (Plurinational State of) -  X-ray plates and films
+309,562,Niger,156,China,94," Seats, aircraft",1005.889,0.063996,"China -  Seats, aircraft"
+310,562,Niger,418,Lao People's Dem. Rep.,84, Nuclear reactors,1005.211,0.095778,Lao People's Dem. Rep. -  Nuclear reactors
+311,562,Niger,854,Burkina Faso,12, Soya beans,973.487,0.925898,Burkina Faso -  Soya beans
+312,562,Niger,048,Bahrain,85, Electric motors of an output < 37.5 watts,960.75,0.053179000000000004,Bahrain -  Electric motors of an output < 37.5 watts
+313,562,Niger,040,Austria,68," Stone setts, curbstones, flagstones (except slate)",918.852,0.011755000000000002,"Austria -  Stone setts, curbstones, flagstones (except slate)"
+314,562,Niger,608,Philippines,32, Quebracho tanning extract,912.37,1.29978,Philippines -  Quebracho tanning extract
+315,562,Niger,826,United Kingdom,73, Sheet piling of iron or steel,906.744,0.0039369999999999995,United Kingdom -  Sheet piling of iron or steel
+316,562,Niger,854,Burkina Faso,17," Raw sugar, cane",891.704,2.729172,"Burkina Faso -  Raw sugar, cane"
+317,562,Niger,686,Senegal,12, Soya beans,890.145,4.235627999999999,Senegal -  Soya beans
+318,562,Niger,380,Italy,90," Optical fibres, except for telecommunications",873.339,0.001674,"Italy -  Optical fibres, except for telecommunications"
+319,562,Niger,800,Uganda,84, Nuclear reactors,862.262,0.10834300000000001,Uganda -  Nuclear reactors
+320,562,Niger,380,Italy,88," Gliders, hang gliders",860.127,0.00010499999999999999,"Italy -  Gliders, hang gliders"
+321,562,Niger,414,Kuwait,29, Saturated acyclic hydrocarbons,846.687,0.00015900000000000002,Kuwait -  Saturated acyclic hydrocarbons
+322,562,Niger,604,Peru,84, Nuclear reactors,843.55,0.01634,Peru -  Nuclear reactors
+323,562,Niger,410,"Korea, Republic of",73, Sheet piling of iron or steel,831.896,0.022101,"Korea, Republic of -  Sheet piling of iron or steel"
+324,562,Niger,246,Finland,57," Carpets of wool or fine animal hair, knotted",820.225,0.005,"Finland -  Carpets of wool or fine animal hair, knotted"
+325,562,Niger,682,Saudi Arabia,38, Artificial graphite,812.352,0.038632,Saudi Arabia -  Artificial graphite
+326,562,Niger,466,Mali,94," Seats, aircraft",801.964,3.904093,"Mali -  Seats, aircraft"
+327,562,Niger,040,Austria,33, Essential oils of bergamot,800.717,0.038792,Austria -  Essential oils of bergamot
+328,562,Niger,036,Australia,10, Durum wheat,796.237,0.048,Australia -  Durum wheat
+329,562,Niger,858,Uruguay,87, Pedestrian controlled tractors,793.43,0.02915,Uruguay -  Pedestrian controlled tractors
+330,562,Niger,894,Zambia,29, Saturated acyclic hydrocarbons,788.458,0.9383830000000001,Zambia -  Saturated acyclic hydrocarbons
+331,562,Niger,826,United Kingdom,88," Gliders, hang gliders",787.925,0.002455,"United Kingdom -  Gliders, hang gliders"
+332,562,Niger,702,Singapore,73, Sheet piling of iron or steel,784.261,0.018741,Singapore -  Sheet piling of iron or steel
+333,562,Niger,360,Indonesia,94," Seats, aircraft",765.001,0.022614000000000002,"Indonesia -  Seats, aircraft"
+334,562,Niger,480,Mauritius,84, Nuclear reactors,759.89,0.000958,Mauritius -  Nuclear reactors
+335,562,Niger,156,China,90," Optical fibres, except for telecommunications",745.374,0.002043,"China -  Optical fibres, except for telecommunications"
+336,562,Niger,756,"Switzerland, Liechtenstein",03," Ornamental fish, live",737.868,0.024934,"Switzerland, Liechtenstein -  Ornamental fish, live"
+337,562,Niger,048,Bahrain,63, Electric blankets of textile material,735.959,0.01087,Bahrain -  Electric blankets of textile material
+338,562,Niger,854,Burkina Faso,20," Cucumbers,gherkins, prepared or preserved by vinegar",732.966,8.385367,"Burkina Faso -  Cucumbers,gherkins, prepared or preserved by vinegar"
+339,562,Niger,404,Kenya,87, Pedestrian controlled tractors,701.857,0.46458499999999997,Kenya -  Pedestrian controlled tractors
+340,562,Niger,068,Bolivia (Plurinational State of),84, Nuclear reactors,684.83,0.32543,Bolivia (Plurinational State of) -  Nuclear reactors
+341,562,Niger,372,Ireland,28, Chlorine,674.789,0.125633,Ireland -  Chlorine
+342,562,Niger,250,France,20," Cucumbers,gherkins, prepared or preserved by vinegar",665.905,0.374337,"France -  Cucumbers,gherkins, prepared or preserved by vinegar"
+343,562,Niger,442,Luxembourg,84, Nuclear reactors,664.661,0.21023,Luxembourg -  Nuclear reactors
+344,562,Niger,218,Ecuador,84, Nuclear reactors,660.0,0.022477,Ecuador -  Nuclear reactors
+345,562,Niger,702,Singapore,68," Stone setts, curbstones, flagstones (except slate)",658.791,0.000377,"Singapore -  Stone setts, curbstones, flagstones (except slate)"
+346,562,Niger,840,United States of America,96," Worked ivory, articles of ivory",651.846,0.020856000000000003,"United States of America -  Worked ivory, articles of ivory"
+347,562,Niger,528,Netherlands (Kingdom of the),42," Saddlery and harness, of any material",648.267,0.035024,"Netherlands (Kingdom of the) -  Saddlery and harness, of any material"
+348,562,Niger,250,France,83, Padlocks of base metal,644.673,0.052393999999999996,France -  Padlocks of base metal
+349,562,Niger,616,Poland,39, Polyethylene - specific gravity <0.94 in primary form,632.313,0.12815000000000001,Poland -  Polyethylene - specific gravity <0.94 in primary form
+350,562,Niger,156,China,27," Anthracite, not agglomerated",626.559,0.235503,"China -  Anthracite, not agglomerated"
+351,562,Niger,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",624.535,0.005575999999999999,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+352,562,Niger,854,Burkina Faso,73, Sheet piling of iron or steel,624.515,0.28043,Burkina Faso -  Sheet piling of iron or steel
+353,562,Niger,276,Germany,32, Quebracho tanning extract,617.806,0.06857200000000001,Germany -  Quebracho tanning extract
+354,562,Niger,840,United States of America,82, Spades and shovels,613.575,0.078151,United States of America -  Spades and shovels
+355,562,Niger,056,Belgium,84, Nuclear reactors,611.677,0.061639000000000006,Belgium -  Nuclear reactors
+356,562,Niger,156,China,76," Aluminium unwrought, not alloyed",609.253,0.007949,"China -  Aluminium unwrought, not alloyed"
+357,562,Niger,250,France,42," Saddlery and harness, of any material",607.329,0.030846,"France -  Saddlery and harness, of any material"
+358,562,Niger,288,Ghana,96," Worked ivory, articles of ivory",596.967,2.394209,"Ghana -  Worked ivory, articles of ivory"
+359,562,Niger,554,New Zealand,63, Electric blankets of textile material,587.59,0.13441499999999998,New Zealand -  Electric blankets of textile material
+360,562,Niger,356,India,84, Nuclear reactors,577.125,0.019695,India -  Nuclear reactors
+361,562,Niger,466,Mali,73, Sheet piling of iron or steel,570.916,0.092333,Mali -  Sheet piling of iron or steel
+362,562,Niger,894,Zambia,57," Carpets of wool or fine animal hair, knotted",550.205,0.188342,"Zambia -  Carpets of wool or fine animal hair, knotted"
+363,562,Niger,040,Austria,85, Electric motors of an output < 37.5 watts,543.576,0.031285,Austria -  Electric motors of an output < 37.5 watts
+364,562,Niger,156,China,71," Pearls natural, not permanently mounted or set",539.555,0.000655,"China -  Pearls natural, not permanently mounted or set"
+365,562,Niger,144,Sri Lanka,72," Pig iron, non-alloy, <0.5% phosphorus",534.024,0.36307799999999996,"Sri Lanka -  Pig iron, non-alloy, <0.5% phosphorus"
+366,562,Niger,156,China,40," Natural rubber latex, including prevulcanised",530.472,0.008794,"China -  Natural rubber latex, including prevulcanised"
+367,562,Niger,466,Mali,84, Nuclear reactors,527.816,0.96597,Mali -  Nuclear reactors
+368,562,Niger,288,Ghana,73, Sheet piling of iron or steel,517.381,0.013267,Ghana -  Sheet piling of iron or steel
+369,562,Niger,854,Burkina Faso,28, Chlorine,514.349,15.398772999999998,Burkina Faso -  Chlorine
+370,562,Niger,686,Senegal,20," Cucumbers,gherkins, prepared or preserved by vinegar",512.755,0.681475,"Senegal -  Cucumbers,gherkins, prepared or preserved by vinegar"
+371,562,Niger,056,Belgium,85, Electric motors of an output < 37.5 watts,506.981,0.033129,Belgium -  Electric motors of an output < 37.5 watts
+372,562,Niger,826,United Kingdom,90," Optical fibres, except for telecommunications",489.107,0.001358,"United Kingdom -  Optical fibres, except for telecommunications"
+373,562,Niger,404,Kenya,85, Electric motors of an output < 37.5 watts,480.476,0.021536000000000003,Kenya -  Electric motors of an output < 37.5 watts
+374,562,Niger,690,Seychelles,39, Polyethylene - specific gravity <0.94 in primary form,475.407,0.44575,Seychelles -  Polyethylene - specific gravity <0.94 in primary form
+375,562,Niger,040,Austria,90," Optical fibres, except for telecommunications",472.932,0.007694,"Austria -  Optical fibres, except for telecommunications"
+376,562,Niger,854,Burkina Faso,19," Infant foods of cereals, flour, starch or milk, retai",464.742,2.611364,"Burkina Faso -  Infant foods of cereals, flour, starch or milk, retai"
+377,562,Niger,854,Burkina Faso,83, Padlocks of base metal,461.065,0.841215,Burkina Faso -  Padlocks of base metal
+378,562,Niger,040,Austria,37, X-ray plates and films,459.824,0.510907,Austria -  X-ray plates and films
+379,562,Niger,643,Russian Federation,61," Mens, boys overcoats, etc, of wool or hair, knit",459.584,0.02219,"Russian Federation -  Mens, boys overcoats, etc, of wool or hair, knit"
+380,562,Niger,203,Czechia,84, Nuclear reactors,453.798,0.006814,Czechia -  Nuclear reactors
+381,562,Niger,360,Indonesia,88," Gliders, hang gliders",449.419,0.001342,"Indonesia -  Gliders, hang gliders"
+382,562,Niger,024,Angola,33, Essential oils of bergamot,448.596,0.709,Angola -  Essential oils of bergamot
+383,562,Niger,372,Ireland,84, Nuclear reactors,447.016,0.024482,Ireland -  Nuclear reactors
+384,562,Niger,466,Mali,15," Lard, other pig fat and poultry fat, rendered",441.897,0.697961,"Mali -  Lard, other pig fat and poultry fat, rendered"
+385,562,Niger,048,Bahrain,07," Potatoes seed, fresh or chilled",440.918,0.11983400000000001,"Bahrain -  Potatoes seed, fresh or chilled"
+386,562,Niger,784,United Arab Emirates,62," Mens, boys overcoats of wool or hair, not knit",432.709,0.000433,"United Arab Emirates -  Mens, boys overcoats of wool or hair, not knit"
+387,562,Niger,585,Palau,73, Sheet piling of iron or steel,431.258,0.060119,Palau -  Sheet piling of iron or steel
+388,562,Niger,250,France,40," Natural rubber latex, including prevulcanised",417.499,0.046128999999999996,"France -  Natural rubber latex, including prevulcanised"
+389,562,Niger,854,Burkina Faso,82, Spades and shovels,415.251,1.122903,Burkina Faso -  Spades and shovels
+390,562,Niger,012,Algeria,84, Nuclear reactors,408.61,0.039679,Algeria -  Nuclear reactors
+391,562,Niger,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,406.11,0.000492,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+392,562,Niger,643,Russian Federation,39, Polyethylene - specific gravity <0.94 in primary form,405.96,0.004395,Russian Federation -  Polyethylene - specific gravity <0.94 in primary form
+393,562,Niger,854,Burkina Faso,15," Lard, other pig fat and poultry fat, rendered",405.141,4.802039,"Burkina Faso -  Lard, other pig fat and poultry fat, rendered"
+394,562,Niger,702,Singapore,89," Cruise ships, excursion boats, ferry boats",390.228,0.051886,"Singapore -  Cruise ships, excursion boats, ferry boats"
+395,562,Niger,288,Ghana,85, Electric motors of an output < 37.5 watts,383.823,0.017766999999999998,Ghana -  Electric motors of an output < 37.5 watts
+396,562,Niger,360,Indonesia,82, Spades and shovels,383.164,0.001847,Indonesia -  Spades and shovels
+397,562,Niger,554,New Zealand,84, Nuclear reactors,379.171,0.030868,New Zealand -  Nuclear reactors
+398,562,Niger,894,Zambia,28, Chlorine,374.113,0.5181290000000001,Zambia -  Chlorine
+399,562,Niger,112,Belarus,94," Seats, aircraft",369.514,0.190762,"Belarus -  Seats, aircraft"
+400,562,Niger,056,Belgium,68," Stone setts, curbstones, flagstones (except slate)",368.971,0.042231000000000005,"Belgium -  Stone setts, curbstones, flagstones (except slate)"
+401,562,Niger,400,Jordan,73, Sheet piling of iron or steel,364.523,0.056069,Jordan -  Sheet piling of iron or steel
+402,562,Niger,756,"Switzerland, Liechtenstein",73, Sheet piling of iron or steel,348.009,0.0347,"Switzerland, Liechtenstein -  Sheet piling of iron or steel"
+403,562,Niger,203,Czechia,71," Pearls natural, not permanently mounted or set",344.753,0.000129,"Czechia -  Pearls natural, not permanently mounted or set"
+404,562,Niger,360,Indonesia,83, Padlocks of base metal,334.568,0.001103,Indonesia -  Padlocks of base metal
+405,562,Niger,276,Germany,94," Seats, aircraft",333.952,0.014674,"Germany -  Seats, aircraft"
+406,562,Niger,642,Romania,39, Polyethylene - specific gravity <0.94 in primary form,333.712,0.000751,Romania -  Polyethylene - specific gravity <0.94 in primary form
+407,562,Niger,028,Antigua and Barbuda,42," Saddlery and harness, of any material",332.412,0.01,"Antigua and Barbuda -  Saddlery and harness, of any material"
+408,562,Niger,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",331.717,0.017645,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+409,562,Niger,466,Mali,07," Potatoes seed, fresh or chilled",331.571,6.012423,"Mali -  Potatoes seed, fresh or chilled"
+410,562,Niger,554,New Zealand,22, Mineral and aerated waters not sweetened or flavoured,330.181,0.070703,New Zealand -  Mineral and aerated waters not sweetened or flavoured
+411,562,Niger,466,Mali,21," Coffee extracts, essences, concentrates, preparations",329.757,0.286978,"Mali -  Coffee extracts, essences, concentrates, preparations"
+412,562,Niger,004,Afghanistan,83, Padlocks of base metal,329.354,0.021803,Afghanistan -  Padlocks of base metal
+413,562,Niger,585,Palau,96," Worked ivory, articles of ivory",328.195,0.08617799999999999,"Palau -  Worked ivory, articles of ivory"
+414,562,Niger,242,Fiji,21," Coffee extracts, essences, concentrates, preparations",325.067,0.119086,"Fiji -  Coffee extracts, essences, concentrates, preparations"
+415,562,Niger,686,Senegal,44, Fuel wood,320.723,0.152139,Senegal -  Fuel wood
+416,562,Niger,218,Ecuador,87, Pedestrian controlled tractors,315.14,0.018213999999999998,Ecuador -  Pedestrian controlled tractors
+417,562,Niger,454,Malawi,38, Artificial graphite,311.456,0.001238,Malawi -  Artificial graphite
+418,562,Niger,398,Kazakhstan,63, Electric blankets of textile material,310.255,0.007057000000000001,Kazakhstan -  Electric blankets of textile material
+419,562,Niger,012,Algeria,64," Waterproof footwear (Wellingtons etc), metal toe cap",310.093,0.003932,"Algeria -  Waterproof footwear (Wellingtons etc), metal toe cap"
+420,562,Niger,108,Burundi,29, Saturated acyclic hydrocarbons,304.412,0.013881000000000001,Burundi -  Saturated acyclic hydrocarbons
+421,562,Niger,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",304.053,0.016623000000000002,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+422,562,Niger,705,Slovenia,85, Electric motors of an output < 37.5 watts,299.648,0.000949,Slovenia -  Electric motors of an output < 37.5 watts
+423,562,Niger,792,Türkiye,40," Natural rubber latex, including prevulcanised",297.0,0.008,"Türkiye -  Natural rubber latex, including prevulcanised"
+424,562,Niger,344,"China, Hong Kong SAR",71," Pearls natural, not permanently mounted or set",294.793,0.006797,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+425,562,Niger,032,Argentina,87, Pedestrian controlled tractors,286.304,0.002983,Argentina -  Pedestrian controlled tractors
+426,562,Niger,250,France,62," Mens, boys overcoats of wool or hair, not knit",285.408,0.008827,"France -  Mens, boys overcoats of wool or hair, not knit"
+427,562,Niger,048,Bahrain,82, Spades and shovels,284.587,0.00796,Bahrain -  Spades and shovels
+428,562,Niger,702,Singapore,40," Natural rubber latex, including prevulcanised",283.168,0.006417,"Singapore -  Natural rubber latex, including prevulcanised"
+429,562,Niger,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",276.924,0.172098,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+430,562,Niger,392,Japan,71," Pearls natural, not permanently mounted or set",275.225,0.001229,"Japan -  Pearls natural, not permanently mounted or set"
+431,562,Niger,807,North Macedonia,84, Nuclear reactors,274.622,0.004039,North Macedonia -  Nuclear reactors
+432,562,Niger,840,United States of America,42," Saddlery and harness, of any material",268.567,0.044808,"United States of America -  Saddlery and harness, of any material"
+433,562,Niger,040,Austria,11, Wheat or meslin flour,265.554,0.038172,Austria -  Wheat or meslin flour
+434,562,Niger,068,Bolivia (Plurinational State of),85, Electric motors of an output < 37.5 watts,264.68,0.0033900000000000002,Bolivia (Plurinational State of) -  Electric motors of an output < 37.5 watts
+435,562,Niger,834,"Tanzania, United Republic of",19," Infant foods of cereals, flour, starch or milk, retai",257.623,0.038926,"Tanzania, United Republic of -  Infant foods of cereals, flour, starch or milk, retai"
+436,562,Niger,276,Germany,71," Pearls natural, not permanently mounted or set",255.152,3.2e-05,"Germany -  Pearls natural, not permanently mounted or set"
+437,562,Niger,854,Burkina Faso,07," Potatoes seed, fresh or chilled",254.328,13.658091,"Burkina Faso -  Potatoes seed, fresh or chilled"
+438,562,Niger,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",247.623,0.019363,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+439,562,Niger,756,"Switzerland, Liechtenstein",76," Aluminium unwrought, not alloyed",247.086,0.003876,"Switzerland, Liechtenstein -  Aluminium unwrought, not alloyed"
+440,562,Niger,250,France,94," Seats, aircraft",247.042,0.037843,"France -  Seats, aircraft"
+441,562,Niger,608,Philippines,39, Polyethylene - specific gravity <0.94 in primary form,243.044,0.000482,Philippines -  Polyethylene - specific gravity <0.94 in primary form
+442,562,Niger,040,Austria,15," Lard, other pig fat and poultry fat, rendered",240.76,0.054075000000000005,"Austria -  Lard, other pig fat and poultry fat, rendered"
+443,562,Niger,068,Bolivia (Plurinational State of),39, Polyethylene - specific gravity <0.94 in primary form,239.86,0.04,Bolivia (Plurinational State of) -  Polyethylene - specific gravity <0.94 in primary form
+444,562,Niger,040,Austria,29, Saturated acyclic hydrocarbons,239.352,0.056987,Austria -  Saturated acyclic hydrocarbons
+445,562,Niger,686,Senegal,84, Nuclear reactors,237.252,0.43444,Senegal -  Nuclear reactors
+446,562,Niger,410,"Korea, Republic of",27," Anthracite, not agglomerated",236.532,0.00035,"Korea, Republic of -  Anthracite, not agglomerated"
+447,562,Niger,554,New Zealand,58," Woven pile fabric of wool or fine animal hair, w >30c",236.261,0.018313,"New Zealand -  Woven pile fabric of wool or fine animal hair, w >30c"
+448,562,Niger,203,Czechia,57," Carpets of wool or fine animal hair, knotted",234.96,0.004737,"Czechia -  Carpets of wool or fine animal hair, knotted"
+449,562,Niger,032,Argentina,84, Nuclear reactors,234.693,0.023292999999999998,Argentina -  Nuclear reactors
+450,562,Niger,690,Seychelles,62," Mens, boys overcoats of wool or hair, not knit",231.509,0.0012079999999999999,"Seychelles -  Mens, boys overcoats of wool or hair, not knit"
+451,562,Niger,040,Austria,71," Pearls natural, not permanently mounted or set",229.397,0.000214,"Austria -  Pearls natural, not permanently mounted or set"
+452,562,Niger,478,Mauritania,84, Nuclear reactors,229.22,0.004275,Mauritania -  Nuclear reactors
+453,562,Niger,646,Rwanda,96," Worked ivory, articles of ivory",224.139,0.087715,"Rwanda -  Worked ivory, articles of ivory"
+454,562,Niger,410,"Korea, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,223.369,0.000398,"Korea, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+455,562,Niger,702,Singapore,82, Spades and shovels,220.801,0.031259,Singapore -  Spades and shovels
+456,562,Niger,834,"Tanzania, United Republic of",20," Cucumbers,gherkins, prepared or preserved by vinegar",212.32,0.071113,"Tanzania, United Republic of -  Cucumbers,gherkins, prepared or preserved by vinegar"
+457,562,Niger,466,Mali,48, Newsprint,210.471,2.676123,Mali -  Newsprint
+458,562,Niger,454,Malawi,87, Pedestrian controlled tractors,210.027,0.102866,Malawi -  Pedestrian controlled tractors
+459,562,Niger,604,Peru,39, Polyethylene - specific gravity <0.94 in primary form,207.29,0.07431,Peru -  Polyethylene - specific gravity <0.94 in primary form
+460,562,Niger,834,"Tanzania, United Republic of",21," Coffee extracts, essences, concentrates, preparations",206.895,0.108527,"Tanzania, United Republic of -  Coffee extracts, essences, concentrates, preparations"
+461,562,Niger,250,France,21," Coffee extracts, essences, concentrates, preparations",206.774,0.031853,"France -  Coffee extracts, essences, concentrates, preparations"
+462,562,Niger,585,Palau,39, Polyethylene - specific gravity <0.94 in primary form,206.558,0.000108,Palau -  Polyethylene - specific gravity <0.94 in primary form
+463,562,Niger,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",202.999,0.004141,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+464,562,Niger,242,Fiji,39, Polyethylene - specific gravity <0.94 in primary form,196.177,0.007709,Fiji -  Polyethylene - specific gravity <0.94 in primary form
+465,562,Niger,024,Angola,35, Casein,195.334,0.309,Angola -  Casein
+466,562,Niger,690,Seychelles,84, Nuclear reactors,191.816,0.001899,Seychelles -  Nuclear reactors
+467,562,Niger,454,Malawi,73, Sheet piling of iron or steel,191.219,0.023497,Malawi -  Sheet piling of iron or steel
+468,562,Niger,048,Bahrain,20," Cucumbers,gherkins, prepared or preserved by vinegar",189.433,0.031417,"Bahrain -  Cucumbers,gherkins, prepared or preserved by vinegar"
+469,562,Niger,466,Mali,39, Polyethylene - specific gravity <0.94 in primary form,188.587,2.174114,Mali -  Polyethylene - specific gravity <0.94 in primary form
+470,562,Niger,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",188.352,0.006678,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+471,562,Niger,288,Ghana,72," Pig iron, non-alloy, <0.5% phosphorus",187.003,7.953139,"Ghana -  Pig iron, non-alloy, <0.5% phosphorus"
+472,562,Niger,414,Kuwait,87, Pedestrian controlled tractors,184.533,0.014278,Kuwait -  Pedestrian controlled tractors
+473,562,Niger,756,"Switzerland, Liechtenstein",87, Pedestrian controlled tractors,184.286,0.017008,"Switzerland, Liechtenstein -  Pedestrian controlled tractors"
+474,562,Niger,040,Austria,27," Anthracite, not agglomerated",184.093,0.001204,"Austria -  Anthracite, not agglomerated"
+475,562,Niger,288,Ghana,40," Natural rubber latex, including prevulcanised",183.684,0.03635,"Ghana -  Natural rubber latex, including prevulcanised"
+476,562,Niger,616,Poland,83, Padlocks of base metal,177.976,0.0010400000000000001,Poland -  Padlocks of base metal
+477,562,Niger,040,Austria,84, Nuclear reactors,175.973,0.005299000000000001,Austria -  Nuclear reactors
+478,562,Niger,854,Burkina Faso,70," Glass cullet, waste or scrap, glass in the mass",173.13,1.172628,"Burkina Faso -  Glass cullet, waste or scrap, glass in the mass"
+479,562,Niger,218,Ecuador,68," Stone setts, curbstones, flagstones (except slate)",171.0,0.025962,"Ecuador -  Stone setts, curbstones, flagstones (except slate)"
+480,562,Niger,012,Algeria,40," Natural rubber latex, including prevulcanised",162.964,0.002419,"Algeria -  Natural rubber latex, including prevulcanised"
+481,562,Niger,616,Poland,73, Sheet piling of iron or steel,162.96,0.0062889999999999995,Poland -  Sheet piling of iron or steel
+482,562,Niger,404,Kenya,88," Gliders, hang gliders",162.794,0.000222,"Kenya -  Gliders, hang gliders"
+483,562,Niger,858,Uruguay,85, Electric motors of an output < 37.5 watts,161.45,0.00395,Uruguay -  Electric motors of an output < 37.5 watts
+484,562,Niger,807,North Macedonia,90," Optical fibres, except for telecommunications",161.107,0.0010249999999999999,"North Macedonia -  Optical fibres, except for telecommunications"
+485,562,Niger,250,France,44, Fuel wood,160.579,0.020949000000000002,France -  Fuel wood
+486,562,Niger,442,Luxembourg,49," Brochures, leaflets and similar, in single sheets",160.569,0.008682,"Luxembourg -  Brochures, leaflets and similar, in single sheets"
+487,562,Niger,144,Sri Lanka,48, Newsprint,160.449,0.011923,Sri Lanka -  Newsprint
+488,562,Niger,690,Seychelles,16," Sausages, similar products of meat, meat offal & bloo",159.717,0.004237,"Seychelles -  Sausages, similar products of meat, meat offal & bloo"
+489,562,Niger,854,Burkina Faso,49," Brochures, leaflets and similar, in single sheets",159.49,0.112696,"Burkina Faso -  Brochures, leaflets and similar, in single sheets"
+490,562,Niger,702,Singapore,32, Quebracho tanning extract,157.966,0.0033599999999999997,Singapore -  Quebracho tanning extract
+491,562,Niger,454,Malawi,39, Polyethylene - specific gravity <0.94 in primary form,157.123,0.036095999999999996,Malawi -  Polyethylene - specific gravity <0.94 in primary form
+492,562,Niger,608,Philippines,82, Spades and shovels,154.485,0.042054,Philippines -  Spades and shovels
+493,562,Niger,840,United States of America,64," Waterproof footwear (Wellingtons etc), metal toe cap",153.563,0.0022879999999999997,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+494,562,Niger,250,France,17," Raw sugar, cane",149.839,0.10184399999999999,"France -  Raw sugar, cane"
+495,562,Niger,643,Russian Federation,40," Natural rubber latex, including prevulcanised",149.087,2.9e-05,"Russian Federation -  Natural rubber latex, including prevulcanised"
+496,562,Niger,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",148.426,0.001282,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+497,562,Niger,208,Denmark,88," Gliders, hang gliders",143.422,0.00046300000000000003,"Denmark -  Gliders, hang gliders"
+498,562,Niger,270,Gambia,95," Rideable wheeled toys, dolls carriages",141.46,0.325,"Gambia -  Rideable wheeled toys, dolls carriages"
+499,562,Niger,616,Poland,84, Nuclear reactors,137.792,0.001555,Poland -  Nuclear reactors
+500,562,Niger,422,Lebanon,84, Nuclear reactors,136.894,0.078676,Lebanon -  Nuclear reactors
+501,562,Niger,246,Finland,96," Worked ivory, articles of ivory",136.783,0.001,"Finland -  Worked ivory, articles of ivory"
+502,562,Niger,288,Ghana,90," Optical fibres, except for telecommunications",136.239,0.011038000000000001,"Ghana -  Optical fibres, except for telecommunications"
+503,562,Niger,040,Austria,88," Gliders, hang gliders",132.612,0.00146,"Austria -  Gliders, hang gliders"
+504,562,Niger,498,"Moldova, Republic of",40," Natural rubber latex, including prevulcanised",132.539,0.024005,"Moldova, Republic of -  Natural rubber latex, including prevulcanised"
+505,562,Niger,752,Sweden,44, Fuel wood,130.159,17.0,Sweden -  Fuel wood
+506,562,Niger,250,France,81," Powders, tungsten (wolfram)",129.762,0.002718,"France -  Powders, tungsten (wolfram)"
+507,562,Niger,203,Czechia,73, Sheet piling of iron or steel,128.147,0.00853,Czechia -  Sheet piling of iron or steel
+508,562,Niger,854,Burkina Faso,96," Worked ivory, articles of ivory",127.387,0.513368,"Burkina Faso -  Worked ivory, articles of ivory"
+509,562,Niger,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",127.146,0.003499,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+510,562,Niger,246,Finland,34," Soaps, for toilet use, solid",122.554,0.035,"Finland -  Soaps, for toilet use, solid"
+511,562,Niger,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,121.463,0.005878,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+512,562,Niger,414,Kuwait,84, Nuclear reactors,120.105,0.041447000000000005,Kuwait -  Nuclear reactors
+513,562,Niger,442,Luxembourg,71," Pearls natural, not permanently mounted or set",119.236,0.000837,"Luxembourg -  Pearls natural, not permanently mounted or set"
+514,562,Niger,356,India,85, Electric motors of an output < 37.5 watts,114.387,0.0048579999999999995,India -  Electric motors of an output < 37.5 watts
+515,562,Niger,686,Senegal,73, Sheet piling of iron or steel,114.345,0.551327,Senegal -  Sheet piling of iron or steel
+516,562,Niger,024,Angola,85, Electric motors of an output < 37.5 watts,113.748,0.013,Angola -  Electric motors of an output < 37.5 watts
+517,562,Niger,404,Kenya,73, Sheet piling of iron or steel,108.228,0.005658000000000001,Kenya -  Sheet piling of iron or steel
+518,562,Niger,854,Burkina Faso,38, Artificial graphite,104.785,1.021979,Burkina Faso -  Artificial graphite
+519,562,Niger,466,Mali,72," Pig iron, non-alloy, <0.5% phosphorus",104.489,0.51824,"Mali -  Pig iron, non-alloy, <0.5% phosphorus"
+520,562,Niger,024,Angola,84, Nuclear reactors,103.331,1.167,Angola -  Nuclear reactors
+521,562,Niger,854,Burkina Faso,30," Glands and other organs, dried, for therapeutic uses",102.982,0.006024,"Burkina Faso -  Glands and other organs, dried, for therapeutic uses"
+522,562,Niger,756,"Switzerland, Liechtenstein",74, Copper mattes,101.87,0.006726,"Switzerland, Liechtenstein -  Copper mattes"
+523,562,Niger,608,Philippines,94," Seats, aircraft",100.383,0.000874,"Philippines -  Seats, aircraft"
+524,562,Niger,242,Fiji,82, Spades and shovels,100.068,0.003542,Fiji -  Spades and shovels
+525,562,Niger,608,Philippines,73, Sheet piling of iron or steel,96.329,0.00016,Philippines -  Sheet piling of iron or steel
+526,562,Niger,554,New Zealand,94," Seats, aircraft",95.945,0.014137,"New Zealand -  Seats, aircraft"
+527,562,Niger,360,Indonesia,74, Copper mattes,95.597,0.000421,Indonesia -  Copper mattes
+528,562,Niger,040,Austria,08," Coconuts, fresh or dried",95.555,0.025625,"Austria -  Coconuts, fresh or dried"
+529,562,Niger,756,"Switzerland, Liechtenstein",57," Carpets of wool or fine animal hair, knotted",95.342,0.003316,"Switzerland, Liechtenstein -  Carpets of wool or fine animal hair, knotted"
+530,562,Niger,702,Singapore,76," Aluminium unwrought, not alloyed",94.306,0.009086,"Singapore -  Aluminium unwrought, not alloyed"
+531,562,Niger,056,Belgium,90," Optical fibres, except for telecommunications",92.44,0.000976,"Belgium -  Optical fibres, except for telecommunications"
+532,562,Niger,288,Ghana,15," Lard, other pig fat and poultry fat, rendered",91.08,0.214702,"Ghana -  Lard, other pig fat and poultry fat, rendered"
+533,562,Niger,360,Indonesia,90," Optical fibres, except for telecommunications",89.893,0.000223,"Indonesia -  Optical fibres, except for telecommunications"
+534,562,Niger,756,"Switzerland, Liechtenstein",65," Hat-forms, etc of felt, not shaped, no formed brim",89.717,0.003714,"Switzerland, Liechtenstein -  Hat-forms, etc of felt, not shaped, no formed brim"
+535,562,Niger,854,Burkina Faso,76," Aluminium unwrought, not alloyed",88.846,0.026890999999999998,"Burkina Faso -  Aluminium unwrought, not alloyed"
+536,562,Niger,800,Uganda,63, Electric blankets of textile material,88.381,0.070179,Uganda -  Electric blankets of textile material
+537,562,Niger,528,Netherlands (Kingdom of the),68," Stone setts, curbstones, flagstones (except slate)",88.056,0.022536999999999998,"Netherlands (Kingdom of the) -  Stone setts, curbstones, flagstones (except slate)"
+538,562,Niger,288,Ghana,04, Milk not concentrated nor sweetened < 1% fat,85.755,0.076832,Ghana -  Milk not concentrated nor sweetened < 1% fat
+539,562,Niger,360,Indonesia,87, Pedestrian controlled tractors,85.318,0.000505,Indonesia -  Pedestrian controlled tractors
+540,562,Niger,203,Czechia,96," Worked ivory, articles of ivory",77.6,0.019454999999999997,"Czechia -  Worked ivory, articles of ivory"
+541,562,Niger,288,Ghana,19," Infant foods of cereals, flour, starch or milk, retai",77.2,0.175412,"Ghana -  Infant foods of cereals, flour, starch or milk, retai"
+542,562,Niger,250,France,88," Gliders, hang gliders",77.043,0.000183,"France -  Gliders, hang gliders"
+543,562,Niger,144,Sri Lanka,84, Nuclear reactors,76.724,0.005235,Sri Lanka -  Nuclear reactors
+544,562,Niger,250,France,68," Stone setts, curbstones, flagstones (except slate)",76.105,0.080765,"France -  Stone setts, curbstones, flagstones (except slate)"
+545,562,Niger,756,"Switzerland, Liechtenstein",63, Electric blankets of textile material,75.591,0.002068,"Switzerland, Liechtenstein -  Electric blankets of textile material"
+546,562,Niger,756,"Switzerland, Liechtenstein",20," Cucumbers,gherkins, prepared or preserved by vinegar",75.254,0.069975,"Switzerland, Liechtenstein -  Cucumbers,gherkins, prepared or preserved by vinegar"
+547,562,Niger,608,Philippines,90," Optical fibres, except for telecommunications",74.671,3.5999999999999994e-05,"Philippines -  Optical fibres, except for telecommunications"
+548,562,Niger,040,Austria,07," Potatoes seed, fresh or chilled",73.791,0.006702,"Austria -  Potatoes seed, fresh or chilled"
+549,562,Niger,048,Bahrain,83, Padlocks of base metal,73.286,0.001467,Bahrain -  Padlocks of base metal
+550,562,Niger,854,Burkina Faso,21," Coffee extracts, essences, concentrates, preparations",72.648,0.17301,"Burkina Faso -  Coffee extracts, essences, concentrates, preparations"
+551,562,Niger,554,New Zealand,61," Mens, boys overcoats, etc, of wool or hair, knit",72.543,0.0011639999999999999,"New Zealand -  Mens, boys overcoats, etc, of wool or hair, knit"
+552,562,Niger,422,Lebanon,17," Raw sugar, cane",71.801,0.005553,"Lebanon -  Raw sugar, cane"
+553,562,Niger,048,Bahrain,48, Newsprint,71.538,0.0055049999999999995,Bahrain -  Newsprint
+554,562,Niger,040,Austria,73, Sheet piling of iron or steel,71.456,0.013605,Austria -  Sheet piling of iron or steel
+555,562,Niger,854,Burkina Faso,32, Quebracho tanning extract,69.013,0.45691899999999996,Burkina Faso -  Quebracho tanning extract
+556,562,Niger,112,Belarus,34," Soaps, for toilet use, solid",67.489,0.056049,"Belarus -  Soaps, for toilet use, solid"
+557,562,Niger,807,North Macedonia,82, Spades and shovels,66.688,0.012183999999999999,North Macedonia -  Spades and shovels
+558,562,Niger,682,Saudi Arabia,73, Sheet piling of iron or steel,66.603,0.00549,Saudi Arabia -  Sheet piling of iron or steel
+559,562,Niger,040,Austria,74, Copper mattes,64.389,0.006325,Austria -  Copper mattes
+560,562,Niger,144,Sri Lanka,73, Sheet piling of iron or steel,64.32,0.009775,Sri Lanka -  Sheet piling of iron or steel
+561,562,Niger,288,Ghana,83, Padlocks of base metal,64.264,0.0030600000000000002,Ghana -  Padlocks of base metal
+562,562,Niger,504,Morocco,11, Wheat or meslin flour,63.47,0.00528,Morocco -  Wheat or meslin flour
+563,562,Niger,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",62.857,0.00020999999999999998,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+564,562,Niger,854,Burkina Faso,63, Electric blankets of textile material,62.077,1.234888,Burkina Faso -  Electric blankets of textile material
+565,562,Niger,348,Hungary,85, Electric motors of an output < 37.5 watts,60.489,0.0012829999999999999,Hungary -  Electric motors of an output < 37.5 watts
+566,562,Niger,682,Saudi Arabia,90," Optical fibres, except for telecommunications",57.697,0.000805,"Saudi Arabia -  Optical fibres, except for telecommunications"
+567,562,Niger,686,Senegal,85, Electric motors of an output < 37.5 watts,57.057,0.14268899999999998,Senegal -  Electric motors of an output < 37.5 watts
+568,562,Niger,208,Denmark,84, Nuclear reactors,55.156,0.001494,Denmark -  Nuclear reactors
+569,562,Niger,288,Ghana,38, Artificial graphite,53.606,0.004194,Ghana -  Artificial graphite
+570,562,Niger,250,France,65," Hat-forms, etc of felt, not shaped, no formed brim",53.488,0.007163999999999999,"France -  Hat-forms, etc of felt, not shaped, no formed brim"
+571,562,Niger,818,Egypt,73, Sheet piling of iron or steel,53.228,0.0075650000000000005,Egypt -  Sheet piling of iron or steel
+572,562,Niger,404,Kenya,83, Padlocks of base metal,52.475,0.000376,Kenya -  Padlocks of base metal
+573,562,Niger,434,Libya,46, Plaits and products of plaiting materials,51.942,0.490254,Libya -  Plaits and products of plaiting materials
+574,562,Niger,854,Burkina Faso,33, Essential oils of bergamot,51.894,0.210388,Burkina Faso -  Essential oils of bergamot
+575,562,Niger,686,Senegal,69," Bricks, blocks and ceramic goods of siliceous earths",51.495,0.081206,"Senegal -  Bricks, blocks and ceramic goods of siliceous earths"
+576,562,Niger,686,Senegal,40," Natural rubber latex, including prevulcanised",49.671,0.000897,"Senegal -  Natural rubber latex, including prevulcanised"
+577,562,Niger,144,Sri Lanka,22, Mineral and aerated waters not sweetened or flavoured,49.569,0.024371,Sri Lanka -  Mineral and aerated waters not sweetened or flavoured
+578,562,Niger,032,Argentina,85, Electric motors of an output < 37.5 watts,48.559,0.002013,Argentina -  Electric motors of an output < 37.5 watts
+579,562,Niger,360,Indonesia,68," Stone setts, curbstones, flagstones (except slate)",46.937,0.0005819999999999999,"Indonesia -  Stone setts, curbstones, flagstones (except slate)"
+580,562,Niger,688,Serbia,84, Nuclear reactors,46.826,0.000215,Serbia -  Nuclear reactors
+581,562,Niger,554,New Zealand,38, Artificial graphite,46.785,0.001782,New Zealand -  Artificial graphite
+582,562,Niger,608,Philippines,95," Rideable wheeled toys, dolls carriages",46.507,3.9e-05,"Philippines -  Rideable wheeled toys, dolls carriages"
+583,562,Niger,203,Czechia,68," Stone setts, curbstones, flagstones (except slate)",46.461,0.004024,"Czechia -  Stone setts, curbstones, flagstones (except slate)"
+584,562,Niger,250,France,18," Cocoa beans, whole or broken, raw or roasted",45.982,0.009167999999999999,"France -  Cocoa beans, whole or broken, raw or roasted"
+585,562,Niger,372,Ireland,33, Essential oils of bergamot,43.063,0.004614,Ireland -  Essential oils of bergamot
+586,562,Niger,144,Sri Lanka,40," Natural rubber latex, including prevulcanised",41.428,0.000623,"Sri Lanka -  Natural rubber latex, including prevulcanised"
+587,562,Niger,800,Uganda,73, Sheet piling of iron or steel,41.177,0.048003,Uganda -  Sheet piling of iron or steel
+588,562,Niger,756,"Switzerland, Liechtenstein",21," Coffee extracts, essences, concentrates, preparations",40.134,0.011699,"Switzerland, Liechtenstein -  Coffee extracts, essences, concentrates, preparations"
+589,562,Niger,356,India,76," Aluminium unwrought, not alloyed",38.442,0.040462000000000005,"India -  Aluminium unwrought, not alloyed"
+590,562,Niger,616,Poland,20," Cucumbers,gherkins, prepared or preserved by vinegar",38.195,0.017112,"Poland -  Cucumbers,gherkins, prepared or preserved by vinegar"
+591,562,Niger,800,Uganda,88," Gliders, hang gliders",37.874,0.0017250000000000002,"Uganda -  Gliders, hang gliders"
+592,562,Niger,372,Ireland,88," Gliders, hang gliders",37.87,0.000176,"Ireland -  Gliders, hang gliders"
+593,562,Niger,800,Uganda,70," Glass cullet, waste or scrap, glass in the mass",37.613,0.00014399999999999998,"Uganda -  Glass cullet, waste or scrap, glass in the mass"
+594,562,Niger,156,China,35, Casein,37.38,0.00045900000000000004,China -  Casein
+595,562,Niger,250,France,52," Cotton, not carded or combed",36.466,0.01137,"France -  Cotton, not carded or combed"
+596,562,Niger,784,United Arab Emirates,23," Flour or meal, pellet of meat or offal for animal fee",36.313,0.001938,"United Arab Emirates -  Flour or meal, pellet of meat or offal for animal fee"
+597,562,Niger,643,Russian Federation,90," Optical fibres, except for telecommunications",35.925,0.00111,"Russian Federation -  Optical fibres, except for telecommunications"
+598,562,Niger,528,Netherlands (Kingdom of the),95," Rideable wheeled toys, dolls carriages",35.415,0.000501,"Netherlands (Kingdom of the) -  Rideable wheeled toys, dolls carriages"
+599,562,Niger,686,Senegal,82, Spades and shovels,35.361,0.280543,Senegal -  Spades and shovels
+600,562,Niger,818,Egypt,39, Polyethylene - specific gravity <0.94 in primary form,34.641,0.008132,Egypt -  Polyethylene - specific gravity <0.94 in primary form
+601,562,Niger,040,Austria,82, Spades and shovels,33.814,0.0006969999999999999,Austria -  Spades and shovels
+602,562,Niger,144,Sri Lanka,07," Potatoes seed, fresh or chilled",29.755,0.003483,"Sri Lanka -  Potatoes seed, fresh or chilled"
+603,562,Niger,020,Andorra,32, Quebracho tanning extract,28.607,6.1e-05,Andorra -  Quebracho tanning extract
+604,562,Niger,250,France,33, Essential oils of bergamot,27.335,0.000513,France -  Essential oils of bergamot
+605,562,Niger,288,Ghana,52," Cotton, not carded or combed",26.475,0.014523,"Ghana -  Cotton, not carded or combed"
+606,562,Niger,804,Ukraine,63, Electric blankets of textile material,26.297,0.008028,Ukraine -  Electric blankets of textile material
+607,562,Niger,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",26.171,7.8e-05,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+608,562,Niger,040,Austria,48, Newsprint,25.801,0.000777,Austria -  Newsprint
+609,562,Niger,372,Ireland,85, Electric motors of an output < 37.5 watts,25.8,0.02066,Ireland -  Electric motors of an output < 37.5 watts
+610,562,Niger,454,Malawi,93," Military weapons, other than hand guns, swords, etc",24.383,0.008638,"Malawi -  Military weapons, other than hand guns, swords, etc"
+611,562,Niger,072,Botswana,85, Electric motors of an output < 37.5 watts,23.273,9.7e-05,Botswana -  Electric motors of an output < 37.5 watts
+612,562,Niger,404,Kenya,76," Aluminium unwrought, not alloyed",23.214,0.001287,"Kenya -  Aluminium unwrought, not alloyed"
+613,562,Niger,686,Senegal,63, Electric blankets of textile material,23.204,0.11332500000000001,Senegal -  Electric blankets of textile material
+614,562,Niger,756,"Switzerland, Liechtenstein",33, Essential oils of bergamot,23.181,0.0005809999999999999,"Switzerland, Liechtenstein -  Essential oils of bergamot"
+615,562,Niger,404,Kenya,33, Essential oils of bergamot,22.565,0.004099,Kenya -  Essential oils of bergamot
+616,562,Niger,800,Uganda,90," Optical fibres, except for telecommunications",22.115,0.02427,"Uganda -  Optical fibres, except for telecommunications"
+617,562,Niger,466,Mali,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",21.299,1.8568879999999999,"Mali -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+618,562,Niger,156,China,38, Artificial graphite,20.725,0.000221,China -  Artificial graphite
+619,562,Niger,288,Ghana,63, Electric blankets of textile material,20.37,0.135547,Ghana -  Electric blankets of textile material
+620,562,Niger,616,Poland,09," Coffee, not roasted, not decaffeinated",19.875,0.000941,"Poland -  Coffee, not roasted, not decaffeinated"
+621,562,Niger,496,Mongolia,61," Mens, boys overcoats, etc, of wool or hair, knit",19.23,0.000315,"Mongolia -  Mens, boys overcoats, etc, of wool or hair, knit"
+622,562,Niger,748,Eswatini,30," Glands and other organs, dried, for therapeutic uses",18.93,5e-05,"Eswatini -  Glands and other organs, dried, for therapeutic uses"
+623,562,Niger,250,France,08," Coconuts, fresh or dried",18.922,0.025029,"France -  Coconuts, fresh or dried"
+624,562,Niger,288,Ghana,61," Mens, boys overcoats, etc, of wool or hair, knit",18.839,0.011231999999999999,"Ghana -  Mens, boys overcoats, etc, of wool or hair, knit"
+625,562,Niger,826,United Kingdom,58," Woven pile fabric of wool or fine animal hair, w >30c",18.713,0.00041299999999999996,"United Kingdom -  Woven pile fabric of wool or fine animal hair, w >30c"
+626,562,Niger,250,France,69," Bricks, blocks and ceramic goods of siliceous earths",18.439,0.008127,"France -  Bricks, blocks and ceramic goods of siliceous earths"
+627,562,Niger,288,Ghana,49," Brochures, leaflets and similar, in single sheets",18.132,0.128804,"Ghana -  Brochures, leaflets and similar, in single sheets"
+628,562,Niger,854,Burkina Faso,03," Ornamental fish, live",18.103,0.052647,"Burkina Faso -  Ornamental fish, live"
+629,562,Niger,048,Bahrain,95," Rideable wheeled toys, dolls carriages",17.957,0.003707,"Bahrain -  Rideable wheeled toys, dolls carriages"
+630,562,Niger,156,China,25," Salt (sodium chloride) including solution, salt water",17.65,0.002164,"China -  Salt (sodium chloride) including solution, salt water"
+631,562,Niger,826,United Kingdom,75, Nickel mattes,17.484,1.9e-05,United Kingdom -  Nickel mattes
+632,562,Niger,854,Burkina Faso,61," Mens, boys overcoats, etc, of wool or hair, knit",17.399,0.023907,"Burkina Faso -  Mens, boys overcoats, etc, of wool or hair, knit"
+633,562,Niger,360,Indonesia,71," Pearls natural, not permanently mounted or set",17.329,0.00013800000000000002,"Indonesia -  Pearls natural, not permanently mounted or set"
+634,562,Niger,410,"Korea, Republic of",88," Gliders, hang gliders",17.217,0.000192,"Korea, Republic of -  Gliders, hang gliders"
+635,562,Niger,854,Burkina Faso,62," Mens, boys overcoats of wool or hair, not knit",16.766,0.061832,"Burkina Faso -  Mens, boys overcoats of wool or hair, not knit"
+636,562,Niger,528,Netherlands (Kingdom of the),84, Nuclear reactors,14.965,0.000219,Netherlands (Kingdom of the) -  Nuclear reactors
+637,562,Niger,800,Uganda,85, Electric motors of an output < 37.5 watts,14.268,0.000309,Uganda -  Electric motors of an output < 37.5 watts
+638,562,Niger,144,Sri Lanka,39, Polyethylene - specific gravity <0.94 in primary form,14.059,0.000323,Sri Lanka -  Polyethylene - specific gravity <0.94 in primary form
+639,562,Niger,528,Netherlands (Kingdom of the),33, Essential oils of bergamot,13.381,0.00014399999999999998,Netherlands (Kingdom of the) -  Essential oils of bergamot
+640,562,Niger,288,Ghana,33, Essential oils of bergamot,12.842,0.012964,Ghana -  Essential oils of bergamot
+641,562,Niger,048,Bahrain,90," Optical fibres, except for telecommunications",12.68,0.000496,"Bahrain -  Optical fibres, except for telecommunications"
+642,562,Niger,454,Malawi,76," Aluminium unwrought, not alloyed",12.418,0.001824,"Malawi -  Aluminium unwrought, not alloyed"
+643,562,Niger,156,China,81," Powders, tungsten (wolfram)",12.228,0.000623,"China -  Powders, tungsten (wolfram)"
+644,562,Niger,616,Poland,90," Optical fibres, except for telecommunications",11.822,0.000202,"Poland -  Optical fibres, except for telecommunications"
+645,562,Niger,072,Botswana,49," Brochures, leaflets and similar, in single sheets",11.525,0.00016800000000000002,"Botswana -  Brochures, leaflets and similar, in single sheets"
+646,562,Niger,422,Lebanon,85, Electric motors of an output < 37.5 watts,11.093,0.009723,Lebanon -  Electric motors of an output < 37.5 watts
+647,562,Niger,048,Bahrain,18," Cocoa beans, whole or broken, raw or roasted",10.644,0.0026349999999999998,"Bahrain -  Cocoa beans, whole or broken, raw or roasted"
+648,562,Niger,528,Netherlands (Kingdom of the),64," Waterproof footwear (Wellingtons etc), metal toe cap",10.567,5.3e-05,"Netherlands (Kingdom of the) -  Waterproof footwear (Wellingtons etc), metal toe cap"
+649,562,Niger,702,Singapore,71," Pearls natural, not permanently mounted or set",10.534,4.4999999999999996e-05,"Singapore -  Pearls natural, not permanently mounted or set"
+650,562,Niger,528,Netherlands (Kingdom of the),71," Pearls natural, not permanently mounted or set",10.339,0.004592,"Netherlands (Kingdom of the) -  Pearls natural, not permanently mounted or set"
+651,562,Niger,818,Egypt,63, Electric blankets of textile material,10.191,0.014164,Egypt -  Electric blankets of textile material
+652,562,Niger,072,Botswana,71," Pearls natural, not permanently mounted or set",8.354,0.001776,"Botswana -  Pearls natural, not permanently mounted or set"
+653,562,Niger,504,Morocco,26," Iron ore, concentrate, not iron pyrites,unagglomerate",7.497,0.046262,"Morocco -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+654,562,Niger,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,6.453,3.5999999999999994e-05,Sri Lanka -  Electric motors of an output < 37.5 watts
+655,562,Niger,528,Netherlands (Kingdom of the),25," Salt (sodium chloride) including solution, salt water",6.182,0.122074,"Netherlands (Kingdom of the) -  Salt (sodium chloride) including solution, salt water"
+656,562,Niger,854,Burkina Faso,90," Optical fibres, except for telecommunications",5.386,0.001472,"Burkina Faso -  Optical fibres, except for telecommunications"
+657,562,Niger,288,Ghana,82, Spades and shovels,4.975,0.008621,Ghana -  Spades and shovels
+658,562,Niger,854,Burkina Faso,23," Flour or meal, pellet of meat or offal for animal fee",4.857,0.07796800000000001,"Burkina Faso -  Flour or meal, pellet of meat or offal for animal fee"
+659,562,Niger,422,Lebanon,07," Potatoes seed, fresh or chilled",3.749,0.000426,"Lebanon -  Potatoes seed, fresh or chilled"
+660,562,Niger,854,Burkina Faso,64," Waterproof footwear (Wellingtons etc), metal toe cap",3.268,0.016173,"Burkina Faso -  Waterproof footwear (Wellingtons etc), metal toe cap"
+661,562,Niger,694,Sierra Leone,30," Glands and other organs, dried, for therapeutic uses",3.16,0.0012070000000000002,"Sierra Leone -  Glands and other organs, dried, for therapeutic uses"
+662,562,Niger,642,Romania,85, Electric motors of an output < 37.5 watts,3.067,4.1e-05,Romania -  Electric motors of an output < 37.5 watts
+663,562,Niger,466,Mali,30," Glands and other organs, dried, for therapeutic uses",2.957,0.001357,"Mali -  Glands and other organs, dried, for therapeutic uses"
+664,562,Niger,616,Poland,52," Cotton, not carded or combed",2.483,0.00011300000000000001,"Poland -  Cotton, not carded or combed"
+665,562,Niger,784,United Arab Emirates,90," Optical fibres, except for telecommunications",2.362,3.8e-05,"United Arab Emirates -  Optical fibres, except for telecommunications"
+666,562,Niger,854,Burkina Faso,69," Bricks, blocks and ceramic goods of siliceous earths",2.286,0.021492,"Burkina Faso -  Bricks, blocks and ceramic goods of siliceous earths"
+667,562,Niger,410,"Korea, Republic of",71," Pearls natural, not permanently mounted or set",2.211,8e-06,"Korea, Republic of -  Pearls natural, not permanently mounted or set"
+668,562,Niger,144,Sri Lanka,87, Pedestrian controlled tractors,2.189,0.00019700000000000002,Sri Lanka -  Pedestrian controlled tractors
+669,562,Niger,616,Poland,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",2.18,0.002819,"Poland -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+670,562,Niger,144,Sri Lanka,95," Rideable wheeled toys, dolls carriages",2.158,0.0022,"Sri Lanka -  Rideable wheeled toys, dolls carriages"
+671,562,Niger,478,Mauritania,30," Glands and other organs, dried, for therapeutic uses",1.997,0.009195,"Mauritania -  Glands and other organs, dried, for therapeutic uses"
+672,562,Niger,288,Ghana,62," Mens, boys overcoats of wool or hair, not knit",1.664,0.004115000000000001,"Ghana -  Mens, boys overcoats of wool or hair, not knit"
+673,562,Niger,144,Sri Lanka,90," Optical fibres, except for telecommunications",1.397,0.00011700000000000001,"Sri Lanka -  Optical fibres, except for telecommunications"
+674,562,Niger,144,Sri Lanka,88," Gliders, hang gliders",1.336,4e-06,"Sri Lanka -  Gliders, hang gliders"
+675,562,Niger,454,Malawi,04, Milk not concentrated nor sweetened < 1% fat,0.827,0.0005769999999999999,Malawi -  Milk not concentrated nor sweetened < 1% fat
+676,562,Niger,854,Burkina Faso,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",0.41,0.041826999999999996,"Burkina Faso -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+677,562,Niger,686,Senegal,01," Horses, live pure-bred breeding",0.396,5.7e-05,"Senegal -  Horses, live pure-bred breeding"
+678,562,Niger,840,United States of America,01," Horses, live pure-bred breeding",0.245,7e-06,"United States of America -  Horses, live pure-bred breeding"
+679,562,Niger,686,Senegal,14, Bamboos used primarily for plaiting,0.225,0.000188,Senegal -  Bamboos used primarily for plaiting
+680,562,Niger,288,Ghana,41," Bovine skins, whole, raw",0.137,0.000245,"Ghana -  Bovine skins, whole, raw"
+681,562,Niger,144,Sri Lanka,18," Cocoa beans, whole or broken, raw or roasted",0.093,3.1e-05,"Sri Lanka -  Cocoa beans, whole or broken, raw or roasted"
+682,562,Niger,854,Burkina Faso,24," Tobacco, unmanufactured, not stemmed or stripped",0.086,0.002462,"Burkina Faso -  Tobacco, unmanufactured, not stemmed or stripped"
+683,562,Niger,854,Burkina Faso,02," Bovine carcasses and half carcasses, fresh or chilled",0.066,0.001303,"Burkina Faso -  Bovine carcasses and half carcasses, fresh or chilled"
+684,562,Niger,392,Japan,01," Horses, live pure-bred breeding",0.006,0.0,"Japan -  Horses, live pure-bred breeding"
+685,562,Niger,012,Algeria,83, Padlocks of base metal,0.0,0.0,Algeria -  Padlocks of base metal
+686,562,Niger,784,United Arab Emirates,01," Horses, live pure-bred breeding",0.0,0.0,"United Arab Emirates -  Horses, live pure-bred breeding"
+687,562,Niger,356,India,41," Bovine skins, whole, raw",0.0,0.0,"India -  Bovine skins, whole, raw"
+688,562,Niger,136,Cayman Islands,22, Mineral and aerated waters not sweetened or flavoured,0.0,0.0,Cayman Islands -  Mineral and aerated waters not sweetened or flavoured
+689,562,Niger,288,Ghana,01," Horses, live pure-bred breeding",0.0,0.0,"Ghana -  Horses, live pure-bred breeding"
+690,562,Niger,466,Mali,01," Horses, live pure-bred breeding",0.0,0.0,"Mali -  Horses, live pure-bred breeding"
+691,562,Niger,136,Cayman Islands,67," Bird skins and feathers, articles therefrom",0.0,0.0,"Cayman Islands -  Bird skins and feathers, articles therefrom"
+692,562,Niger,144,Sri Lanka,82, Spades and shovels,0.0,0.0,Sri Lanka -  Spades and shovels
+693,562,Niger,144,Sri Lanka,56," Sanitary towels, diapers and similar articles",0.0,0.0,"Sri Lanka -  Sanitary towels, diapers and similar articles"
+694,562,Niger,144,Sri Lanka,52," Cotton, not carded or combed",0.0,0.0,"Sri Lanka -  Cotton, not carded or combed"
+695,562,Niger,144,Sri Lanka,38, Artificial graphite,0.0,0.0,Sri Lanka -  Artificial graphite
+696,562,Niger,854,Burkina Faso,14, Bamboos used primarily for plaiting,0.0,0.0,Burkina Faso -  Bamboos used primarily for plaiting
+697,562,Niger,144,Sri Lanka,35, Casein,0.0,0.0,Sri Lanka -  Casein
+698,562,Niger,144,Sri Lanka,21," Coffee extracts, essences, concentrates, preparations",0.0,0.0,"Sri Lanka -  Coffee extracts, essences, concentrates, preparations"
+699,562,Niger,144,Sri Lanka,19," Infant foods of cereals, flour, starch or milk, retai",0.0,0.0,"Sri Lanka -  Infant foods of cereals, flour, starch or milk, retai"
+700,562,Niger,144,Sri Lanka,08," Coconuts, fresh or dried",0.0,0.0,"Sri Lanka -  Coconuts, fresh or dried"
+701,562,Niger,854,Burkina Faso,01," Horses, live pure-bred breeding",0.0,0.0,"Burkina Faso -  Horses, live pure-bred breeding"
+702,562,Niger,144,Sri Lanka,04, Milk not concentrated nor sweetened < 1% fat,0.0,0.0,Sri Lanka -  Milk not concentrated nor sweetened < 1% fat

@@ -1,0 +1,867 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,417,Kyrgyzstan,860,Uzbekistan,27," Anthracite, not agglomerated",7538249.393,93610.49937100001,"Uzbekistan -  Anthracite, not agglomerated"
+1,417,Kyrgyzstan,398,Kazakhstan,26," Iron ore, concentrate, not iron pyrites,unagglomerate",23254293.358,35760.369513,"Kazakhstan -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+2,417,Kyrgyzstan,860,Uzbekistan,72," Pig iron, non-alloy, <0.5% phosphorus",4800433.141,30148.575167,"Uzbekistan -  Pig iron, non-alloy, <0.5% phosphorus"
+3,417,Kyrgyzstan,860,Uzbekistan,25," Salt (sodium chloride) including solution, salt water",411064.831,17430.180723999998,"Uzbekistan -  Salt (sodium chloride) including solution, salt water"
+4,417,Kyrgyzstan,762,Tajikistan,39, Polyethylene - specific gravity <0.94 in primary form,763949.504,16555.417558,Tajikistan -  Polyethylene - specific gravity <0.94 in primary form
+5,417,Kyrgyzstan,643,Russian Federation,70," Glass cullet, waste or scrap, glass in the mass",2001351.635,9559.651017999999,"Russian Federation -  Glass cullet, waste or scrap, glass in the mass"
+6,417,Kyrgyzstan,398,Kazakhstan,17," Raw sugar, cane",4162317.231,9068.820065,"Kazakhstan -  Raw sugar, cane"
+7,417,Kyrgyzstan,762,Tajikistan,27," Anthracite, not agglomerated",10742504.192,9005.770095,"Tajikistan -  Anthracite, not agglomerated"
+8,417,Kyrgyzstan,398,Kazakhstan,68," Stone setts, curbstones, flagstones (except slate)",948489.39,8782.233138,"Kazakhstan -  Stone setts, curbstones, flagstones (except slate)"
+9,417,Kyrgyzstan,360,Indonesia,38, Artificial graphite,4575992.299,7681.33418,Indonesia -  Artificial graphite
+10,417,Kyrgyzstan,643,Russian Federation,72," Pig iron, non-alloy, <0.5% phosphorus",1223913.315,6206.639415,"Russian Federation -  Pig iron, non-alloy, <0.5% phosphorus"
+11,417,Kyrgyzstan,398,Kazakhstan,39, Polyethylene - specific gravity <0.94 in primary form,5017628.918,5795.966841,Kazakhstan -  Polyethylene - specific gravity <0.94 in primary form
+12,417,Kyrgyzstan,792,Türkiye,07," Potatoes seed, fresh or chilled",4069179.0,5722.14,"Türkiye -  Potatoes seed, fresh or chilled"
+13,417,Kyrgyzstan,398,Kazakhstan,70," Glass cullet, waste or scrap, glass in the mass",1226205.684,5700.72117,"Kazakhstan -  Glass cullet, waste or scrap, glass in the mass"
+14,417,Kyrgyzstan,398,Kazakhstan,27," Anthracite, not agglomerated",2926406.023,4952.300217,"Kazakhstan -  Anthracite, not agglomerated"
+15,417,Kyrgyzstan,643,Russian Federation,04, Milk not concentrated nor sweetened < 1% fat,7677542.627,3371.2379929999997,Russian Federation -  Milk not concentrated nor sweetened < 1% fat
+16,417,Kyrgyzstan,643,Russian Federation,07," Potatoes seed, fresh or chilled",2452508.15,2993.962369,"Russian Federation -  Potatoes seed, fresh or chilled"
+17,417,Kyrgyzstan,398,Kazakhstan,48, Newsprint,1052333.32,2965.625616,Kazakhstan -  Newsprint
+18,417,Kyrgyzstan,643,Russian Federation,78, Lead refined unwrought,2702590.344,2842.9535,Russian Federation -  Lead refined unwrought
+19,417,Kyrgyzstan,398,Kazakhstan,04, Milk not concentrated nor sweetened < 1% fat,1583512.275,2721.175923,Kazakhstan -  Milk not concentrated nor sweetened < 1% fat
+20,417,Kyrgyzstan,860,Uzbekistan,68," Stone setts, curbstones, flagstones (except slate)",135538.806,2647.635798,"Uzbekistan -  Stone setts, curbstones, flagstones (except slate)"
+21,417,Kyrgyzstan,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",6181664.258,2603.4685780000004,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+22,417,Kyrgyzstan,112,Belarus,27," Anthracite, not agglomerated",1095007.161,2523.830676,"Belarus -  Anthracite, not agglomerated"
+23,417,Kyrgyzstan,643,Russian Federation,74, Copper mattes,9296896.557,2445.5808110000003,Russian Federation -  Copper mattes
+24,417,Kyrgyzstan,398,Kazakhstan,22, Mineral and aerated waters not sweetened or flavoured,1735226.198,2300.2839759999997,Kazakhstan -  Mineral and aerated waters not sweetened or flavoured
+25,417,Kyrgyzstan,398,Kazakhstan,72," Pig iron, non-alloy, <0.5% phosphorus",1333252.265,1622.2704310000001,"Kazakhstan -  Pig iron, non-alloy, <0.5% phosphorus"
+26,417,Kyrgyzstan,156,China,12, Soya beans,290699.542,1357.064806,China -  Soya beans
+27,417,Kyrgyzstan,643,Russian Federation,08," Coconuts, fresh or dried",2607717.438,1332.322993,"Russian Federation -  Coconuts, fresh or dried"
+28,417,Kyrgyzstan,860,Uzbekistan,70," Glass cullet, waste or scrap, glass in the mass",165612.965,1262.981439,"Uzbekistan -  Glass cullet, waste or scrap, glass in the mass"
+29,417,Kyrgyzstan,860,Uzbekistan,31," Animal or vegetable fertilizers, in packs >10 kg",215636.898,1197.705325,"Uzbekistan -  Animal or vegetable fertilizers, in packs >10 kg"
+30,417,Kyrgyzstan,643,Russian Federation,39, Polyethylene - specific gravity <0.94 in primary form,645390.399,1160.193725,Russian Federation -  Polyethylene - specific gravity <0.94 in primary form
+31,417,Kyrgyzstan,156,China,08," Coconuts, fresh or dried",859993.651,1028.962112,"China -  Coconuts, fresh or dried"
+32,417,Kyrgyzstan,398,Kazakhstan,08," Coconuts, fresh or dried",41391.398,990.7180940000001,"Kazakhstan -  Coconuts, fresh or dried"
+33,417,Kyrgyzstan,024,Angola,29, Saturated acyclic hydrocarbons,668456.957,944.406,Angola -  Saturated acyclic hydrocarbons
+34,417,Kyrgyzstan,398,Kazakhstan,28, Chlorine,407970.812,848.183358,Kazakhstan -  Chlorine
+35,417,Kyrgyzstan,643,Russian Federation,85, Electric motors of an output < 37.5 watts,1739207.595,777.11752,Russian Federation -  Electric motors of an output < 37.5 watts
+36,417,Kyrgyzstan,643,Russian Federation,87, Pedestrian controlled tractors,4085471.92,748.562232,Russian Federation -  Pedestrian controlled tractors
+37,417,Kyrgyzstan,398,Kazakhstan,84, Nuclear reactors,1642416.66,743.8393440000001,Kazakhstan -  Nuclear reactors
+38,417,Kyrgyzstan,276,Germany,08," Coconuts, fresh or dried",1409794.193,713.587527,"Germany -  Coconuts, fresh or dried"
+39,417,Kyrgyzstan,156,China,27," Anthracite, not agglomerated",143697.041,645.73698,"China -  Anthracite, not agglomerated"
+40,417,Kyrgyzstan,792,Türkiye,52," Cotton, not carded or combed",969866.0,607.458,"Türkiye -  Cotton, not carded or combed"
+41,417,Kyrgyzstan,112,Belarus,05," Hair, human, unworked, waste of human hair",54677.426,604.875353,"Belarus -  Hair, human, unworked, waste of human hair"
+42,417,Kyrgyzstan,860,Uzbekistan,17," Raw sugar, cane",117883.437,537.817333,"Uzbekistan -  Raw sugar, cane"
+43,417,Kyrgyzstan,398,Kazakhstan,94," Seats, aircraft",1672603.555,532.531978,"Kazakhstan -  Seats, aircraft"
+44,417,Kyrgyzstan,792,Türkiye,08," Coconuts, fresh or dried",587390.0,500.039,"Türkiye -  Coconuts, fresh or dried"
+45,417,Kyrgyzstan,762,Tajikistan,25," Salt (sodium chloride) including solution, salt water",19426.563,476.099164,"Tajikistan -  Salt (sodium chloride) including solution, salt water"
+46,417,Kyrgyzstan,398,Kazakhstan,07," Potatoes seed, fresh or chilled",24714.404,473.77007799999996,"Kazakhstan -  Potatoes seed, fresh or chilled"
+47,417,Kyrgyzstan,762,Tajikistan,70," Glass cullet, waste or scrap, glass in the mass",318912.503,466.373092,"Tajikistan -  Glass cullet, waste or scrap, glass in the mass"
+48,417,Kyrgyzstan,398,Kazakhstan,21," Coffee extracts, essences, concentrates, preparations",779492.335,435.81890000000004,"Kazakhstan -  Coffee extracts, essences, concentrates, preparations"
+49,417,Kyrgyzstan,528,Netherlands (Kingdom of the),72," Pig iron, non-alloy, <0.5% phosphorus",562116.056,408.92212800000004,"Netherlands (Kingdom of the) -  Pig iron, non-alloy, <0.5% phosphorus"
+50,417,Kyrgyzstan,643,Russian Federation,20," Cucumbers,gherkins, prepared or preserved by vinegar",317005.722,400.32666700000004,"Russian Federation -  Cucumbers,gherkins, prepared or preserved by vinegar"
+51,417,Kyrgyzstan,048,Bahrain,89," Cruise ships, excursion boats, ferry boats",4882976.662,375.303703,"Bahrain -  Cruise ships, excursion boats, ferry boats"
+52,417,Kyrgyzstan,398,Kazakhstan,85, Electric motors of an output < 37.5 watts,367924.639,364.908794,Kazakhstan -  Electric motors of an output < 37.5 watts
+53,417,Kyrgyzstan,643,Russian Federation,22, Mineral and aerated waters not sweetened or flavoured,302203.246,364.623177,Russian Federation -  Mineral and aerated waters not sweetened or flavoured
+54,417,Kyrgyzstan,398,Kazakhstan,87, Pedestrian controlled tractors,1568596.43,312.379298,Kazakhstan -  Pedestrian controlled tractors
+55,417,Kyrgyzstan,276,Germany,07," Potatoes seed, fresh or chilled",837132.444,290.346393,"Germany -  Potatoes seed, fresh or chilled"
+56,417,Kyrgyzstan,300,Greece,07," Potatoes seed, fresh or chilled",336720.575,280.925,"Greece -  Potatoes seed, fresh or chilled"
+57,417,Kyrgyzstan,100,Bulgaria,07," Potatoes seed, fresh or chilled",330171.028,270.39769900000005,"Bulgaria -  Potatoes seed, fresh or chilled"
+58,417,Kyrgyzstan,398,Kazakhstan,73, Sheet piling of iron or steel,307474.213,267.992003,Kazakhstan -  Sheet piling of iron or steel
+59,417,Kyrgyzstan,643,Russian Federation,73, Sheet piling of iron or steel,266560.49,264.748221,Russian Federation -  Sheet piling of iron or steel
+60,417,Kyrgyzstan,792,Türkiye,76," Aluminium unwrought, not alloyed",348858.0,264.0,"Türkiye -  Aluminium unwrought, not alloyed"
+61,417,Kyrgyzstan,860,Uzbekistan,39, Polyethylene - specific gravity <0.94 in primary form,136507.057,256.08032000000003,Uzbekistan -  Polyethylene - specific gravity <0.94 in primary form
+62,417,Kyrgyzstan,643,Russian Federation,68," Stone setts, curbstones, flagstones (except slate)",57106.513,253.382695,"Russian Federation -  Stone setts, curbstones, flagstones (except slate)"
+63,417,Kyrgyzstan,643,Russian Federation,34," Soaps, for toilet use, solid",1646414.791,242.360052,"Russian Federation -  Soaps, for toilet use, solid"
+64,417,Kyrgyzstan,276,Germany,71," Pearls natural, not permanently mounted or set",510596.951,238.602296,"Germany -  Pearls natural, not permanently mounted or set"
+65,417,Kyrgyzstan,643,Russian Federation,32, Quebracho tanning extract,706430.759,226.12782800000002,Russian Federation -  Quebracho tanning extract
+66,417,Kyrgyzstan,276,Germany,78, Lead refined unwrought,440071.09,212.250753,Germany -  Lead refined unwrought
+67,417,Kyrgyzstan,860,Uzbekistan,73, Sheet piling of iron or steel,313455.058,198.84979199999998,Uzbekistan -  Sheet piling of iron or steel
+68,417,Kyrgyzstan,440,Lithuania,74, Copper mattes,443293.311,183.93672,Lithuania -  Copper mattes
+69,417,Kyrgyzstan,807,North Macedonia,07," Potatoes seed, fresh or chilled",198881.243,175.524165,"North Macedonia -  Potatoes seed, fresh or chilled"
+70,417,Kyrgyzstan,643,Russian Federation,03," Ornamental fish, live",752309.205,174.246158,"Russian Federation -  Ornamental fish, live"
+71,417,Kyrgyzstan,398,Kazakhstan,63, Electric blankets of textile material,58235.67,165.98796299999998,Kazakhstan -  Electric blankets of textile material
+72,417,Kyrgyzstan,643,Russian Federation,84, Nuclear reactors,8222114.183,165.40523000000002,Russian Federation -  Nuclear reactors
+73,417,Kyrgyzstan,643,Russian Federation,09," Coffee, not roasted, not decaffeinated",204718.002,163.900503,"Russian Federation -  Coffee, not roasted, not decaffeinated"
+74,417,Kyrgyzstan,398,Kazakhstan,34," Soaps, for toilet use, solid",268344.589,161.761162,"Kazakhstan -  Soaps, for toilet use, solid"
+75,417,Kyrgyzstan,643,Russian Federation,19," Infant foods of cereals, flour, starch or milk, retai",109764.461,161.711714,"Russian Federation -  Infant foods of cereals, flour, starch or milk, retai"
+76,417,Kyrgyzstan,398,Kazakhstan,25," Salt (sodium chloride) including solution, salt water",12281.411,151.69450899999998,"Kazakhstan -  Salt (sodium chloride) including solution, salt water"
+77,417,Kyrgyzstan,276,Germany,72," Pig iron, non-alloy, <0.5% phosphorus",404794.944,143.056212,"Germany -  Pig iron, non-alloy, <0.5% phosphorus"
+78,417,Kyrgyzstan,440,Lithuania,71," Pearls natural, not permanently mounted or set",621001.219,129.03898900000002,"Lithuania -  Pearls natural, not permanently mounted or set"
+79,417,Kyrgyzstan,702,Singapore,70," Glass cullet, waste or scrap, glass in the mass",33269.299,127.4663,"Singapore -  Glass cullet, waste or scrap, glass in the mass"
+80,417,Kyrgyzstan,643,Russian Federation,64," Waterproof footwear (Wellingtons etc), metal toe cap",338335.922,126.012947,"Russian Federation -  Waterproof footwear (Wellingtons etc), metal toe cap"
+81,417,Kyrgyzstan,398,Kazakhstan,32, Quebracho tanning extract,230456.198,122.96203,Kazakhstan -  Quebracho tanning extract
+82,417,Kyrgyzstan,643,Russian Federation,42," Saddlery and harness, of any material",1775894.433,120.88248399999999,"Russian Federation -  Saddlery and harness, of any material"
+83,417,Kyrgyzstan,643,Russian Federation,61," Mens, boys overcoats, etc, of wool or hair, knit",1307468.626,119.501313,"Russian Federation -  Mens, boys overcoats, etc, of wool or hair, knit"
+84,417,Kyrgyzstan,840,United States of America,13, Lac,149337.622,119.42573,United States of America -  Lac
+85,417,Kyrgyzstan,643,Russian Federation,63, Electric blankets of textile material,152658.218,118.468853,Russian Federation -  Electric blankets of textile material
+86,417,Kyrgyzstan,840,United States of America,87, Pedestrian controlled tractors,1175448.01,118.05792699999999,United States of America -  Pedestrian controlled tractors
+87,417,Kyrgyzstan,398,Kazakhstan,83, Padlocks of base metal,187505.675,117.230485,Kazakhstan -  Padlocks of base metal
+88,417,Kyrgyzstan,398,Kazakhstan,20," Cucumbers,gherkins, prepared or preserved by vinegar",110715.419,112.630285,"Kazakhstan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+89,417,Kyrgyzstan,031,Azerbaijan,85, Electric motors of an output < 37.5 watts,184705.305,112.117953,Azerbaijan -  Electric motors of an output < 37.5 watts
+90,417,Kyrgyzstan,860,Uzbekistan,84, Nuclear reactors,645464.762,109.815325,Uzbekistan -  Nuclear reactors
+91,417,Kyrgyzstan,250,France,07," Potatoes seed, fresh or chilled",114057.456,108.038738,"France -  Potatoes seed, fresh or chilled"
+92,417,Kyrgyzstan,112,Belarus,87, Pedestrian controlled tractors,663115.538,105.35801,Belarus -  Pedestrian controlled tractors
+93,417,Kyrgyzstan,616,Poland,07," Potatoes seed, fresh or chilled",185236.021,104.309484,"Poland -  Potatoes seed, fresh or chilled"
+94,417,Kyrgyzstan,398,Kazakhstan,40," Natural rubber latex, including prevulcanised",200008.84,104.14956600000001,"Kazakhstan -  Natural rubber latex, including prevulcanised"
+95,417,Kyrgyzstan,643,Russian Federation,62," Mens, boys overcoats of wool or hair, not knit",1873139.454,101.552204,"Russian Federation -  Mens, boys overcoats of wool or hair, not knit"
+96,417,Kyrgyzstan,364,Iran (Islamic Republic of),07," Potatoes seed, fresh or chilled",193268.504,99.31815300000001,"Iran (Islamic Republic of) -  Potatoes seed, fresh or chilled"
+97,417,Kyrgyzstan,398,Kazakhstan,44, Fuel wood,72628.269,92.442254,Kazakhstan -  Fuel wood
+98,417,Kyrgyzstan,398,Kazakhstan,19," Infant foods of cereals, flour, starch or milk, retai",286199.07,87.08932,"Kazakhstan -  Infant foods of cereals, flour, starch or milk, retai"
+99,417,Kyrgyzstan,276,Germany,74, Copper mattes,428976.422,84.60607,Germany -  Copper mattes
+100,417,Kyrgyzstan,440,Lithuania,79," Zinc, not alloyed, unwrought, >99% pure",79180.979,83.726128,"Lithuania -  Zinc, not alloyed, unwrought, >99% pure"
+101,417,Kyrgyzstan,156,China,05," Hair, human, unworked, waste of human hair",29145.263,79.937538,"China -  Hair, human, unworked, waste of human hair"
+102,417,Kyrgyzstan,268,Georgia,07," Potatoes seed, fresh or chilled",64899.582,76.27609600000001,"Georgia -  Potatoes seed, fresh or chilled"
+103,417,Kyrgyzstan,104,Myanmar,27," Anthracite, not agglomerated",102242.617,74.052,"Myanmar -  Anthracite, not agglomerated"
+104,417,Kyrgyzstan,004,Afghanistan,72," Pig iron, non-alloy, <0.5% phosphorus",20293.694,72.400273,"Afghanistan -  Pig iron, non-alloy, <0.5% phosphorus"
+105,417,Kyrgyzstan,031,Azerbaijan,12, Soya beans,39473.848,64.967943,Azerbaijan -  Soya beans
+106,417,Kyrgyzstan,440,Lithuania,72," Pig iron, non-alloy, <0.5% phosphorus",104935.194,64.804911,"Lithuania -  Pig iron, non-alloy, <0.5% phosphorus"
+107,417,Kyrgyzstan,372,Ireland,39, Polyethylene - specific gravity <0.94 in primary form,38917.439,64.572557,Ireland -  Polyethylene - specific gravity <0.94 in primary form
+108,417,Kyrgyzstan,643,Russian Federation,21," Coffee extracts, essences, concentrates, preparations",202432.939,64.049946,"Russian Federation -  Coffee extracts, essences, concentrates, preparations"
+109,417,Kyrgyzstan,860,Uzbekistan,85, Electric motors of an output < 37.5 watts,341661.184,62.401247000000005,Uzbekistan -  Electric motors of an output < 37.5 watts
+110,417,Kyrgyzstan,643,Russian Federation,26," Iron ore, concentrate, not iron pyrites,unagglomerate",30002.186,60.273365,"Russian Federation -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+111,417,Kyrgyzstan,364,Iran (Islamic Republic of),02," Bovine carcasses and half carcasses, fresh or chilled",342378.682,59.733307,"Iran (Islamic Republic of) -  Bovine carcasses and half carcasses, fresh or chilled"
+112,417,Kyrgyzstan,860,Uzbekistan,35, Casein,52012.96,54.156659,Uzbekistan -  Casein
+113,417,Kyrgyzstan,860,Uzbekistan,15," Lard, other pig fat and poultry fat, rendered",27213.657,53.261900999999995,"Uzbekistan -  Lard, other pig fat and poultry fat, rendered"
+114,417,Kyrgyzstan,398,Kazakhstan,57," Carpets of wool or fine animal hair, knotted",29113.192,52.128963000000006,"Kazakhstan -  Carpets of wool or fine animal hair, knotted"
+115,417,Kyrgyzstan,012,Algeria,07," Potatoes seed, fresh or chilled",79707.784,47.224976999999996,"Algeria -  Potatoes seed, fresh or chilled"
+116,417,Kyrgyzstan,762,Tajikistan,73, Sheet piling of iron or steel,24344.479,46.317652,Tajikistan -  Sheet piling of iron or steel
+117,417,Kyrgyzstan,643,Russian Federation,27," Anthracite, not agglomerated",8966.811,46.30085,"Russian Federation -  Anthracite, not agglomerated"
+118,417,Kyrgyzstan,762,Tajikistan,68," Stone setts, curbstones, flagstones (except slate)",5338.987,45.747801,"Tajikistan -  Stone setts, curbstones, flagstones (except slate)"
+119,417,Kyrgyzstan,112,Belarus,08," Coconuts, fresh or dried",29667.194,44.82155,"Belarus -  Coconuts, fresh or dried"
+120,417,Kyrgyzstan,643,Russian Federation,40," Natural rubber latex, including prevulcanised",93995.827,43.566651,"Russian Federation -  Natural rubber latex, including prevulcanised"
+121,417,Kyrgyzstan,860,Uzbekistan,29, Saturated acyclic hydrocarbons,53978.767,42.544671,Uzbekistan -  Saturated acyclic hydrocarbons
+122,417,Kyrgyzstan,604,Peru,19," Infant foods of cereals, flour, starch or milk, retai",116669.61,42.51236,"Peru -  Infant foods of cereals, flour, starch or milk, retai"
+123,417,Kyrgyzstan,156,China,22, Mineral and aerated waters not sweetened or flavoured,11572.412,41.595611,China -  Mineral and aerated waters not sweetened or flavoured
+124,417,Kyrgyzstan,643,Russian Federation,35, Casein,92037.528,41.123284,Russian Federation -  Casein
+125,417,Kyrgyzstan,203,Czechia,08," Coconuts, fresh or dried",393327.332,40.744006999999996,"Czechia -  Coconuts, fresh or dried"
+126,417,Kyrgyzstan,762,Tajikistan,20," Cucumbers,gherkins, prepared or preserved by vinegar",22038.949,39.242177000000005,"Tajikistan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+127,417,Kyrgyzstan,840,United States of America,84, Nuclear reactors,417564.725,39.191006,United States of America -  Nuclear reactors
+128,417,Kyrgyzstan,643,Russian Federation,12, Soya beans,47877.864,39.040774,Russian Federation -  Soya beans
+129,417,Kyrgyzstan,752,Sweden,07," Potatoes seed, fresh or chilled",48009.896,39.0,"Sweden -  Potatoes seed, fresh or chilled"
+130,417,Kyrgyzstan,643,Russian Federation,28, Chlorine,86787.257,38.733246,Russian Federation -  Chlorine
+131,417,Kyrgyzstan,643,Russian Federation,52," Cotton, not carded or combed",55016.038,38.676075,"Russian Federation -  Cotton, not carded or combed"
+132,417,Kyrgyzstan,398,Kazakhstan,69," Bricks, blocks and ceramic goods of siliceous earths",11000.844,36.696273,"Kazakhstan -  Bricks, blocks and ceramic goods of siliceous earths"
+133,417,Kyrgyzstan,104,Myanmar,56," Sanitary towels, diapers and similar articles",1428.714,36.4408,"Myanmar -  Sanitary towels, diapers and similar articles"
+134,417,Kyrgyzstan,499,Montenegro,07," Potatoes seed, fresh or chilled",58893.743,36.154785000000004,"Montenegro -  Potatoes seed, fresh or chilled"
+135,417,Kyrgyzstan,860,Uzbekistan,69," Bricks, blocks and ceramic goods of siliceous earths",44086.953,35.956853,"Uzbekistan -  Bricks, blocks and ceramic goods of siliceous earths"
+136,417,Kyrgyzstan,156,China,04, Milk not concentrated nor sweetened < 1% fat,120851.65,35.715493,China -  Milk not concentrated nor sweetened < 1% fat
+137,417,Kyrgyzstan,604,Peru,21," Coffee extracts, essences, concentrates, preparations",71879.16,35.62754,"Peru -  Coffee extracts, essences, concentrates, preparations"
+138,417,Kyrgyzstan,840,United States of America,23," Flour or meal, pellet of meat or offal for animal fee",867103.536,35.545986,"United States of America -  Flour or meal, pellet of meat or offal for animal fee"
+139,417,Kyrgyzstan,398,Kazakhstan,86," Rail locomotives, externally electrically powered",155164.39,35.215263,"Kazakhstan -  Rail locomotives, externally electrically powered"
+140,417,Kyrgyzstan,616,Poland,72," Pig iron, non-alloy, <0.5% phosphorus",45345.119,34.089176,"Poland -  Pig iron, non-alloy, <0.5% phosphorus"
+141,417,Kyrgyzstan,643,Russian Federation,25," Salt (sodium chloride) including solution, salt water",1281.519,34.07808,"Russian Federation -  Salt (sodium chloride) including solution, salt water"
+142,417,Kyrgyzstan,496,Mongolia,07," Potatoes seed, fresh or chilled",6336.195,33.269338000000005,"Mongolia -  Potatoes seed, fresh or chilled"
+143,417,Kyrgyzstan,860,Uzbekistan,34," Soaps, for toilet use, solid",10316.624,32.978369,"Uzbekistan -  Soaps, for toilet use, solid"
+144,417,Kyrgyzstan,364,Iran (Islamic Republic of),10, Durum wheat,13281.996,31.882968,Iran (Islamic Republic of) -  Durum wheat
+145,417,Kyrgyzstan,643,Russian Federation,30," Glands and other organs, dried, for therapeutic uses",73077.731,31.353692,"Russian Federation -  Glands and other organs, dried, for therapeutic uses"
+146,417,Kyrgyzstan,268,Georgia,85, Electric motors of an output < 37.5 watts,50594.823,31.261335,Georgia -  Electric motors of an output < 37.5 watts
+147,417,Kyrgyzstan,643,Russian Federation,29, Saturated acyclic hydrocarbons,763478.028,30.996644,Russian Federation -  Saturated acyclic hydrocarbons
+148,417,Kyrgyzstan,643,Russian Federation,94," Seats, aircraft",115437.815,30.924211,"Russian Federation -  Seats, aircraft"
+149,417,Kyrgyzstan,643,Russian Federation,17," Raw sugar, cane",29041.49,29.885328,"Russian Federation -  Raw sugar, cane"
+150,417,Kyrgyzstan,762,Tajikistan,09," Coffee, not roasted, not decaffeinated",48939.165,29.718463,"Tajikistan -  Coffee, not roasted, not decaffeinated"
+151,417,Kyrgyzstan,860,Uzbekistan,94," Seats, aircraft",23175.606,28.171143,"Uzbekistan -  Seats, aircraft"
+152,417,Kyrgyzstan,104,Myanmar,96," Worked ivory, articles of ivory",3345.3,28.152099999999997,"Myanmar -  Worked ivory, articles of ivory"
+153,417,Kyrgyzstan,380,Italy,07," Potatoes seed, fresh or chilled",77751.004,27.666822,"Italy -  Potatoes seed, fresh or chilled"
+154,417,Kyrgyzstan,040,Austria,20," Cucumbers,gherkins, prepared or preserved by vinegar",33940.492,26.681197,"Austria -  Cucumbers,gherkins, prepared or preserved by vinegar"
+155,417,Kyrgyzstan,398,Kazakhstan,09," Coffee, not roasted, not decaffeinated",35710.645,26.634403,"Kazakhstan -  Coffee, not roasted, not decaffeinated"
+156,417,Kyrgyzstan,398,Kazakhstan,03," Ornamental fish, live",77779.462,26.40384,"Kazakhstan -  Ornamental fish, live"
+157,417,Kyrgyzstan,860,Uzbekistan,44, Fuel wood,5214.469,26.294083999999998,Uzbekistan -  Fuel wood
+158,417,Kyrgyzstan,643,Russian Federation,66, Garden and similar umbrellas,160799.577,24.79223,Russian Federation -  Garden and similar umbrellas
+159,417,Kyrgyzstan,498,"Moldova, Republic of",08," Coconuts, fresh or dried",11698.181,24.785028999999998,"Moldova, Republic of -  Coconuts, fresh or dried"
+160,417,Kyrgyzstan,643,Russian Federation,44, Fuel wood,15034.287,24.438829000000002,Russian Federation -  Fuel wood
+161,417,Kyrgyzstan,398,Kazakhstan,47, Mechanical wood pulp,1824.014,23.660132,Kazakhstan -  Mechanical wood pulp
+162,417,Kyrgyzstan,398,Kazakhstan,35, Casein,49332.79,23.009854999999998,Kazakhstan -  Casein
+163,417,Kyrgyzstan,724,Spain,07," Potatoes seed, fresh or chilled",26728.934,23.0,"Spain -  Potatoes seed, fresh or chilled"
+164,417,Kyrgyzstan,762,Tajikistan,35, Casein,18115.387,22.273491999999997,Tajikistan -  Casein
+165,417,Kyrgyzstan,528,Netherlands (Kingdom of the),08," Coconuts, fresh or dried",189349.248,22.255446,"Netherlands (Kingdom of the) -  Coconuts, fresh or dried"
+166,417,Kyrgyzstan,643,Russian Federation,71," Pearls natural, not permanently mounted or set",1005039.96,21.655915,"Russian Federation -  Pearls natural, not permanently mounted or set"
+167,417,Kyrgyzstan,762,Tajikistan,23," Flour or meal, pellet of meat or offal for animal fee",21966.791,21.598166000000003,"Tajikistan -  Flour or meal, pellet of meat or offal for animal fee"
+168,417,Kyrgyzstan,840,United States of America,08," Coconuts, fresh or dried",43168.236,21.463448,"United States of America -  Coconuts, fresh or dried"
+169,417,Kyrgyzstan,398,Kazakhstan,76," Aluminium unwrought, not alloyed",118792.337,20.883353,"Kazakhstan -  Aluminium unwrought, not alloyed"
+170,417,Kyrgyzstan,804,Ukraine,08," Coconuts, fresh or dried",30604.461,20.756414,"Ukraine -  Coconuts, fresh or dried"
+171,417,Kyrgyzstan,643,Russian Federation,65," Hat-forms, etc of felt, not shaped, no formed brim",166061.983,20.576894,"Russian Federation -  Hat-forms, etc of felt, not shaped, no formed brim"
+172,417,Kyrgyzstan,643,Russian Federation,69," Bricks, blocks and ceramic goods of siliceous earths",89009.286,20.317952000000002,"Russian Federation -  Bricks, blocks and ceramic goods of siliceous earths"
+173,417,Kyrgyzstan,616,Poland,78, Lead refined unwrought,22718.247,20.248882000000002,Poland -  Lead refined unwrought
+174,417,Kyrgyzstan,643,Russian Federation,10, Durum wheat,9408.344,20.216411,Russian Federation -  Durum wheat
+175,417,Kyrgyzstan,792,Türkiye,12, Soya beans,17000.0,20.0,Türkiye -  Soya beans
+176,417,Kyrgyzstan,398,Kazakhstan,95," Rideable wheeled toys, dolls carriages",13340.245,19.915211,"Kazakhstan -  Rideable wheeled toys, dolls carriages"
+177,417,Kyrgyzstan,840,United States of America,33, Essential oils of bergamot,30714.704,19.829953,United States of America -  Essential oils of bergamot
+178,417,Kyrgyzstan,112,Belarus,07," Potatoes seed, fresh or chilled",24129.113,19.677489,"Belarus -  Potatoes seed, fresh or chilled"
+179,417,Kyrgyzstan,762,Tajikistan,44, Fuel wood,61595.102,19.313125,Tajikistan -  Fuel wood
+180,417,Kyrgyzstan,496,Mongolia,08," Coconuts, fresh or dried",9186.969,18.856001,"Mongolia -  Coconuts, fresh or dried"
+181,417,Kyrgyzstan,826,United Kingdom,07," Potatoes seed, fresh or chilled",28930.398,18.353731,"United Kingdom -  Potatoes seed, fresh or chilled"
+182,417,Kyrgyzstan,860,Uzbekistan,60," ""Long pile"" knit or crochet textile fabric",48842.022,17.633356,"Uzbekistan -  ""Long pile"" knit or crochet textile fabric"
+183,417,Kyrgyzstan,276,Germany,26," Iron ore, concentrate, not iron pyrites,unagglomerate",40170.583,17.45004,"Germany -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+184,417,Kyrgyzstan,276,Germany,33, Essential oils of bergamot,227110.922,17.127,Germany -  Essential oils of bergamot
+185,417,Kyrgyzstan,112,Belarus,84, Nuclear reactors,181182.66,16.614204,Belarus -  Nuclear reactors
+186,417,Kyrgyzstan,840,United States of America,95," Rideable wheeled toys, dolls carriages",94320.322,15.716104,"United States of America -  Rideable wheeled toys, dolls carriages"
+187,417,Kyrgyzstan,276,Germany,12, Soya beans,71078.81,15.272483,Germany -  Soya beans
+188,417,Kyrgyzstan,276,Germany,28, Chlorine,30587.452,14.996,Germany -  Chlorine
+189,417,Kyrgyzstan,762,Tajikistan,04, Milk not concentrated nor sweetened < 1% fat,9479.32,14.957188,Tajikistan -  Milk not concentrated nor sweetened < 1% fat
+190,417,Kyrgyzstan,682,Saudi Arabia,04, Milk not concentrated nor sweetened < 1% fat,61470.333,14.666082000000001,Saudi Arabia -  Milk not concentrated nor sweetened < 1% fat
+191,417,Kyrgyzstan,398,Kazakhstan,29, Saturated acyclic hydrocarbons,10179.655,14.479790000000001,Kazakhstan -  Saturated acyclic hydrocarbons
+192,417,Kyrgyzstan,826,United Kingdom,68," Stone setts, curbstones, flagstones (except slate)",28496.144,14.393358000000001,"United Kingdom -  Stone setts, curbstones, flagstones (except slate)"
+193,417,Kyrgyzstan,112,Belarus,23," Flour or meal, pellet of meat or offal for animal fee",1433.111,13.995565000000001,"Belarus -  Flour or meal, pellet of meat or offal for animal fee"
+194,417,Kyrgyzstan,031,Azerbaijan,84, Nuclear reactors,5519.198,13.715849,Azerbaijan -  Nuclear reactors
+195,417,Kyrgyzstan,616,Poland,15," Lard, other pig fat and poultry fat, rendered",79595.921,13.146857,"Poland -  Lard, other pig fat and poultry fat, rendered"
+196,417,Kyrgyzstan,860,Uzbekistan,09," Coffee, not roasted, not decaffeinated",21523.647,12.572805,"Uzbekistan -  Coffee, not roasted, not decaffeinated"
+197,417,Kyrgyzstan,388,Jamaica,70," Glass cullet, waste or scrap, glass in the mass",13074.41,12.494739,"Jamaica -  Glass cullet, waste or scrap, glass in the mass"
+198,417,Kyrgyzstan,788,Tunisia,07," Potatoes seed, fresh or chilled",13275.0,12.043486999999999,"Tunisia -  Potatoes seed, fresh or chilled"
+199,417,Kyrgyzstan,762,Tajikistan,19," Infant foods of cereals, flour, starch or milk, retai",7095.59,11.80509,"Tajikistan -  Infant foods of cereals, flour, starch or milk, retai"
+200,417,Kyrgyzstan,860,Uzbekistan,20," Cucumbers,gherkins, prepared or preserved by vinegar",7255.958,11.585377000000001,"Uzbekistan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+201,417,Kyrgyzstan,643,Russian Federation,82, Spades and shovels,12138.743,11.544079,Russian Federation -  Spades and shovels
+202,417,Kyrgyzstan,762,Tajikistan,22, Mineral and aerated waters not sweetened or flavoured,9368.578,11.484639,Tajikistan -  Mineral and aerated waters not sweetened or flavoured
+203,417,Kyrgyzstan,440,Lithuania,87, Pedestrian controlled tractors,23315.737,11.36494,Lithuania -  Pedestrian controlled tractors
+204,417,Kyrgyzstan,440,Lithuania,05," Hair, human, unworked, waste of human hair",1295.255,11.249992,"Lithuania -  Hair, human, unworked, waste of human hair"
+205,417,Kyrgyzstan,762,Tajikistan,34," Soaps, for toilet use, solid",3744.015,11.246634,"Tajikistan -  Soaps, for toilet use, solid"
+206,417,Kyrgyzstan,398,Kazakhstan,62," Mens, boys overcoats of wool or hair, not knit",105921.893,11.188944,"Kazakhstan -  Mens, boys overcoats of wool or hair, not knit"
+207,417,Kyrgyzstan,554,New Zealand,39, Polyethylene - specific gravity <0.94 in primary form,12520.778,11.170328,New Zealand -  Polyethylene - specific gravity <0.94 in primary form
+208,417,Kyrgyzstan,384,Côte d'Ivoire,87, Pedestrian controlled tractors,6843.972,11.0,Côte d'Ivoire -  Pedestrian controlled tractors
+209,417,Kyrgyzstan,643,Russian Federation,76," Aluminium unwrought, not alloyed",8799.028,10.980096,"Russian Federation -  Aluminium unwrought, not alloyed"
+210,417,Kyrgyzstan,762,Tajikistan,17," Raw sugar, cane",9982.43,10.938747,"Tajikistan -  Raw sugar, cane"
+211,417,Kyrgyzstan,276,Germany,85, Electric motors of an output < 37.5 watts,120929.383,10.904429,Germany -  Electric motors of an output < 37.5 watts
+212,417,Kyrgyzstan,031,Azerbaijan,22, Mineral and aerated waters not sweetened or flavoured,7034.11,10.728896,Azerbaijan -  Mineral and aerated waters not sweetened or flavoured
+213,417,Kyrgyzstan,784,United Arab Emirates,08," Coconuts, fresh or dried",25108.734,10.503032,"United Arab Emirates -  Coconuts, fresh or dried"
+214,417,Kyrgyzstan,762,Tajikistan,48, Newsprint,8223.067,10.359697,Tajikistan -  Newsprint
+215,417,Kyrgyzstan,203,Czechia,22, Mineral and aerated waters not sweetened or flavoured,8703.573,10.122849,Czechia -  Mineral and aerated waters not sweetened or flavoured
+216,417,Kyrgyzstan,860,Uzbekistan,32, Quebracho tanning extract,6431.258,10.061165,Uzbekistan -  Quebracho tanning extract
+217,417,Kyrgyzstan,566,Nigeria,85, Electric motors of an output < 37.5 watts,10142.51,10.0,Nigeria -  Electric motors of an output < 37.5 watts
+218,417,Kyrgyzstan,268,Georgia,05," Hair, human, unworked, waste of human hair",29028.661,9.879442999999998,"Georgia -  Hair, human, unworked, waste of human hair"
+219,417,Kyrgyzstan,860,Uzbekistan,04, Milk not concentrated nor sweetened < 1% fat,8414.76,9.71016,Uzbekistan -  Milk not concentrated nor sweetened < 1% fat
+220,417,Kyrgyzstan,826,United Kingdom,29, Saturated acyclic hydrocarbons,37689.646,9.527813,United Kingdom -  Saturated acyclic hydrocarbons
+221,417,Kyrgyzstan,031,Azerbaijan,07," Potatoes seed, fresh or chilled",11219.621,9.492829,"Azerbaijan -  Potatoes seed, fresh or chilled"
+222,417,Kyrgyzstan,398,Kazakhstan,38, Artificial graphite,21195.887,9.328723,Kazakhstan -  Artificial graphite
+223,417,Kyrgyzstan,440,Lithuania,78, Lead refined unwrought,15793.81,9.317491,Lithuania -  Lead refined unwrought
+224,417,Kyrgyzstan,724,Spain,08," Coconuts, fresh or dried",45000.004,8.95,"Spain -  Coconuts, fresh or dried"
+225,417,Kyrgyzstan,643,Russian Federation,60," ""Long pile"" knit or crochet textile fabric",33108.865,8.894465,"Russian Federation -  ""Long pile"" knit or crochet textile fabric"
+226,417,Kyrgyzstan,804,Ukraine,87, Pedestrian controlled tractors,74235.029,8.871179,Ukraine -  Pedestrian controlled tractors
+227,417,Kyrgyzstan,392,Japan,07," Potatoes seed, fresh or chilled",8827.544,8.867921,"Japan -  Potatoes seed, fresh or chilled"
+228,417,Kyrgyzstan,268,Georgia,08," Coconuts, fresh or dried",14452.221,8.81258,"Georgia -  Coconuts, fresh or dried"
+229,417,Kyrgyzstan,384,Côte d'Ivoire,84, Nuclear reactors,10684.865,8.5,Côte d'Ivoire -  Nuclear reactors
+230,417,Kyrgyzstan,616,Poland,71," Pearls natural, not permanently mounted or set",2914.203,8.402282,"Poland -  Pearls natural, not permanently mounted or set"
+231,417,Kyrgyzstan,156,China,43," Raw mink furskins, whole",29568.548,8.196832,"China -  Raw mink furskins, whole"
+232,417,Kyrgyzstan,682,Saudi Arabia,08," Coconuts, fresh or dried",126025.421,8.051623,"Saudi Arabia -  Coconuts, fresh or dried"
+233,417,Kyrgyzstan,860,Uzbekistan,87, Pedestrian controlled tractors,60768.368,7.984225,Uzbekistan -  Pedestrian controlled tractors
+234,417,Kyrgyzstan,410,"Korea, Republic of",12, Soya beans,10596.98,7.774560999999999,"Korea, Republic of -  Soya beans"
+235,417,Kyrgyzstan,643,Russian Federation,15," Lard, other pig fat and poultry fat, rendered",12990.603,7.566254,"Russian Federation -  Lard, other pig fat and poultry fat, rendered"
+236,417,Kyrgyzstan,191,Croatia,07," Potatoes seed, fresh or chilled",14662.918,7.336064,"Croatia -  Potatoes seed, fresh or chilled"
+237,417,Kyrgyzstan,860,Uzbekistan,21," Coffee extracts, essences, concentrates, preparations",5737.911,7.067776,"Uzbekistan -  Coffee extracts, essences, concentrates, preparations"
+238,417,Kyrgyzstan,840,United States of America,94," Seats, aircraft",57797.117,6.867573999999999,"United States of America -  Seats, aircraft"
+239,417,Kyrgyzstan,414,Kuwait,04, Milk not concentrated nor sweetened < 1% fat,38141.995,6.693333,Kuwait -  Milk not concentrated nor sweetened < 1% fat
+240,417,Kyrgyzstan,860,Uzbekistan,40," Natural rubber latex, including prevulcanised",643.407,6.653142,"Uzbekistan -  Natural rubber latex, including prevulcanised"
+241,417,Kyrgyzstan,643,Russian Federation,86," Rail locomotives, externally electrically powered",2465.755,6.36782,"Russian Federation -  Rail locomotives, externally electrically powered"
+242,417,Kyrgyzstan,208,Denmark,07," Potatoes seed, fresh or chilled",14665.431,6.231431,"Denmark -  Potatoes seed, fresh or chilled"
+243,417,Kyrgyzstan,826,United Kingdom,71," Pearls natural, not permanently mounted or set",11626597.158,6.177804,"United Kingdom -  Pearls natural, not permanently mounted or set"
+244,417,Kyrgyzstan,398,Kazakhstan,61," Mens, boys overcoats, etc, of wool or hair, knit",66193.915,6.15401,"Kazakhstan -  Mens, boys overcoats, etc, of wool or hair, knit"
+245,417,Kyrgyzstan,398,Kazakhstan,65," Hat-forms, etc of felt, not shaped, no formed brim",15719.059,5.949398,"Kazakhstan -  Hat-forms, etc of felt, not shaped, no formed brim"
+246,417,Kyrgyzstan,356,India,07," Potatoes seed, fresh or chilled",10719.282,5.941873999999999,"India -  Potatoes seed, fresh or chilled"
+247,417,Kyrgyzstan,498,"Moldova, Republic of",07," Potatoes seed, fresh or chilled",8093.232,5.928072,"Moldova, Republic of -  Potatoes seed, fresh or chilled"
+248,417,Kyrgyzstan,276,Germany,94," Seats, aircraft",17823.884,5.846569000000001,"Germany -  Seats, aircraft"
+249,417,Kyrgyzstan,156,China,29, Saturated acyclic hydrocarbons,21879.321,5.816112,China -  Saturated acyclic hydrocarbons
+250,417,Kyrgyzstan,036,Australia,84, Nuclear reactors,161987.999,5.801918,Australia -  Nuclear reactors
+251,417,Kyrgyzstan,762,Tajikistan,12, Soya beans,495.908,5.788346,Tajikistan -  Soya beans
+252,417,Kyrgyzstan,398,Kazakhstan,16," Sausages, similar products of meat, meat offal & bloo",39912.82,5.722009,"Kazakhstan -  Sausages, similar products of meat, meat offal & bloo"
+253,417,Kyrgyzstan,784,United Arab Emirates,04, Milk not concentrated nor sweetened < 1% fat,9918.219,5.589205,United Arab Emirates -  Milk not concentrated nor sweetened < 1% fat
+254,417,Kyrgyzstan,643,Russian Federation,90," Optical fibres, except for telecommunications",327740.037,5.556856,"Russian Federation -  Optical fibres, except for telecommunications"
+255,417,Kyrgyzstan,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",13730.482,5.429841000000001,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+256,417,Kyrgyzstan,440,Lithuania,07," Potatoes seed, fresh or chilled",7371.039,5.289225,"Lithuania -  Potatoes seed, fresh or chilled"
+257,417,Kyrgyzstan,051,Armenia,07," Potatoes seed, fresh or chilled",8731.372,5.2880720000000005,"Armenia -  Potatoes seed, fresh or chilled"
+258,417,Kyrgyzstan,860,Uzbekistan,23," Flour or meal, pellet of meat or offal for animal fee",953.371,5.164085,"Uzbekistan -  Flour or meal, pellet of meat or offal for animal fee"
+259,417,Kyrgyzstan,203,Czechia,12, Soya beans,10155.761,5.0536509999999994,Czechia -  Soya beans
+260,417,Kyrgyzstan,104,Myanmar,48, Newsprint,6304.445,4.718243999999999,Myanmar -  Newsprint
+261,417,Kyrgyzstan,276,Germany,79," Zinc, not alloyed, unwrought, >99% pure",11450.968,4.56775,"Germany -  Zinc, not alloyed, unwrought, >99% pure"
+262,417,Kyrgyzstan,156,China,19," Infant foods of cereals, flour, starch or milk, retai",7099.514,4.463494,"China -  Infant foods of cereals, flour, starch or milk, retai"
+263,417,Kyrgyzstan,398,Kazakhstan,55," Filament tow of nylon, polyamides",3686.966,4.427658,"Kazakhstan -  Filament tow of nylon, polyamides"
+264,417,Kyrgyzstan,398,Kazakhstan,18," Cocoa beans, whole or broken, raw or roasted",11718.981,4.311585,"Kazakhstan -  Cocoa beans, whole or broken, raw or roasted"
+265,417,Kyrgyzstan,276,Germany,73, Sheet piling of iron or steel,9666.959,4.3062700000000005,Germany -  Sheet piling of iron or steel
+266,417,Kyrgyzstan,364,Iran (Islamic Republic of),26," Iron ore, concentrate, not iron pyrites,unagglomerate",695.527,4.154363,"Iran (Islamic Republic of) -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+267,417,Kyrgyzstan,440,Lithuania,04, Milk not concentrated nor sweetened < 1% fat,8580.477,4.014444,Lithuania -  Milk not concentrated nor sweetened < 1% fat
+268,417,Kyrgyzstan,104,Myanmar,70," Glass cullet, waste or scrap, glass in the mass",562.385,4.0,"Myanmar -  Glass cullet, waste or scrap, glass in the mass"
+269,417,Kyrgyzstan,031,Azerbaijan,08," Coconuts, fresh or dried",8357.267,3.970081,"Azerbaijan -  Coconuts, fresh or dried"
+270,417,Kyrgyzstan,440,Lithuania,02," Bovine carcasses and half carcasses, fresh or chilled",1234.373,3.789548,"Lithuania -  Bovine carcasses and half carcasses, fresh or chilled"
+271,417,Kyrgyzstan,156,China,20," Cucumbers,gherkins, prepared or preserved by vinegar",1660.197,3.735955,"China -  Cucumbers,gherkins, prepared or preserved by vinegar"
+272,417,Kyrgyzstan,616,Poland,04, Milk not concentrated nor sweetened < 1% fat,12708.082,3.733902,Poland -  Milk not concentrated nor sweetened < 1% fat
+273,417,Kyrgyzstan,643,Russian Federation,67," Bird skins and feathers, articles therefrom",2286.91,3.696736,"Russian Federation -  Bird skins and feathers, articles therefrom"
+274,417,Kyrgyzstan,203,Czechia,07," Potatoes seed, fresh or chilled",14225.771,3.652909,"Czechia -  Potatoes seed, fresh or chilled"
+275,417,Kyrgyzstan,392,Japan,05," Hair, human, unworked, waste of human hair",21007.274,3.547312,"Japan -  Hair, human, unworked, waste of human hair"
+276,417,Kyrgyzstan,398,Kazakhstan,42," Saddlery and harness, of any material",18448.547,3.3510940000000002,"Kazakhstan -  Saddlery and harness, of any material"
+277,417,Kyrgyzstan,804,Ukraine,85, Electric motors of an output < 37.5 watts,4304.915,3.346447,Ukraine -  Electric motors of an output < 37.5 watts
+278,417,Kyrgyzstan,380,Italy,08," Coconuts, fresh or dried",27869.561,3.29706,"Italy -  Coconuts, fresh or dried"
+279,417,Kyrgyzstan,860,Uzbekistan,47, Mechanical wood pulp,287.423,3.286812,Uzbekistan -  Mechanical wood pulp
+280,417,Kyrgyzstan,004,Afghanistan,07," Potatoes seed, fresh or chilled",5394.136,3.253316,"Afghanistan -  Potatoes seed, fresh or chilled"
+281,417,Kyrgyzstan,376,Israel,08," Coconuts, fresh or dried",55215.097,3.201689,"Israel -  Coconuts, fresh or dried"
+282,417,Kyrgyzstan,840,United States of America,05," Hair, human, unworked, waste of human hair",72162.814,3.147999,"United States of America -  Hair, human, unworked, waste of human hair"
+283,417,Kyrgyzstan,398,Kazakhstan,59, Gum or amylaceous covered textiles for book covers et,1822.476,3.126389,Kazakhstan -  Gum or amylaceous covered textiles for book covers et
+284,417,Kyrgyzstan,392,Japan,04, Milk not concentrated nor sweetened < 1% fat,36438.394,3.0519209999999997,Japan -  Milk not concentrated nor sweetened < 1% fat
+285,417,Kyrgyzstan,276,Germany,81," Powders, tungsten (wolfram)",221784.286,3.0005100000000002,"Germany -  Powders, tungsten (wolfram)"
+286,417,Kyrgyzstan,144,Sri Lanka,04, Milk not concentrated nor sweetened < 1% fat,14137.129,2.9752310000000004,Sri Lanka -  Milk not concentrated nor sweetened < 1% fat
+287,417,Kyrgyzstan,762,Tajikistan,08," Coconuts, fresh or dried",849.048,2.944218,"Tajikistan -  Coconuts, fresh or dried"
+288,417,Kyrgyzstan,496,Mongolia,84, Nuclear reactors,385.807,2.93617,Mongolia -  Nuclear reactors
+289,417,Kyrgyzstan,040,Austria,07," Potatoes seed, fresh or chilled",6669.786,2.901216,"Austria -  Potatoes seed, fresh or chilled"
+290,417,Kyrgyzstan,496,Mongolia,17," Raw sugar, cane",4271.724,2.854956,"Mongolia -  Raw sugar, cane"
+291,417,Kyrgyzstan,356,India,39, Polyethylene - specific gravity <0.94 in primary form,4356.068,2.824268,India -  Polyethylene - specific gravity <0.94 in primary form
+292,417,Kyrgyzstan,356,India,08," Coconuts, fresh or dried",27872.304,2.7325549999999996,"India -  Coconuts, fresh or dried"
+293,417,Kyrgyzstan,104,Myanmar,35, Casein,3420.656,2.7,Myanmar -  Casein
+294,417,Kyrgyzstan,250,France,84, Nuclear reactors,88279.215,2.671936,France -  Nuclear reactors
+295,417,Kyrgyzstan,191,Croatia,08," Coconuts, fresh or dried",6854.034,2.5448980000000003,"Croatia -  Coconuts, fresh or dried"
+296,417,Kyrgyzstan,376,Israel,48, Newsprint,2151.633,2.517097,Israel -  Newsprint
+297,417,Kyrgyzstan,398,Kazakhstan,49," Brochures, leaflets and similar, in single sheets",8283.514,2.510408,"Kazakhstan -  Brochures, leaflets and similar, in single sheets"
+298,417,Kyrgyzstan,398,Kazakhstan,54, Sewing thread of synthetic filaments,3110.7,2.41367,Kazakhstan -  Sewing thread of synthetic filaments
+299,417,Kyrgyzstan,762,Tajikistan,15," Lard, other pig fat and poultry fat, rendered",1279.802,2.393526,"Tajikistan -  Lard, other pig fat and poultry fat, rendered"
+300,417,Kyrgyzstan,496,Mongolia,19," Infant foods of cereals, flour, starch or milk, retai",3668.092,2.365506,"Mongolia -  Infant foods of cereals, flour, starch or milk, retai"
+301,417,Kyrgyzstan,643,Russian Federation,55," Filament tow of nylon, polyamides",13092.362,2.360754,"Russian Federation -  Filament tow of nylon, polyamides"
+302,417,Kyrgyzstan,762,Tajikistan,57," Carpets of wool or fine animal hair, knotted",3039.818,2.335271,"Tajikistan -  Carpets of wool or fine animal hair, knotted"
+303,417,Kyrgyzstan,440,Lithuania,08," Coconuts, fresh or dried",12068.28,2.3058170000000002,"Lithuania -  Coconuts, fresh or dried"
+304,417,Kyrgyzstan,104,Myanmar,87, Pedestrian controlled tractors,14137.39,2.2902240000000003,Myanmar -  Pedestrian controlled tractors
+305,417,Kyrgyzstan,682,Saudi Arabia,07," Potatoes seed, fresh or chilled",4105.528,2.279982,"Saudi Arabia -  Potatoes seed, fresh or chilled"
+306,417,Kyrgyzstan,643,Russian Federation,18," Cocoa beans, whole or broken, raw or roasted",5291.848,2.1089949999999997,"Russian Federation -  Cocoa beans, whole or broken, raw or roasted"
+307,417,Kyrgyzstan,112,Belarus,29, Saturated acyclic hydrocarbons,10598.787,2.1016709999999996,Belarus -  Saturated acyclic hydrocarbons
+308,417,Kyrgyzstan,410,"Korea, Republic of",87, Pedestrian controlled tractors,4274.693,2.100612,"Korea, Republic of -  Pedestrian controlled tractors"
+309,417,Kyrgyzstan,051,Armenia,17," Raw sugar, cane",3868.103,2.048492,"Armenia -  Raw sugar, cane"
+310,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",07," Potatoes seed, fresh or chilled",3216.526,2.013922,"Switzerland, Liechtenstein -  Potatoes seed, fresh or chilled"
+311,417,Kyrgyzstan,498,"Moldova, Republic of",87, Pedestrian controlled tractors,19093.199,1.997215,"Moldova, Republic of -  Pedestrian controlled tractors"
+312,417,Kyrgyzstan,804,Ukraine,84, Nuclear reactors,32156.228,1.9781199999999999,Ukraine -  Nuclear reactors
+313,417,Kyrgyzstan,024,Angola,38, Artificial graphite,5181.758,1.9,Angola -  Artificial graphite
+314,417,Kyrgyzstan,156,China,41," Bovine skins, whole, raw",2843.453,1.894163,"China -  Bovine skins, whole, raw"
+315,417,Kyrgyzstan,860,Uzbekistan,10, Durum wheat,315.376,1.883322,Uzbekistan -  Durum wheat
+316,417,Kyrgyzstan,616,Poland,08," Coconuts, fresh or dried",782.988,1.874067,"Poland -  Coconuts, fresh or dried"
+317,417,Kyrgyzstan,860,Uzbekistan,08," Coconuts, fresh or dried",1921.573,1.864472,"Uzbekistan -  Coconuts, fresh or dried"
+318,417,Kyrgyzstan,578,Norway,07," Potatoes seed, fresh or chilled",4278.618,1.816497,"Norway -  Potatoes seed, fresh or chilled"
+319,417,Kyrgyzstan,156,China,84, Nuclear reactors,5287.466,1.8019880000000001,China -  Nuclear reactors
+320,417,Kyrgyzstan,104,Myanmar,74, Copper mattes,19679.706,1.7806300000000002,Myanmar -  Copper mattes
+321,417,Kyrgyzstan,398,Kazakhstan,31," Animal or vegetable fertilizers, in packs >10 kg",2529.381,1.7610080000000001,"Kazakhstan -  Animal or vegetable fertilizers, in packs >10 kg"
+322,417,Kyrgyzstan,840,United States of America,38, Artificial graphite,5875.756,1.749433,United States of America -  Artificial graphite
+323,417,Kyrgyzstan,376,Israel,07," Potatoes seed, fresh or chilled",3256.513,1.598746,"Israel -  Potatoes seed, fresh or chilled"
+324,417,Kyrgyzstan,586,Pakistan,84, Nuclear reactors,8354.018,1.574688,Pakistan -  Nuclear reactors
+325,417,Kyrgyzstan,414,Kuwait,11, Wheat or meslin flour,4394.81,1.45,Kuwait -  Wheat or meslin flour
+326,417,Kyrgyzstan,643,Russian Federation,59, Gum or amylaceous covered textiles for book covers et,112428.954,1.43725,Russian Federation -  Gum or amylaceous covered textiles for book covers et
+327,417,Kyrgyzstan,840,United States of America,64," Waterproof footwear (Wellingtons etc), metal toe cap",57362.842,1.417837,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+328,417,Kyrgyzstan,031,Azerbaijan,87, Pedestrian controlled tractors,6605.612,1.416712,Azerbaijan -  Pedestrian controlled tractors
+329,417,Kyrgyzstan,643,Russian Federation,96," Worked ivory, articles of ivory",4153.681,1.3586340000000001,"Russian Federation -  Worked ivory, articles of ivory"
+330,417,Kyrgyzstan,616,Poland,93," Military weapons, other than hand guns, swords, etc",3119.344,1.3543409999999998,"Poland -  Military weapons, other than hand guns, swords, etc"
+331,417,Kyrgyzstan,826,United Kingdom,08," Coconuts, fresh or dried",5914.433,1.353802,"United Kingdom -  Coconuts, fresh or dried"
+332,417,Kyrgyzstan,840,United States of America,68," Stone setts, curbstones, flagstones (except slate)",1094.483,1.343595,"United States of America -  Stone setts, curbstones, flagstones (except slate)"
+333,417,Kyrgyzstan,364,Iran (Islamic Republic of),84, Nuclear reactors,1510.225,1.342238,Iran (Islamic Republic of) -  Nuclear reactors
+334,417,Kyrgyzstan,762,Tajikistan,69," Bricks, blocks and ceramic goods of siliceous earths",2499.995,1.326153,"Tajikistan -  Bricks, blocks and ceramic goods of siliceous earths"
+335,417,Kyrgyzstan,616,Poland,19," Infant foods of cereals, flour, starch or milk, retai",1945.904,1.302644,"Poland -  Infant foods of cereals, flour, starch or milk, retai"
+336,417,Kyrgyzstan,056,Belgium,71," Pearls natural, not permanently mounted or set",532.671,1.301427,"Belgium -  Pearls natural, not permanently mounted or set"
+337,417,Kyrgyzstan,156,China,71," Pearls natural, not permanently mounted or set",618.025,1.292855,"China -  Pearls natural, not permanently mounted or set"
+338,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",44, Fuel wood,3102.851,1.2677070000000001,"Switzerland, Liechtenstein -  Fuel wood"
+339,417,Kyrgyzstan,496,Mongolia,57," Carpets of wool or fine animal hair, knotted",5164.441,1.263892,"Mongolia -  Carpets of wool or fine animal hair, knotted"
+340,417,Kyrgyzstan,643,Russian Federation,56," Sanitary towels, diapers and similar articles",3585.767,1.255384,"Russian Federation -  Sanitary towels, diapers and similar articles"
+341,417,Kyrgyzstan,056,Belgium,07," Potatoes seed, fresh or chilled",2635.457,1.24767,"Belgium -  Potatoes seed, fresh or chilled"
+342,417,Kyrgyzstan,398,Kazakhstan,82, Spades and shovels,7899.121,1.247106,Kazakhstan -  Spades and shovels
+343,417,Kyrgyzstan,496,Mongolia,73, Sheet piling of iron or steel,5520.491,1.231554,Mongolia -  Sheet piling of iron or steel
+344,417,Kyrgyzstan,268,Georgia,63, Electric blankets of textile material,1380.405,1.224886,Georgia -  Electric blankets of textile material
+345,417,Kyrgyzstan,048,Bahrain,04, Milk not concentrated nor sweetened < 1% fat,7203.181,1.210969,Bahrain -  Milk not concentrated nor sweetened < 1% fat
+346,417,Kyrgyzstan,112,Belarus,83, Padlocks of base metal,1264.19,1.2085409999999999,Belarus -  Padlocks of base metal
+347,417,Kyrgyzstan,398,Kazakhstan,15," Lard, other pig fat and poultry fat, rendered",2827.812,1.1714870000000002,"Kazakhstan -  Lard, other pig fat and poultry fat, rendered"
+348,417,Kyrgyzstan,643,Russian Federation,81," Powders, tungsten (wolfram)",408.114,1.12972,"Russian Federation -  Powders, tungsten (wolfram)"
+349,417,Kyrgyzstan,250,France,48, Newsprint,4050.901,1.121629,France -  Newsprint
+350,417,Kyrgyzstan,376,Israel,69," Bricks, blocks and ceramic goods of siliceous earths",1919.71,1.108763,"Israel -  Bricks, blocks and ceramic goods of siliceous earths"
+351,417,Kyrgyzstan,398,Kazakhstan,96," Worked ivory, articles of ivory",5569.138,1.091828,"Kazakhstan -  Worked ivory, articles of ivory"
+352,417,Kyrgyzstan,762,Tajikistan,85, Electric motors of an output < 37.5 watts,8110.288,1.072616,Tajikistan -  Electric motors of an output < 37.5 watts
+353,417,Kyrgyzstan,398,Kazakhstan,60," ""Long pile"" knit or crochet textile fabric",4133.483,1.045099,"Kazakhstan -  ""Long pile"" knit or crochet textile fabric"
+354,417,Kyrgyzstan,112,Belarus,62," Mens, boys overcoats of wool or hair, not knit",7963.984,1.036213,"Belarus -  Mens, boys overcoats of wool or hair, not knit"
+355,417,Kyrgyzstan,364,Iran (Islamic Republic of),68," Stone setts, curbstones, flagstones (except slate)",1142.461,1.033494,"Iran (Islamic Republic of) -  Stone setts, curbstones, flagstones (except slate)"
+356,417,Kyrgyzstan,860,Uzbekistan,83, Padlocks of base metal,1325.41,1.032469,Uzbekistan -  Padlocks of base metal
+357,417,Kyrgyzstan,276,Germany,39, Polyethylene - specific gravity <0.94 in primary form,11792.377,1.009,Germany -  Polyethylene - specific gravity <0.94 in primary form
+358,417,Kyrgyzstan,762,Tajikistan,84, Nuclear reactors,27504.117,0.999892,Tajikistan -  Nuclear reactors
+359,417,Kyrgyzstan,496,Mongolia,20," Cucumbers,gherkins, prepared or preserved by vinegar",411.187,0.994923,"Mongolia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+360,417,Kyrgyzstan,276,Germany,63, Electric blankets of textile material,1596.751,0.9631620000000001,Germany -  Electric blankets of textile material
+361,417,Kyrgyzstan,860,Uzbekistan,76," Aluminium unwrought, not alloyed",1357.536,0.962689,"Uzbekistan -  Aluminium unwrought, not alloyed"
+362,417,Kyrgyzstan,762,Tajikistan,63, Electric blankets of textile material,782.5,0.95289,Tajikistan -  Electric blankets of textile material
+363,417,Kyrgyzstan,203,Czechia,82, Spades and shovels,5350.58,0.947239,Czechia -  Spades and shovels
+364,417,Kyrgyzstan,250,France,12, Soya beans,530.513,0.913907,France -  Soya beans
+365,417,Kyrgyzstan,376,Israel,39, Polyethylene - specific gravity <0.94 in primary form,11464.549,0.9050119999999999,Israel -  Polyethylene - specific gravity <0.94 in primary form
+366,417,Kyrgyzstan,398,Kazakhstan,33, Essential oils of bergamot,9533.071,0.8730800000000001,Kazakhstan -  Essential oils of bergamot
+367,417,Kyrgyzstan,276,Germany,42," Saddlery and harness, of any material",7685.475,0.85,"Germany -  Saddlery and harness, of any material"
+368,417,Kyrgyzstan,784,United Arab Emirates,17," Raw sugar, cane",9838.292,0.8392000000000001,"United Arab Emirates -  Raw sugar, cane"
+369,417,Kyrgyzstan,440,Lithuania,21," Coffee extracts, essences, concentrates, preparations",1281.112,0.834639,"Lithuania -  Coffee extracts, essences, concentrates, preparations"
+370,417,Kyrgyzstan,762,Tajikistan,95," Rideable wheeled toys, dolls carriages",617.837,0.832426,"Tajikistan -  Rideable wheeled toys, dolls carriages"
+371,417,Kyrgyzstan,586,Pakistan,05," Hair, human, unworked, waste of human hair",97.932,0.8181889999999999,"Pakistan -  Hair, human, unworked, waste of human hair"
+372,417,Kyrgyzstan,762,Tajikistan,21," Coffee extracts, essences, concentrates, preparations",425.211,0.799203,"Tajikistan -  Coffee extracts, essences, concentrates, preparations"
+373,417,Kyrgyzstan,616,Poland,28, Chlorine,8785.065,0.7914880000000001,Poland -  Chlorine
+374,417,Kyrgyzstan,352,Iceland,21," Coffee extracts, essences, concentrates, preparations",1524.546,0.752181,"Iceland -  Coffee extracts, essences, concentrates, preparations"
+375,417,Kyrgyzstan,762,Tajikistan,10, Durum wheat,368.134,0.7427,Tajikistan -  Durum wheat
+376,417,Kyrgyzstan,398,Kazakhstan,90," Optical fibres, except for telecommunications",15038.641,0.7396739999999999,"Kazakhstan -  Optical fibres, except for telecommunications"
+377,417,Kyrgyzstan,826,United Kingdom,94," Seats, aircraft",788.752,0.691823,"United Kingdom -  Seats, aircraft"
+378,417,Kyrgyzstan,296,Kiribati,39, Polyethylene - specific gravity <0.94 in primary form,1863.475,0.68175,Kiribati -  Polyethylene - specific gravity <0.94 in primary form
+379,417,Kyrgyzstan,616,Poland,13, Lac,3833.225,0.668265,Poland -  Lac
+380,417,Kyrgyzstan,156,China,17," Raw sugar, cane",743.967,0.667618,"China -  Raw sugar, cane"
+381,417,Kyrgyzstan,392,Japan,63, Electric blankets of textile material,13541.436,0.648655,Japan -  Electric blankets of textile material
+382,417,Kyrgyzstan,643,Russian Federation,48, Newsprint,4552.617,0.6368339999999999,Russian Federation -  Newsprint
+383,417,Kyrgyzstan,804,Ukraine,21," Coffee extracts, essences, concentrates, preparations",20302.166,0.628399,"Ukraine -  Coffee extracts, essences, concentrates, preparations"
+384,417,Kyrgyzstan,643,Russian Federation,43," Raw mink furskins, whole",7577.648,0.610325,"Russian Federation -  Raw mink furskins, whole"
+385,417,Kyrgyzstan,643,Russian Federation,95," Rideable wheeled toys, dolls carriages",4042.603,0.6044539999999999,"Russian Federation -  Rideable wheeled toys, dolls carriages"
+386,417,Kyrgyzstan,398,Kazakhstan,02," Bovine carcasses and half carcasses, fresh or chilled",1919.176,0.6044149999999999,"Kazakhstan -  Bovine carcasses and half carcasses, fresh or chilled"
+387,417,Kyrgyzstan,860,Uzbekistan,07," Potatoes seed, fresh or chilled",170.077,0.604264,"Uzbekistan -  Potatoes seed, fresh or chilled"
+388,417,Kyrgyzstan,112,Belarus,52," Cotton, not carded or combed",943.97,0.597432,"Belarus -  Cotton, not carded or combed"
+389,417,Kyrgyzstan,104,Myanmar,30," Glands and other organs, dried, for therapeutic uses",5046.296,0.595,"Myanmar -  Glands and other organs, dried, for therapeutic uses"
+390,417,Kyrgyzstan,688,Serbia,68," Stone setts, curbstones, flagstones (except slate)",127.528,0.589876,"Serbia -  Stone setts, curbstones, flagstones (except slate)"
+391,417,Kyrgyzstan,840,United States of America,04, Milk not concentrated nor sweetened < 1% fat,3339.487,0.577403,United States of America -  Milk not concentrated nor sweetened < 1% fat
+392,417,Kyrgyzstan,268,Georgia,60," ""Long pile"" knit or crochet textile fabric",1784.571,0.5724130000000001,"Georgia -  ""Long pile"" knit or crochet textile fabric"
+393,417,Kyrgyzstan,422,Lebanon,07," Potatoes seed, fresh or chilled",1050.088,0.565024,"Lebanon -  Potatoes seed, fresh or chilled"
+394,417,Kyrgyzstan,840,United States of America,32, Quebracho tanning extract,2490.401,0.55487,United States of America -  Quebracho tanning extract
+395,417,Kyrgyzstan,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,29822.422,0.5522720000000001,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+396,417,Kyrgyzstan,762,Tajikistan,38, Artificial graphite,732.745,0.550667,Tajikistan -  Artificial graphite
+397,417,Kyrgyzstan,703,Slovakia,95," Rideable wheeled toys, dolls carriages",22830.309,0.547,"Slovakia -  Rideable wheeled toys, dolls carriages"
+398,417,Kyrgyzstan,156,China,25," Salt (sodium chloride) including solution, salt water",215.672,0.5372899999999999,"China -  Salt (sodium chloride) including solution, salt water"
+399,417,Kyrgyzstan,104,Myanmar,33, Essential oils of bergamot,1677.598,0.53616,Myanmar -  Essential oils of bergamot
+400,417,Kyrgyzstan,643,Russian Federation,58," Woven pile fabric of wool or fine animal hair, w >30c",3957.527,0.535116,"Russian Federation -  Woven pile fabric of wool or fine animal hair, w >30c"
+401,417,Kyrgyzstan,422,Lebanon,08," Coconuts, fresh or dried",6575.486,0.535053,"Lebanon -  Coconuts, fresh or dried"
+402,417,Kyrgyzstan,104,Myanmar,38, Artificial graphite,3026.195,0.535,Myanmar -  Artificial graphite
+403,417,Kyrgyzstan,250,France,62," Mens, boys overcoats of wool or hair, not knit",11090.889,0.52967,"France -  Mens, boys overcoats of wool or hair, not knit"
+404,417,Kyrgyzstan,376,Israel,68," Stone setts, curbstones, flagstones (except slate)",4082.46,0.523169,"Israel -  Stone setts, curbstones, flagstones (except slate)"
+405,417,Kyrgyzstan,860,Uzbekistan,62," Mens, boys overcoats of wool or hair, not knit",16056.087,0.518942,"Uzbekistan -  Mens, boys overcoats of wool or hair, not knit"
+406,417,Kyrgyzstan,840,United States of America,74, Copper mattes,4143.294,0.515454,United States of America -  Copper mattes
+407,417,Kyrgyzstan,762,Tajikistan,90," Optical fibres, except for telecommunications",2510.794,0.506234,"Tajikistan -  Optical fibres, except for telecommunications"
+408,417,Kyrgyzstan,804,Ukraine,12, Soya beans,899.897,0.496278,Ukraine -  Soya beans
+409,417,Kyrgyzstan,250,France,57," Carpets of wool or fine animal hair, knotted",768.138,0.489165,"France -  Carpets of wool or fine animal hair, knotted"
+410,417,Kyrgyzstan,051,Armenia,19," Infant foods of cereals, flour, starch or milk, retai",932.383,0.48424900000000004,"Armenia -  Infant foods of cereals, flour, starch or milk, retai"
+411,417,Kyrgyzstan,860,Uzbekistan,38, Artificial graphite,381.011,0.483825,Uzbekistan -  Artificial graphite
+412,417,Kyrgyzstan,496,Mongolia,22, Mineral and aerated waters not sweetened or flavoured,44.156,0.48365600000000003,Mongolia -  Mineral and aerated waters not sweetened or flavoured
+413,417,Kyrgyzstan,804,Ukraine,07," Potatoes seed, fresh or chilled",759.586,0.48251,"Ukraine -  Potatoes seed, fresh or chilled"
+414,417,Kyrgyzstan,643,Russian Federation,54, Sewing thread of synthetic filaments,5171.197,0.48038099999999995,Russian Federation -  Sewing thread of synthetic filaments
+415,417,Kyrgyzstan,360,Indonesia,84, Nuclear reactors,15634.359,0.479103,Indonesia -  Nuclear reactors
+416,417,Kyrgyzstan,643,Russian Federation,11, Wheat or meslin flour,590.027,0.478811,Russian Federation -  Wheat or meslin flour
+417,417,Kyrgyzstan,392,Japan,08," Coconuts, fresh or dried",9295.389,0.464647,"Japan -  Coconuts, fresh or dried"
+418,417,Kyrgyzstan,218,Ecuador,84, Nuclear reactors,2489.0,0.46004199999999995,Ecuador -  Nuclear reactors
+419,417,Kyrgyzstan,826,United Kingdom,56," Sanitary towels, diapers and similar articles",3761.804,0.449023,"United Kingdom -  Sanitary towels, diapers and similar articles"
+420,417,Kyrgyzstan,440,Lithuania,81," Powders, tungsten (wolfram)",37749.022,0.429387,"Lithuania -  Powders, tungsten (wolfram)"
+421,417,Kyrgyzstan,012,Algeria,84, Nuclear reactors,1058.474,0.414526,Algeria -  Nuclear reactors
+422,417,Kyrgyzstan,840,United States of America,63, Electric blankets of textile material,27605.09,0.411914,United States of America -  Electric blankets of textile material
+423,417,Kyrgyzstan,682,Saudi Arabia,11, Wheat or meslin flour,801.201,0.40963299999999997,Saudi Arabia -  Wheat or meslin flour
+424,417,Kyrgyzstan,268,Georgia,96," Worked ivory, articles of ivory",135.622,0.40685000000000004,"Georgia -  Worked ivory, articles of ivory"
+425,417,Kyrgyzstan,804,Ukraine,28, Chlorine,4705.781,0.395597,Ukraine -  Chlorine
+426,417,Kyrgyzstan,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",2550.379,0.383954,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+427,417,Kyrgyzstan,112,Belarus,39, Polyethylene - specific gravity <0.94 in primary form,2305.873,0.382153,Belarus -  Polyethylene - specific gravity <0.94 in primary form
+428,417,Kyrgyzstan,398,Kazakhstan,13, Lac,2037.603,0.36716000000000004,Kazakhstan -  Lac
+429,417,Kyrgyzstan,826,United Kingdom,04, Milk not concentrated nor sweetened < 1% fat,572.566,0.34879899999999997,United Kingdom -  Milk not concentrated nor sweetened < 1% fat
+430,417,Kyrgyzstan,616,Poland,10, Durum wheat,408.443,0.348648,Poland -  Durum wheat
+431,417,Kyrgyzstan,643,Russian Federation,38, Artificial graphite,555.02,0.344433,Russian Federation -  Artificial graphite
+432,417,Kyrgyzstan,410,"Korea, Republic of",94," Seats, aircraft",14319.165,0.342763,"Korea, Republic of -  Seats, aircraft"
+433,417,Kyrgyzstan,643,Russian Federation,14, Bamboos used primarily for plaiting,19.03,0.332975,Russian Federation -  Bamboos used primarily for plaiting
+434,417,Kyrgyzstan,276,Germany,03," Ornamental fish, live",3178.291,0.33,"Germany -  Ornamental fish, live"
+435,417,Kyrgyzstan,496,Mongolia,18," Cocoa beans, whole or broken, raw or roasted",697.672,0.32793700000000003,"Mongolia -  Cocoa beans, whole or broken, raw or roasted"
+436,417,Kyrgyzstan,250,France,85, Electric motors of an output < 37.5 watts,3596.62,0.32638,France -  Electric motors of an output < 37.5 watts
+437,417,Kyrgyzstan,051,Armenia,18," Cocoa beans, whole or broken, raw or roasted",673.86,0.325021,"Armenia -  Cocoa beans, whole or broken, raw or roasted"
+438,417,Kyrgyzstan,360,Indonesia,32, Quebracho tanning extract,1927.728,0.32410300000000003,Indonesia -  Quebracho tanning extract
+439,417,Kyrgyzstan,112,Belarus,64," Waterproof footwear (Wellingtons etc), metal toe cap",1064.145,0.324004,"Belarus -  Waterproof footwear (Wellingtons etc), metal toe cap"
+440,417,Kyrgyzstan,360,Indonesia,54, Sewing thread of synthetic filaments,2606.341,0.316836,Indonesia -  Sewing thread of synthetic filaments
+441,417,Kyrgyzstan,860,Uzbekistan,63, Electric blankets of textile material,702.109,0.316239,Uzbekistan -  Electric blankets of textile material
+442,417,Kyrgyzstan,398,Kazakhstan,52," Cotton, not carded or combed",698.165,0.30426299999999995,"Kazakhstan -  Cotton, not carded or combed"
+443,417,Kyrgyzstan,642,Romania,13, Lac,15260.188,0.298263,Romania -  Lac
+444,417,Kyrgyzstan,392,Japan,71," Pearls natural, not permanently mounted or set",937190.416,0.285164,"Japan -  Pearls natural, not permanently mounted or set"
+445,417,Kyrgyzstan,398,Kazakhstan,43," Raw mink furskins, whole",5746.816,0.27575,"Kazakhstan -  Raw mink furskins, whole"
+446,417,Kyrgyzstan,410,"Korea, Republic of",07," Potatoes seed, fresh or chilled",8124.421,0.270583,"Korea, Republic of -  Potatoes seed, fresh or chilled"
+447,417,Kyrgyzstan,496,Mongolia,39, Polyethylene - specific gravity <0.94 in primary form,1090.734,0.26456599999999997,Mongolia -  Polyethylene - specific gravity <0.94 in primary form
+448,417,Kyrgyzstan,398,Kazakhstan,56," Sanitary towels, diapers and similar articles",1391.414,0.262704,"Kazakhstan -  Sanitary towels, diapers and similar articles"
+449,417,Kyrgyzstan,860,Uzbekistan,18," Cocoa beans, whole or broken, raw or roasted",196.563,0.25805900000000004,"Uzbekistan -  Cocoa beans, whole or broken, raw or roasted"
+450,417,Kyrgyzstan,762,Tajikistan,18," Cocoa beans, whole or broken, raw or roasted",598.809,0.254674,"Tajikistan -  Cocoa beans, whole or broken, raw or roasted"
+451,417,Kyrgyzstan,398,Kazakhstan,10, Durum wheat,133.799,0.254671,Kazakhstan -  Durum wheat
+452,417,Kyrgyzstan,586,Pakistan,87, Pedestrian controlled tractors,5032.998,0.251367,Pakistan -  Pedestrian controlled tractors
+453,417,Kyrgyzstan,036,Australia,07," Potatoes seed, fresh or chilled",2869.985,0.251,"Australia -  Potatoes seed, fresh or chilled"
+454,417,Kyrgyzstan,180,"Congo, Dem. Rep. of the",85, Electric motors of an output < 37.5 watts,199.287,0.24508000000000002,"Congo, Dem. Rep. of the -  Electric motors of an output < 37.5 watts"
+455,417,Kyrgyzstan,840,United States of America,62," Mens, boys overcoats of wool or hair, not knit",3763.469,0.24481299999999998,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+456,417,Kyrgyzstan,784,United Arab Emirates,68," Stone setts, curbstones, flagstones (except slate)",2490.961,0.239574,"United Arab Emirates -  Stone setts, curbstones, flagstones (except slate)"
+457,417,Kyrgyzstan,840,United States of America,61," Mens, boys overcoats, etc, of wool or hair, knit",6026.021,0.235477,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+458,417,Kyrgyzstan,398,Kazakhstan,58," Woven pile fabric of wool or fine animal hair, w >30c",158.648,0.228292,"Kazakhstan -  Woven pile fabric of wool or fine animal hair, w >30c"
+459,417,Kyrgyzstan,156,China,18," Cocoa beans, whole or broken, raw or roasted",254.491,0.226555,"China -  Cocoa beans, whole or broken, raw or roasted"
+460,417,Kyrgyzstan,414,Kuwait,19," Infant foods of cereals, flour, starch or milk, retai",259.856,0.224,"Kuwait -  Infant foods of cereals, flour, starch or milk, retai"
+461,417,Kyrgyzstan,682,Saudi Arabia,73, Sheet piling of iron or steel,19540.359,0.218674,Saudi Arabia -  Sheet piling of iron or steel
+462,417,Kyrgyzstan,276,Germany,52," Cotton, not carded or combed",426.775,0.209696,"Germany -  Cotton, not carded or combed"
+463,417,Kyrgyzstan,250,France,56," Sanitary towels, diapers and similar articles",2548.576,0.209523,"France -  Sanitary towels, diapers and similar articles"
+464,417,Kyrgyzstan,840,United States of America,57," Carpets of wool or fine animal hair, knotted",5915.435,0.20458199999999999,"United States of America -  Carpets of wool or fine animal hair, knotted"
+465,417,Kyrgyzstan,860,Uzbekistan,61," Mens, boys overcoats, etc, of wool or hair, knit",3729.611,0.202691,"Uzbekistan -  Mens, boys overcoats, etc, of wool or hair, knit"
+466,417,Kyrgyzstan,031,Azerbaijan,63, Electric blankets of textile material,22.816,0.202398,Azerbaijan -  Electric blankets of textile material
+467,417,Kyrgyzstan,826,United Kingdom,88," Gliders, hang gliders",9536.216,0.188982,"United Kingdom -  Gliders, hang gliders"
+468,417,Kyrgyzstan,268,Georgia,61," Mens, boys overcoats, etc, of wool or hair, knit",820.052,0.186158,"Georgia -  Mens, boys overcoats, etc, of wool or hair, knit"
+469,417,Kyrgyzstan,250,France,39, Polyethylene - specific gravity <0.94 in primary form,2526.13,0.184669,France -  Polyethylene - specific gravity <0.94 in primary form
+470,417,Kyrgyzstan,762,Tajikistan,94," Seats, aircraft",544.811,0.18449100000000002,"Tajikistan -  Seats, aircraft"
+471,417,Kyrgyzstan,112,Belarus,61," Mens, boys overcoats, etc, of wool or hair, knit",1979.634,0.181792,"Belarus -  Mens, boys overcoats, etc, of wool or hair, knit"
+472,417,Kyrgyzstan,156,China,63, Electric blankets of textile material,581.68,0.174499,China -  Electric blankets of textile material
+473,417,Kyrgyzstan,296,Kiribati,84, Nuclear reactors,2790.837,0.16695,Kiribati -  Nuclear reactors
+474,417,Kyrgyzstan,762,Tajikistan,87, Pedestrian controlled tractors,535.015,0.166685,Tajikistan -  Pedestrian controlled tractors
+475,417,Kyrgyzstan,112,Belarus,20," Cucumbers,gherkins, prepared or preserved by vinegar",698.144,0.16548500000000002,"Belarus -  Cucumbers,gherkins, prepared or preserved by vinegar"
+476,417,Kyrgyzstan,512,Oman,04, Milk not concentrated nor sweetened < 1% fat,575.271,0.165048,Oman -  Milk not concentrated nor sweetened < 1% fat
+477,417,Kyrgyzstan,296,Kiribati,85, Electric motors of an output < 37.5 watts,894.726,0.161075,Kiribati -  Electric motors of an output < 37.5 watts
+478,417,Kyrgyzstan,104,Myanmar,39, Polyethylene - specific gravity <0.94 in primary form,2426.445,0.159,Myanmar -  Polyethylene - specific gravity <0.94 in primary form
+479,417,Kyrgyzstan,104,Myanmar,58," Woven pile fabric of wool or fine animal hair, w >30c",1933.197,0.158856,"Myanmar -  Woven pile fabric of wool or fine animal hair, w >30c"
+480,417,Kyrgyzstan,356,India,13, Lac,3692.947,0.15610400000000002,India -  Lac
+481,417,Kyrgyzstan,840,United States of America,85, Electric motors of an output < 37.5 watts,1993.387,0.154537,United States of America -  Electric motors of an output < 37.5 watts
+482,417,Kyrgyzstan,860,Uzbekistan,48, Newsprint,82.661,0.154248,Uzbekistan -  Newsprint
+483,417,Kyrgyzstan,528,Netherlands (Kingdom of the),63, Electric blankets of textile material,11770.749,0.154213,Netherlands (Kingdom of the) -  Electric blankets of textile material
+484,417,Kyrgyzstan,840,United States of America,49," Brochures, leaflets and similar, in single sheets",1369.333,0.152243,"United States of America -  Brochures, leaflets and similar, in single sheets"
+485,417,Kyrgyzstan,643,Russian Federation,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",212.771,0.151911,"Russian Federation -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+486,417,Kyrgyzstan,860,Uzbekistan,42," Saddlery and harness, of any material",738.257,0.147554,"Uzbekistan -  Saddlery and harness, of any material"
+487,417,Kyrgyzstan,012,Algeria,81," Powders, tungsten (wolfram)",284.056,0.145955,"Algeria -  Powders, tungsten (wolfram)"
+488,417,Kyrgyzstan,208,Denmark,05," Hair, human, unworked, waste of human hair",3586.62,0.145369,"Denmark -  Hair, human, unworked, waste of human hair"
+489,417,Kyrgyzstan,392,Japan,17," Raw sugar, cane",1727.21,0.145036,"Japan -  Raw sugar, cane"
+490,417,Kyrgyzstan,586,Pakistan,07," Potatoes seed, fresh or chilled",251.133,0.14427,"Pakistan -  Potatoes seed, fresh or chilled"
+491,417,Kyrgyzstan,414,Kuwait,07," Potatoes seed, fresh or chilled",1402.076,0.14,"Kuwait -  Potatoes seed, fresh or chilled"
+492,417,Kyrgyzstan,250,France,08," Coconuts, fresh or dried",423.306,0.137139,"France -  Coconuts, fresh or dried"
+493,417,Kyrgyzstan,208,Denmark,64," Waterproof footwear (Wellingtons etc), metal toe cap",3558.129,0.13517400000000002,"Denmark -  Waterproof footwear (Wellingtons etc), metal toe cap"
+494,417,Kyrgyzstan,410,"Korea, Republic of",54, Sewing thread of synthetic filaments,404.923,0.135136,"Korea, Republic of -  Sewing thread of synthetic filaments"
+495,417,Kyrgyzstan,104,Myanmar,49," Brochures, leaflets and similar, in single sheets",353.3,0.134,"Myanmar -  Brochures, leaflets and similar, in single sheets"
+496,417,Kyrgyzstan,392,Japan,12, Soya beans,1556.401,0.13217099999999998,Japan -  Soya beans
+497,417,Kyrgyzstan,036,Australia,63, Electric blankets of textile material,1817.446,0.13158,Australia -  Electric blankets of textile material
+498,417,Kyrgyzstan,398,Kazakhstan,53," Flax fibre, raw or retted",180.155,0.131123,"Kazakhstan -  Flax fibre, raw or retted"
+499,417,Kyrgyzstan,191,Croatia,94," Seats, aircraft",870.464,0.130217,"Croatia -  Seats, aircraft"
+500,417,Kyrgyzstan,860,Uzbekistan,54, Sewing thread of synthetic filaments,902.271,0.12751,Uzbekistan -  Sewing thread of synthetic filaments
+501,417,Kyrgyzstan,156,China,52," Cotton, not carded or combed",187.935,0.125864,"China -  Cotton, not carded or combed"
+502,417,Kyrgyzstan,528,Netherlands (Kingdom of the),64," Waterproof footwear (Wellingtons etc), metal toe cap",961.75,0.125821,"Netherlands (Kingdom of the) -  Waterproof footwear (Wellingtons etc), metal toe cap"
+503,417,Kyrgyzstan,860,Uzbekistan,65," Hat-forms, etc of felt, not shaped, no formed brim",3672.587,0.12389499999999999,"Uzbekistan -  Hat-forms, etc of felt, not shaped, no formed brim"
+504,417,Kyrgyzstan,826,United Kingdom,39, Polyethylene - specific gravity <0.94 in primary form,702.585,0.12226300000000001,United Kingdom -  Polyethylene - specific gravity <0.94 in primary form
+505,417,Kyrgyzstan,376,Israel,63, Electric blankets of textile material,1166.807,0.11540099999999999,Israel -  Electric blankets of textile material
+506,417,Kyrgyzstan,608,Philippines,88," Gliders, hang gliders",51550.791,0.11383599999999999,"Philippines -  Gliders, hang gliders"
+507,417,Kyrgyzstan,036,Australia,42," Saddlery and harness, of any material",2848.655,0.112146,"Australia -  Saddlery and harness, of any material"
+508,417,Kyrgyzstan,296,Kiribati,30," Glands and other organs, dried, for therapeutic uses",264.283,0.111,"Kiribati -  Glands and other organs, dried, for therapeutic uses"
+509,417,Kyrgyzstan,688,Serbia,94," Seats, aircraft",1004.714,0.10765300000000001,"Serbia -  Seats, aircraft"
+510,417,Kyrgyzstan,826,United Kingdom,44, Fuel wood,855.68,0.102737,United Kingdom -  Fuel wood
+511,417,Kyrgyzstan,643,Russian Federation,83, Padlocks of base metal,1939.519,0.101323,Russian Federation -  Padlocks of base metal
+512,417,Kyrgyzstan,360,Indonesia,34," Soaps, for toilet use, solid",1106.065,0.09697,"Indonesia -  Soaps, for toilet use, solid"
+513,417,Kyrgyzstan,040,Austria,63, Electric blankets of textile material,589.488,0.096234,Austria -  Electric blankets of textile material
+514,417,Kyrgyzstan,616,Poland,20," Cucumbers,gherkins, prepared or preserved by vinegar",160.674,0.09475199999999999,"Poland -  Cucumbers,gherkins, prepared or preserved by vinegar"
+515,417,Kyrgyzstan,360,Indonesia,39, Polyethylene - specific gravity <0.94 in primary form,998.799,0.093891,Indonesia -  Polyethylene - specific gravity <0.94 in primary form
+516,417,Kyrgyzstan,703,Slovakia,85, Electric motors of an output < 37.5 watts,1473.602,0.09230500000000001,Slovakia -  Electric motors of an output < 37.5 watts
+517,417,Kyrgyzstan,840,United States of America,51," Greasy shorn wool, not carded or combed",3137.273,0.09011100000000001,"United States of America -  Greasy shorn wool, not carded or combed"
+518,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",68," Stone setts, curbstones, flagstones (except slate)",73.786,0.088889,"Switzerland, Liechtenstein -  Stone setts, curbstones, flagstones (except slate)"
+519,417,Kyrgyzstan,643,Russian Federation,13, Lac,4212.071,0.08706,Russian Federation -  Lac
+520,417,Kyrgyzstan,398,Kazakhstan,64," Waterproof footwear (Wellingtons etc), metal toe cap",621.324,0.085464,"Kazakhstan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+521,417,Kyrgyzstan,784,United Arab Emirates,21," Coffee extracts, essences, concentrates, preparations",523.93,0.085336,"United Arab Emirates -  Coffee extracts, essences, concentrates, preparations"
+522,417,Kyrgyzstan,826,United Kingdom,57," Carpets of wool or fine animal hair, knotted",546.884,0.085248,"United Kingdom -  Carpets of wool or fine animal hair, knotted"
+523,417,Kyrgyzstan,392,Japan,57," Carpets of wool or fine animal hair, knotted",2721.983,0.084509,"Japan -  Carpets of wool or fine animal hair, knotted"
+524,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",4370.795,0.080175,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+525,417,Kyrgyzstan,504,Morocco,63, Electric blankets of textile material,147.599,0.07984000000000001,Morocco -  Electric blankets of textile material
+526,417,Kyrgyzstan,031,Azerbaijan,40," Natural rubber latex, including prevulcanised",145.146,0.078238,"Azerbaijan -  Natural rubber latex, including prevulcanised"
+527,417,Kyrgyzstan,296,Kiribati,90," Optical fibres, except for telecommunications",291.896,0.07725,"Kiribati -  Optical fibres, except for telecommunications"
+528,417,Kyrgyzstan,807,North Macedonia,39, Polyethylene - specific gravity <0.94 in primary form,250.026,0.076846,North Macedonia -  Polyethylene - specific gravity <0.94 in primary form
+529,417,Kyrgyzstan,112,Belarus,42," Saddlery and harness, of any material",213.257,0.073857,"Belarus -  Saddlery and harness, of any material"
+530,417,Kyrgyzstan,250,France,42," Saddlery and harness, of any material",986.268,0.07285,"France -  Saddlery and harness, of any material"
+531,417,Kyrgyzstan,360,Indonesia,96," Worked ivory, articles of ivory",2701.448,0.071407,"Indonesia -  Worked ivory, articles of ivory"
+532,417,Kyrgyzstan,762,Tajikistan,71," Pearls natural, not permanently mounted or set",249.894,0.070681,"Tajikistan -  Pearls natural, not permanently mounted or set"
+533,417,Kyrgyzstan,104,Myanmar,85, Electric motors of an output < 37.5 watts,494.095,0.07,Myanmar -  Electric motors of an output < 37.5 watts
+534,417,Kyrgyzstan,104,Myanmar,84, Nuclear reactors,1913.522,0.067661,Myanmar -  Nuclear reactors
+535,417,Kyrgyzstan,360,Indonesia,56," Sanitary towels, diapers and similar articles",719.033,0.067423,"Indonesia -  Sanitary towels, diapers and similar articles"
+536,417,Kyrgyzstan,784,United Arab Emirates,69," Bricks, blocks and ceramic goods of siliceous earths",966.423,0.06531,"United Arab Emirates -  Bricks, blocks and ceramic goods of siliceous earths"
+537,417,Kyrgyzstan,398,Kazakhstan,23," Flour or meal, pellet of meat or offal for animal fee",395.101,0.06514199999999999,"Kazakhstan -  Flour or meal, pellet of meat or offal for animal fee"
+538,417,Kyrgyzstan,400,Jordan,04, Milk not concentrated nor sweetened < 1% fat,407.862,0.064581,Jordan -  Milk not concentrated nor sweetened < 1% fat
+539,417,Kyrgyzstan,643,Russian Federation,49," Brochures, leaflets and similar, in single sheets",256.231,0.06364800000000001,"Russian Federation -  Brochures, leaflets and similar, in single sheets"
+540,417,Kyrgyzstan,036,Australia,62," Mens, boys overcoats of wool or hair, not knit",1882.137,0.06172,"Australia -  Mens, boys overcoats of wool or hair, not knit"
+541,417,Kyrgyzstan,410,"Korea, Republic of",39, Polyethylene - specific gravity <0.94 in primary form,471.432,0.061389000000000006,"Korea, Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+542,417,Kyrgyzstan,364,Iran (Islamic Republic of),52," Cotton, not carded or combed",104.097,0.060615999999999996,"Iran (Islamic Republic of) -  Cotton, not carded or combed"
+543,417,Kyrgyzstan,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,5799.919,0.058093000000000006,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+544,417,Kyrgyzstan,344,"China, Hong Kong SAR",04, Milk not concentrated nor sweetened < 1% fat,441.079,0.056941000000000005,"China, Hong Kong SAR -  Milk not concentrated nor sweetened < 1% fat"
+545,417,Kyrgyzstan,762,Tajikistan,07," Potatoes seed, fresh or chilled",11.334,0.056152,"Tajikistan -  Potatoes seed, fresh or chilled"
+546,417,Kyrgyzstan,392,Japan,84, Nuclear reactors,3746.826,0.056068,Japan -  Nuclear reactors
+547,417,Kyrgyzstan,276,Germany,57," Carpets of wool or fine animal hair, knotted",332.877,0.054549,"Germany -  Carpets of wool or fine animal hair, knotted"
+548,417,Kyrgyzstan,860,Uzbekistan,59, Gum or amylaceous covered textiles for book covers et,27.376,0.054045,Uzbekistan -  Gum or amylaceous covered textiles for book covers et
+549,417,Kyrgyzstan,296,Kiribati,64," Waterproof footwear (Wellingtons etc), metal toe cap",398.966,0.053353000000000005,"Kiribati -  Waterproof footwear (Wellingtons etc), metal toe cap"
+550,417,Kyrgyzstan,356,India,04, Milk not concentrated nor sweetened < 1% fat,188.05,0.053287,India -  Milk not concentrated nor sweetened < 1% fat
+551,417,Kyrgyzstan,268,Georgia,42," Saddlery and harness, of any material",631.925,0.052668,"Georgia -  Saddlery and harness, of any material"
+552,417,Kyrgyzstan,762,Tajikistan,30," Glands and other organs, dried, for therapeutic uses",123.091,0.050755,"Tajikistan -  Glands and other organs, dried, for therapeutic uses"
+553,417,Kyrgyzstan,275,State of Palestine,39, Polyethylene - specific gravity <0.94 in primary form,221.502,0.050595,State of Palestine -  Polyethylene - specific gravity <0.94 in primary form
+554,417,Kyrgyzstan,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",1724.47,0.050457,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+555,417,Kyrgyzstan,784,United Arab Emirates,20," Cucumbers,gherkins, prepared or preserved by vinegar",273.82,0.050055,"United Arab Emirates -  Cucumbers,gherkins, prepared or preserved by vinegar"
+556,417,Kyrgyzstan,702,Singapore,63, Electric blankets of textile material,515.746,0.048582,Singapore -  Electric blankets of textile material
+557,417,Kyrgyzstan,104,Myanmar,23," Flour or meal, pellet of meat or offal for animal fee",172.572,0.048,"Myanmar -  Flour or meal, pellet of meat or offal for animal fee"
+558,417,Kyrgyzstan,203,Czechia,62," Mens, boys overcoats of wool or hair, not knit",922.938,0.046928,"Czechia -  Mens, boys overcoats of wool or hair, not knit"
+559,417,Kyrgyzstan,826,United Kingdom,42," Saddlery and harness, of any material",875.332,0.046333,"United Kingdom -  Saddlery and harness, of any material"
+560,417,Kyrgyzstan,702,Singapore,40," Natural rubber latex, including prevulcanised",204.298,0.044692,"Singapore -  Natural rubber latex, including prevulcanised"
+561,417,Kyrgyzstan,762,Tajikistan,28, Chlorine,369.367,0.044202,Tajikistan -  Chlorine
+562,417,Kyrgyzstan,414,Kuwait,17," Raw sugar, cane",268.728,0.044005,"Kuwait -  Raw sugar, cane"
+563,417,Kyrgyzstan,100,Bulgaria,24," Tobacco, unmanufactured, not stemmed or stripped",68.939,0.043905,"Bulgaria -  Tobacco, unmanufactured, not stemmed or stripped"
+564,417,Kyrgyzstan,250,France,52," Cotton, not carded or combed",325.046,0.043587,"France -  Cotton, not carded or combed"
+565,417,Kyrgyzstan,410,"Korea, Republic of",84, Nuclear reactors,1448.648,0.042915999999999996,"Korea, Republic of -  Nuclear reactors"
+566,417,Kyrgyzstan,024,Angola,33, Essential oils of bergamot,220.95,0.042,Angola -  Essential oils of bergamot
+567,417,Kyrgyzstan,400,Jordan,08," Coconuts, fresh or dried",191.216,0.041809,"Jordan -  Coconuts, fresh or dried"
+568,417,Kyrgyzstan,104,Myanmar,55," Filament tow of nylon, polyamides",7326.676,0.041299999999999996,"Myanmar -  Filament tow of nylon, polyamides"
+569,417,Kyrgyzstan,496,Mongolia,61," Mens, boys overcoats, etc, of wool or hair, knit",396.604,0.04109,"Mongolia -  Mens, boys overcoats, etc, of wool or hair, knit"
+570,417,Kyrgyzstan,762,Tajikistan,62," Mens, boys overcoats of wool or hair, not knit",153.226,0.040872,"Tajikistan -  Mens, boys overcoats of wool or hair, not knit"
+571,417,Kyrgyzstan,860,Uzbekistan,49," Brochures, leaflets and similar, in single sheets",348.182,0.040281,"Uzbekistan -  Brochures, leaflets and similar, in single sheets"
+572,417,Kyrgyzstan,528,Netherlands (Kingdom of the),91," Wrist-watch, precious metal, battery, with hands",150.988,0.040117,"Netherlands (Kingdom of the) -  Wrist-watch, precious metal, battery, with hands"
+573,417,Kyrgyzstan,616,Poland,11, Wheat or meslin flour,4.224,0.039966999999999996,Poland -  Wheat or meslin flour
+574,417,Kyrgyzstan,410,"Korea, Republic of",03," Ornamental fish, live",555.751,0.03965,"Korea, Republic of -  Ornamental fish, live"
+575,417,Kyrgyzstan,688,Serbia,48, Newsprint,138.049,0.038664000000000004,Serbia -  Newsprint
+576,417,Kyrgyzstan,410,"Korea, Republic of",90," Optical fibres, except for telecommunications",259.214,0.037634999999999995,"Korea, Republic of -  Optical fibres, except for telecommunications"
+577,417,Kyrgyzstan,826,United Kingdom,62," Mens, boys overcoats of wool or hair, not knit",418.964,0.03722399999999999,"United Kingdom -  Mens, boys overcoats of wool or hair, not knit"
+578,417,Kyrgyzstan,528,Netherlands (Kingdom of the),75, Nickel mattes,122.221,0.037153,Netherlands (Kingdom of the) -  Nickel mattes
+579,417,Kyrgyzstan,112,Belarus,49," Brochures, leaflets and similar, in single sheets",157.566,0.036835,"Belarus -  Brochures, leaflets and similar, in single sheets"
+580,417,Kyrgyzstan,496,Mongolia,62," Mens, boys overcoats of wool or hair, not knit",307.857,0.036265,"Mongolia -  Mens, boys overcoats of wool or hair, not knit"
+581,417,Kyrgyzstan,398,Kazakhstan,74, Copper mattes,615.312,0.036226,Kazakhstan -  Copper mattes
+582,417,Kyrgyzstan,496,Mongolia,63, Electric blankets of textile material,52.928,0.0362,Mongolia -  Electric blankets of textile material
+583,417,Kyrgyzstan,616,Poland,84, Nuclear reactors,1316.47,0.036059,Poland -  Nuclear reactors
+584,417,Kyrgyzstan,826,United Kingdom,90," Optical fibres, except for telecommunications",5462.264,0.035533999999999996,"United Kingdom -  Optical fibres, except for telecommunications"
+585,417,Kyrgyzstan,860,Uzbekistan,96," Worked ivory, articles of ivory",72.966,0.035177999999999994,"Uzbekistan -  Worked ivory, articles of ivory"
+586,417,Kyrgyzstan,826,United Kingdom,65," Hat-forms, etc of felt, not shaped, no formed brim",66.197,0.034997,"United Kingdom -  Hat-forms, etc of felt, not shaped, no formed brim"
+587,417,Kyrgyzstan,762,Tajikistan,82, Spades and shovels,45.276,0.034902999999999997,Tajikistan -  Spades and shovels
+588,417,Kyrgyzstan,246,Finland,62," Mens, boys overcoats of wool or hair, not knit",8191.177,0.03476,"Finland -  Mens, boys overcoats of wool or hair, not knit"
+589,417,Kyrgyzstan,392,Japan,64," Waterproof footwear (Wellingtons etc), metal toe cap",1734.796,0.033729999999999996,"Japan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+590,417,Kyrgyzstan,616,Poland,62," Mens, boys overcoats of wool or hair, not knit",773.147,0.033505,"Poland -  Mens, boys overcoats of wool or hair, not knit"
+591,417,Kyrgyzstan,860,Uzbekistan,19," Infant foods of cereals, flour, starch or milk, retai",25.199,0.033172,"Uzbekistan -  Infant foods of cereals, flour, starch or milk, retai"
+592,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",163.238,0.032152,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+593,417,Kyrgyzstan,360,Indonesia,37, X-ray plates and films,334.157,0.031833,Indonesia -  X-ray plates and films
+594,417,Kyrgyzstan,404,Kenya,40," Natural rubber latex, including prevulcanised",86.94,0.031148,"Kenya -  Natural rubber latex, including prevulcanised"
+595,417,Kyrgyzstan,258,French Polynesia,85, Electric motors of an output < 37.5 watts,944.429,0.031004,French Polynesia -  Electric motors of an output < 37.5 watts
+596,417,Kyrgyzstan,392,Japan,92," Upright pianos, including auto-players",708.684,0.030992000000000002,"Japan -  Upright pianos, including auto-players"
+597,417,Kyrgyzstan,616,Poland,21," Coffee extracts, essences, concentrates, preparations",2641.651,0.030805,"Poland -  Coffee extracts, essences, concentrates, preparations"
+598,417,Kyrgyzstan,784,United Arab Emirates,95," Rideable wheeled toys, dolls carriages",409.423,0.030737999999999998,"United Arab Emirates -  Rideable wheeled toys, dolls carriages"
+599,417,Kyrgyzstan,156,China,21," Coffee extracts, essences, concentrates, preparations",63.2,0.03037,"China -  Coffee extracts, essences, concentrates, preparations"
+600,417,Kyrgyzstan,860,Uzbekistan,43," Raw mink furskins, whole",1106.851,0.030087,"Uzbekistan -  Raw mink furskins, whole"
+601,417,Kyrgyzstan,376,Israel,82, Spades and shovels,143.929,0.029914000000000003,Israel -  Spades and shovels
+602,417,Kyrgyzstan,498,"Moldova, Republic of",62," Mens, boys overcoats of wool or hair, not knit",494.772,0.029643999999999997,"Moldova, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+603,417,Kyrgyzstan,643,Russian Federation,57," Carpets of wool or fine animal hair, knotted",154.719,0.029175,"Russian Federation -  Carpets of wool or fine animal hair, knotted"
+604,417,Kyrgyzstan,826,United Kingdom,73, Sheet piling of iron or steel,5663.597,0.028755,United Kingdom -  Sheet piling of iron or steel
+605,417,Kyrgyzstan,860,Uzbekistan,64," Waterproof footwear (Wellingtons etc), metal toe cap",669.152,0.027454,"Uzbekistan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+606,417,Kyrgyzstan,104,Myanmar,60," ""Long pile"" knit or crochet textile fabric",7039.357,0.027,"Myanmar -  ""Long pile"" knit or crochet textile fabric"
+607,417,Kyrgyzstan,156,China,70," Glass cullet, waste or scrap, glass in the mass",69.782,0.026996,"China -  Glass cullet, waste or scrap, glass in the mass"
+608,417,Kyrgyzstan,203,Czechia,84, Nuclear reactors,142.782,0.026939,Czechia -  Nuclear reactors
+609,417,Kyrgyzstan,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,14099.744,0.026393999999999997,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+610,417,Kyrgyzstan,056,Belgium,52," Cotton, not carded or combed",58.537,0.026071999999999998,"Belgium -  Cotton, not carded or combed"
+611,417,Kyrgyzstan,398,Kazakhstan,67," Bird skins and feathers, articles therefrom",69.174,0.02525,"Kazakhstan -  Bird skins and feathers, articles therefrom"
+612,417,Kyrgyzstan,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",107298.872,0.024888999999999998,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+613,417,Kyrgyzstan,762,Tajikistan,96," Worked ivory, articles of ivory",215.936,0.023986,"Tajikistan -  Worked ivory, articles of ivory"
+614,417,Kyrgyzstan,840,United States of America,42," Saddlery and harness, of any material",393.289,0.023842,"United States of America -  Saddlery and harness, of any material"
+615,417,Kyrgyzstan,762,Tajikistan,65," Hat-forms, etc of felt, not shaped, no formed brim",13.296,0.023617000000000003,"Tajikistan -  Hat-forms, etc of felt, not shaped, no formed brim"
+616,417,Kyrgyzstan,120,Cameroon,85, Electric motors of an output < 37.5 watts,583.249,0.023600000000000003,Cameroon -  Electric motors of an output < 37.5 watts
+617,417,Kyrgyzstan,036,Australia,64," Waterproof footwear (Wellingtons etc), metal toe cap",849.315,0.022836,"Australia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+618,417,Kyrgyzstan,643,Russian Federation,24," Tobacco, unmanufactured, not stemmed or stripped",25.891,0.022791,"Russian Federation -  Tobacco, unmanufactured, not stemmed or stripped"
+619,417,Kyrgyzstan,203,Czechia,85, Electric motors of an output < 37.5 watts,962.054,0.022541000000000002,Czechia -  Electric motors of an output < 37.5 watts
+620,417,Kyrgyzstan,860,Uzbekistan,90," Optical fibres, except for telecommunications",2942.803,0.022364000000000002,"Uzbekistan -  Optical fibres, except for telecommunications"
+621,417,Kyrgyzstan,860,Uzbekistan,12, Soya beans,4.119,0.021995,Uzbekistan -  Soya beans
+622,417,Kyrgyzstan,296,Kiribati,83, Padlocks of base metal,258.628,0.021,Kiribati -  Padlocks of base metal
+623,417,Kyrgyzstan,784,United Arab Emirates,65," Hat-forms, etc of felt, not shaped, no formed brim",286.1,0.0206,"United Arab Emirates -  Hat-forms, etc of felt, not shaped, no formed brim"
+624,417,Kyrgyzstan,840,United States of America,65," Hat-forms, etc of felt, not shaped, no formed brim",1582.797,0.020534,"United States of America -  Hat-forms, etc of felt, not shaped, no formed brim"
+625,417,Kyrgyzstan,250,France,63, Electric blankets of textile material,124.265,0.020163,France -  Electric blankets of textile material
+626,417,Kyrgyzstan,296,Kiribati,44, Fuel wood,149.538,0.02,Kiribati -  Fuel wood
+627,417,Kyrgyzstan,360,Indonesia,73, Sheet piling of iron or steel,103.449,0.019752,Indonesia -  Sheet piling of iron or steel
+628,417,Kyrgyzstan,203,Czechia,87, Pedestrian controlled tractors,243.843,0.019268999999999998,Czechia -  Pedestrian controlled tractors
+629,417,Kyrgyzstan,056,Belgium,84, Nuclear reactors,1215.84,0.019227,Belgium -  Nuclear reactors
+630,417,Kyrgyzstan,616,Poland,24," Tobacco, unmanufactured, not stemmed or stripped",74.033,0.019193,"Poland -  Tobacco, unmanufactured, not stemmed or stripped"
+631,417,Kyrgyzstan,860,Uzbekistan,13, Lac,452.825,0.019183,Uzbekistan -  Lac
+632,417,Kyrgyzstan,392,Japan,87, Pedestrian controlled tractors,1335.649,0.019006,Japan -  Pedestrian controlled tractors
+633,417,Kyrgyzstan,380,Italy,63, Electric blankets of textile material,766.429,0.018555,Italy -  Electric blankets of textile material
+634,417,Kyrgyzstan,410,"Korea, Republic of",04, Milk not concentrated nor sweetened < 1% fat,89.816,0.018533,"Korea, Republic of -  Milk not concentrated nor sweetened < 1% fat"
+635,417,Kyrgyzstan,410,"Korea, Republic of",83, Padlocks of base metal,572.98,0.018465,"Korea, Republic of -  Padlocks of base metal"
+636,417,Kyrgyzstan,826,United Kingdom,95," Rideable wheeled toys, dolls carriages",2728.476,0.017369,"United Kingdom -  Rideable wheeled toys, dolls carriages"
+637,417,Kyrgyzstan,214,Dominican Republic,35, Casein,450.72,0.017313,Dominican Republic -  Casein
+638,417,Kyrgyzstan,762,Tajikistan,76," Aluminium unwrought, not alloyed",235.634,0.017261,"Tajikistan -  Aluminium unwrought, not alloyed"
+639,417,Kyrgyzstan,784,United Arab Emirates,73, Sheet piling of iron or steel,53.413,0.01695,United Arab Emirates -  Sheet piling of iron or steel
+640,417,Kyrgyzstan,250,France,40," Natural rubber latex, including prevulcanised",218.891,0.016832999999999997,"France -  Natural rubber latex, including prevulcanised"
+641,417,Kyrgyzstan,376,Israel,03," Ornamental fish, live",220.127,0.016556,"Israel -  Ornamental fish, live"
+642,417,Kyrgyzstan,188,Costa Rica,84, Nuclear reactors,253.487,0.015986,Costa Rica -  Nuclear reactors
+643,417,Kyrgyzstan,275,State of Palestine,82, Spades and shovels,101.303,0.015845,State of Palestine -  Spades and shovels
+644,417,Kyrgyzstan,392,Japan,95," Rideable wheeled toys, dolls carriages",3756.673,0.015837999999999998,"Japan -  Rideable wheeled toys, dolls carriages"
+645,417,Kyrgyzstan,392,Japan,85, Electric motors of an output < 37.5 watts,794.57,0.015746,Japan -  Electric motors of an output < 37.5 watts
+646,417,Kyrgyzstan,410,"Korea, Republic of",63, Electric blankets of textile material,109.604,0.015127,"Korea, Republic of -  Electric blankets of textile material"
+647,417,Kyrgyzstan,784,United Arab Emirates,96," Worked ivory, articles of ivory",129.317,0.015105,"United Arab Emirates -  Worked ivory, articles of ivory"
+648,417,Kyrgyzstan,120,Cameroon,84, Nuclear reactors,491.125,0.01504,Cameroon -  Nuclear reactors
+649,417,Kyrgyzstan,860,Uzbekistan,82, Spades and shovels,154.619,0.014978,Uzbekistan -  Spades and shovels
+650,417,Kyrgyzstan,528,Netherlands (Kingdom of the),42," Saddlery and harness, of any material",1009.662,0.014888,"Netherlands (Kingdom of the) -  Saddlery and harness, of any material"
+651,417,Kyrgyzstan,784,United Arab Emirates,88," Gliders, hang gliders",199.32,0.014828,"United Arab Emirates -  Gliders, hang gliders"
+652,417,Kyrgyzstan,690,Seychelles,09," Coffee, not roasted, not decaffeinated",91.638,0.014157999999999999,"Seychelles -  Coffee, not roasted, not decaffeinated"
+653,417,Kyrgyzstan,398,Kazakhstan,12, Soya beans,0.927,0.013535,Kazakhstan -  Soya beans
+654,417,Kyrgyzstan,056,Belgium,05," Hair, human, unworked, waste of human hair",2361.34,0.013465,"Belgium -  Hair, human, unworked, waste of human hair"
+655,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",57," Carpets of wool or fine animal hair, knotted",330.468,0.012768,"Switzerland, Liechtenstein -  Carpets of wool or fine animal hair, knotted"
+656,417,Kyrgyzstan,056,Belgium,85, Electric motors of an output < 37.5 watts,190.373,0.012675,Belgium -  Electric motors of an output < 37.5 watts
+657,417,Kyrgyzstan,208,Denmark,61," Mens, boys overcoats, etc, of wool or hair, knit",881.347,0.012114000000000002,"Denmark -  Mens, boys overcoats, etc, of wool or hair, knit"
+658,417,Kyrgyzstan,380,Italy,88," Gliders, hang gliders",7619.195,0.011873,"Italy -  Gliders, hang gliders"
+659,417,Kyrgyzstan,031,Azerbaijan,61," Mens, boys overcoats, etc, of wool or hair, knit",36.438,0.011635,"Azerbaijan -  Mens, boys overcoats, etc, of wool or hair, knit"
+660,417,Kyrgyzstan,762,Tajikistan,61," Mens, boys overcoats, etc, of wool or hair, knit",53.633,0.011524,"Tajikistan -  Mens, boys overcoats, etc, of wool or hair, knit"
+661,417,Kyrgyzstan,376,Israel,85, Electric motors of an output < 37.5 watts,372.961,0.011335000000000001,Israel -  Electric motors of an output < 37.5 watts
+662,417,Kyrgyzstan,762,Tajikistan,14, Bamboos used primarily for plaiting,2.365,0.011274,Tajikistan -  Bamboos used primarily for plaiting
+663,417,Kyrgyzstan,860,Uzbekistan,37, X-ray plates and films,15.425,0.011104,Uzbekistan -  X-ray plates and films
+664,417,Kyrgyzstan,762,Tajikistan,49," Brochures, leaflets and similar, in single sheets",65.414,0.011084,"Tajikistan -  Brochures, leaflets and similar, in single sheets"
+665,417,Kyrgyzstan,056,Belgium,60," ""Long pile"" knit or crochet textile fabric",79.506,0.010248,"Belgium -  ""Long pile"" knit or crochet textile fabric"
+666,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",477.225,0.010055999999999999,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+667,417,Kyrgyzstan,784,United Arab Emirates,85, Electric motors of an output < 37.5 watts,1009.012,0.010048999999999999,United Arab Emirates -  Electric motors of an output < 37.5 watts
+668,417,Kyrgyzstan,643,Russian Federation,91," Wrist-watch, precious metal, battery, with hands",64.806,0.009488,"Russian Federation -  Wrist-watch, precious metal, battery, with hands"
+669,417,Kyrgyzstan,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,1006.169,0.009470000000000001,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+670,417,Kyrgyzstan,004,Afghanistan,04, Milk not concentrated nor sweetened < 1% fat,12.804,0.009469,Afghanistan -  Milk not concentrated nor sweetened < 1% fat
+671,417,Kyrgyzstan,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",164.346,0.009469,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+672,417,Kyrgyzstan,616,Poland,40," Natural rubber latex, including prevulcanised",53.372,0.00934,"Poland -  Natural rubber latex, including prevulcanised"
+673,417,Kyrgyzstan,120,Cameroon,90," Optical fibres, except for telecommunications",157.557,0.0092,"Cameroon -  Optical fibres, except for telecommunications"
+674,417,Kyrgyzstan,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",218.876,0.009185,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+675,417,Kyrgyzstan,191,Croatia,21," Coffee extracts, essences, concentrates, preparations",723.241,0.009071999999999998,"Croatia -  Coffee extracts, essences, concentrates, preparations"
+676,417,Kyrgyzstan,643,Russian Federation,93," Military weapons, other than hand guns, swords, etc",141.714,0.008990999999999999,"Russian Federation -  Military weapons, other than hand guns, swords, etc"
+677,417,Kyrgyzstan,112,Belarus,82, Spades and shovels,70.215,0.008592,Belarus -  Spades and shovels
+678,417,Kyrgyzstan,040,Austria,62," Mens, boys overcoats of wool or hair, not knit",568.362,0.008454000000000001,"Austria -  Mens, boys overcoats of wool or hair, not knit"
+679,417,Kyrgyzstan,826,United Kingdom,61," Mens, boys overcoats, etc, of wool or hair, knit",226.709,0.008352,"United Kingdom -  Mens, boys overcoats, etc, of wool or hair, knit"
+680,417,Kyrgyzstan,360,Indonesia,40," Natural rubber latex, including prevulcanised",80.599,0.008308,"Indonesia -  Natural rubber latex, including prevulcanised"
+681,417,Kyrgyzstan,702,Singapore,88," Gliders, hang gliders",4768.288,0.008157,"Singapore -  Gliders, hang gliders"
+682,417,Kyrgyzstan,296,Kiribati,82, Spades and shovels,92.065,0.008,Kiribati -  Spades and shovels
+683,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",87, Pedestrian controlled tractors,71.043,0.0077800000000000005,"Switzerland, Liechtenstein -  Pedestrian controlled tractors"
+684,417,Kyrgyzstan,376,Israel,90," Optical fibres, except for telecommunications",296.931,0.007418999999999999,"Israel -  Optical fibres, except for telecommunications"
+685,417,Kyrgyzstan,352,Iceland,35, Casein,648.625,0.007388,Iceland -  Casein
+686,417,Kyrgyzstan,112,Belarus,38, Artificial graphite,1993.236,0.007255,Belarus -  Artificial graphite
+687,417,Kyrgyzstan,348,Hungary,24," Tobacco, unmanufactured, not stemmed or stripped",17.766,0.0071790000000000005,"Hungary -  Tobacco, unmanufactured, not stemmed or stripped"
+688,417,Kyrgyzstan,440,Lithuania,76," Aluminium unwrought, not alloyed",6.887,0.006992,"Lithuania -  Aluminium unwrought, not alloyed"
+689,417,Kyrgyzstan,376,Israel,49," Brochures, leaflets and similar, in single sheets",33.048,0.006986,"Israel -  Brochures, leaflets and similar, in single sheets"
+690,417,Kyrgyzstan,112,Belarus,65," Hat-forms, etc of felt, not shaped, no formed brim",6.944,0.006981,"Belarus -  Hat-forms, etc of felt, not shaped, no formed brim"
+691,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",64," Waterproof footwear (Wellingtons etc), metal toe cap",406.044,0.006808,"Switzerland, Liechtenstein -  Waterproof footwear (Wellingtons etc), metal toe cap"
+692,417,Kyrgyzstan,250,France,33, Essential oils of bergamot,37.997,0.006703000000000001,France -  Essential oils of bergamot
+693,417,Kyrgyzstan,004,Afghanistan,19," Infant foods of cereals, flour, starch or milk, retai",12.408,0.006605000000000001,"Afghanistan -  Infant foods of cereals, flour, starch or milk, retai"
+694,417,Kyrgyzstan,392,Japan,42," Saddlery and harness, of any material",207.979,0.006564,"Japan -  Saddlery and harness, of any material"
+695,417,Kyrgyzstan,376,Israel,62," Mens, boys overcoats of wool or hair, not knit",153.918,0.0063019999999999994,"Israel -  Mens, boys overcoats of wool or hair, not knit"
+696,417,Kyrgyzstan,398,Kazakhstan,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",4.584,0.006149,"Kazakhstan -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+697,417,Kyrgyzstan,703,Slovakia,66, Garden and similar umbrellas,387.094,0.006,Slovakia -  Garden and similar umbrellas
+698,417,Kyrgyzstan,208,Denmark,57," Carpets of wool or fine animal hair, knotted",204.957,0.0059960000000000005,"Denmark -  Carpets of wool or fine animal hair, knotted"
+699,417,Kyrgyzstan,356,India,48, Newsprint,48.751,0.005847000000000001,India -  Newsprint
+700,417,Kyrgyzstan,703,Slovakia,21," Coffee extracts, essences, concentrates, preparations",162.591,0.005607,"Slovakia -  Coffee extracts, essences, concentrates, preparations"
+701,417,Kyrgyzstan,840,United States of America,71," Pearls natural, not permanently mounted or set",905.284,0.005601,"United States of America -  Pearls natural, not permanently mounted or set"
+702,417,Kyrgyzstan,554,New Zealand,87, Pedestrian controlled tractors,44.385,0.005559000000000001,New Zealand -  Pedestrian controlled tractors
+703,417,Kyrgyzstan,276,Germany,64," Waterproof footwear (Wellingtons etc), metal toe cap",244.386,0.0054470000000000005,"Germany -  Waterproof footwear (Wellingtons etc), metal toe cap"
+704,417,Kyrgyzstan,040,Austria,08," Coconuts, fresh or dried",30.808,0.005393,"Austria -  Coconuts, fresh or dried"
+705,417,Kyrgyzstan,156,China,39, Polyethylene - specific gravity <0.94 in primary form,56.054,0.005371000000000001,China -  Polyethylene - specific gravity <0.94 in primary form
+706,417,Kyrgyzstan,398,Kazakhstan,92," Upright pianos, including auto-players",251.535,0.005364,"Kazakhstan -  Upright pianos, including auto-players"
+707,417,Kyrgyzstan,112,Belarus,21," Coffee extracts, essences, concentrates, preparations",316.441,0.005118,"Belarus -  Coffee extracts, essences, concentrates, preparations"
+708,417,Kyrgyzstan,112,Belarus,40," Natural rubber latex, including prevulcanised",67.805,0.005024,"Belarus -  Natural rubber latex, including prevulcanised"
+709,417,Kyrgyzstan,800,Uganda,85, Electric motors of an output < 37.5 watts,25.736,0.004804,Uganda -  Electric motors of an output < 37.5 watts
+710,417,Kyrgyzstan,410,"Korea, Republic of",64," Waterproof footwear (Wellingtons etc), metal toe cap",247.608,0.0047220000000000005,"Korea, Republic of -  Waterproof footwear (Wellingtons etc), metal toe cap"
+711,417,Kyrgyzstan,112,Belarus,90," Optical fibres, except for telecommunications",91.484,0.004672,"Belarus -  Optical fibres, except for telecommunications"
+712,417,Kyrgyzstan,380,Italy,85, Electric motors of an output < 37.5 watts,2579.371,0.0046689999999999995,Italy -  Electric motors of an output < 37.5 watts
+713,417,Kyrgyzstan,410,"Korea, Republic of",62," Mens, boys overcoats of wool or hair, not knit",75.404,0.004645,"Korea, Republic of -  Mens, boys overcoats of wool or hair, not knit"
+714,417,Kyrgyzstan,120,Cameroon,93," Military weapons, other than hand guns, swords, etc",34.035,0.004435,"Cameroon -  Military weapons, other than hand guns, swords, etc"
+715,417,Kyrgyzstan,380,Italy,71," Pearls natural, not permanently mounted or set",16409.506,0.004299000000000001,"Italy -  Pearls natural, not permanently mounted or set"
+716,417,Kyrgyzstan,702,Singapore,84, Nuclear reactors,45.735,0.004272000000000001,Singapore -  Nuclear reactors
+717,417,Kyrgyzstan,392,Japan,39, Polyethylene - specific gravity <0.94 in primary form,3971.541,0.004221,Japan -  Polyethylene - specific gravity <0.94 in primary form
+718,417,Kyrgyzstan,352,Iceland,85, Electric motors of an output < 37.5 watts,375.139,0.004091999999999999,Iceland -  Electric motors of an output < 37.5 watts
+719,417,Kyrgyzstan,784,United Arab Emirates,02," Bovine carcasses and half carcasses, fresh or chilled",13.919,0.004089000000000001,"United Arab Emirates -  Bovine carcasses and half carcasses, fresh or chilled"
+720,417,Kyrgyzstan,840,United States of America,90," Optical fibres, except for telecommunications",362.186,0.0039889999999999995,"United States of America -  Optical fibres, except for telecommunications"
+721,417,Kyrgyzstan,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",31.112,0.003686,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+722,417,Kyrgyzstan,156,China,64," Waterproof footwear (Wellingtons etc), metal toe cap",87.493,0.0036379999999999997,"China -  Waterproof footwear (Wellingtons etc), metal toe cap"
+723,417,Kyrgyzstan,762,Tajikistan,33, Essential oils of bergamot,42.991,0.003469,Tajikistan -  Essential oils of bergamot
+724,417,Kyrgyzstan,504,Morocco,52," Cotton, not carded or combed",6.155,0.003241,"Morocco -  Cotton, not carded or combed"
+725,417,Kyrgyzstan,203,Czechia,40," Natural rubber latex, including prevulcanised",542.507,0.00323,"Czechia -  Natural rubber latex, including prevulcanised"
+726,417,Kyrgyzstan,496,Mongolia,65," Hat-forms, etc of felt, not shaped, no formed brim",14.697,0.0031579999999999998,"Mongolia -  Hat-forms, etc of felt, not shaped, no formed brim"
+727,417,Kyrgyzstan,498,"Moldova, Republic of",61," Mens, boys overcoats, etc, of wool or hair, knit",41.755,0.002787,"Moldova, Republic of -  Mens, boys overcoats, etc, of wool or hair, knit"
+728,417,Kyrgyzstan,112,Belarus,85, Electric motors of an output < 37.5 watts,538.145,0.00264,Belarus -  Electric motors of an output < 37.5 watts
+729,417,Kyrgyzstan,784,United Arab Emirates,90," Optical fibres, except for telecommunications",52.863,0.002427,"United Arab Emirates -  Optical fibres, except for telecommunications"
+730,417,Kyrgyzstan,360,Indonesia,85, Electric motors of an output < 37.5 watts,179.78,0.0024230000000000002,Indonesia -  Electric motors of an output < 37.5 watts
+731,417,Kyrgyzstan,784,United Arab Emirates,84, Nuclear reactors,50.448,0.002412,United Arab Emirates -  Nuclear reactors
+732,417,Kyrgyzstan,040,Austria,95," Rideable wheeled toys, dolls carriages",88.647,0.002342,"Austria -  Rideable wheeled toys, dolls carriages"
+733,417,Kyrgyzstan,643,Russian Federation,33, Essential oils of bergamot,119.195,0.0023020000000000002,Russian Federation -  Essential oils of bergamot
+734,417,Kyrgyzstan,120,Cameroon,95," Rideable wheeled toys, dolls carriages",69.74,0.002285,"Cameroon -  Rideable wheeled toys, dolls carriages"
+735,417,Kyrgyzstan,156,China,42," Saddlery and harness, of any material",160.917,0.002169,"China -  Saddlery and harness, of any material"
+736,417,Kyrgyzstan,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,211.427,0.002142,Saudi Arabia -  Electric motors of an output < 37.5 watts
+737,417,Kyrgyzstan,762,Tajikistan,92," Upright pianos, including auto-players",16.711,0.0021349999999999997,"Tajikistan -  Upright pianos, including auto-players"
+738,417,Kyrgyzstan,586,Pakistan,96," Worked ivory, articles of ivory",3.545,0.002069,"Pakistan -  Worked ivory, articles of ivory"
+739,417,Kyrgyzstan,578,Norway,61," Mens, boys overcoats, etc, of wool or hair, knit",154.474,0.002052,"Norway -  Mens, boys overcoats, etc, of wool or hair, knit"
+740,417,Kyrgyzstan,156,China,85, Electric motors of an output < 37.5 watts,5215.389,0.0020350000000000004,China -  Electric motors of an output < 37.5 watts
+741,417,Kyrgyzstan,344,"China, Hong Kong SAR",90," Optical fibres, except for telecommunications",630.17,0.0020299999999999997,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+742,417,Kyrgyzstan,112,Belarus,74, Copper mattes,26.368,0.0020259999999999996,Belarus -  Copper mattes
+743,417,Kyrgyzstan,356,India,83, Padlocks of base metal,40.963,0.002013,India -  Padlocks of base metal
+744,417,Kyrgyzstan,616,Poland,87, Pedestrian controlled tractors,36.268,0.001976,Poland -  Pedestrian controlled tractors
+745,417,Kyrgyzstan,762,Tajikistan,64," Waterproof footwear (Wellingtons etc), metal toe cap",6.078,0.001818,"Tajikistan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+746,417,Kyrgyzstan,784,United Arab Emirates,07," Potatoes seed, fresh or chilled",29.114,0.001772,"United Arab Emirates -  Potatoes seed, fresh or chilled"
+747,417,Kyrgyzstan,440,Lithuania,61," Mens, boys overcoats, etc, of wool or hair, knit",13.832,0.001692,"Lithuania -  Mens, boys overcoats, etc, of wool or hair, knit"
+748,417,Kyrgyzstan,440,Lithuania,85, Electric motors of an output < 37.5 watts,16.708,0.001582,Lithuania -  Electric motors of an output < 37.5 watts
+749,417,Kyrgyzstan,040,Austria,42," Saddlery and harness, of any material",53.603,0.001562,"Austria -  Saddlery and harness, of any material"
+750,417,Kyrgyzstan,156,China,51," Greasy shorn wool, not carded or combed",1.291,0.001509,"China -  Greasy shorn wool, not carded or combed"
+751,417,Kyrgyzstan,398,Kazakhstan,66, Garden and similar umbrellas,10.839,0.001453,Kazakhstan -  Garden and similar umbrellas
+752,417,Kyrgyzstan,112,Belarus,73, Sheet piling of iron or steel,32.639,0.001445,Belarus -  Sheet piling of iron or steel
+753,417,Kyrgyzstan,682,Saudi Arabia,84, Nuclear reactors,71.203,0.0013959999999999999,Saudi Arabia -  Nuclear reactors
+754,417,Kyrgyzstan,040,Austria,94," Seats, aircraft",152.494,0.001393,"Austria -  Seats, aircraft"
+755,417,Kyrgyzstan,578,Norway,43," Raw mink furskins, whole",49.669,0.0013520000000000001,"Norway -  Raw mink furskins, whole"
+756,417,Kyrgyzstan,586,Pakistan,85, Electric motors of an output < 37.5 watts,16.965,0.001351,Pakistan -  Electric motors of an output < 37.5 watts
+757,417,Kyrgyzstan,860,Uzbekistan,55," Filament tow of nylon, polyamides",3.448,0.001349,"Uzbekistan -  Filament tow of nylon, polyamides"
+758,417,Kyrgyzstan,703,Slovakia,39, Polyethylene - specific gravity <0.94 in primary form,49.147,0.0013260000000000001,Slovakia -  Polyethylene - specific gravity <0.94 in primary form
+759,417,Kyrgyzstan,203,Czechia,71," Pearls natural, not permanently mounted or set",18.43,0.001279,"Czechia -  Pearls natural, not permanently mounted or set"
+760,417,Kyrgyzstan,860,Uzbekistan,71," Pearls natural, not permanently mounted or set",44.763,0.001246,"Uzbekistan -  Pearls natural, not permanently mounted or set"
+761,417,Kyrgyzstan,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",25.623,0.001214,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+762,417,Kyrgyzstan,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,43.728,0.001194,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+763,417,Kyrgyzstan,528,Netherlands (Kingdom of the),12, Soya beans,137.335,0.0011819999999999999,Netherlands (Kingdom of the) -  Soya beans
+764,417,Kyrgyzstan,608,Philippines,91," Wrist-watch, precious metal, battery, with hands",201.878,0.001159,"Philippines -  Wrist-watch, precious metal, battery, with hands"
+765,417,Kyrgyzstan,040,Austria,65," Hat-forms, etc of felt, not shaped, no formed brim",23.394,0.0011220000000000002,"Austria -  Hat-forms, etc of felt, not shaped, no formed brim"
+766,417,Kyrgyzstan,616,Poland,63, Electric blankets of textile material,10.675,0.001088,Poland -  Electric blankets of textile material
+767,417,Kyrgyzstan,616,Poland,67," Bird skins and feathers, articles therefrom",17.346,0.001036,"Poland -  Bird skins and feathers, articles therefrom"
+768,417,Kyrgyzstan,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",22.535,0.0009609999999999999,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+769,417,Kyrgyzstan,499,Montenegro,21," Coffee extracts, essences, concentrates, preparations",156.236,0.0009260000000000001,"Montenegro -  Coffee extracts, essences, concentrates, preparations"
+770,417,Kyrgyzstan,703,Slovakia,62," Mens, boys overcoats of wool or hair, not knit",102.272,0.000919,"Slovakia -  Mens, boys overcoats of wool or hair, not knit"
+771,417,Kyrgyzstan,360,Indonesia,58," Woven pile fabric of wool or fine animal hair, w >30c",5.029,0.000916,"Indonesia -  Woven pile fabric of wool or fine animal hair, w >30c"
+772,417,Kyrgyzstan,360,Indonesia,28, Chlorine,143.36,0.0009080000000000001,Indonesia -  Chlorine
+773,417,Kyrgyzstan,528,Netherlands (Kingdom of the),81," Powders, tungsten (wolfram)",3.776,0.000893,"Netherlands (Kingdom of the) -  Powders, tungsten (wolfram)"
+774,417,Kyrgyzstan,840,United States of America,29, Saturated acyclic hydrocarbons,2194.575,0.0008539999999999999,United States of America -  Saturated acyclic hydrocarbons
+775,417,Kyrgyzstan,360,Indonesia,09," Coffee, not roasted, not decaffeinated",118.664,0.000837,"Indonesia -  Coffee, not roasted, not decaffeinated"
+776,417,Kyrgyzstan,056,Belgium,61," Mens, boys overcoats, etc, of wool or hair, knit",22.748,0.0008179999999999999,"Belgium -  Mens, boys overcoats, etc, of wool or hair, knit"
+777,417,Kyrgyzstan,152,Chile,95," Rideable wheeled toys, dolls carriages",61.0,0.000769,"Chile -  Rideable wheeled toys, dolls carriages"
+778,417,Kyrgyzstan,860,Uzbekistan,33, Essential oils of bergamot,28.723,0.000747,Uzbekistan -  Essential oils of bergamot
+779,417,Kyrgyzstan,410,"Korea, Republic of",73, Sheet piling of iron or steel,106.324,0.00069,"Korea, Republic of -  Sheet piling of iron or steel"
+780,417,Kyrgyzstan,344,"China, Hong Kong SAR",84, Nuclear reactors,79.667,0.000601,"China, Hong Kong SAR -  Nuclear reactors"
+781,417,Kyrgyzstan,608,Philippines,84, Nuclear reactors,22.89,0.0005819999999999999,Philippines -  Nuclear reactors
+782,417,Kyrgyzstan,040,Austria,49," Brochures, leaflets and similar, in single sheets",5.059,0.0005769999999999999,"Austria -  Brochures, leaflets and similar, in single sheets"
+783,417,Kyrgyzstan,826,United Kingdom,84, Nuclear reactors,257.939,0.0005639999999999999,United Kingdom -  Nuclear reactors
+784,417,Kyrgyzstan,682,Saudi Arabia,30," Glands and other organs, dried, for therapeutic uses",47.118,0.000558,"Saudi Arabia -  Glands and other organs, dried, for therapeutic uses"
+785,417,Kyrgyzstan,762,Tajikistan,01," Horses, live pure-bred breeding",2.059,0.000536,"Tajikistan -  Horses, live pure-bred breeding"
+786,417,Kyrgyzstan,642,Romania,65," Hat-forms, etc of felt, not shaped, no formed brim",0.14,0.000497,"Romania -  Hat-forms, etc of felt, not shaped, no formed brim"
+787,417,Kyrgyzstan,688,Serbia,62," Mens, boys overcoats of wool or hair, not knit",60.127,0.000491,"Serbia -  Mens, boys overcoats of wool or hair, not knit"
+788,417,Kyrgyzstan,703,Slovakia,73, Sheet piling of iron or steel,47.917,0.000477,Slovakia -  Sheet piling of iron or steel
+789,417,Kyrgyzstan,380,Italy,62," Mens, boys overcoats of wool or hair, not knit",53.288,0.00046899999999999996,"Italy -  Mens, boys overcoats of wool or hair, not knit"
+790,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",88," Gliders, hang gliders",11.701,0.00046600000000000005,"Switzerland, Liechtenstein -  Gliders, hang gliders"
+791,417,Kyrgyzstan,410,"Korea, Republic of",49," Brochures, leaflets and similar, in single sheets",4.885,0.00042699999999999997,"Korea, Republic of -  Brochures, leaflets and similar, in single sheets"
+792,417,Kyrgyzstan,056,Belgium,95," Rideable wheeled toys, dolls carriages",52.167,0.00040300000000000004,"Belgium -  Rideable wheeled toys, dolls carriages"
+793,417,Kyrgyzstan,120,Cameroon,44, Fuel wood,34.29,0.00040100000000000004,Cameroon -  Fuel wood
+794,417,Kyrgyzstan,528,Netherlands (Kingdom of the),84, Nuclear reactors,42.766,0.000398,Netherlands (Kingdom of the) -  Nuclear reactors
+795,417,Kyrgyzstan,762,Tajikistan,93," Military weapons, other than hand guns, swords, etc",0.072,0.000374,"Tajikistan -  Military weapons, other than hand guns, swords, etc"
+796,417,Kyrgyzstan,703,Slovakia,64," Waterproof footwear (Wellingtons etc), metal toe cap",42.316,0.000374,"Slovakia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+797,417,Kyrgyzstan,040,Austria,64," Waterproof footwear (Wellingtons etc), metal toe cap",409.146,0.000365,"Austria -  Waterproof footwear (Wellingtons etc), metal toe cap"
+798,417,Kyrgyzstan,703,Slovakia,61," Mens, boys overcoats, etc, of wool or hair, knit",76.898,0.000361,"Slovakia -  Mens, boys overcoats, etc, of wool or hair, knit"
+799,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",28.988,0.000352,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+800,417,Kyrgyzstan,554,New Zealand,61," Mens, boys overcoats, etc, of wool or hair, knit",8.04,0.00034,"New Zealand -  Mens, boys overcoats, etc, of wool or hair, knit"
+801,417,Kyrgyzstan,404,Kenya,30," Glands and other organs, dried, for therapeutic uses",18.06,0.000324,"Kenya -  Glands and other organs, dried, for therapeutic uses"
+802,417,Kyrgyzstan,048,Bahrain,61," Mens, boys overcoats, etc, of wool or hair, knit",4.803,0.00027100000000000003,"Bahrain -  Mens, boys overcoats, etc, of wool or hair, knit"
+803,417,Kyrgyzstan,360,Indonesia,49," Brochures, leaflets and similar, in single sheets",18.614,0.000263,"Indonesia -  Brochures, leaflets and similar, in single sheets"
+804,417,Kyrgyzstan,410,"Korea, Republic of",06," Bulbs, tubers, corms, crowns and rhizomes, dormant",1.574,0.00023300000000000003,"Korea, Republic of -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+805,417,Kyrgyzstan,642,Romania,85, Electric motors of an output < 37.5 watts,41.009,0.00023,Romania -  Electric motors of an output < 37.5 watts
+806,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",63, Electric blankets of textile material,41.348,0.00022600000000000002,"Switzerland, Liechtenstein -  Electric blankets of textile material"
+807,417,Kyrgyzstan,578,Norway,62," Mens, boys overcoats of wool or hair, not knit",38.105,0.000221,"Norway -  Mens, boys overcoats of wool or hair, not knit"
+808,417,Kyrgyzstan,440,Lithuania,30," Glands and other organs, dried, for therapeutic uses",49.304,0.000219,"Lithuania -  Glands and other organs, dried, for therapeutic uses"
+809,417,Kyrgyzstan,702,Singapore,62," Mens, boys overcoats of wool or hair, not knit",4.148,0.00021799999999999999,"Singapore -  Mens, boys overcoats of wool or hair, not knit"
+810,417,Kyrgyzstan,398,Kazakhstan,11, Wheat or meslin flour,0.005,0.000204,Kazakhstan -  Wheat or meslin flour
+811,417,Kyrgyzstan,398,Kazakhstan,30," Glands and other organs, dried, for therapeutic uses",14.49,0.000199,"Kazakhstan -  Glands and other organs, dried, for therapeutic uses"
+812,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",91," Wrist-watch, precious metal, battery, with hands",18.726,0.000194,"Switzerland, Liechtenstein -  Wrist-watch, precious metal, battery, with hands"
+813,417,Kyrgyzstan,440,Lithuania,64," Waterproof footwear (Wellingtons etc), metal toe cap",30.238,0.000189,"Lithuania -  Waterproof footwear (Wellingtons etc), metal toe cap"
+814,417,Kyrgyzstan,012,Algeria,85, Electric motors of an output < 37.5 watts,4.746,0.000188,Algeria -  Electric motors of an output < 37.5 watts
+815,417,Kyrgyzstan,558,Nicaragua,84, Nuclear reactors,32.754,0.000186,Nicaragua -  Nuclear reactors
+816,417,Kyrgyzstan,250,France,49," Brochures, leaflets and similar, in single sheets",2.421,0.00017999999999999998,"France -  Brochures, leaflets and similar, in single sheets"
+817,417,Kyrgyzstan,643,Russian Federation,51," Greasy shorn wool, not carded or combed",2.221,0.00014399999999999998,"Russian Federation -  Greasy shorn wool, not carded or combed"
+818,417,Kyrgyzstan,784,United Arab Emirates,28, Chlorine,1.69,0.00014099999999999998,United Arab Emirates -  Chlorine
+819,417,Kyrgyzstan,586,Pakistan,88," Gliders, hang gliders",108.212,0.00013900000000000002,"Pakistan -  Gliders, hang gliders"
+820,417,Kyrgyzstan,156,China,49," Brochures, leaflets and similar, in single sheets",1.189,0.00013800000000000002,"China -  Brochures, leaflets and similar, in single sheets"
+821,417,Kyrgyzstan,804,Ukraine,41," Bovine skins, whole, raw",0.284,0.000135,"Ukraine -  Bovine skins, whole, raw"
+822,417,Kyrgyzstan,860,Uzbekistan,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",0.511,0.000125,"Uzbekistan -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+823,417,Kyrgyzstan,012,Algeria,90," Optical fibres, except for telecommunications",14.481,0.00011999999999999999,"Algeria -  Optical fibres, except for telecommunications"
+824,417,Kyrgyzstan,504,Morocco,61," Mens, boys overcoats, etc, of wool or hair, knit",3.989,0.000111,"Morocco -  Mens, boys overcoats, etc, of wool or hair, knit"
+825,417,Kyrgyzstan,056,Belgium,24," Tobacco, unmanufactured, not stemmed or stripped",0.22,9.900000000000001e-05,"Belgium -  Tobacco, unmanufactured, not stemmed or stripped"
+826,417,Kyrgyzstan,356,India,28, Chlorine,0.425,9.7e-05,India -  Chlorine
+827,417,Kyrgyzstan,398,Kazakhstan,71," Pearls natural, not permanently mounted or set",1.036,8.8e-05,"Kazakhstan -  Pearls natural, not permanently mounted or set"
+828,417,Kyrgyzstan,496,Mongolia,11, Wheat or meslin flour,0.03,7.3e-05,Mongolia -  Wheat or meslin flour
+829,417,Kyrgyzstan,616,Poland,85, Electric motors of an output < 37.5 watts,13.564,7.199999999999999e-05,Poland -  Electric motors of an output < 37.5 watts
+830,417,Kyrgyzstan,702,Singapore,08," Coconuts, fresh or dried",0.218,7.000000000000001e-05,"Singapore -  Coconuts, fresh or dried"
+831,417,Kyrgyzstan,380,Italy,41," Bovine skins, whole, raw",0.092,6.1e-05,"Italy -  Bovine skins, whole, raw"
+832,417,Kyrgyzstan,496,Mongolia,49," Brochures, leaflets and similar, in single sheets",2.963,6.1e-05,"Mongolia -  Brochures, leaflets and similar, in single sheets"
+833,417,Kyrgyzstan,360,Indonesia,61," Mens, boys overcoats, etc, of wool or hair, knit",1.057,5.2e-05,"Indonesia -  Mens, boys overcoats, etc, of wool or hair, knit"
+834,417,Kyrgyzstan,222,El Salvador,85, Electric motors of an output < 37.5 watts,5.302,4.8e-05,El Salvador -  Electric motors of an output < 37.5 watts
+835,417,Kyrgyzstan,784,United Arab Emirates,24," Tobacco, unmanufactured, not stemmed or stripped",0.739,4.8e-05,"United Arab Emirates -  Tobacco, unmanufactured, not stemmed or stripped"
+836,417,Kyrgyzstan,642,Romania,62," Mens, boys overcoats of wool or hair, not knit",27.818,4.6e-05,"Romania -  Mens, boys overcoats of wool or hair, not knit"
+837,417,Kyrgyzstan,398,Kazakhstan,41," Bovine skins, whole, raw",2.59,4.4999999999999996e-05,"Kazakhstan -  Bovine skins, whole, raw"
+838,417,Kyrgyzstan,156,China,62," Mens, boys overcoats of wool or hair, not knit",4.51,3.3e-05,"China -  Mens, boys overcoats of wool or hair, not knit"
+839,417,Kyrgyzstan,440,Lithuania,49," Brochures, leaflets and similar, in single sheets",1.769,3.3e-05,"Lithuania -  Brochures, leaflets and similar, in single sheets"
+840,417,Kyrgyzstan,784,United Arab Emirates,62," Mens, boys overcoats of wool or hair, not knit",7.022,3.1e-05,"United Arab Emirates -  Mens, boys overcoats of wool or hair, not knit"
+841,417,Kyrgyzstan,616,Poland,14, Bamboos used primarily for plaiting,1.895,2.3e-05,Poland -  Bamboos used primarily for plaiting
+842,417,Kyrgyzstan,056,Belgium,51," Greasy shorn wool, not carded or combed",0.446,1.7999999999999997e-05,"Belgium -  Greasy shorn wool, not carded or combed"
+843,417,Kyrgyzstan,608,Philippines,85, Electric motors of an output < 37.5 watts,55.111,1.7999999999999997e-05,Philippines -  Electric motors of an output < 37.5 watts
+844,417,Kyrgyzstan,398,Kazakhstan,91," Wrist-watch, precious metal, battery, with hands",1.084,1.3e-05,"Kazakhstan -  Wrist-watch, precious metal, battery, with hands"
+845,417,Kyrgyzstan,398,Kazakhstan,88," Gliders, hang gliders",2.383,1e-05,"Kazakhstan -  Gliders, hang gliders"
+846,417,Kyrgyzstan,410,"Korea, Republic of",24," Tobacco, unmanufactured, not stemmed or stripped",0.078,8.999999999999999e-06,"Korea, Republic of -  Tobacco, unmanufactured, not stemmed or stripped"
+847,417,Kyrgyzstan,156,China,50, Silk-worm cocoons suitable for reeling,0.021,5e-06,China -  Silk-worm cocoons suitable for reeling
+848,417,Kyrgyzstan,756,"Switzerland, Liechtenstein",24," Tobacco, unmanufactured, not stemmed or stripped",0.209,3e-06,"Switzerland, Liechtenstein -  Tobacco, unmanufactured, not stemmed or stripped"
+849,417,Kyrgyzstan,056,Belgium,90," Optical fibres, except for telecommunications",0.117,2e-06,"Belgium -  Optical fibres, except for telecommunications"
+850,417,Kyrgyzstan,586,Pakistan,02," Bovine carcasses and half carcasses, fresh or chilled",0.002,1e-06,"Pakistan -  Bovine carcasses and half carcasses, fresh or chilled"
+851,417,Kyrgyzstan,410,"Korea, Republic of",01," Horses, live pure-bred breeding",0.0,0.0,"Korea, Republic of -  Horses, live pure-bred breeding"
+852,417,Kyrgyzstan,360,Indonesia,01," Horses, live pure-bred breeding",0.0,0.0,"Indonesia -  Horses, live pure-bred breeding"
+853,417,Kyrgyzstan,643,Russian Federation,41," Bovine skins, whole, raw",0.001,0.0,"Russian Federation -  Bovine skins, whole, raw"
+854,417,Kyrgyzstan,144,Sri Lanka,82, Spades and shovels,0.0,0.0,Sri Lanka -  Spades and shovels
+855,417,Kyrgyzstan,012,Algeria,83, Padlocks of base metal,0.0,0.0,Algeria -  Padlocks of base metal
+856,417,Kyrgyzstan,144,Sri Lanka,72," Pig iron, non-alloy, <0.5% phosphorus",0.0,0.0,"Sri Lanka -  Pig iron, non-alloy, <0.5% phosphorus"
+857,417,Kyrgyzstan,012,Algeria,96," Worked ivory, articles of ivory",0.0,0.0,"Algeria -  Worked ivory, articles of ivory"
+858,417,Kyrgyzstan,860,Uzbekistan,01," Horses, live pure-bred breeding",0.0,0.0,"Uzbekistan -  Horses, live pure-bred breeding"
+859,417,Kyrgyzstan,616,Poland,01," Horses, live pure-bred breeding",0.0,0.0,"Poland -  Horses, live pure-bred breeding"
+860,417,Kyrgyzstan,586,Pakistan,01," Horses, live pure-bred breeding",0.0,0.0,"Pakistan -  Horses, live pure-bred breeding"
+861,417,Kyrgyzstan,643,Russian Federation,50, Silk-worm cocoons suitable for reeling,0.0,0.0,Russian Federation -  Silk-worm cocoons suitable for reeling
+862,417,Kyrgyzstan,398,Kazakhstan,50, Silk-worm cocoons suitable for reeling,0.0,0.0,Kazakhstan -  Silk-worm cocoons suitable for reeling
+863,417,Kyrgyzstan,144,Sri Lanka,55," Filament tow of nylon, polyamides",0.0,0.0,"Sri Lanka -  Filament tow of nylon, polyamides"
+864,417,Kyrgyzstan,156,China,01," Horses, live pure-bred breeding",0.0,0.0,"China -  Horses, live pure-bred breeding"
+865,417,Kyrgyzstan,144,Sri Lanka,85, Electric motors of an output < 37.5 watts,0.0,0.0,Sri Lanka -  Electric motors of an output < 37.5 watts

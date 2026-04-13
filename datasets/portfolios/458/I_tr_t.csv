@@ -1,0 +1,781 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,392,Japan,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",831669425.773,1129295.335853,"Japan -  Pig iron, non-alloy, <0.5% phosphorus"
+1,392,Japan,458,Malaysia,27," Anthracite, not agglomerated",340456820.083,607396.02009,"Japan -  Anthracite, not agglomerated"
+2,840,United States of America,458,Malaysia,28, Chlorine,158569634.235,447152.385351,United States of America -  Chlorine
+3,392,Japan,458,Malaysia,85, Electric motors of an output < 37.5 watts,382442115.039,426325.35749900003,Japan -  Electric motors of an output < 37.5 watts
+4,036,Australia,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",11261779.325,408151.53384600003,"Australia -  Salt (sodium chloride) including solution, salt water"
+5,392,Japan,458,Malaysia,28, Chlorine,147233444.409,399877.722796,Japan -  Chlorine
+6,840,United States of America,458,Malaysia,27," Anthracite, not agglomerated",160308428.308,363425.714116,"United States of America -  Anthracite, not agglomerated"
+7,392,Japan,458,Malaysia,84, Nuclear reactors,774925304.752,328297.128018,Japan -  Nuclear reactors
+8,840,United States of America,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,488716241.23,307369.157819,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+9,124,Canada,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",68487436.178,271911.63465100003,"Canada -  Animal or vegetable fertilizers, in packs >10 kg"
+10,392,Japan,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,579768102.55,240276.32577700002,Japan -  Polyethylene - specific gravity <0.94 in primary form
+11,392,Japan,458,Malaysia,48, Newsprint,169757338.974,230218.502136,Japan -  Newsprint
+12,392,Japan,458,Malaysia,73, Sheet piling of iron or steel,205964036.006,182373.944024,Japan -  Sheet piling of iron or steel
+13,840,United States of America,458,Malaysia,85, Electric motors of an output < 37.5 watts,724212917.248,177649.85861599998,United States of America -  Electric motors of an output < 37.5 watts
+14,036,Australia,458,Malaysia,17," Raw sugar, cane",50673317.585,166868.47189500002,"Australia -  Raw sugar, cane"
+15,036,Australia,458,Malaysia,27," Anthracite, not agglomerated",57809665.99,124263.188167,"Australia -  Anthracite, not agglomerated"
+16,076,Brazil,458,Malaysia,27," Anthracite, not agglomerated",43183901.281,109786.535463,"Brazil -  Anthracite, not agglomerated"
+17,344,"China, Hong Kong SAR",458,Malaysia,85, Electric motors of an output < 37.5 watts,165983176.678,101219.61187899999,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+18,840,United States of America,458,Malaysia,38, Artificial graphite,175126615.088,88053.528553,United States of America -  Artificial graphite
+19,608,Philippines,458,Malaysia,85, Electric motors of an output < 37.5 watts,99756127.652,85027.989765,Philippines -  Electric motors of an output < 37.5 watts
+20,554,New Zealand,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,259386109.978,80860.44478,New Zealand -  Milk not concentrated nor sweetened < 1% fat
+21,392,Japan,458,Malaysia,87, Pedestrian controlled tractors,771698666.395,78869.369866,Japan -  Pedestrian controlled tractors
+22,392,Japan,458,Malaysia,40," Natural rubber latex, including prevulcanised",141202217.14,76179.61916,"Japan -  Natural rubber latex, including prevulcanised"
+23,392,Japan,458,Malaysia,29, Saturated acyclic hydrocarbons,106820924.379,71902.808295,Japan -  Saturated acyclic hydrocarbons
+24,392,Japan,458,Malaysia,74, Copper mattes,425024003.076,62964.788937,Japan -  Copper mattes
+25,036,Australia,458,Malaysia,44, Fuel wood,27872115.876,60939.453541,Australia -  Fuel wood
+26,554,New Zealand,458,Malaysia,27," Anthracite, not agglomerated",26200696.392,60076.248639,"New Zealand -  Anthracite, not agglomerated"
+27,036,Australia,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",5648306.836,48625.662531,"Australia -  Animal or vegetable fertilizers, in packs >10 kg"
+28,392,Japan,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",60343916.134,48604.303173,"Japan -  Glass cullet, waste or scrap, glass in the mass"
+29,124,Canada,458,Malaysia,12, Soya beans,14063517.481,48454.079006,Canada -  Soya beans
+30,344,"China, Hong Kong SAR",458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,37712379.922,47748.64456,"China, Hong Kong SAR -  Polyethylene - specific gravity <0.94 in primary form"
+31,840,United States of America,458,Malaysia,11, Wheat or meslin flour,16028694.821,47410.16194300001,United States of America -  Wheat or meslin flour
+32,840,United States of America,458,Malaysia,48, Newsprint,61716570.997,47368.329665,United States of America -  Newsprint
+33,840,United States of America,458,Malaysia,84, Nuclear reactors,771370800.014,44154.394687,United States of America -  Nuclear reactors
+34,840,United States of America,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",29625475.326,39002.578034,"United States of America -  Flour or meal, pellet of meat or offal for animal fee"
+35,840,United States of America,458,Malaysia,29, Saturated acyclic hydrocarbons,86306777.713,35859.631386,United States of America -  Saturated acyclic hydrocarbons
+36,840,United States of America,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",8273234.63,35650.462751,"United States of America -  Salt (sodium chloride) including solution, salt water"
+37,840,United States of America,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,60481839.184,34138.770604000005,United States of America -  Milk not concentrated nor sweetened < 1% fat
+38,840,United States of America,458,Malaysia,10, Durum wheat,7515957.508,33931.794849,United States of America -  Durum wheat
+39,036,Australia,458,Malaysia,07," Potatoes seed, fresh or chilled",18909260.57,33698.833831,"Australia -  Potatoes seed, fresh or chilled"
+40,036,Australia,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",11076906.778,32868.529108,"Australia -  Coffee extracts, essences, concentrates, preparations"
+41,554,New Zealand,458,Malaysia,44, Fuel wood,12877307.735,31960.097463,New Zealand -  Fuel wood
+42,392,Japan,458,Malaysia,76," Aluminium unwrought, not alloyed",169897118.473,30881.630234,"Japan -  Aluminium unwrought, not alloyed"
+43,840,United States of America,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",125938614.784,26543.461350999998,"United States of America -  Coffee extracts, essences, concentrates, preparations"
+44,036,Australia,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,72913429.789,24505.348946,Australia -  Milk not concentrated nor sweetened < 1% fat
+45,840,United States of America,458,Malaysia,73, Sheet piling of iron or steel,112822250.807,24266.015826000003,United States of America -  Sheet piling of iron or steel
+46,124,Canada,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,20040197.006,22755.531638,Canada -  Polyethylene - specific gravity <0.94 in primary form
+47,392,Japan,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",6833725.832,21078.754388,"Japan -  Flour or meal, pellet of meat or offal for animal fee"
+48,554,New Zealand,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",15031104.483,19847.94654,"New Zealand -  Coffee extracts, essences, concentrates, preparations"
+49,840,United States of America,458,Malaysia,08," Coconuts, fresh or dried",61500851.855,19841.778165,"United States of America -  Coconuts, fresh or dried"
+50,840,United States of America,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",11907436.385,18106.339067,"United States of America -  Lard, other pig fat and poultry fat, rendered"
+51,036,Australia,458,Malaysia,79," Zinc, not alloyed, unwrought, >99% pure",52046880.956,17812.706516,"Australia -  Zinc, not alloyed, unwrought, >99% pure"
+52,840,United States of America,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",7193412.78,17114.160259,"United States of America -  Animal or vegetable fertilizers, in packs >10 kg"
+53,392,Japan,458,Malaysia,38, Artificial graphite,136238753.561,16987.804078,Japan -  Artificial graphite
+54,840,United States of America,458,Malaysia,40," Natural rubber latex, including prevulcanised",53670033.856,14703.514152000002,"United States of America -  Natural rubber latex, including prevulcanised"
+55,392,Japan,458,Malaysia,34," Soaps, for toilet use, solid",58438466.609,14572.570894999999,"Japan -  Soaps, for toilet use, solid"
+56,840,United States of America,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",39770187.066,14524.938175000001,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+57,036,Australia,458,Malaysia,48, Newsprint,11407173.297,13948.289748,Australia -  Newsprint
+58,840,United States of America,458,Malaysia,07," Potatoes seed, fresh or chilled",8324408.701,13855.651967,"United States of America -  Potatoes seed, fresh or chilled"
+59,036,Australia,458,Malaysia,08," Coconuts, fresh or dried",23146832.083,13046.294082,"Australia -  Coconuts, fresh or dried"
+60,036,Australia,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,22240378.835,12687.619102,Australia -  Polyethylene - specific gravity <0.94 in primary form
+61,392,Japan,458,Malaysia,32, Quebracho tanning extract,74799380.594,12657.577092,Japan -  Quebracho tanning extract
+62,344,"China, Hong Kong SAR",458,Malaysia,74, Copper mattes,22380063.964,11663.221696,"China, Hong Kong SAR -  Copper mattes"
+63,840,United States of America,458,Malaysia,76," Aluminium unwrought, not alloyed",55083690.941,10754.344975,"United States of America -  Aluminium unwrought, not alloyed"
+64,036,Australia,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",26145257.071,10184.340966,"Australia -  Infant foods of cereals, flour, starch or milk, retai"
+65,840,United States of America,458,Malaysia,34," Soaps, for toilet use, solid",43514476.886,9940.366402000001,"United States of America -  Soaps, for toilet use, solid"
+66,392,Japan,458,Malaysia,03," Ornamental fish, live",22955135.234,9684.763815999999,"Japan -  Ornamental fish, live"
+67,076,Brazil,458,Malaysia,73, Sheet piling of iron or steel,9183318.326,9244.385247,Brazil -  Sheet piling of iron or steel
+68,840,United States of America,458,Malaysia,32, Quebracho tanning extract,58553512.177,8874.903697,United States of America -  Quebracho tanning extract
+69,414,Kuwait,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,8594725.5,8076.764861,Kuwait -  Polyethylene - specific gravity <0.94 in primary form
+70,036,Australia,458,Malaysia,32, Quebracho tanning extract,21999582.556,8000.070243,Australia -  Quebracho tanning extract
+71,392,Japan,458,Malaysia,82, Spades and shovels,11711749.571,7773.185777,Japan -  Spades and shovels
+72,076,Brazil,458,Malaysia,09," Coffee, not roasted, not decaffeinated",20151327.334,7736.78157,"Brazil -  Coffee, not roasted, not decaffeinated"
+73,840,United States of America,458,Malaysia,82, Spades and shovels,6302100.103,7683.031959,United States of America -  Spades and shovels
+74,840,United States of America,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",23192179.793,7578.873409,"United States of America -  Infant foods of cereals, flour, starch or milk, retai"
+75,152,Chile,458,Malaysia,44, Fuel wood,2736783.157,7375.007711,Chile -  Fuel wood
+76,124,Canada,458,Malaysia,44, Fuel wood,3701624.792,6856.1653799999995,Canada -  Fuel wood
+77,076,Brazil,458,Malaysia,44, Fuel wood,3053996.519,6781.049925,Brazil -  Fuel wood
+78,608,Philippines,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",10097449.442,6544.778147,"Philippines -  Coffee extracts, essences, concentrates, preparations"
+79,840,United States of America,458,Malaysia,17," Raw sugar, cane",6322812.61,6454.785930999999,"United States of America -  Raw sugar, cane"
+80,840,United States of America,458,Malaysia,90," Optical fibres, except for telecommunications",136111793.139,6399.959967,"United States of America -  Optical fibres, except for telecommunications"
+81,840,United States of America,458,Malaysia,33, Essential oils of bergamot,69147998.577,6356.444089,United States of America -  Essential oils of bergamot
+82,344,"China, Hong Kong SAR",458,Malaysia,84, Nuclear reactors,58036396.65,6245.660733,"China, Hong Kong SAR -  Nuclear reactors"
+83,124,Canada,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",2764371.726,6168.53999,"Canada -  Lard, other pig fat and poultry fat, rendered"
+84,096,Brunei Darussalam,458,Malaysia,27," Anthracite, not agglomerated",3199704.342,6056.994842,"Brunei Darussalam -  Anthracite, not agglomerated"
+85,170,Colombia,458,Malaysia,09," Coffee, not roasted, not decaffeinated",21622879.486,5833.250455,"Colombia -  Coffee, not roasted, not decaffeinated"
+86,344,"China, Hong Kong SAR",458,Malaysia,27," Anthracite, not agglomerated",7531662.0,5791.547295,"China, Hong Kong SAR -  Anthracite, not agglomerated"
+87,392,Japan,458,Malaysia,94," Seats, aircraft",32980134.936,5667.665572,"Japan -  Seats, aircraft"
+88,608,Philippines,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,12957619.973,5599.856897,Philippines -  Polyethylene - specific gravity <0.94 in primary form
+89,608,Philippines,458,Malaysia,34," Soaps, for toilet use, solid",6599139.327,5242.606113,"Philippines -  Soaps, for toilet use, solid"
+90,840,United States of America,458,Malaysia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",8680065.581,5145.891054,"United States of America -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+91,840,United States of America,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",24224999.849,4864.210371,"United States of America -  Brochures, leaflets and similar, in single sheets"
+92,484,Mexico,458,Malaysia,85, Electric motors of an output < 37.5 watts,36703604.353,4862.5499709999995,Mexico -  Electric motors of an output < 37.5 watts
+93,840,United States of America,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",14904089.365,4637.036171,"United States of America -  Pig iron, non-alloy, <0.5% phosphorus"
+94,840,United States of America,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",29217969.412,4535.499618,"United States of America -  Glass cullet, waste or scrap, glass in the mass"
+95,840,United States of America,458,Malaysia,44, Fuel wood,5383070.769,4462.549234,United States of America -  Fuel wood
+96,392,Japan,458,Malaysia,90," Optical fibres, except for telecommunications",42985953.223,4320.707525999999,"Japan -  Optical fibres, except for telecommunications"
+97,036,Australia,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",11109407.905,3979.275598,"Australia -  Cocoa beans, whole or broken, raw or roasted"
+98,608,Philippines,458,Malaysia,29, Saturated acyclic hydrocarbons,6442867.042,3932.845883,Philippines -  Saturated acyclic hydrocarbons
+99,840,United States of America,458,Malaysia,87, Pedestrian controlled tractors,45509620.364,3927.7048360000003,United States of America -  Pedestrian controlled tractors
+100,484,Mexico,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,4476501.186,3815.640607,Mexico -  Polyethylene - specific gravity <0.94 in primary form
+101,840,United States of America,458,Malaysia,35, Casein,28026366.229,3789.994443,United States of America -  Casein
+102,188,Costa Rica,458,Malaysia,74, Copper mattes,207930.962,3487.376906,Costa Rica -  Copper mattes
+103,036,Australia,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,32287534.593,3356.3079900000002,Australia -  Mineral and aerated waters not sweetened or flavoured
+104,840,United States of America,458,Malaysia,74, Copper mattes,34990378.085,3339.279667,United States of America -  Copper mattes
+105,076,Brazil,458,Malaysia,29, Saturated acyclic hydrocarbons,3038631.59,3003.290685,Brazil -  Saturated acyclic hydrocarbons
+106,036,Australia,458,Malaysia,34," Soaps, for toilet use, solid",8614303.898,2952.525693,"Australia -  Soaps, for toilet use, solid"
+107,124,Canada,458,Malaysia,47, Mechanical wood pulp,2847506.879,2927.3924049999996,Canada -  Mechanical wood pulp
+108,392,Japan,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",17503477.481,2913.0984449999996,"Japan -  Coffee extracts, essences, concentrates, preparations"
+109,036,Australia,458,Malaysia,84, Nuclear reactors,18665879.982,2760.516012,Australia -  Nuclear reactors
+110,840,United States of America,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,15073312.565,2759.890793,United States of America -  Mineral and aerated waters not sweetened or flavoured
+111,392,Japan,458,Malaysia,96," Worked ivory, articles of ivory",13954284.804,2753.642009,"Japan -  Worked ivory, articles of ivory"
+112,036,Australia,458,Malaysia,11, Wheat or meslin flour,1000880.539,2690.787046,Australia -  Wheat or meslin flour
+113,608,Philippines,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",2511391.933,2540.3342089999996,"Philippines -  Cucumbers,gherkins, prepared or preserved by vinegar"
+114,840,United States of America,458,Malaysia,03," Ornamental fish, live",13088424.64,2480.383258,"United States of America -  Ornamental fish, live"
+115,076,Brazil,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",10681141.985,2361.126526,"Brazil -  Coffee extracts, essences, concentrates, preparations"
+116,076,Brazil,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",3949586.39,2305.915326,"Brazil -  Cucumbers,gherkins, prepared or preserved by vinegar"
+117,152,Chile,458,Malaysia,74, Copper mattes,3082051.461,2262.406614,Chile -  Copper mattes
+118,392,Japan,458,Malaysia,33, Essential oils of bergamot,29827690.539,2254.73994,Japan -  Essential oils of bergamot
+119,392,Japan,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",20432914.995,2150.810696,"Japan -  Stone setts, curbstones, flagstones (except slate)"
+120,392,Japan,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,8172623.285,2132.275282,Japan -  Mineral and aerated waters not sweetened or flavoured
+121,036,Australia,458,Malaysia,73, Sheet piling of iron or steel,6128949.498,2025.689979,Australia -  Sheet piling of iron or steel
+122,036,Australia,458,Malaysia,38, Artificial graphite,4914631.258,2014.295573,Australia -  Artificial graphite
+123,840,United States of America,458,Malaysia,94," Seats, aircraft",26548714.853,2004.36309,"United States of America -  Seats, aircraft"
+124,840,United States of America,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",47108245.6,1930.763469,"United States of America -  Glands and other organs, dried, for therapeutic uses"
+125,076,Brazil,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",4752330.617,1900.806771,"Brazil -  Pig iron, non-alloy, <0.5% phosphorus"
+126,392,Japan,458,Malaysia,79," Zinc, not alloyed, unwrought, >99% pure",5781702.239,1858.619304,"Japan -  Zinc, not alloyed, unwrought, >99% pure"
+127,705,Slovenia,458,Malaysia,48, Newsprint,973550.873,1855.028293,Slovenia -  Newsprint
+128,344,"China, Hong Kong SAR",458,Malaysia,48, Newsprint,3591966.164,1798.03754,"China, Hong Kong SAR -  Newsprint"
+129,840,United States of America,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",4619870.378,1793.630529,"United States of America -  Stone setts, curbstones, flagstones (except slate)"
+130,392,Japan,458,Malaysia,75, Nickel mattes,401499.071,1774.382103,Japan -  Nickel mattes
+131,320,Guatemala,458,Malaysia,09," Coffee, not roasted, not decaffeinated",8528925.332,1767.975704,"Guatemala -  Coffee, not roasted, not decaffeinated"
+132,124,Canada,458,Malaysia,38, Artificial graphite,1466682.679,1762.599936,Canada -  Artificial graphite
+133,392,Japan,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",7810208.315,1747.364251,"Japan -  Infant foods of cereals, flour, starch or milk, retai"
+134,036,Australia,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",3662679.89,1732.911061,"Australia -  Cucumbers,gherkins, prepared or preserved by vinegar"
+135,392,Japan,458,Malaysia,69," Bricks, blocks and ceramic goods of siliceous earths",7237690.94,1721.8202760000001,"Japan -  Bricks, blocks and ceramic goods of siliceous earths"
+136,344,"China, Hong Kong SAR",458,Malaysia,73, Sheet piling of iron or steel,6648431.495,1710.6141189999998,"China, Hong Kong SAR -  Sheet piling of iron or steel"
+137,152,Chile,458,Malaysia,03," Ornamental fish, live",9934478.221,1624.562486,"Chile -  Ornamental fish, live"
+138,608,Philippines,458,Malaysia,90," Optical fibres, except for telecommunications",4258557.358,1599.84204,"Philippines -  Optical fibres, except for telecommunications"
+139,096,Brunei Darussalam,458,Malaysia,73, Sheet piling of iron or steel,1053276.222,1581.049375,Brunei Darussalam -  Sheet piling of iron or steel
+140,392,Japan,458,Malaysia,83, Padlocks of base metal,8317297.232,1555.227135,Japan -  Padlocks of base metal
+141,152,Chile,458,Malaysia,08," Coconuts, fresh or dried",2988613.375,1550.820594,"Chile -  Coconuts, fresh or dried"
+142,032,Argentina,458,Malaysia,08," Coconuts, fresh or dried",1476013.135,1526.584174,"Argentina -  Coconuts, fresh or dried"
+143,840,United States of America,458,Malaysia,83, Padlocks of base metal,16026592.164,1513.1627979999998,United States of America -  Padlocks of base metal
+144,188,Costa Rica,458,Malaysia,85, Electric motors of an output < 37.5 watts,12740707.44,1410.79625,Costa Rica -  Electric motors of an output < 37.5 watts
+145,608,Philippines,458,Malaysia,08," Coconuts, fresh or dried",1271709.102,1391.205643,"Philippines -  Coconuts, fresh or dried"
+146,344,"China, Hong Kong SAR",458,Malaysia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1342858.722,1356.271442,"China, Hong Kong SAR -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+147,036,Australia,458,Malaysia,33, Essential oils of bergamot,8257680.41,1353.6370060000002,Australia -  Essential oils of bergamot
+148,392,Japan,458,Malaysia,35, Casein,18105333.195,1303.472176,Japan -  Casein
+149,392,Japan,458,Malaysia,37, X-ray plates and films,12944026.232,1297.717801,Japan -  X-ray plates and films
+150,554,New Zealand,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",679829.111,1246.615028,"New Zealand -  Pig iron, non-alloy, <0.5% phosphorus"
+151,608,Philippines,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",2040172.491,1237.3281029999998,"Philippines -  Cocoa beans, whole or broken, raw or roasted"
+152,392,Japan,458,Malaysia,80, Tin not alloyed unwrought,3512055.026,1233.590736,Japan -  Tin not alloyed unwrought
+153,608,Philippines,458,Malaysia,33, Essential oils of bergamot,4385013.68,1218.928933,Philippines -  Essential oils of bergamot
+154,392,Japan,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",1100559.905,1210.914162,"Japan -  Animal or vegetable fertilizers, in packs >10 kg"
+155,608,Philippines,458,Malaysia,84, Nuclear reactors,15263415.959,1210.596385,Philippines -  Nuclear reactors
+156,840,United States of America,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",7917669.933,1196.893095,"United States of America -  Cocoa beans, whole or broken, raw or roasted"
+157,608,Philippines,458,Malaysia,17," Raw sugar, cane",4159255.302,1184.543882,"Philippines -  Raw sugar, cane"
+158,608,Philippines,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",2297667.28,1182.9624469999999,"Philippines -  Infant foods of cereals, flour, starch or milk, retai"
+159,032,Argentina,458,Malaysia,09," Coffee, not roasted, not decaffeinated",847220.537,1168.982701,"Argentina -  Coffee, not roasted, not decaffeinated"
+160,392,Japan,458,Malaysia,54, Sewing thread of synthetic filaments,9834615.136,1108.982395,Japan -  Sewing thread of synthetic filaments
+161,392,Japan,458,Malaysia,63, Electric blankets of textile material,1903117.459,1082.581001,Japan -  Electric blankets of textile material
+162,344,"China, Hong Kong SAR",458,Malaysia,44, Fuel wood,540616.541,1081.557203,"China, Hong Kong SAR -  Fuel wood"
+163,608,Philippines,458,Malaysia,24," Tobacco, unmanufactured, not stemmed or stripped",12925194.001,1047.298657,"Philippines -  Tobacco, unmanufactured, not stemmed or stripped"
+164,036,Australia,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",5011113.666,1036.965569,"Australia -  Glands and other organs, dried, for therapeutic uses"
+165,152,Chile,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,5256522.311,993.859581,Chile -  Mineral and aerated waters not sweetened or flavoured
+166,344,"China, Hong Kong SAR",458,Malaysia,95," Rideable wheeled toys, dolls carriages",8278252.1,989.978154,"China, Hong Kong SAR -  Rideable wheeled toys, dolls carriages"
+167,840,United States of America,458,Malaysia,37, X-ray plates and films,7032223.665,910.227281,United States of America -  X-ray plates and films
+168,608,Philippines,458,Malaysia,38, Artificial graphite,2594480.043,909.800975,Philippines -  Artificial graphite
+169,554,New Zealand,458,Malaysia,38, Artificial graphite,104868.035,905.385852,New Zealand -  Artificial graphite
+170,344,"China, Hong Kong SAR",458,Malaysia,90," Optical fibres, except for telecommunications",16675890.671,891.213451,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+171,840,United States of America,458,Malaysia,56," Sanitary towels, diapers and similar articles",7842304.623,880.245662,"United States of America -  Sanitary towels, diapers and similar articles"
+172,604,Peru,458,Malaysia,09," Coffee, not roasted, not decaffeinated",2403140.501,853.532914,"Peru -  Coffee, not roasted, not decaffeinated"
+173,344,"China, Hong Kong SAR",458,Malaysia,34," Soaps, for toilet use, solid",2504318.939,846.114239,"China, Hong Kong SAR -  Soaps, for toilet use, solid"
+174,392,Japan,458,Malaysia,95," Rideable wheeled toys, dolls carriages",14871431.929,827.4808760000001,"Japan -  Rideable wheeled toys, dolls carriages"
+175,840,United States of America,458,Malaysia,81," Powders, tungsten (wolfram)",3511520.638,819.4883639999999,"United States of America -  Powders, tungsten (wolfram)"
+176,036,Australia,458,Malaysia,85, Electric motors of an output < 37.5 watts,8241971.346,798.079291,Australia -  Electric motors of an output < 37.5 watts
+177,344,"China, Hong Kong SAR",458,Malaysia,38, Artificial graphite,6122695.605,785.682151,"China, Hong Kong SAR -  Artificial graphite"
+178,840,United States of America,458,Malaysia,95," Rideable wheeled toys, dolls carriages",15030102.913,784.65268,"United States of America -  Rideable wheeled toys, dolls carriages"
+179,392,Japan,458,Malaysia,56," Sanitary towels, diapers and similar articles",7404886.027,782.959921,"Japan -  Sanitary towels, diapers and similar articles"
+180,840,United States of America,458,Malaysia,54, Sewing thread of synthetic filaments,5405429.816,774.467395,United States of America -  Sewing thread of synthetic filaments
+181,036,Australia,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",564006.786,764.548242,"Australia -  Pig iron, non-alloy, <0.5% phosphorus"
+182,344,"China, Hong Kong SAR",458,Malaysia,80, Tin not alloyed unwrought,5359052.937,746.613011,"China, Hong Kong SAR -  Tin not alloyed unwrought"
+183,124,Canada,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",1942208.522,702.415246,"Canada -  Flour or meal, pellet of meat or offal for animal fee"
+184,484,Mexico,458,Malaysia,84, Nuclear reactors,10636069.833,675.1764179999999,Mexico -  Nuclear reactors
+185,344,"China, Hong Kong SAR",458,Malaysia,82, Spades and shovels,567016.586,656.965905,"China, Hong Kong SAR -  Spades and shovels"
+186,124,Canada,458,Malaysia,84, Nuclear reactors,10286485.657,644.780567,Canada -  Nuclear reactors
+187,036,Australia,458,Malaysia,87, Pedestrian controlled tractors,3661322.082,644.6472809999999,Australia -  Pedestrian controlled tractors
+188,344,"China, Hong Kong SAR",458,Malaysia,40," Natural rubber latex, including prevulcanised",2293810.896,623.508861,"China, Hong Kong SAR -  Natural rubber latex, including prevulcanised"
+189,392,Japan,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",6753006.525,621.050736,"Japan -  Glands and other organs, dried, for therapeutic uses"
+190,344,"China, Hong Kong SAR",458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",1172128.162,613.743876,"China, Hong Kong SAR -  Pig iron, non-alloy, <0.5% phosphorus"
+191,344,"China, Hong Kong SAR",458,Malaysia,42," Saddlery and harness, of any material",5401722.195,613.599471,"China, Hong Kong SAR -  Saddlery and harness, of any material"
+192,344,"China, Hong Kong SAR",458,Malaysia,76," Aluminium unwrought, not alloyed",3750272.202,591.668233,"China, Hong Kong SAR -  Aluminium unwrought, not alloyed"
+193,036,Australia,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",1016050.424,590.7969350000001,"Australia -  Lard, other pig fat and poultry fat, rendered"
+194,124,Canada,458,Malaysia,29, Saturated acyclic hydrocarbons,787842.989,585.4868170000001,Canada -  Saturated acyclic hydrocarbons
+195,344,"China, Hong Kong SAR",458,Malaysia,32, Quebracho tanning extract,1460596.057,579.509015,"China, Hong Kong SAR -  Quebracho tanning extract"
+196,392,Japan,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",1721707.568,571.996284,"Japan -  Brochures, leaflets and similar, in single sheets"
+197,840,United States of America,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,6076091.393,564.720928,United States of America -  Gum or amylaceous covered textiles for book covers et
+198,554,New Zealand,458,Malaysia,76," Aluminium unwrought, not alloyed",1170299.084,561.535334,"New Zealand -  Aluminium unwrought, not alloyed"
+199,608,Philippines,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",1030686.911,548.008554,"Philippines -  Sausages, similar products of meat, meat offal & bloo"
+200,344,"China, Hong Kong SAR",458,Malaysia,03," Ornamental fish, live",3716976.236,545.166067,"China, Hong Kong SAR -  Ornamental fish, live"
+201,096,Brunei Darussalam,458,Malaysia,44, Fuel wood,694887.625,535.046163,Brunei Darussalam -  Fuel wood
+202,344,"China, Hong Kong SAR",458,Malaysia,83, Padlocks of base metal,1510274.357,503.421901,"China, Hong Kong SAR -  Padlocks of base metal"
+203,554,New Zealand,458,Malaysia,35, Casein,2111463.208,496.08731,New Zealand -  Casein
+204,124,Canada,458,Malaysia,11, Wheat or meslin flour,509830.283,484.807147,Canada -  Wheat or meslin flour
+205,344,"China, Hong Kong SAR",458,Malaysia,94," Seats, aircraft",2110027.917,470.535119,"China, Hong Kong SAR -  Seats, aircraft"
+206,554,New Zealand,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",848672.358,464.910194,"New Zealand -  Flour or meal, pellet of meat or offal for animal fee"
+207,344,"China, Hong Kong SAR",458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",2226409.432,463.02952799999997,"China, Hong Kong SAR -  Wrist-watch, precious metal, battery, with hands"
+208,642,Romania,458,Malaysia,40," Natural rubber latex, including prevulcanised",1939044.969,462.06057400000003,"Romania -  Natural rubber latex, including prevulcanised"
+209,036,Australia,458,Malaysia,74, Copper mattes,2994065.877,457.971435,Australia -  Copper mattes
+210,840,United States of America,458,Malaysia,96," Worked ivory, articles of ivory",2868349.608,455.954958,"United States of America -  Worked ivory, articles of ivory"
+211,642,Romania,458,Malaysia,73, Sheet piling of iron or steel,776553.333,454.929961,Romania -  Sheet piling of iron or steel
+212,840,United States of America,458,Malaysia,88," Gliders, hang gliders",100508143.017,434.993395,"United States of America -  Gliders, hang gliders"
+213,076,Brazil,458,Malaysia,84, Nuclear reactors,4061549.645,434.817435,Brazil -  Nuclear reactors
+214,608,Philippines,458,Malaysia,87, Pedestrian controlled tractors,6505415.666,420.533306,Philippines -  Pedestrian controlled tractors
+215,188,Costa Rica,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,621254.614,417.929328,Costa Rica -  Polyethylene - specific gravity <0.94 in primary form
+216,840,United States of America,458,Malaysia,75, Nickel mattes,479368.665,414.757727,United States of America -  Nickel mattes
+217,608,Philippines,458,Malaysia,94," Seats, aircraft",3538992.339,410.852126,"Philippines -  Seats, aircraft"
+218,608,Philippines,458,Malaysia,83, Padlocks of base metal,1838237.183,410.43959,Philippines -  Padlocks of base metal
+219,344,"China, Hong Kong SAR",458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",809081.861,407.250645,"China, Hong Kong SAR -  Infant foods of cereals, flour, starch or milk, retai"
+220,840,United States of America,458,Malaysia,09," Coffee, not roasted, not decaffeinated",3462078.014,403.04954200000003,"United States of America -  Coffee, not roasted, not decaffeinated"
+221,344,"China, Hong Kong SAR",458,Malaysia,29, Saturated acyclic hydrocarbons,956238.958,399.482332,"China, Hong Kong SAR -  Saturated acyclic hydrocarbons"
+222,096,Brunei Darussalam,458,Malaysia,48, Newsprint,154441.337,390.390962,Brunei Darussalam -  Newsprint
+223,124,Canada,458,Malaysia,32, Quebracho tanning extract,1602040.05,381.682822,Canada -  Quebracho tanning extract
+224,344,"China, Hong Kong SAR",458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",3120570.461,373.06766100000004,"China, Hong Kong SAR -  Glass cullet, waste or scrap, glass in the mass"
+225,036,Australia,458,Malaysia,09," Coffee, not roasted, not decaffeinated",1592082.806,371.92031199999997,"Australia -  Coffee, not roasted, not decaffeinated"
+226,598,Papua New Guinea,458,Malaysia,09," Coffee, not roasted, not decaffeinated",747884.819,358.102692,"Papua New Guinea -  Coffee, not roasted, not decaffeinated"
+227,124,Canada,458,Malaysia,34," Soaps, for toilet use, solid",10030345.942,351.420462,"Canada -  Soaps, for toilet use, solid"
+228,554,New Zealand,458,Malaysia,03," Ornamental fish, live",2009201.967,343.03308899999996,"New Zealand -  Ornamental fish, live"
+229,096,Brunei Darussalam,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",188780.511,342.114821,"Brunei Darussalam -  Flour or meal, pellet of meat or offal for animal fee"
+230,554,New Zealand,458,Malaysia,08," Coconuts, fresh or dried",948034.226,341.340617,"New Zealand -  Coconuts, fresh or dried"
+231,124,Canada,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",923497.108,341.33361099999996,"Canada -  Cucumbers,gherkins, prepared or preserved by vinegar"
+232,392,Japan,458,Malaysia,92," Upright pianos, including auto-players",2423500.247,341.200336,"Japan -  Upright pianos, including auto-players"
+233,344,"China, Hong Kong SAR",458,Malaysia,87, Pedestrian controlled tractors,780768.149,337.461169,"China, Hong Kong SAR -  Pedestrian controlled tractors"
+234,188,Costa Rica,458,Malaysia,09," Coffee, not roasted, not decaffeinated",1521194.941,329.893152,"Costa Rica -  Coffee, not roasted, not decaffeinated"
+235,392,Japan,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,5466467.491,328.20255599999996,Japan -  Gum or amylaceous covered textiles for book covers et
+236,344,"China, Hong Kong SAR",458,Malaysia,12, Soya beans,4268394.401,319.753802,"China, Hong Kong SAR -  Soya beans"
+237,554,New Zealand,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,2197002.568,306.37078399999996,New Zealand -  Mineral and aerated waters not sweetened or flavoured
+238,392,Japan,458,Malaysia,17," Raw sugar, cane",3734115.999,304.76570799999996,"Japan -  Raw sugar, cane"
+239,344,"China, Hong Kong SAR",458,Malaysia,33, Essential oils of bergamot,3138473.566,300.302134,"China, Hong Kong SAR -  Essential oils of bergamot"
+240,036,Australia,458,Malaysia,76," Aluminium unwrought, not alloyed",2198378.244,300.035194,"Australia -  Aluminium unwrought, not alloyed"
+241,554,New Zealand,458,Malaysia,32, Quebracho tanning extract,1112880.951,292.800696,New Zealand -  Quebracho tanning extract
+242,124,Canada,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",788309.511,288.100122,"Canada -  Brochures, leaflets and similar, in single sheets"
+243,840,United States of America,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",4595852.193,268.142354,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+244,188,Costa Rica,458,Malaysia,90," Optical fibres, except for telecommunications",675803.169,266.387836,"Costa Rica -  Optical fibres, except for telecommunications"
+245,484,Mexico,458,Malaysia,12, Soya beans,806111.124,260.882814,Mexico -  Soya beans
+246,608,Philippines,458,Malaysia,96," Worked ivory, articles of ivory",1579959.886,258.984102,"Philippines -  Worked ivory, articles of ivory"
+247,392,Japan,458,Malaysia,09," Coffee, not roasted, not decaffeinated",3359717.537,255.599895,"Japan -  Coffee, not roasted, not decaffeinated"
+248,076,Brazil,458,Malaysia,48, Newsprint,191822.703,249.639913,Brazil -  Newsprint
+249,642,Romania,458,Malaysia,94," Seats, aircraft",586083.33,248.21606500000001,"Romania -  Seats, aircraft"
+250,392,Japan,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",864633.614,246.797731,"Japan -  Salt (sodium chloride) including solution, salt water"
+251,484,Mexico,458,Malaysia,08," Coconuts, fresh or dried",485656.69,245.29024600000002,"Mexico -  Coconuts, fresh or dried"
+252,096,Brunei Darussalam,458,Malaysia,38, Artificial graphite,86308.624,242.699133,Brunei Darussalam -  Artificial graphite
+253,036,Australia,458,Malaysia,94," Seats, aircraft",1463868.937,240.749101,"Australia -  Seats, aircraft"
+254,484,Mexico,458,Malaysia,90," Optical fibres, except for telecommunications",3424044.373,239.369582,"Mexico -  Optical fibres, except for telecommunications"
+255,076,Brazil,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",2728518.244,237.967533,"Brazil -  Glands and other organs, dried, for therapeutic uses"
+256,642,Romania,458,Malaysia,85, Electric motors of an output < 37.5 watts,1729190.136,236.518011,Romania -  Electric motors of an output < 37.5 watts
+257,032,Argentina,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,1165150.617,229.232552,Argentina -  Milk not concentrated nor sweetened < 1% fat
+258,454,Malawi,458,Malaysia,07," Potatoes seed, fresh or chilled",190742.47,226.194848,"Malawi -  Potatoes seed, fresh or chilled"
+259,344,"China, Hong Kong SAR",458,Malaysia,71," Pearls natural, not permanently mounted or set",6842019.101,224.4634,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+260,344,"China, Hong Kong SAR",458,Malaysia,96," Worked ivory, articles of ivory",1636682.572,222.98078099999998,"China, Hong Kong SAR -  Worked ivory, articles of ivory"
+261,124,Canada,458,Malaysia,85, Electric motors of an output < 37.5 watts,6312850.655,219.777249,Canada -  Electric motors of an output < 37.5 watts
+262,484,Mexico,458,Malaysia,32, Quebracho tanning extract,853217.818,217.913223,Mexico -  Quebracho tanning extract
+263,608,Philippines,458,Malaysia,48, Newsprint,211622.026,215.63255900000001,Philippines -  Newsprint
+264,344,"China, Hong Kong SAR",458,Malaysia,28, Chlorine,517002.34,211.673992,"China, Hong Kong SAR -  Chlorine"
+265,032,Argentina,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,768650.569,206.007132,Argentina -  Mineral and aerated waters not sweetened or flavoured
+266,124,Canada,458,Malaysia,33, Essential oils of bergamot,2746731.809,200.141041,Canada -  Essential oils of bergamot
+267,124,Canada,458,Malaysia,73, Sheet piling of iron or steel,741515.826,199.35012700000001,Canada -  Sheet piling of iron or steel
+268,450,Madagascar,458,Malaysia,09," Coffee, not roasted, not decaffeinated",873133.085,199.333653,"Madagascar -  Coffee, not roasted, not decaffeinated"
+269,032,Argentina,458,Malaysia,73, Sheet piling of iron or steel,233938.031,190.842691,Argentina -  Sheet piling of iron or steel
+270,036,Australia,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",1587513.368,187.92190100000002,"Australia -  Brochures, leaflets and similar, in single sheets"
+271,152,Chile,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",667948.663,187.727767,"Chile -  Sausages, similar products of meat, meat offal & bloo"
+272,096,Brunei Darussalam,458,Malaysia,81," Powders, tungsten (wolfram)",12554.184,180.030491,"Brunei Darussalam -  Powders, tungsten (wolfram)"
+273,096,Brunei Darussalam,458,Malaysia,34," Soaps, for toilet use, solid",129878.301,179.12650299999999,"Brunei Darussalam -  Soaps, for toilet use, solid"
+274,036,Australia,458,Malaysia,03," Ornamental fish, live",1944159.471,172.26893900000002,"Australia -  Ornamental fish, live"
+275,344,"China, Hong Kong SAR",458,Malaysia,78, Lead refined unwrought,1840492.641,167.779526,"China, Hong Kong SAR -  Lead refined unwrought"
+276,392,Japan,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",1295107.656,167.650115,"Japan -  Sausages, similar products of meat, meat offal & bloo"
+277,608,Philippines,458,Malaysia,32, Quebracho tanning extract,689207.054,166.182309,Philippines -  Quebracho tanning extract
+278,840,United States of America,458,Malaysia,36, Propellent powders,4893582.237,162.88388,United States of America -  Propellent powders
+279,450,Madagascar,458,Malaysia,07," Potatoes seed, fresh or chilled",115426.118,161.962506,"Madagascar -  Potatoes seed, fresh or chilled"
+280,392,Japan,458,Malaysia,52," Cotton, not carded or combed",1362828.944,160.31524299999998,"Japan -  Cotton, not carded or combed"
+281,076,Brazil,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,404597.575,159.72778599999998,Brazil -  Polyethylene - specific gravity <0.94 in primary form
+282,392,Japan,458,Malaysia,78, Lead refined unwrought,1169358.427,159.59297700000002,Japan -  Lead refined unwrought
+283,840,United States of America,458,Malaysia,69," Bricks, blocks and ceramic goods of siliceous earths",2045619.881,158.547124,"United States of America -  Bricks, blocks and ceramic goods of siliceous earths"
+284,124,Canada,458,Malaysia,17," Raw sugar, cane",238926.477,158.54131099999998,"Canada -  Raw sugar, cane"
+285,170,Colombia,458,Malaysia,33, Essential oils of bergamot,360669.079,158.063933,Colombia -  Essential oils of bergamot
+286,036,Australia,458,Malaysia,56," Sanitary towels, diapers and similar articles",484656.485,156.81983499999998,"Australia -  Sanitary towels, diapers and similar articles"
+287,036,Australia,458,Malaysia,23," Flour or meal, pellet of meat or offal for animal fee",33197.119,154.863166,"Australia -  Flour or meal, pellet of meat or offal for animal fee"
+288,392,Japan,458,Malaysia,58," Woven pile fabric of wool or fine animal hair, w >30c",706262.017,151.882147,"Japan -  Woven pile fabric of wool or fine animal hair, w >30c"
+289,608,Philippines,458,Malaysia,12, Soya beans,1241337.537,150.158851,Philippines -  Soya beans
+290,840,United States of America,458,Malaysia,12, Soya beans,1252904.089,145.872572,United States of America -  Soya beans
+291,392,Japan,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",557705.105,145.475446,"Japan -  Cucumbers,gherkins, prepared or preserved by vinegar"
+292,124,Canada,458,Malaysia,27," Anthracite, not agglomerated",411078.039,144.487962,"Canada -  Anthracite, not agglomerated"
+293,608,Philippines,458,Malaysia,80, Tin not alloyed unwrought,725134.858,142.76762599999998,Philippines -  Tin not alloyed unwrought
+294,036,Australia,458,Malaysia,35, Casein,357025.35,138.23487899999998,Australia -  Casein
+295,124,Canada,458,Malaysia,28, Chlorine,979841.005,135.515865,Canada -  Chlorine
+296,392,Japan,458,Malaysia,07," Potatoes seed, fresh or chilled",246371.552,132.664096,"Japan -  Potatoes seed, fresh or chilled"
+297,036,Australia,458,Malaysia,83, Padlocks of base metal,383508.388,131.676802,Australia -  Padlocks of base metal
+298,840,United States of America,458,Malaysia,42," Saddlery and harness, of any material",1032832.187,131.64968299999998,"United States of America -  Saddlery and harness, of any material"
+299,554,New Zealand,458,Malaysia,07," Potatoes seed, fresh or chilled",118120.765,130.703845,"New Zealand -  Potatoes seed, fresh or chilled"
+300,484,Mexico,458,Malaysia,38, Artificial graphite,396085.118,126.65672,Mexico -  Artificial graphite
+301,840,United States of America,458,Malaysia,63, Electric blankets of textile material,1569472.737,125.417632,United States of America -  Electric blankets of textile material
+302,554,New Zealand,458,Malaysia,82, Spades and shovels,67893.882,123.032462,New Zealand -  Spades and shovels
+303,484,Mexico,458,Malaysia,73, Sheet piling of iron or steel,1281124.105,122.558766,Mexico -  Sheet piling of iron or steel
+304,642,Romania,458,Malaysia,76," Aluminium unwrought, not alloyed",534278.78,121.93003200000001,"Romania -  Aluminium unwrought, not alloyed"
+305,036,Australia,458,Malaysia,90," Optical fibres, except for telecommunications",1910879.844,121.427091,"Australia -  Optical fibres, except for telecommunications"
+306,036,Australia,458,Malaysia,12, Soya beans,884962.867,120.243285,Australia -  Soya beans
+307,392,Japan,458,Malaysia,08," Coconuts, fresh or dried",325973.822,110.911304,"Japan -  Coconuts, fresh or dried"
+308,344,"China, Hong Kong SAR",458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",197819.139,110.527372,"China, Hong Kong SAR -  Stone setts, curbstones, flagstones (except slate)"
+309,392,Japan,458,Malaysia,42," Saddlery and harness, of any material",887380.022,106.667758,"Japan -  Saddlery and harness, of any material"
+310,484,Mexico,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",238643.938,106.231835,"Mexico -  Coffee extracts, essences, concentrates, preparations"
+311,344,"China, Hong Kong SAR",458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,260583.518,105.994364,"China, Hong Kong SAR -  Gum or amylaceous covered textiles for book covers et"
+312,840,United States of America,458,Malaysia,13, Lac,1677719.882,104.152489,United States of America -  Lac
+313,076,Brazil,458,Malaysia,40," Natural rubber latex, including prevulcanised",590651.2,103.847853,"Brazil -  Natural rubber latex, including prevulcanised"
+314,642,Romania,458,Malaysia,84, Nuclear reactors,1297483.971,102.478667,Romania -  Nuclear reactors
+315,036,Australia,458,Malaysia,95," Rideable wheeled toys, dolls carriages",1688469.331,101.89882300000001,"Australia -  Rideable wheeled toys, dolls carriages"
+316,642,Romania,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",156310.06,98.063299,"Romania -  Pig iron, non-alloy, <0.5% phosphorus"
+317,344,"China, Hong Kong SAR",458,Malaysia,56," Sanitary towels, diapers and similar articles",278338.829,96.38510799999999,"China, Hong Kong SAR -  Sanitary towels, diapers and similar articles"
+318,124,Canada,458,Malaysia,87, Pedestrian controlled tractors,155253.659,96.195486,Canada -  Pedestrian controlled tractors
+319,096,Brunei Darussalam,458,Malaysia,02," Bovine carcasses and half carcasses, fresh or chilled",1659.506,95.074607,"Brunei Darussalam -  Bovine carcasses and half carcasses, fresh or chilled"
+320,840,United States of America,458,Malaysia,86," Rail locomotives, externally electrically powered",9635.399,94.55838800000001,"United States of America -  Rail locomotives, externally electrically powered"
+321,392,Japan,458,Malaysia,11, Wheat or meslin flour,222277.94,94.07826,Japan -  Wheat or meslin flour
+322,096,Brunei Darussalam,458,Malaysia,84, Nuclear reactors,508066.608,93.924613,Brunei Darussalam -  Nuclear reactors
+323,124,Canada,458,Malaysia,03," Ornamental fish, live",1996083.332,93.696314,"Canada -  Ornamental fish, live"
+324,608,Philippines,458,Malaysia,73, Sheet piling of iron or steel,423694.324,88.58273799999999,Philippines -  Sheet piling of iron or steel
+325,344,"China, Hong Kong SAR",458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",1356257.029,87.984754,"China, Hong Kong SAR -  Sausages, similar products of meat, meat offal & bloo"
+326,554,New Zealand,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",556090.732,87.005106,"New Zealand -  Glands and other organs, dried, for therapeutic uses"
+327,036,Australia,458,Malaysia,28, Chlorine,78315.415,78.462307,Australia -  Chlorine
+328,152,Chile,458,Malaysia,09," Coffee, not roasted, not decaffeinated",734899.992,77.610061,"Chile -  Coffee, not roasted, not decaffeinated"
+329,344,"China, Hong Kong SAR",458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,1439185.979,77.555538,"China, Hong Kong SAR -  Mineral and aerated waters not sweetened or flavoured"
+330,392,Japan,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",2164592.219,77.32631699999999,"Japan -  Mens, boys overcoats, etc, of wool or hair, knit"
+331,344,"China, Hong Kong SAR",458,Malaysia,13, Lac,388289.318,76.286434,"China, Hong Kong SAR -  Lac"
+332,344,"China, Hong Kong SAR",458,Malaysia,49," Brochures, leaflets and similar, in single sheets",218144.681,75.122455,"China, Hong Kong SAR -  Brochures, leaflets and similar, in single sheets"
+333,705,Slovenia,458,Malaysia,84, Nuclear reactors,937491.926,74.304466,Slovenia -  Nuclear reactors
+334,344,"China, Hong Kong SAR",458,Malaysia,63, Electric blankets of textile material,428577.87,73.52113800000001,"China, Hong Kong SAR -  Electric blankets of textile material"
+335,032,Argentina,458,Malaysia,03," Ornamental fish, live",712706.021,70.764135,"Argentina -  Ornamental fish, live"
+336,554,New Zealand,458,Malaysia,85, Electric motors of an output < 37.5 watts,1013055.889,70.289087,New Zealand -  Electric motors of an output < 37.5 watts
+337,608,Philippines,458,Malaysia,82, Spades and shovels,58985.001,69.864619,Philippines -  Spades and shovels
+338,554,New Zealand,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",262574.257,69.805565,"New Zealand -  Cucumbers,gherkins, prepared or preserved by vinegar"
+339,484,Mexico,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,1080432.347,69.556344,Mexico -  Mineral and aerated waters not sweetened or flavoured
+340,840,United States of America,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",1179298.39,68.85228,"United States of America -  Mens, boys overcoats, etc, of wool or hair, knit"
+341,036,Australia,458,Malaysia,82, Spades and shovels,307688.333,66.413912,Australia -  Spades and shovels
+342,554,New Zealand,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",330610.051,66.21827400000001,"New Zealand -  Infant foods of cereals, flour, starch or milk, retai"
+343,036,Australia,458,Malaysia,75, Nickel mattes,114204.986,64.234348,Australia -  Nickel mattes
+344,484,Mexico,458,Malaysia,76," Aluminium unwrought, not alloyed",504723.68,62.265746,"Mexico -  Aluminium unwrought, not alloyed"
+345,392,Japan,458,Malaysia,71," Pearls natural, not permanently mounted or set",120543397.661,61.317501,"Japan -  Pearls natural, not permanently mounted or set"
+346,642,Romania,458,Malaysia,83, Padlocks of base metal,140798.303,61.039845,Romania -  Padlocks of base metal
+347,124,Canada,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",247858.768,59.328036999999995,"Canada -  Infant foods of cereals, flour, starch or milk, retai"
+348,484,Mexico,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",356257.219,59.314223,"Mexico -  Cocoa beans, whole or broken, raw or roasted"
+349,608,Philippines,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",979703.719,56.92837,"Philippines -  Mens, boys overcoats, etc, of wool or hair, knit"
+350,344,"China, Hong Kong SAR",458,Malaysia,60," ""Long pile"" knit or crochet textile fabric",271111.466,56.539646,"China, Hong Kong SAR -  ""Long pile"" knit or crochet textile fabric"
+351,480,Mauritius,458,Malaysia,17," Raw sugar, cane",45139.513,55.434449,"Mauritius -  Raw sugar, cane"
+352,642,Romania,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,112123.687,54.924715,Romania -  Polyethylene - specific gravity <0.94 in primary form
+353,608,Philippines,458,Malaysia,13, Lac,277072.592,54.909979,Philippines -  Lac
+354,705,Slovenia,458,Malaysia,73, Sheet piling of iron or steel,382609.161,54.827417000000004,Slovenia -  Sheet piling of iron or steel
+355,036,Australia,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",70975.911,54.488794999999996,"Australia -  Glass cullet, waste or scrap, glass in the mass"
+356,096,Brunei Darussalam,458,Malaysia,03," Ornamental fish, live",348628.23,54.275614000000004,"Brunei Darussalam -  Ornamental fish, live"
+357,608,Philippines,458,Malaysia,03," Ornamental fish, live",1113205.704,53.502004,"Philippines -  Ornamental fish, live"
+358,598,Papua New Guinea,458,Malaysia,03," Ornamental fish, live",1315458.501,51.935972,"Papua New Guinea -  Ornamental fish, live"
+359,392,Japan,458,Malaysia,55," Filament tow of nylon, polyamides",520409.283,50.927087,"Japan -  Filament tow of nylon, polyamides"
+360,484,Mexico,458,Malaysia,94," Seats, aircraft",532231.765,50.490576000000004,"Mexico -  Seats, aircraft"
+361,124,Canada,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",380510.785,49.643786999999996,"Canada -  Stone setts, curbstones, flagstones (except slate)"
+362,554,New Zealand,458,Malaysia,33, Essential oils of bergamot,433013.937,49.160633000000004,New Zealand -  Essential oils of bergamot
+363,484,Mexico,458,Malaysia,82, Spades and shovels,631018.711,47.36979,Mexico -  Spades and shovels
+364,392,Japan,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",1418455.347,45.792344,"Japan -  Wrist-watch, precious metal, battery, with hands"
+365,484,Mexico,458,Malaysia,29, Saturated acyclic hydrocarbons,516406.767,45.57251,Mexico -  Saturated acyclic hydrocarbons
+366,036,Australia,458,Malaysia,40," Natural rubber latex, including prevulcanised",277961.283,45.461867,"Australia -  Natural rubber latex, including prevulcanised"
+367,124,Canada,458,Malaysia,83, Padlocks of base metal,133283.073,45.422513,Canada -  Padlocks of base metal
+368,484,Mexico,458,Malaysia,87, Pedestrian controlled tractors,713326.583,45.015298,Mexico -  Pedestrian controlled tractors
+369,392,Japan,458,Malaysia,60," ""Long pile"" knit or crochet textile fabric",696643.34,44.446555000000004,"Japan -  ""Long pile"" knit or crochet textile fabric"
+370,554,New Zealand,458,Malaysia,84, Nuclear reactors,1391812.852,44.433114,New Zealand -  Nuclear reactors
+371,392,Japan,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",633640.825,44.11230200000001,"Japan -  Cocoa beans, whole or broken, raw or roasted"
+372,124,Canada,458,Malaysia,90," Optical fibres, except for telecommunications",966665.728,43.90177,"Canada -  Optical fibres, except for telecommunications"
+373,554,New Zealand,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,684701.276,42.050397,New Zealand -  Polyethylene - specific gravity <0.94 in primary form
+374,554,New Zealand,458,Malaysia,73, Sheet piling of iron or steel,262625.646,41.865922,New Zealand -  Sheet piling of iron or steel
+375,608,Philippines,458,Malaysia,42," Saddlery and harness, of any material",386250.645,41.452976,"Philippines -  Saddlery and harness, of any material"
+376,188,Costa Rica,458,Malaysia,38, Artificial graphite,375455.003,40.863098,Costa Rica -  Artificial graphite
+377,124,Canada,458,Malaysia,08," Coconuts, fresh or dried",248137.443,40.832474000000005,"Canada -  Coconuts, fresh or dried"
+378,840,United States of America,458,Malaysia,58," Woven pile fabric of wool or fine animal hair, w >30c",342763.799,40.111761,"United States of America -  Woven pile fabric of wool or fine animal hair, w >30c"
+379,840,United States of America,458,Malaysia,92," Upright pianos, including auto-players",884054.354,39.288596,"United States of America -  Upright pianos, including auto-players"
+380,124,Canada,458,Malaysia,76," Aluminium unwrought, not alloyed",252675.512,38.992779,"Canada -  Aluminium unwrought, not alloyed"
+381,705,Slovenia,458,Malaysia,85, Electric motors of an output < 37.5 watts,429993.846,38.912434999999995,Slovenia -  Electric motors of an output < 37.5 watts
+382,554,New Zealand,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",25168.59,38.300377999999995,"New Zealand -  Animal or vegetable fertilizers, in packs >10 kg"
+383,344,"China, Hong Kong SAR",458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",327760.603,38.048833,"China, Hong Kong SAR -  Coffee extracts, essences, concentrates, preparations"
+384,032,Argentina,458,Malaysia,44, Fuel wood,15305.085,37.477413999999996,Argentina -  Fuel wood
+385,124,Canada,458,Malaysia,94," Seats, aircraft",345828.301,36.647514,"Canada -  Seats, aircraft"
+386,152,Chile,458,Malaysia,33, Essential oils of bergamot,81865.343,35.925864999999995,Chile -  Essential oils of bergamot
+387,188,Costa Rica,458,Malaysia,73, Sheet piling of iron or steel,613914.801,35.532078999999996,Costa Rica -  Sheet piling of iron or steel
+388,076,Brazil,458,Malaysia,13, Lac,237886.574,35.3174,Brazil -  Lac
+389,344,"China, Hong Kong SAR",458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",687472.522,34.901548999999996,"China, Hong Kong SAR -  Mens, boys overcoats of wool or hair, not knit"
+390,068,Bolivia (Plurinational State of),458,Malaysia,10, Durum wheat,80982.166,34.795892,Bolivia (Plurinational State of) -  Durum wheat
+391,344,"China, Hong Kong SAR",458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",168291.206,34.675794,"China, Hong Kong SAR -  Glands and other organs, dried, for therapeutic uses"
+392,188,Costa Rica,458,Malaysia,84, Nuclear reactors,385949.05,34.404936,Costa Rica -  Nuclear reactors
+393,840,United States of America,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",411115.184,34.140833,"United States of America -  Cruise ships, excursion boats, ferry boats"
+394,124,Canada,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",53633.308,33.650335,"Canada -  Pig iron, non-alloy, <0.5% phosphorus"
+395,344,"China, Hong Kong SAR",458,Malaysia,05," Hair, human, unworked, waste of human hair",186502.897,33.351352,"China, Hong Kong SAR -  Hair, human, unworked, waste of human hair"
+396,705,Slovenia,458,Malaysia,94," Seats, aircraft",91681.707,33.130995000000006,"Slovenia -  Seats, aircraft"
+397,840,United States of America,458,Malaysia,47, Mechanical wood pulp,72437.347,32.799206,United States of America -  Mechanical wood pulp
+398,484,Mexico,458,Malaysia,83, Padlocks of base metal,399195.199,32.709202,Mexico -  Padlocks of base metal
+399,554,New Zealand,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",80062.401,31.973564,"New Zealand -  Lard, other pig fat and poultry fat, rendered"
+400,124,Canada,458,Malaysia,48, Newsprint,70440.855,31.837805,Canada -  Newsprint
+401,840,United States of America,458,Malaysia,57," Carpets of wool or fine animal hair, knotted",126485.162,31.396588,"United States of America -  Carpets of wool or fine animal hair, knotted"
+402,076,Brazil,458,Malaysia,38, Artificial graphite,195413.076,31.015258000000003,Brazil -  Artificial graphite
+403,096,Brunei Darussalam,458,Malaysia,63, Electric blankets of textile material,76843.757,30.600938999999997,Brunei Darussalam -  Electric blankets of textile material
+404,096,Brunei Darussalam,458,Malaysia,94," Seats, aircraft",87691.897,30.067134,"Brunei Darussalam -  Seats, aircraft"
+405,344,"China, Hong Kong SAR",458,Malaysia,35, Casein,254009.49,28.877626,"China, Hong Kong SAR -  Casein"
+406,554,New Zealand,458,Malaysia,34," Soaps, for toilet use, solid",60423.887,28.674666000000002,"New Zealand -  Soaps, for toilet use, solid"
+407,124,Canada,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",19653.352,28.051786,"Canada -  Salt (sodium chloride) including solution, salt water"
+408,344,"China, Hong Kong SAR",458,Malaysia,58," Woven pile fabric of wool or fine animal hair, w >30c",52585.783,27.504794,"China, Hong Kong SAR -  Woven pile fabric of wool or fine animal hair, w >30c"
+409,344,"China, Hong Kong SAR",458,Malaysia,54, Sewing thread of synthetic filaments,111908.438,26.958806,"China, Hong Kong SAR -  Sewing thread of synthetic filaments"
+410,344,"China, Hong Kong SAR",458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",744895.452,26.340366999999997,"China, Hong Kong SAR -  Waterproof footwear (Wellingtons etc), metal toe cap"
+411,705,Slovenia,458,Malaysia,87, Pedestrian controlled tractors,215168.302,25.853169,Slovenia -  Pedestrian controlled tractors
+412,840,United States of America,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",651197.499,25.756236,"United States of America -  Mens, boys overcoats of wool or hair, not knit"
+413,076,Brazil,458,Malaysia,34," Soaps, for toilet use, solid",47388.337,25.617984,"Brazil -  Soaps, for toilet use, solid"
+414,642,Romania,458,Malaysia,87, Pedestrian controlled tractors,376893.571,25.368903,Romania -  Pedestrian controlled tractors
+415,084,Belize,458,Malaysia,09," Coffee, not roasted, not decaffeinated",83071.1,25.248330000000003,"Belize -  Coffee, not roasted, not decaffeinated"
+416,124,Canada,458,Malaysia,13, Lac,157263.699,25.20978,Canada -  Lac
+417,344,"China, Hong Kong SAR",458,Malaysia,67," Bird skins and feathers, articles therefrom",45774.88,24.481650000000002,"China, Hong Kong SAR -  Bird skins and feathers, articles therefrom"
+418,740,Suriname,458,Malaysia,73, Sheet piling of iron or steel,34844.97,24.183432,Suriname -  Sheet piling of iron or steel
+419,344,"China, Hong Kong SAR",458,Malaysia,65," Hat-forms, etc of felt, not shaped, no formed brim",101014.697,23.689234,"China, Hong Kong SAR -  Hat-forms, etc of felt, not shaped, no formed brim"
+420,392,Japan,458,Malaysia,81," Powders, tungsten (wolfram)",71711.746,22.926517,"Japan -  Powders, tungsten (wolfram)"
+421,392,Japan,458,Malaysia,86," Rail locomotives, externally electrically powered",633914.014,22.162057,"Japan -  Rail locomotives, externally electrically powered"
+422,604,Peru,458,Malaysia,10, Durum wheat,67441.287,22.103939999999998,Peru -  Durum wheat
+423,705,Slovenia,458,Malaysia,33, Essential oils of bergamot,32520.452,22.017929,Slovenia -  Essential oils of bergamot
+424,642,Romania,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,241511.246,21.868168,Romania -  Gum or amylaceous covered textiles for book covers et
+425,092,British Virgin Islands,458,Malaysia,85, Electric motors of an output < 37.5 watts,1062104.912,21.841041,British Virgin Islands -  Electric motors of an output < 37.5 watts
+426,344,"China, Hong Kong SAR",458,Malaysia,69," Bricks, blocks and ceramic goods of siliceous earths",57261.746,21.105375,"China, Hong Kong SAR -  Bricks, blocks and ceramic goods of siliceous earths"
+427,840,United States of America,458,Malaysia,78, Lead refined unwrought,176139.005,20.957055,United States of America -  Lead refined unwrought
+428,840,United States of America,458,Malaysia,80, Tin not alloyed unwrought,53028.547,20.913966000000002,United States of America -  Tin not alloyed unwrought
+429,036,Australia,458,Malaysia,54, Sewing thread of synthetic filaments,157827.294,20.541033,Australia -  Sewing thread of synthetic filaments
+430,152,Chile,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",122558.05,19.727668,"Chile -  Cucumbers,gherkins, prepared or preserved by vinegar"
+431,096,Brunei Darussalam,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",68046.595,19.209701000000003,"Brunei Darussalam -  Infant foods of cereals, flour, starch or milk, retai"
+432,554,New Zealand,458,Malaysia,29, Saturated acyclic hydrocarbons,143610.509,19.057016,New Zealand -  Saturated acyclic hydrocarbons
+433,124,Canada,458,Malaysia,95," Rideable wheeled toys, dolls carriages",187125.365,18.738541,"Canada -  Rideable wheeled toys, dolls carriages"
+434,642,Romania,458,Malaysia,44, Fuel wood,57468.912,18.299934,Romania -  Fuel wood
+435,096,Brunei Darussalam,458,Malaysia,32, Quebracho tanning extract,55441.286,18.144852,Brunei Darussalam -  Quebracho tanning extract
+436,076,Brazil,458,Malaysia,76," Aluminium unwrought, not alloyed",14125.71,17.753433,"Brazil -  Aluminium unwrought, not alloyed"
+437,036,Australia,458,Malaysia,13, Lac,153258.69,16.878444,Australia -  Lac
+438,124,Canada,458,Malaysia,40," Natural rubber latex, including prevulcanised",33726.283,16.827154,"Canada -  Natural rubber latex, including prevulcanised"
+439,705,Slovenia,458,Malaysia,38, Artificial graphite,40555.663,16.086139,Slovenia -  Artificial graphite
+440,076,Brazil,458,Malaysia,82, Spades and shovels,95852.513,15.673874,Brazil -  Spades and shovels
+441,076,Brazil,458,Malaysia,87, Pedestrian controlled tractors,119492.353,15.424146,Brazil -  Pedestrian controlled tractors
+442,096,Brunei Darussalam,458,Malaysia,76," Aluminium unwrought, not alloyed",10756.064,15.268113,"Brunei Darussalam -  Aluminium unwrought, not alloyed"
+443,344,"China, Hong Kong SAR",458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",255721.395,14.961013000000001,"China, Hong Kong SAR -  Mens, boys overcoats, etc, of wool or hair, knit"
+444,484,Mexico,458,Malaysia,48, Newsprint,109459.902,14.560561,Mexico -  Newsprint
+445,052,Barbados,458,Malaysia,85, Electric motors of an output < 37.5 watts,85506.456,14.329108,Barbados -  Electric motors of an output < 37.5 watts
+446,344,"China, Hong Kong SAR",458,Malaysia,37, X-ray plates and films,57185.622,14.210989999999999,"China, Hong Kong SAR -  X-ray plates and films"
+447,392,Japan,458,Malaysia,88," Gliders, hang gliders",898838.252,14.044293,"Japan -  Gliders, hang gliders"
+448,096,Brunei Darussalam,458,Malaysia,28, Chlorine,11143.828,13.979479,Brunei Darussalam -  Chlorine
+449,392,Japan,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",269135.579,13.949982,"Japan -  Waterproof footwear (Wellingtons etc), metal toe cap"
+450,036,Australia,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",244723.704,13.28149,"Australia -  Cruise ships, excursion boats, ferry boats"
+451,840,United States of America,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",165681.214,12.842925,"United States of America -  Wrist-watch, precious metal, battery, with hands"
+452,036,Australia,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",356126.56,12.778261,"Australia -  Sausages, similar products of meat, meat offal & bloo"
+453,036,Australia,458,Malaysia,96," Worked ivory, articles of ivory",57985.496,12.739288,"Australia -  Worked ivory, articles of ivory"
+454,484,Mexico,458,Malaysia,31," Animal or vegetable fertilizers, in packs >10 kg",8645.878,12.704615,"Mexico -  Animal or vegetable fertilizers, in packs >10 kg"
+455,076,Brazil,458,Malaysia,85, Electric motors of an output < 37.5 watts,97288.13,12.658355,Brazil -  Electric motors of an output < 37.5 watts
+456,554,New Zealand,458,Malaysia,11, Wheat or meslin flour,17557.742,12.522266,New Zealand -  Wheat or meslin flour
+457,036,Australia,458,Malaysia,29, Saturated acyclic hydrocarbons,29072.815,12.450076999999999,Australia -  Saturated acyclic hydrocarbons
+458,642,Romania,458,Malaysia,90," Optical fibres, except for telecommunications",313991.87,12.267946,"Romania -  Optical fibres, except for telecommunications"
+459,840,United States of America,458,Malaysia,65," Hat-forms, etc of felt, not shaped, no formed brim",189694.994,12.187081000000001,"United States of America -  Hat-forms, etc of felt, not shaped, no formed brim"
+460,484,Mexico,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,357425.331,11.399989,Mexico -  Gum or amylaceous covered textiles for book covers et
+461,032,Argentina,458,Malaysia,84, Nuclear reactors,348999.378,11.191369,Argentina -  Nuclear reactors
+462,124,Canada,458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",154081.034,11.154482,"Canada -  Cocoa beans, whole or broken, raw or roasted"
+463,480,Mauritius,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",310516.886,11.113601000000001,"Mauritius -  Mens, boys overcoats, etc, of wool or hair, knit"
+464,840,United States of America,458,Malaysia,60," ""Long pile"" knit or crochet textile fabric",225292.406,10.991200999999998,"United States of America -  ""Long pile"" knit or crochet textile fabric"
+465,484,Mexico,458,Malaysia,40," Natural rubber latex, including prevulcanised",169780.309,10.97988,"Mexico -  Natural rubber latex, including prevulcanised"
+466,392,Japan,458,Malaysia,44, Fuel wood,77581.675,10.965704,Japan -  Fuel wood
+467,096,Brunei Darussalam,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,30591.283,10.698661,Brunei Darussalam -  Polyethylene - specific gravity <0.94 in primary form
+468,392,Japan,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",295815.792,10.63917,"Japan -  Mens, boys overcoats of wool or hair, not knit"
+469,840,United States of America,458,Malaysia,55," Filament tow of nylon, polyamides",90579.035,10.597603,"United States of America -  Filament tow of nylon, polyamides"
+470,076,Brazil,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",58380.742,10.142149999999999,"Brazil -  Sausages, similar products of meat, meat offal & bloo"
+471,344,"China, Hong Kong SAR",458,Malaysia,18," Cocoa beans, whole or broken, raw or roasted",70170.054,9.952696,"China, Hong Kong SAR -  Cocoa beans, whole or broken, raw or roasted"
+472,705,Slovenia,458,Malaysia,95," Rideable wheeled toys, dolls carriages",95221.498,9.775765,"Slovenia -  Rideable wheeled toys, dolls carriages"
+473,608,Philippines,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,75676.009,9.660833,Philippines -  Gum or amylaceous covered textiles for book covers et
+474,840,United States of America,458,Malaysia,71," Pearls natural, not permanently mounted or set",1385697.799,9.652574000000001,"United States of America -  Pearls natural, not permanently mounted or set"
+475,275,State of Palestine,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",37088.518,9.478706,"State of Palestine -  Lard, other pig fat and poultry fat, rendered"
+476,344,"China, Hong Kong SAR",458,Malaysia,07," Potatoes seed, fresh or chilled",22255.512,9.424162,"China, Hong Kong SAR -  Potatoes seed, fresh or chilled"
+477,608,Philippines,458,Malaysia,40," Natural rubber latex, including prevulcanised",22633.91,9.106076,"Philippines -  Natural rubber latex, including prevulcanised"
+478,642,Romania,458,Malaysia,38, Artificial graphite,340190.01,8.967923,Romania -  Artificial graphite
+479,604,Peru,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",48454.106,8.627564,"Peru -  Glass cullet, waste or scrap, glass in the mass"
+480,124,Canada,458,Malaysia,35, Casein,62532.762,8.5343,Canada -  Casein
+481,096,Brunei Darussalam,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",29773.765,8.462515999999999,"Brunei Darussalam -  Coffee extracts, essences, concentrates, preparations"
+482,188,Costa Rica,458,Malaysia,48, Newsprint,20239.133,8.250703999999999,Costa Rica -  Newsprint
+483,136,Cayman Islands,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,27043.544,8.216220999999999,Cayman Islands -  Polyethylene - specific gravity <0.94 in primary form
+484,344,"China, Hong Kong SAR",458,Malaysia,43," Raw mink furskins, whole",1028607.966,8.044131,"China, Hong Kong SAR -  Raw mink furskins, whole"
+485,076,Brazil,458,Malaysia,33, Essential oils of bergamot,73189.187,8.043995,Brazil -  Essential oils of bergamot
+486,705,Slovenia,458,Malaysia,82, Spades and shovels,23021.049,8.003563,Slovenia -  Spades and shovels
+487,096,Brunei Darussalam,458,Malaysia,85, Electric motors of an output < 37.5 watts,35774.401,7.9119340000000005,Brunei Darussalam -  Electric motors of an output < 37.5 watts
+488,036,Australia,458,Malaysia,63, Electric blankets of textile material,149486.874,7.777845999999999,Australia -  Electric blankets of textile material
+489,840,United States of America,458,Malaysia,52," Cotton, not carded or combed",155886.67,7.701359999999999,"United States of America -  Cotton, not carded or combed"
+490,076,Brazil,458,Malaysia,03," Ornamental fish, live",163670.748,7.6902610000000005,"Brazil -  Ornamental fish, live"
+491,608,Philippines,458,Malaysia,95," Rideable wheeled toys, dolls carriages",55080.612,7.589926999999999,"Philippines -  Rideable wheeled toys, dolls carriages"
+492,480,Mauritius,458,Malaysia,96," Worked ivory, articles of ivory",89877.391,7.562787999999999,"Mauritius -  Worked ivory, articles of ivory"
+493,344,"China, Hong Kong SAR",458,Malaysia,57," Carpets of wool or fine animal hair, knotted",35344.847,7.194541,"China, Hong Kong SAR -  Carpets of wool or fine animal hair, knotted"
+494,170,Colombia,458,Malaysia,19," Infant foods of cereals, flour, starch or milk, retai",42339.382,7.181982,"Colombia -  Infant foods of cereals, flour, starch or milk, retai"
+495,032,Argentina,458,Malaysia,32, Quebracho tanning extract,25828.475,6.967792,Argentina -  Quebracho tanning extract
+496,124,Canada,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,35493.49,6.915908,Canada -  Gum or amylaceous covered textiles for book covers et
+497,608,Philippines,458,Malaysia,76," Aluminium unwrought, not alloyed",58836.173,6.912191,"Philippines -  Aluminium unwrought, not alloyed"
+498,096,Brunei Darussalam,458,Malaysia,95," Rideable wheeled toys, dolls carriages",10894.815,6.730998,"Brunei Darussalam -  Rideable wheeled toys, dolls carriages"
+499,036,Australia,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",176251.986,6.620787999999999,"Australia -  Waterproof footwear (Wellingtons etc), metal toe cap"
+500,036,Australia,458,Malaysia,69," Bricks, blocks and ceramic goods of siliceous earths",16825.298,6.571934000000001,"Australia -  Bricks, blocks and ceramic goods of siliceous earths"
+501,392,Japan,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",154990.238,6.309004,"Japan -  Cruise ships, excursion boats, ferry boats"
+502,124,Canada,458,Malaysia,88," Gliders, hang gliders",2187489.027,6.194219,"Canada -  Gliders, hang gliders"
+503,604,Peru,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",20590.393,6.179609,"Peru -  Cucumbers,gherkins, prepared or preserved by vinegar"
+504,076,Brazil,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",179330.99,6.135936,"Brazil -  Waterproof footwear (Wellingtons etc), metal toe cap"
+505,032,Argentina,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",127471.761,6.081608,"Argentina -  Glands and other organs, dried, for therapeutic uses"
+506,328,Guyana,458,Malaysia,85, Electric motors of an output < 37.5 watts,45425.809,5.714157,Guyana -  Electric motors of an output < 37.5 watts
+507,344,"China, Hong Kong SAR",458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",13225.665,5.707251,"China, Hong Kong SAR -  Cucumbers,gherkins, prepared or preserved by vinegar"
+508,096,Brunei Darussalam,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",9509.542,5.639267,"Brunei Darussalam -  Cucumbers,gherkins, prepared or preserved by vinegar"
+509,124,Canada,458,Malaysia,82, Spades and shovels,20250.924,5.4765820000000005,Canada -  Spades and shovels
+510,705,Slovenia,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,11667.787,5.463877,Slovenia -  Polyethylene - specific gravity <0.94 in primary form
+511,076,Brazil,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",13908.708,5.461594,"Brazil -  Brochures, leaflets and similar, in single sheets"
+512,124,Canada,458,Malaysia,75, Nickel mattes,25612.262,5.419428,Canada -  Nickel mattes
+513,036,Australia,458,Malaysia,88," Gliders, hang gliders",4099462.448,5.368325,"Australia -  Gliders, hang gliders"
+514,096,Brunei Darussalam,458,Malaysia,82, Spades and shovels,2752.644,5.3329960000000005,Brunei Darussalam -  Spades and shovels
+515,604,Peru,458,Malaysia,08," Coconuts, fresh or dried",22318.072,4.918118000000001,"Peru -  Coconuts, fresh or dried"
+516,344,"China, Hong Kong SAR",458,Malaysia,52," Cotton, not carded or combed",49361.627,4.853835,"China, Hong Kong SAR -  Cotton, not carded or combed"
+517,705,Slovenia,458,Malaysia,40," Natural rubber latex, including prevulcanised",30988.859,4.829367,"Slovenia -  Natural rubber latex, including prevulcanised"
+518,096,Brunei Darussalam,458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,22379.627,4.703162,Brunei Darussalam -  Milk not concentrated nor sweetened < 1% fat
+519,124,Canada,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,192658.487,4.609549,Canada -  Mineral and aerated waters not sweetened or flavoured
+520,484,Mexico,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",33506.754,4.595712000000001,"Mexico -  Glass cullet, waste or scrap, glass in the mass"
+521,484,Mexico,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",1336926.037,4.331548,"Mexico -  Glands and other organs, dried, for therapeutic uses"
+522,076,Brazil,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",26003.944,4.292894,"Brazil -  Stone setts, curbstones, flagstones (except slate)"
+523,484,Mexico,458,Malaysia,20," Cucumbers,gherkins, prepared or preserved by vinegar",23870.742,4.186959,"Mexico -  Cucumbers,gherkins, prepared or preserved by vinegar"
+524,084,Belize,458,Malaysia,73, Sheet piling of iron or steel,3944.024,4.043292,Belize -  Sheet piling of iron or steel
+525,392,Japan,458,Malaysia,45," Natural cork, raw or simply prepared",36519.685,3.9642820000000003,"Japan -  Natural cork, raw or simply prepared"
+526,604,Peru,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",91541.536,3.900147,"Peru -  Mens, boys overcoats, etc, of wool or hair, knit"
+527,388,Jamaica,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,20060.058,3.744945,Jamaica -  Mineral and aerated waters not sweetened or flavoured
+528,484,Mexico,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",45394.935,3.7185,"Mexico -  Stone setts, curbstones, flagstones (except slate)"
+529,036,Australia,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,87170.457,3.701248,Australia -  Gum or amylaceous covered textiles for book covers et
+530,242,Fiji,458,Malaysia,84, Nuclear reactors,75697.555,3.677892,Fiji -  Nuclear reactors
+531,344,"China, Hong Kong SAR",458,Malaysia,81," Powders, tungsten (wolfram)",9231.852,3.649585,"China, Hong Kong SAR -  Powders, tungsten (wolfram)"
+532,344,"China, Hong Kong SAR",458,Malaysia,09," Coffee, not roasted, not decaffeinated",49702.15,3.450879,"China, Hong Kong SAR -  Coffee, not roasted, not decaffeinated"
+533,344,"China, Hong Kong SAR",458,Malaysia,88," Gliders, hang gliders",752663.982,3.430143,"China, Hong Kong SAR -  Gliders, hang gliders"
+534,036,Australia,458,Malaysia,52," Cotton, not carded or combed",925.544,3.3937890000000004,"Australia -  Cotton, not carded or combed"
+535,344,"China, Hong Kong SAR",458,Malaysia,92," Upright pianos, including auto-players",12912.204,3.242696,"China, Hong Kong SAR -  Upright pianos, including auto-players"
+536,484,Mexico,458,Malaysia,33, Essential oils of bergamot,242916.62,3.240179,Mexico -  Essential oils of bergamot
+537,344,"China, Hong Kong SAR",458,Malaysia,89," Cruise ships, excursion boats, ferry boats",57964.278,3.177706,"China, Hong Kong SAR -  Cruise ships, excursion boats, ferry boats"
+538,344,"China, Hong Kong SAR",458,Malaysia,66, Garden and similar umbrellas,10688.112,3.1261509999999997,"China, Hong Kong SAR -  Garden and similar umbrellas"
+539,608,Philippines,458,Malaysia,63, Electric blankets of textile material,28842.329,2.994404,Philippines -  Electric blankets of textile material
+540,036,Australia,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",66628.204,2.966941,"Australia -  Mens, boys overcoats, etc, of wool or hair, knit"
+541,554,New Zealand,458,Malaysia,48, Newsprint,16744.764,2.782825,New Zealand -  Newsprint
+542,484,Mexico,458,Malaysia,27," Anthracite, not agglomerated",6845.152,2.782052,"Mexico -  Anthracite, not agglomerated"
+543,642,Romania,458,Malaysia,42," Saddlery and harness, of any material",67429.088,2.524301,"Romania -  Saddlery and harness, of any material"
+544,084,Belize,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,27130.43,2.382066,Belize -  Polyethylene - specific gravity <0.94 in primary form
+545,096,Brunei Darussalam,458,Malaysia,25," Salt (sodium chloride) including solution, salt water",616.792,2.357138,"Brunei Darussalam -  Salt (sodium chloride) including solution, salt water"
+546,096,Brunei Darussalam,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",3953.904,2.324831,"Brunei Darussalam -  Cruise ships, excursion boats, ferry boats"
+547,484,Mexico,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",8967.438,2.250311,"Mexico -  Pig iron, non-alloy, <0.5% phosphorus"
+548,480,Mauritius,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,13139.899,2.222989,Mauritius -  Polyethylene - specific gravity <0.94 in primary form
+549,484,Mexico,458,Malaysia,63, Electric blankets of textile material,92376.816,2.15281,Mexico -  Electric blankets of textile material
+550,840,United States of America,458,Malaysia,66, Garden and similar umbrellas,8113.745,2.120237,United States of America -  Garden and similar umbrellas
+551,642,Romania,458,Malaysia,48, Newsprint,15327.074,2.111838,Romania -  Newsprint
+552,344,"China, Hong Kong SAR",458,Malaysia,79," Zinc, not alloyed, unwrought, >99% pure",1574.276,2.099867,"China, Hong Kong SAR -  Zinc, not alloyed, unwrought, >99% pure"
+553,036,Australia,458,Malaysia,78, Lead refined unwrought,19852.01,2.098885,Australia -  Lead refined unwrought
+554,705,Slovenia,458,Malaysia,72," Pig iron, non-alloy, <0.5% phosphorus",855.746,2.087515,"Slovenia -  Pig iron, non-alloy, <0.5% phosphorus"
+555,608,Philippines,458,Malaysia,56," Sanitary towels, diapers and similar articles",6043.69,2.06689,"Philippines -  Sanitary towels, diapers and similar articles"
+556,554,New Zealand,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",69801.928,1.9089909999999999,"New Zealand -  Sausages, similar products of meat, meat offal & bloo"
+557,705,Slovenia,458,Malaysia,90," Optical fibres, except for telecommunications",175464.917,1.838895,"Slovenia -  Optical fibres, except for telecommunications"
+558,036,Australia,458,Malaysia,65," Hat-forms, etc of felt, not shaped, no formed brim",21299.983,1.827576,"Australia -  Hat-forms, etc of felt, not shaped, no formed brim"
+559,124,Canada,458,Malaysia,09," Coffee, not roasted, not decaffeinated",64034.73,1.819882,"Canada -  Coffee, not roasted, not decaffeinated"
+560,036,Australia,458,Malaysia,60," ""Long pile"" knit or crochet textile fabric",23290.466,1.810726,"Australia -  ""Long pile"" knit or crochet textile fabric"
+561,096,Brunei Darussalam,458,Malaysia,87, Pedestrian controlled tractors,15814.967,1.7898859999999999,Brunei Darussalam -  Pedestrian controlled tractors
+562,642,Romania,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",43285.418,1.7896800000000002,"Romania -  Mens, boys overcoats, etc, of wool or hair, knit"
+563,484,Mexico,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",101855.624,1.788297,"Mexico -  Mens, boys overcoats, etc, of wool or hair, knit"
+564,840,United States of America,458,Malaysia,79," Zinc, not alloyed, unwrought, >99% pure",14203.837,1.7279749999999998,"United States of America -  Zinc, not alloyed, unwrought, >99% pure"
+565,642,Romania,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",54651.309,1.726513,"Romania -  Mens, boys overcoats of wool or hair, not knit"
+566,076,Brazil,458,Malaysia,90," Optical fibres, except for telecommunications",43872.404,1.6623050000000001,"Brazil -  Optical fibres, except for telecommunications"
+567,558,Nicaragua,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",86251.637,1.520612,"Nicaragua -  Mens, boys overcoats, etc, of wool or hair, knit"
+568,554,New Zealand,458,Malaysia,90," Optical fibres, except for telecommunications",23730.605,1.453489,"New Zealand -  Optical fibres, except for telecommunications"
+569,646,Rwanda,458,Malaysia,85, Electric motors of an output < 37.5 watts,5753.994,1.4485,Rwanda -  Electric motors of an output < 37.5 watts
+570,032,Argentina,458,Malaysia,29, Saturated acyclic hydrocarbons,11662.158,1.392321,Argentina -  Saturated acyclic hydrocarbons
+571,554,New Zealand,458,Malaysia,94," Seats, aircraft",33830.013,1.382892,"New Zealand -  Seats, aircraft"
+572,275,State of Palestine,458,Malaysia,08," Coconuts, fresh or dried",9009.798,1.3629639999999998,"State of Palestine -  Coconuts, fresh or dried"
+573,096,Brunei Darussalam,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",9868.226,1.318312,"Brunei Darussalam -  Sausages, similar products of meat, meat offal & bloo"
+574,642,Romania,458,Malaysia,29, Saturated acyclic hydrocarbons,9884.157,1.2938340000000002,Romania -  Saturated acyclic hydrocarbons
+575,016,American Samoa,458,Malaysia,84, Nuclear reactors,26028.109,1.2248679999999998,American Samoa -  Nuclear reactors
+576,084,Belize,458,Malaysia,84, Nuclear reactors,14566.83,1.222218,Belize -  Nuclear reactors
+577,328,Guyana,458,Malaysia,48, Newsprint,26224.017,1.216233,Guyana -  Newsprint
+578,608,Philippines,458,Malaysia,74, Copper mattes,10189.144,1.21311,Philippines -  Copper mattes
+579,705,Slovenia,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",64583.533,1.204308,"Slovenia -  Glands and other organs, dried, for therapeutic uses"
+580,084,Belize,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",2915.367,1.198037,"Belize -  Glass cullet, waste or scrap, glass in the mass"
+581,344,"China, Hong Kong SAR",458,Malaysia,46, Plaits and products of plaiting materials,257.782,1.182701,"China, Hong Kong SAR -  Plaits and products of plaiting materials"
+582,304,Greenland,458,Malaysia,03," Ornamental fish, live",18863.562,1.17794,"Greenland -  Ornamental fish, live"
+583,772,Tokelau,458,Malaysia,08," Coconuts, fresh or dried",7127.056,1.152068,"Tokelau -  Coconuts, fresh or dried"
+584,188,Costa Rica,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",17503.098,1.13835,"Costa Rica -  Mens, boys overcoats, etc, of wool or hair, knit"
+585,642,Romania,458,Malaysia,74, Copper mattes,7112.668,1.132685,Romania -  Copper mattes
+586,414,Kuwait,458,Malaysia,85, Electric motors of an output < 37.5 watts,1299.179,1.125064,Kuwait -  Electric motors of an output < 37.5 watts
+587,188,Costa Rica,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",11374.789,1.091117,"Costa Rica -  Glands and other organs, dried, for therapeutic uses"
+588,340,Honduras,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",46391.022,1.0765719999999999,"Honduras -  Mens, boys overcoats, etc, of wool or hair, knit"
+589,484,Mexico,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",111439.678,1.0658800000000002,"Mexico -  Sausages, similar products of meat, meat offal & bloo"
+590,096,Brunei Darussalam,458,Malaysia,90," Optical fibres, except for telecommunications",56480.503,1.0654860000000002,"Brunei Darussalam -  Optical fibres, except for telecommunications"
+591,344,"China, Hong Kong SAR",458,Malaysia,24," Tobacco, unmanufactured, not stemmed or stripped",22615.649,1.054889,"China, Hong Kong SAR -  Tobacco, unmanufactured, not stemmed or stripped"
+592,344,"China, Hong Kong SAR",458,Malaysia,86," Rail locomotives, externally electrically powered",16800.852,1.043424,"China, Hong Kong SAR -  Rail locomotives, externally electrically powered"
+593,705,Slovenia,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",7208.37,1.023455,"Slovenia -  Glass cullet, waste or scrap, glass in the mass"
+594,642,Romania,458,Malaysia,82, Spades and shovels,10359.514,0.9802540000000001,Romania -  Spades and shovels
+595,188,Costa Rica,458,Malaysia,82, Spades and shovels,2542.804,0.978456,Costa Rica -  Spades and shovels
+596,308,Grenada,458,Malaysia,29, Saturated acyclic hydrocarbons,6774.117,0.936794,Grenada -  Saturated acyclic hydrocarbons
+597,340,Honduras,458,Malaysia,85, Electric motors of an output < 37.5 watts,13778.973,0.935772,Honduras -  Electric motors of an output < 37.5 watts
+598,484,Mexico,458,Malaysia,74, Copper mattes,14800.327,0.876054,Mexico -  Copper mattes
+599,096,Brunei Darussalam,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",603.49,0.847425,"Brunei Darussalam -  Lard, other pig fat and poultry fat, rendered"
+600,344,"China, Hong Kong SAR",458,Malaysia,08," Coconuts, fresh or dried",2217.439,0.8093400000000001,"China, Hong Kong SAR -  Coconuts, fresh or dried"
+601,044,Bahamas,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,7440.485,0.780128,Bahamas -  Mineral and aerated waters not sweetened or flavoured
+602,840,United States of America,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",19627.0,0.75276,"United States of America -  Sausages, similar products of meat, meat offal & bloo"
+603,096,Brunei Darussalam,458,Malaysia,96," Worked ivory, articles of ivory",2759.582,0.743297,"Brunei Darussalam -  Worked ivory, articles of ivory"
+604,608,Philippines,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",26362.083,0.732152,"Philippines -  Mens, boys overcoats of wool or hair, not knit"
+605,124,Canada,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",5871.205,0.719333,"Canada -  Mens, boys overcoats, etc, of wool or hair, knit"
+606,036,Australia,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",15532.808,0.705844,"Australia -  Stone setts, curbstones, flagstones (except slate)"
+607,188,Costa Rica,458,Malaysia,32, Quebracho tanning extract,25963.704,0.7042999999999999,Costa Rica -  Quebracho tanning extract
+608,484,Mexico,458,Malaysia,58," Woven pile fabric of wool or fine animal hair, w >30c",439.534,0.702433,"Mexico -  Woven pile fabric of wool or fine animal hair, w >30c"
+609,096,Brunei Darussalam,458,Malaysia,42," Saddlery and harness, of any material",1538.651,0.696491,"Brunei Darussalam -  Saddlery and harness, of any material"
+610,188,Costa Rica,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,7282.909,0.6692530000000001,Costa Rica -  Gum or amylaceous covered textiles for book covers et
+611,242,Fiji,458,Malaysia,85, Electric motors of an output < 37.5 watts,36586.124,0.6540309999999999,Fiji -  Electric motors of an output < 37.5 watts
+612,076,Brazil,458,Malaysia,32, Quebracho tanning extract,6203.778,0.6477480000000001,Brazil -  Quebracho tanning extract
+613,044,Bahamas,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",11382.991,0.6460370000000001,"Bahamas -  Waterproof footwear (Wellingtons etc), metal toe cap"
+614,705,Slovenia,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",3970.019,0.632491,"Slovenia -  Coffee extracts, essences, concentrates, preparations"
+615,740,Suriname,458,Malaysia,84, Nuclear reactors,12583.39,0.6237140000000001,Suriname -  Nuclear reactors
+616,604,Peru,458,Malaysia,07," Potatoes seed, fresh or chilled",2134.612,0.6063350000000001,"Peru -  Potatoes seed, fresh or chilled"
+617,862,Venezuela (Bolivarian Rep. of),458,Malaysia,85, Electric motors of an output < 37.5 watts,475.203,0.6009800000000001,Venezuela (Bolivarian Rep. of) -  Electric motors of an output < 37.5 watts
+618,124,Canada,458,Malaysia,89," Cruise ships, excursion boats, ferry boats",13384.37,0.598842,"Canada -  Cruise ships, excursion boats, ferry boats"
+619,320,Guatemala,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,20591.128,0.595606,Guatemala -  Mineral and aerated waters not sweetened or flavoured
+620,554,New Zealand,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,10740.389,0.5607430000000001,New Zealand -  Gum or amylaceous covered textiles for book covers et
+621,096,Brunei Darussalam,458,Malaysia,68," Stone setts, curbstones, flagstones (except slate)",803.769,0.539411,"Brunei Darussalam -  Stone setts, curbstones, flagstones (except slate)"
+622,170,Colombia,458,Malaysia,85, Electric motors of an output < 37.5 watts,2831.503,0.539237,Colombia -  Electric motors of an output < 37.5 watts
+623,484,Mexico,458,Malaysia,92," Upright pianos, including auto-players",10422.991,0.533969,"Mexico -  Upright pianos, including auto-players"
+624,328,Guyana,458,Malaysia,73, Sheet piling of iron or steel,3734.206,0.5270349999999999,Guyana -  Sheet piling of iron or steel
+625,096,Brunei Darussalam,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",6818.01,0.507564,"Brunei Darussalam -  Mens, boys overcoats of wool or hair, not knit"
+626,558,Nicaragua,458,Malaysia,03," Ornamental fish, live",48330.861,0.50488,"Nicaragua -  Ornamental fish, live"
+627,096,Brunei Darussalam,458,Malaysia,78, Lead refined unwrought,1226.21,0.486947,Brunei Darussalam -  Lead refined unwrought
+628,076,Brazil,458,Malaysia,17," Raw sugar, cane",2861.782,0.48230399999999995,"Brazil -  Raw sugar, cane"
+629,392,Japan,458,Malaysia,13, Lac,4395.463,0.479105,Japan -  Lac
+630,454,Malawi,458,Malaysia,82, Spades and shovels,1962.201,0.475755,Malawi -  Spades and shovels
+631,242,Fiji,458,Malaysia,83, Padlocks of base metal,2908.457,0.466175,Fiji -  Padlocks of base metal
+632,188,Costa Rica,458,Malaysia,43," Raw mink furskins, whole",1863.09,0.462343,"Costa Rica -  Raw mink furskins, whole"
+633,480,Mauritius,458,Malaysia,85, Electric motors of an output < 37.5 watts,9231.345,0.438839,Mauritius -  Electric motors of an output < 37.5 watts
+634,642,Romania,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",5976.325,0.438268,"Romania -  Brochures, leaflets and similar, in single sheets"
+635,840,United States of America,458,Malaysia,41," Bovine skins, whole, raw",45048.341,0.43060899999999996,"United States of America -  Bovine skins, whole, raw"
+636,124,Canada,458,Malaysia,92," Upright pianos, including auto-players",4750.776,0.425747,"Canada -  Upright pianos, including auto-players"
+637,124,Canada,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",31397.953,0.423122,"Canada -  Glands and other organs, dried, for therapeutic uses"
+638,480,Mauritius,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",97360.802,0.379801,"Mauritius -  Glands and other organs, dried, for therapeutic uses"
+639,036,Australia,458,Malaysia,55," Filament tow of nylon, polyamides",631.706,0.369409,"Australia -  Filament tow of nylon, polyamides"
+640,032,Argentina,458,Malaysia,28, Chlorine,9288.959,0.366553,Argentina -  Chlorine
+641,642,Romania,458,Malaysia,95," Rideable wheeled toys, dolls carriages",2583.352,0.364742,"Romania -  Rideable wheeled toys, dolls carriages"
+642,480,Mauritius,458,Malaysia,42," Saddlery and harness, of any material",14798.057,0.34563299999999997,"Mauritius -  Saddlery and harness, of any material"
+643,642,Romania,458,Malaysia,56," Sanitary towels, diapers and similar articles",1805.684,0.344231,"Romania -  Sanitary towels, diapers and similar articles"
+644,642,Romania,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",8506.756,0.329426,"Romania -  Glands and other organs, dried, for therapeutic uses"
+645,152,Chile,458,Malaysia,84, Nuclear reactors,51166.013,0.32616500000000004,Chile -  Nuclear reactors
+646,096,Brunei Darussalam,458,Malaysia,57," Carpets of wool or fine animal hair, knotted",920.974,0.320517,"Brunei Darussalam -  Carpets of wool or fine animal hair, knotted"
+647,480,Mauritius,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",8607.617,0.320017,"Mauritius -  Mens, boys overcoats of wool or hair, not knit"
+648,642,Romania,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",9989.25,0.30735399999999996,"Romania -  Waterproof footwear (Wellingtons etc), metal toe cap"
+649,392,Japan,458,Malaysia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",2520.505,0.306116,"Japan -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+650,480,Mauritius,458,Malaysia,63, Electric blankets of textile material,2297.138,0.3054,Mauritius -  Electric blankets of textile material
+651,188,Costa Rica,458,Malaysia,34," Soaps, for toilet use, solid",3489.508,0.300009,"Costa Rica -  Soaps, for toilet use, solid"
+652,554,New Zealand,458,Malaysia,40," Natural rubber latex, including prevulcanised",5591.481,0.295105,"New Zealand -  Natural rubber latex, including prevulcanised"
+653,480,Mauritius,458,Malaysia,48, Newsprint,1421.171,0.28406400000000004,Mauritius -  Newsprint
+654,096,Brunei Darussalam,458,Malaysia,67," Bird skins and feathers, articles therefrom",1095.115,0.282587,"Brunei Darussalam -  Bird skins and feathers, articles therefrom"
+655,554,New Zealand,458,Malaysia,41," Bovine skins, whole, raw",1513.937,0.266001,"New Zealand -  Bovine skins, whole, raw"
+656,705,Slovenia,458,Malaysia,59, Gum or amylaceous covered textiles for book covers et,2870.366,0.26415,Slovenia -  Gum or amylaceous covered textiles for book covers et
+657,036,Australia,458,Malaysia,51," Greasy shorn wool, not carded or combed",4889.001,0.262067,"Australia -  Greasy shorn wool, not carded or combed"
+658,096,Brunei Darussalam,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",4543.551,0.24206899999999998,"Brunei Darussalam -  Waterproof footwear (Wellingtons etc), metal toe cap"
+659,780,Trinidad and Tobago,458,Malaysia,84, Nuclear reactors,49490.895,0.238632,Trinidad and Tobago -  Nuclear reactors
+660,480,Mauritius,458,Malaysia,84, Nuclear reactors,14352.483,0.23661000000000001,Mauritius -  Nuclear reactors
+661,096,Brunei Darussalam,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",1228.068,0.233488,"Brunei Darussalam -  Mens, boys overcoats, etc, of wool or hair, knit"
+662,124,Canada,458,Malaysia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1044.106,0.228649,"Canada -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+663,862,Venezuela (Bolivarian Rep. of),458,Malaysia,40," Natural rubber latex, including prevulcanised",3635.837,0.22771,"Venezuela (Bolivarian Rep. of) -  Natural rubber latex, including prevulcanised"
+664,705,Slovenia,458,Malaysia,29, Saturated acyclic hydrocarbons,1282.469,0.225114,Slovenia -  Saturated acyclic hydrocarbons
+665,212,Dominica,458,Malaysia,85, Electric motors of an output < 37.5 watts,4929.457,0.22122399999999998,Dominica -  Electric motors of an output < 37.5 watts
+666,124,Canada,458,Malaysia,71," Pearls natural, not permanently mounted or set",31331.243,0.219868,"Canada -  Pearls natural, not permanently mounted or set"
+667,840,United States of America,458,Malaysia,14, Bamboos used primarily for plaiting,245.877,0.218614,United States of America -  Bamboos used primarily for plaiting
+668,242,Fiji,458,Malaysia,90," Optical fibres, except for telecommunications",15907.52,0.217145,"Fiji -  Optical fibres, except for telecommunications"
+669,591,Panama,458,Malaysia,15," Lard, other pig fat and poultry fat, rendered",3962.989,0.215045,"Panama -  Lard, other pig fat and poultry fat, rendered"
+670,096,Brunei Darussalam,458,Malaysia,83, Padlocks of base metal,784.504,0.20736000000000002,Brunei Darussalam -  Padlocks of base metal
+671,192,Cuba,458,Malaysia,03," Ornamental fish, live",6859.239,0.20344800000000002,"Cuba -  Ornamental fish, live"
+672,096,Brunei Darussalam,458,Malaysia,29, Saturated acyclic hydrocarbons,515.537,0.19987200000000002,Brunei Darussalam -  Saturated acyclic hydrocarbons
+673,328,Guyana,458,Malaysia,84, Nuclear reactors,7661.016,0.19247399999999998,Guyana -  Nuclear reactors
+674,414,Kuwait,458,Malaysia,84, Nuclear reactors,52953.954,0.188834,Kuwait -  Nuclear reactors
+675,540,New Caledonia,458,Malaysia,88," Gliders, hang gliders",46452.504,0.185979,"New Caledonia -  Gliders, hang gliders"
+676,076,Brazil,458,Malaysia,11, Wheat or meslin flour,65.644,0.182631,Brazil -  Wheat or meslin flour
+677,642,Romania,458,Malaysia,53," Flax fibre, raw or retted",2058.0,0.181578,"Romania -  Flax fibre, raw or retted"
+678,328,Guyana,458,Malaysia,90," Optical fibres, except for telecommunications",360.553,0.178665,"Guyana -  Optical fibres, except for telecommunications"
+679,554,New Zealand,458,Malaysia,74, Copper mattes,1641.119,0.15980699999999998,New Zealand -  Copper mattes
+680,124,Canada,458,Malaysia,63, Electric blankets of textile material,2379.886,0.148888,Canada -  Electric blankets of textile material
+681,388,Jamaica,458,Malaysia,85, Electric motors of an output < 37.5 watts,17851.877,0.146474,Jamaica -  Electric motors of an output < 37.5 watts
+682,096,Brunei Darussalam,458,Malaysia,40," Natural rubber latex, including prevulcanised",424.121,0.145679,"Brunei Darussalam -  Natural rubber latex, including prevulcanised"
+683,036,Australia,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",4693.836,0.143537,"Australia -  Mens, boys overcoats of wool or hair, not knit"
+684,414,Kuwait,458,Malaysia,90," Optical fibres, except for telecommunications",12588.935,0.14295,"Kuwait -  Optical fibres, except for telecommunications"
+685,642,Romania,458,Malaysia,88," Gliders, hang gliders",14126.383,0.13763999999999998,"Romania -  Gliders, hang gliders"
+686,242,Fiji,458,Malaysia,88," Gliders, hang gliders",13523.778,0.13625700000000002,"Fiji -  Gliders, hang gliders"
+687,414,Kuwait,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",401.73,0.13450299999999998,"Kuwait -  Brochures, leaflets and similar, in single sheets"
+688,124,Canada,458,Malaysia,16," Sausages, similar products of meat, meat offal & bloo",1957.21,0.131495,"Canada -  Sausages, similar products of meat, meat offal & bloo"
+689,096,Brunei Darussalam,458,Malaysia,17," Raw sugar, cane",381.661,0.126456,"Brunei Darussalam -  Raw sugar, cane"
+690,076,Brazil,458,Malaysia,56," Sanitary towels, diapers and similar articles",2734.658,0.124084,"Brazil -  Sanitary towels, diapers and similar articles"
+691,450,Madagascar,458,Malaysia,29, Saturated acyclic hydrocarbons,9353.566,0.122839,Madagascar -  Saturated acyclic hydrocarbons
+692,642,Romania,458,Malaysia,32, Quebracho tanning extract,3089.16,0.11263200000000001,Romania -  Quebracho tanning extract
+693,480,Mauritius,458,Malaysia,22, Mineral and aerated waters not sweetened or flavoured,1902.305,0.104802,Mauritius -  Mineral and aerated waters not sweetened or flavoured
+694,858,Uruguay,458,Malaysia,90," Optical fibres, except for telecommunications",67.353,0.098675,"Uruguay -  Optical fibres, except for telecommunications"
+695,188,Costa Rica,458,Malaysia,83, Padlocks of base metal,1638.373,0.09272799999999999,Costa Rica -  Padlocks of base metal
+696,170,Colombia,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",3486.555,0.092117,"Colombia -  Mens, boys overcoats, etc, of wool or hair, knit"
+697,772,Tokelau,458,Malaysia,84, Nuclear reactors,262606.654,0.083005,Tokelau -  Nuclear reactors
+698,124,Canada,458,Malaysia,21," Coffee extracts, essences, concentrates, preparations",3789.752,0.08099500000000001,"Canada -  Coffee extracts, essences, concentrates, preparations"
+699,242,Fiji,458,Malaysia,12, Soya beans,18637.812,0.079646,Fiji -  Soya beans
+700,344,"China, Hong Kong SAR",458,Malaysia,11, Wheat or meslin flour,766.521,0.07833,"China, Hong Kong SAR -  Wheat or meslin flour"
+701,188,Costa Rica,458,Malaysia,96," Worked ivory, articles of ivory",1651.437,0.076774,"Costa Rica -  Worked ivory, articles of ivory"
+702,242,Fiji,458,Malaysia,03," Ornamental fish, live",1408.341,0.074029,"Fiji -  Ornamental fish, live"
+703,591,Panama,458,Malaysia,85, Electric motors of an output < 37.5 watts,9000.187,0.072775,Panama -  Electric motors of an output < 37.5 watts
+704,262,Djibouti,458,Malaysia,03," Ornamental fish, live",6196.113,0.069798,"Djibouti -  Ornamental fish, live"
+705,480,Mauritius,458,Malaysia,90," Optical fibres, except for telecommunications",12596.233,0.069529,"Mauritius -  Optical fibres, except for telecommunications"
+706,705,Slovenia,458,Malaysia,44, Fuel wood,3184.636,0.069321,Slovenia -  Fuel wood
+707,242,Fiji,458,Malaysia,61," Mens, boys overcoats, etc, of wool or hair, knit",867.162,0.066423,"Fiji -  Mens, boys overcoats, etc, of wool or hair, knit"
+708,316,Guam,458,Malaysia,42," Saddlery and harness, of any material",1209.055,0.063928,"Guam -  Saddlery and harness, of any material"
+709,096,Brunei Darussalam,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",176.862,0.063561,"Brunei Darussalam -  Glands and other organs, dried, for therapeutic uses"
+710,096,Brunei Darussalam,458,Malaysia,65," Hat-forms, etc of felt, not shaped, no formed brim",411.826,0.062627,"Brunei Darussalam -  Hat-forms, etc of felt, not shaped, no formed brim"
+711,558,Nicaragua,458,Malaysia,84, Nuclear reactors,589.784,0.060067999999999996,Nicaragua -  Nuclear reactors
+712,096,Brunei Darussalam,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",127.784,0.05843,"Brunei Darussalam -  Wrist-watch, precious metal, battery, with hands"
+713,392,Japan,458,Malaysia,93," Military weapons, other than hand guns, swords, etc",20891.249,0.053475,"Japan -  Military weapons, other than hand guns, swords, etc"
+714,531,Curaçao,458,Malaysia,85, Electric motors of an output < 37.5 watts,5703.675,0.048377,Curaçao -  Electric motors of an output < 37.5 watts
+715,426,Lesotho,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",888.195,0.046373,"Lesotho -  Mens, boys overcoats of wool or hair, not knit"
+716,642,Romania,458,Malaysia,70," Glass cullet, waste or scrap, glass in the mass",809.939,0.046096,"Romania -  Glass cullet, waste or scrap, glass in the mass"
+717,218,Ecuador,458,Malaysia,84, Nuclear reactors,5462.649,0.045552999999999996,Ecuador -  Nuclear reactors
+718,152,Chile,458,Malaysia,85, Electric motors of an output < 37.5 watts,1555.564,0.045073,Chile -  Electric motors of an output < 37.5 watts
+719,344,"China, Hong Kong SAR",458,Malaysia,55," Filament tow of nylon, polyamides",286.92,0.044815,"China, Hong Kong SAR -  Filament tow of nylon, polyamides"
+720,316,Guam,458,Malaysia,84, Nuclear reactors,4450.313,0.043301,Guam -  Nuclear reactors
+721,642,Romania,458,Malaysia,63, Electric blankets of textile material,2424.237,0.039001,Romania -  Electric blankets of textile material
+722,344,"China, Hong Kong SAR",458,Malaysia,93," Military weapons, other than hand guns, swords, etc",394.163,0.038514,"China, Hong Kong SAR -  Military weapons, other than hand guns, swords, etc"
+723,392,Japan,458,Malaysia,24," Tobacco, unmanufactured, not stemmed or stripped",846.971,0.037633,"Japan -  Tobacco, unmanufactured, not stemmed or stripped"
+724,096,Brunei Darussalam,458,Malaysia,09," Coffee, not roasted, not decaffeinated",385.81,0.037058999999999995,"Brunei Darussalam -  Coffee, not roasted, not decaffeinated"
+725,344,"China, Hong Kong SAR",458,Malaysia,75, Nickel mattes,177.447,0.033319,"China, Hong Kong SAR -  Nickel mattes"
+726,558,Nicaragua,458,Malaysia,64," Waterproof footwear (Wellingtons etc), metal toe cap",1012.438,0.032409,"Nicaragua -  Waterproof footwear (Wellingtons etc), metal toe cap"
+727,705,Slovenia,458,Malaysia,49," Brochures, leaflets and similar, in single sheets",49.274,0.03105,"Slovenia -  Brochures, leaflets and similar, in single sheets"
+728,068,Bolivia (Plurinational State of),458,Malaysia,84, Nuclear reactors,318.893,0.030001,Bolivia (Plurinational State of) -  Nuclear reactors
+729,450,Madagascar,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",423.843,0.029547,"Madagascar -  Mens, boys overcoats of wool or hair, not knit"
+730,484,Mexico,458,Malaysia,28, Chlorine,2725.467,0.028022,Mexico -  Chlorine
+731,858,Uruguay,458,Malaysia,87, Pedestrian controlled tractors,1627.533,0.027588,Uruguay -  Pedestrian controlled tractors
+732,090,Solomon Islands,458,Malaysia,84, Nuclear reactors,508.251,0.027156,Solomon Islands -  Nuclear reactors
+733,222,El Salvador,458,Malaysia,85, Electric motors of an output < 37.5 watts,3950.161,0.02597,El Salvador -  Electric motors of an output < 37.5 watts
+734,328,Guyana,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,12219.261,0.025922999999999998,Guyana -  Polyethylene - specific gravity <0.94 in primary form
+735,188,Costa Rica,458,Malaysia,87, Pedestrian controlled tractors,1414.945,0.023781,Costa Rica -  Pedestrian controlled tractors
+736,084,Belize,458,Malaysia,85, Electric motors of an output < 37.5 watts,1027.904,0.022384,Belize -  Electric motors of an output < 37.5 watts
+737,690,Seychelles,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",1011.569,0.021022,"Seychelles -  Mens, boys overcoats of wool or hair, not knit"
+738,604,Peru,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",605.424,0.019754,"Peru -  Mens, boys overcoats of wool or hair, not knit"
+739,344,"China, Hong Kong SAR",458,Malaysia,36, Propellent powders,2622.196,0.019315000000000002,"China, Hong Kong SAR -  Propellent powders"
+740,484,Mexico,458,Malaysia,96," Worked ivory, articles of ivory",170.255,0.017771000000000002,"Mexico -  Worked ivory, articles of ivory"
+741,188,Costa Rica,458,Malaysia,33, Essential oils of bergamot,35482.836,0.017526,Costa Rica -  Essential oils of bergamot
+742,388,Jamaica,458,Malaysia,39, Polyethylene - specific gravity <0.94 in primary form,2681.832,0.017393000000000002,Jamaica -  Polyethylene - specific gravity <0.94 in primary form
+743,344,"China, Hong Kong SAR",458,Malaysia,47, Mechanical wood pulp,52.178,0.015329,"China, Hong Kong SAR -  Mechanical wood pulp"
+744,388,Jamaica,458,Malaysia,09," Coffee, not roasted, not decaffeinated",1325.459,0.014724000000000001,"Jamaica -  Coffee, not roasted, not decaffeinated"
+745,344,"China, Hong Kong SAR",458,Malaysia,41," Bovine skins, whole, raw",2492.353,0.013432000000000001,"China, Hong Kong SAR -  Bovine skins, whole, raw"
+746,760,Syrian Arab Republic,458,Malaysia,88," Gliders, hang gliders",180.868,0.010809,"Syrian Arab Republic -  Gliders, hang gliders"
+747,414,Kuwait,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",232.703,0.00954,"Kuwait -  Mens, boys overcoats of wool or hair, not knit"
+748,531,Curaçao,458,Malaysia,84, Nuclear reactors,5274.618,0.009435,Curaçao -  Nuclear reactors
+749,705,Slovenia,458,Malaysia,62," Mens, boys overcoats of wool or hair, not knit",325.332,0.007911,"Slovenia -  Mens, boys overcoats of wool or hair, not knit"
+750,316,Guam,458,Malaysia,90," Optical fibres, except for telecommunications",902.75,0.006633,"Guam -  Optical fibres, except for telecommunications"
+751,531,Curaçao,458,Malaysia,90," Optical fibres, except for telecommunications",5371.97,0.006055,"Curaçao -  Optical fibres, except for telecommunications"
+752,020,Andorra,458,Malaysia,73, Sheet piling of iron or steel,626.25,0.005857,Andorra -  Sheet piling of iron or steel
+753,608,Philippines,458,Malaysia,07," Potatoes seed, fresh or chilled",4.417,0.005754,"Philippines -  Potatoes seed, fresh or chilled"
+754,392,Japan,458,Malaysia,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",7.231,0.005601,"Japan -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+755,642,Romania,458,Malaysia,41," Bovine skins, whole, raw",911.08,0.0054930000000000005,"Romania -  Bovine skins, whole, raw"
+756,705,Slovenia,458,Malaysia,71," Pearls natural, not permanently mounted or set",11.564,0.004783000000000001,"Slovenia -  Pearls natural, not permanently mounted or set"
+757,480,Mauritius,458,Malaysia,88," Gliders, hang gliders",3211.845,0.004781,"Mauritius -  Gliders, hang gliders"
+758,212,Dominica,458,Malaysia,24," Tobacco, unmanufactured, not stemmed or stripped",189.02,0.004753,"Dominica -  Tobacco, unmanufactured, not stemmed or stripped"
+759,344,"China, Hong Kong SAR",458,Malaysia,04, Milk not concentrated nor sweetened < 1% fat,1516.513,0.003974,"China, Hong Kong SAR -  Milk not concentrated nor sweetened < 1% fat"
+760,858,Uruguay,458,Malaysia,85, Electric motors of an output < 37.5 watts,262.003,0.00377,Uruguay -  Electric motors of an output < 37.5 watts
+761,068,Bolivia (Plurinational State of),458,Malaysia,90," Optical fibres, except for telecommunications",973.008,0.002332,"Bolivia (Plurinational State of) -  Optical fibres, except for telecommunications"
+762,604,Peru,458,Malaysia,84, Nuclear reactors,152.894,0.002094,Peru -  Nuclear reactors
+763,540,New Caledonia,458,Malaysia,34," Soaps, for toilet use, solid",1231.384,0.001936,"New Caledonia -  Soaps, for toilet use, solid"
+764,780,Trinidad and Tobago,458,Malaysia,33, Essential oils of bergamot,1275.199,0.0018759999999999998,Trinidad and Tobago -  Essential oils of bergamot
+765,214,Dominican Republic,458,Malaysia,30," Glands and other organs, dried, for therapeutic uses",26.405,0.001776,"Dominican Republic -  Glands and other organs, dried, for therapeutic uses"
+766,036,Australia,458,Malaysia,58," Woven pile fabric of wool or fine animal hair, w >30c",4.085,0.001199,"Australia -  Woven pile fabric of wool or fine animal hair, w >30c"
+767,032,Argentina,458,Malaysia,87, Pedestrian controlled tractors,547.169,0.001117,Argentina -  Pedestrian controlled tractors
+768,772,Tokelau,458,Malaysia,85, Electric motors of an output < 37.5 watts,1616.823,0.0009469999999999999,Tokelau -  Electric motors of an output < 37.5 watts
+769,136,Cayman Islands,458,Malaysia,84, Nuclear reactors,2459.171,0.000823,Cayman Islands -  Nuclear reactors
+770,740,Suriname,458,Malaysia,90," Optical fibres, except for telecommunications",1495.765,0.0006680000000000001,"Suriname -  Optical fibres, except for telecommunications"
+771,096,Brunei Darussalam,458,Malaysia,92," Upright pianos, including auto-players",4.498,0.00034,"Brunei Darussalam -  Upright pianos, including auto-players"
+772,316,Guam,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",3895.744,0.000261,"Guam -  Wrist-watch, precious metal, battery, with hands"
+773,344,"China, Hong Kong SAR",458,Malaysia,51," Greasy shorn wool, not carded or combed",0.056,5e-06,"China, Hong Kong SAR -  Greasy shorn wool, not carded or combed"
+774,124,Canada,458,Malaysia,91," Wrist-watch, precious metal, battery, with hands",0.195,1e-06,"Canada -  Wrist-watch, precious metal, battery, with hands"
+775,642,Romania,458,Malaysia,01," Horses, live pure-bred breeding",0.0,0.0,"Romania -  Horses, live pure-bred breeding"
+776,344,"China, Hong Kong SAR",458,Malaysia,01," Horses, live pure-bred breeding",0.003,0.0,"China, Hong Kong SAR -  Horses, live pure-bred breeding"
+777,705,Slovenia,458,Malaysia,01," Horses, live pure-bred breeding",0.0,0.0,"Slovenia -  Horses, live pure-bred breeding"
+778,344,"China, Hong Kong SAR",458,Malaysia,50, Silk-worm cocoons suitable for reeling,0.0,0.0,"China, Hong Kong SAR -  Silk-worm cocoons suitable for reeling"
+779,096,Brunei Darussalam,458,Malaysia,01," Horses, live pure-bred breeding",0.0,0.0,"Brunei Darussalam -  Horses, live pure-bred breeding"

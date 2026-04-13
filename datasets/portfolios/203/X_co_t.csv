@@ -1,0 +1,96 @@
+,exp_code_str3,exp_name,HS2,description,USD,tonne
+0,203,Czechia,72," Pig iron, non-alloy, <0.5% phosphorus",2082509419.367,3142909.5393769997
+1,203,Czechia,44, Fuel wood,610910012.1140001,2241702.036527
+2,203,Czechia,27," Anthracite, not agglomerated",886521137.311,1861656.580233
+3,203,Czechia,87, Pedestrian controlled tractors,15348718496.667,1666744.740728
+4,203,Czechia,73, Sheet piling of iron or steel,2071555814.876,936852.512917
+5,203,Czechia,39, Polyethylene - specific gravity <0.94 in primary form,2204544278.228,750035.02175
+6,203,Czechia,84, Nuclear reactors,7409911970.551,712334.208649
+7,203,Czechia,68," Stone setts, curbstones, flagstones (except slate)",250553150.425,568048.916227
+8,203,Czechia,48, Newsprint,651926384.545,509834.004805
+9,203,Czechia,85, Electric motors of an output < 37.5 watts,4852645147.585,422348.387413
+10,203,Czechia,28, Chlorine,220538079.091,406018.368333
+11,203,Czechia,40," Natural rubber latex, including prevulcanised",1615953243.897,391987.165194
+12,203,Czechia,22, Mineral and aerated waters not sweetened or flavoured,201703131.707,387606.371692
+13,203,Czechia,94," Seats, aircraft",1797547564.92,351056.083461
+14,203,Czechia,25," Salt (sodium chloride) including solution, salt water",23186224.338,338409.034102
+15,203,Czechia,70," Glass cullet, waste or scrap, glass in the mass",523332067.74300003,333334.521563
+16,203,Czechia,23," Flour or meal, pellet of meat or offal for animal fee",216015841.046,254699.361349
+17,203,Czechia,31," Animal or vegetable fertilizers, in packs >10 kg",43296078.563,244284.914286
+18,203,Czechia,29, Saturated acyclic hydrocarbons,278062079.452,239013.057261
+19,203,Czechia,38, Artificial graphite,208439605.493,204297.408581
+20,203,Czechia,34," Soaps, for toilet use, solid",247638120.674,194256.572865
+21,203,Czechia,17," Raw sugar, cane",132075650.678,180949.407967
+22,203,Czechia,04, Milk not concentrated nor sweetened < 1% fat,166647574.729,178467.02047400002
+23,203,Czechia,32, Quebracho tanning extract,200638889.322,114918.686068
+24,203,Czechia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",3719803.208,100990.156813
+25,203,Czechia,15," Lard, other pig fat and poultry fat, rendered",68294216.419,96484.320774
+26,203,Czechia,83, Padlocks of base metal,495986042.073,83044.588332
+27,203,Czechia,76," Aluminium unwrought, not alloyed",399013079.33500004,76000.207432
+28,203,Czechia,95," Rideable wheeled toys, dolls carriages",963060560.447,75829.269492
+29,203,Czechia,10, Durum wheat,35055095.527,73005.900507
+30,203,Czechia,11, Wheat or meslin flour,34100071.433,71345.80733299999
+31,203,Czechia,12, Soya beans,58133237.65,68826.038586
+32,203,Czechia,86," Rail locomotives, externally electrically powered",203516622.276,63414.954598
+33,203,Czechia,47, Mechanical wood pulp,13465982.181,60448.815361
+34,203,Czechia,56," Sanitary towels, diapers and similar articles",196989817.152,59025.770666
+35,203,Czechia,96," Worked ivory, articles of ivory",258542219.98700002,57813.639491
+36,203,Czechia,69," Bricks, blocks and ceramic goods of siliceous earths",76578906.898,47636.116083
+37,203,Czechia,21," Coffee extracts, essences, concentrates, preparations",80647933.53,32076.245214
+38,203,Czechia,74, Copper mattes,132492926.543,20718.792953
+39,203,Czechia,90," Optical fibres, except for telecommunications",638784290.508,20102.774327
+40,203,Czechia,19," Infant foods of cereals, flour, starch or milk, retai",47934722.684,18454.629126
+41,203,Czechia,59, Gum or amylaceous covered textiles for book covers et,88693484.975,15496.27361
+42,203,Czechia,20," Cucumbers,gherkins, prepared or preserved by vinegar",22684854.321,14468.048318000001
+43,203,Czechia,07," Potatoes seed, fresh or chilled",14015606.996,13783.690177
+44,203,Czechia,57," Carpets of wool or fine animal hair, knotted",28964676.382,11878.854856
+45,203,Czechia,82, Spades and shovels,147784102.718,11453.358398999999
+46,203,Czechia,35, Casein,14445542.462,10776.915834
+47,203,Czechia,63, Electric blankets of textile material,78262137.257,10626.969592000001
+48,203,Czechia,55," Filament tow of nylon, polyamides",17450220.972,10100.461062999999
+49,203,Czechia,01," Horses, live pure-bred breeding",35709081.913,9846.503201
+50,203,Czechia,08," Coconuts, fresh or dried",3799993.926,7911.497420999999
+51,203,Czechia,78, Lead refined unwrought,14039806.547999999,7558.9595469999995
+52,203,Czechia,49," Brochures, leaflets and similar, in single sheets",27181637.233,6581.781591000001
+53,203,Czechia,54, Sewing thread of synthetic filaments,34258954.107,6551.414399
+54,203,Czechia,30," Glands and other organs, dried, for therapeutic uses",131347839.236,5935.378299
+55,203,Czechia,33, Essential oils of bergamot,53810560.743,5817.948844
+56,203,Czechia,05," Hair, human, unworked, waste of human hair",5838741.352,5709.03287
+57,203,Czechia,93," Military weapons, other than hand guns, swords, etc",45561718.892000005,5400.231433
+58,203,Czechia,02," Bovine carcasses and half carcasses, fresh or chilled",8125619.085,4626.07858
+59,203,Czechia,36, Propellent powders,72474408.432,3855.7739770000003
+60,203,Czechia,60," ""Long pile"" knit or crochet textile fabric",12536543.547,3193.7727210000003
+61,203,Czechia,03," Ornamental fish, live",12336895.889999999,3015.091321
+62,203,Czechia,42," Saddlery and harness, of any material",45052168.228,2889.58468
+63,203,Czechia,24," Tobacco, unmanufactured, not stemmed or stripped",49191589.194,2871.235851
+64,203,Czechia,79," Zinc, not alloyed, unwrought, >99% pure",10200105.185,2710.6229510000003
+65,203,Czechia,16," Sausages, similar products of meat, meat offal & bloo",9848638.955,2692.20941
+66,203,Czechia,18," Cocoa beans, whole or broken, raw or roasted",8766813.0,1602.480671
+67,203,Czechia,81," Powders, tungsten (wolfram)",11875990.775,1542.265228
+68,203,Czechia,09," Coffee, not roasted, not decaffeinated",16410619.476,1512.5583120000001
+69,203,Czechia,71," Pearls natural, not permanently mounted or set",76552194.545,1392.302878
+70,203,Czechia,13, Lac,11044578.457,1134.246341
+71,203,Czechia,89," Cruise ships, excursion boats, ferry boats",6195645.768,1026.2216369999999
+72,203,Czechia,64," Waterproof footwear (Wellingtons etc), metal toe cap",22223907.482,899.604991
+73,203,Czechia,62," Mens, boys overcoats of wool or hair, not knit",27532106.572,888.2418210000001
+74,203,Czechia,51," Greasy shorn wool, not carded or combed",12784534.896000002,764.6607180000001
+75,203,Czechia,37, X-ray plates and films,8591627.282,732.899998
+76,203,Czechia,61," Mens, boys overcoats, etc, of wool or hair, knit",12765872.758,623.5316329999999
+77,203,Czechia,58," Woven pile fabric of wool or fine animal hair, w >30c",2902970.372,532.3751649999999
+78,203,Czechia,66, Garden and similar umbrellas,5734032.729,455.449139
+79,203,Czechia,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",2072535.6330000001,347.976743
+80,203,Czechia,65," Hat-forms, etc of felt, not shaped, no formed brim",8522937.085,312.729617
+81,203,Czechia,45," Natural cork, raw or simply prepared",553382.722,268.072496
+82,203,Czechia,80, Tin not alloyed unwrought,2731801.554,206.07892
+83,203,Czechia,75, Nickel mattes,1262973.0019999999,204.758798
+84,203,Czechia,52," Cotton, not carded or combed",2508726.442,186.09528699999998
+85,203,Czechia,88," Gliders, hang gliders",56712952.007,182.564239
+86,203,Czechia,92," Upright pianos, including auto-players",3271040.979,173.00062599999998
+87,203,Czechia,91," Wrist-watch, precious metal, battery, with hands",7026034.928,141.144371
+88,203,Czechia,46, Plaits and products of plaiting materials,442513.403,99.426295
+89,203,Czechia,53," Flax fibre, raw or retted",823489.48,86.58663299999999
+90,203,Czechia,67," Bird skins and feathers, articles therefrom",217431.261,20.522206
+91,203,Czechia,43," Raw mink furskins, whole",380218.45,15.786999999999999
+92,203,Czechia,14, Bamboos used primarily for plaiting,70863.296,9.587228
+93,203,Czechia,41," Bovine skins, whole, raw",75707.168,2.922619
+94,203,Czechia,50, Silk-worm cocoons suitable for reeling,25435.082,0.265536

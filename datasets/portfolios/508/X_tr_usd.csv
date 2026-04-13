@@ -1,0 +1,1096 @@
+,exp_code_str3,exp_name,imp_code_str3,imp_name,HS2,description,USD,tonne,clean_desc
+0,508,Mozambique,724,Spain,76," Aluminium unwrought, not alloyed",209188180.225,96298.633,"Spain -  Aluminium unwrought, not alloyed"
+1,508,Mozambique,076,Brazil,27," Anthracite, not agglomerated",129942211.0,613825.7,"Brazil -  Anthracite, not agglomerated"
+2,508,Mozambique,156,China,44, Fuel wood,79715250.048,210376.526321,China -  Fuel wood
+3,508,Mozambique,894,Zambia,31," Animal or vegetable fertilizers, in packs >10 kg",78118032.5,34099.610742,"Zambia -  Animal or vegetable fertilizers, in packs >10 kg"
+4,508,Mozambique,705,Slovenia,76," Aluminium unwrought, not alloyed",62029107.759,27690.6,"Slovenia -  Aluminium unwrought, not alloyed"
+5,508,Mozambique,716,Zimbabwe,27," Anthracite, not agglomerated",61137859.63,52711.397574,"Zimbabwe -  Anthracite, not agglomerated"
+6,508,Mozambique,250,France,27," Anthracite, not agglomerated",57553952.864,473073.94265100005,"France -  Anthracite, not agglomerated"
+7,508,Mozambique,792,Türkiye,24," Tobacco, unmanufactured, not stemmed or stripped",45722832.0,8722.64,"Türkiye -  Tobacco, unmanufactured, not stemmed or stripped"
+8,508,Mozambique,156,China,12, Soya beans,43991701.172,25856.607525,China -  Soya beans
+9,508,Mozambique,300,Greece,76," Aluminium unwrought, not alloyed",41295671.004,18111.645,"Greece -  Aluminium unwrought, not alloyed"
+10,508,Mozambique,792,Türkiye,76," Aluminium unwrought, not alloyed",36403499.0,16040.713,"Türkiye -  Aluminium unwrought, not alloyed"
+11,508,Mozambique,620,Portugal,03," Ornamental fish, live",34546047.561,3639.753,"Portugal -  Ornamental fish, live"
+12,508,Mozambique,356,India,07," Potatoes seed, fresh or chilled",34054893.359,47385.083759,"India -  Potatoes seed, fresh or chilled"
+13,508,Mozambique,724,Spain,26," Iron ore, concentrate, not iron pyrites,unagglomerate",31071284.058,109074.66,"Spain -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+14,508,Mozambique,380,Italy,76," Aluminium unwrought, not alloyed",29055248.744,12986.405421,"Italy -  Aluminium unwrought, not alloyed"
+15,508,Mozambique,704,Viet Nam,08," Coconuts, fresh or dried",28989480.394,3079.633235,"Viet Nam -  Coconuts, fresh or dried"
+16,508,Mozambique,516,Namibia,27," Anthracite, not agglomerated",19646128.774,28643.503286,"Namibia -  Anthracite, not agglomerated"
+17,508,Mozambique,276,Germany,76," Aluminium unwrought, not alloyed",17932317.887,7850.900888,"Germany -  Aluminium unwrought, not alloyed"
+18,508,Mozambique,748,Eswatini,27," Anthracite, not agglomerated",17834658.687,25216.328007,"Eswatini -  Anthracite, not agglomerated"
+19,508,Mozambique,410,"Korea, Republic of",27," Anthracite, not agglomerated",17176709.403,28239.588704,"Korea, Republic of -  Anthracite, not agglomerated"
+20,508,Mozambique,156,China,03," Ornamental fish, live",16044501.286,1528.347572,"China -  Ornamental fish, live"
+21,508,Mozambique,360,Indonesia,12, Soya beans,14005387.035,16734.888624,Indonesia -  Soya beans
+22,508,Mozambique,156,China,26," Iron ore, concentrate, not iron pyrites,unagglomerate",12316582.506,45680.082505000006,"China -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+23,508,Mozambique,840,United States of America,08," Coconuts, fresh or dried",12199565.64,1530.89604,"United States of America -  Coconuts, fresh or dried"
+24,508,Mozambique,072,Botswana,27," Anthracite, not agglomerated",11689179.464,38932.119189000005,"Botswana -  Anthracite, not agglomerated"
+25,508,Mozambique,392,Japan,12, Soya beans,10880530.933,9004.651141,Japan -  Soya beans
+26,508,Mozambique,356,India,72," Pig iron, non-alloy, <0.5% phosphorus",10135685.138,38216.688347,"India -  Pig iron, non-alloy, <0.5% phosphorus"
+27,508,Mozambique,356,India,08," Coconuts, fresh or dried",8754978.565,4880.993693,"India -  Coconuts, fresh or dried"
+28,508,Mozambique,554,New Zealand,17," Raw sugar, cane",8203714.132,28427.735142,"New Zealand -  Raw sugar, cane"
+29,508,Mozambique,724,Spain,25," Salt (sodium chloride) including solution, salt water",7980744.747,26825.364,"Spain -  Salt (sodium chloride) including solution, salt water"
+30,508,Mozambique,834,"Tanzania, United Republic of",17," Raw sugar, cane",7347315.026,15506.906105,"Tanzania, United Republic of -  Raw sugar, cane"
+31,508,Mozambique,036,Australia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",7199630.572,47083.0,"Australia -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+32,508,Mozambique,894,Zambia,10, Durum wheat,6819354.612,11429.0,Zambia -  Durum wheat
+33,508,Mozambique,380,Italy,25," Salt (sodium chloride) including solution, salt water",6178830.397,16649.131554,"Italy -  Salt (sodium chloride) including solution, salt water"
+34,508,Mozambique,480,Mauritius,52," Cotton, not carded or combed",6173260.817,3153.735,"Mauritius -  Cotton, not carded or combed"
+35,508,Mozambique,826,United Kingdom,17," Raw sugar, cane",6131559.248,19500.227862,"United Kingdom -  Raw sugar, cane"
+36,508,Mozambique,792,Türkiye,27," Anthracite, not agglomerated",6058904.0,55030.5,"Türkiye -  Anthracite, not agglomerated"
+37,508,Mozambique,246,Finland,76," Aluminium unwrought, not alloyed",5829175.372,2353.299,"Finland -  Aluminium unwrought, not alloyed"
+38,508,Mozambique,840,United States of America,17," Raw sugar, cane",5624544.274,12432.129679,"United States of America -  Raw sugar, cane"
+39,508,Mozambique,705,Slovenia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",5449698.99,23511.5,"Slovenia -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+40,508,Mozambique,250,France,76," Aluminium unwrought, not alloyed",5317001.575,2215.884658,"France -  Aluminium unwrought, not alloyed"
+41,508,Mozambique,620,Portugal,17," Raw sugar, cane",5276295.419,19490.31,"Portugal -  Raw sugar, cane"
+42,508,Mozambique,616,Poland,76," Aluminium unwrought, not alloyed",5166228.2,2235.569327,"Poland -  Aluminium unwrought, not alloyed"
+43,508,Mozambique,250,France,03," Ornamental fish, live",4749632.442,504.443286,"France -  Ornamental fish, live"
+44,508,Mozambique,276,Germany,24," Tobacco, unmanufactured, not stemmed or stripped",4673018.28,2086.401245,"Germany -  Tobacco, unmanufactured, not stemmed or stripped"
+45,508,Mozambique,454,Malawi,24," Tobacco, unmanufactured, not stemmed or stripped",4437251.506,3327.0160469999996,"Malawi -  Tobacco, unmanufactured, not stemmed or stripped"
+46,508,Mozambique,528,Netherlands (Kingdom of the),08," Coconuts, fresh or dried",4418177.222,387.856005,"Netherlands (Kingdom of the) -  Coconuts, fresh or dried"
+47,508,Mozambique,756,"Switzerland, Liechtenstein",15," Lard, other pig fat and poultry fat, rendered",4114682.723,3030.864204,"Switzerland, Liechtenstein -  Lard, other pig fat and poultry fat, rendered"
+48,508,Mozambique,454,Malawi,72," Pig iron, non-alloy, <0.5% phosphorus",3830506.242,3920.040971,"Malawi -  Pig iron, non-alloy, <0.5% phosphorus"
+49,508,Mozambique,276,Germany,25," Salt (sodium chloride) including solution, salt water",3819043.735,5442.420683,"Germany -  Salt (sodium chloride) including solution, salt water"
+50,508,Mozambique,764,Thailand,03," Ornamental fish, live",3683747.933,642.586138,"Thailand -  Ornamental fish, live"
+51,508,Mozambique,392,Japan,27," Anthracite, not agglomerated",3611649.334,8294.95696,"Japan -  Anthracite, not agglomerated"
+52,508,Mozambique,250,France,26," Iron ore, concentrate, not iron pyrites,unagglomerate",3578411.545,2351.859493,"France -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+53,508,Mozambique,156,China,25," Salt (sodium chloride) including solution, salt water",3565355.105,11658.669155,"China -  Salt (sodium chloride) including solution, salt water"
+54,508,Mozambique,392,Japan,03," Ornamental fish, live",3531358.885,214.47574400000002,"Japan -  Ornamental fish, live"
+55,508,Mozambique,894,Zambia,76," Aluminium unwrought, not alloyed",3427864.859,1283.66,"Zambia -  Aluminium unwrought, not alloyed"
+56,508,Mozambique,646,Rwanda,17," Raw sugar, cane",3342337.508,10575.800879,"Rwanda -  Raw sugar, cane"
+57,508,Mozambique,404,Kenya,27," Anthracite, not agglomerated",3271331.046,7534.379986,"Kenya -  Anthracite, not agglomerated"
+58,508,Mozambique,834,"Tanzania, United Republic of",27," Anthracite, not agglomerated",3139585.581,8915.268555,"Tanzania, United Republic of -  Anthracite, not agglomerated"
+59,508,Mozambique,528,Netherlands (Kingdom of the),72," Pig iron, non-alloy, <0.5% phosphorus",3067799.561,3016.203806,"Netherlands (Kingdom of the) -  Pig iron, non-alloy, <0.5% phosphorus"
+60,508,Mozambique,422,Lebanon,08," Coconuts, fresh or dried",2788984.783,409.348342,"Lebanon -  Coconuts, fresh or dried"
+61,508,Mozambique,108,Burundi,17," Raw sugar, cane",2697036.339,3494.785065,"Burundi -  Raw sugar, cane"
+62,508,Mozambique,716,Zimbabwe,73, Sheet piling of iron or steel,2672298.693,3307.5697200000004,Zimbabwe -  Sheet piling of iron or steel
+63,508,Mozambique,826,United Kingdom,76," Aluminium unwrought, not alloyed",2666135.621,1257.86435,"United Kingdom -  Aluminium unwrought, not alloyed"
+64,508,Mozambique,642,Romania,24," Tobacco, unmanufactured, not stemmed or stripped",2490167.806,463.68,"Romania -  Tobacco, unmanufactured, not stemmed or stripped"
+65,508,Mozambique,356,India,74, Copper mattes,2487383.783,425.583614,India -  Copper mattes
+66,508,Mozambique,724,Spain,03," Ornamental fish, live",2476420.045,237.112,"Spain -  Ornamental fish, live"
+67,508,Mozambique,784,United Arab Emirates,71," Pearls natural, not permanently mounted or set",2296813.709,0.6372140000000001,"United Arab Emirates -  Pearls natural, not permanently mounted or set"
+68,508,Mozambique,156,China,74, Copper mattes,2260219.128,592.2785990000001,China -  Copper mattes
+69,508,Mozambique,620,Portugal,08," Coconuts, fresh or dried",2227243.507,238.139,"Portugal -  Coconuts, fresh or dried"
+70,508,Mozambique,450,Madagascar,17," Raw sugar, cane",2197811.216,4515.0,"Madagascar -  Raw sugar, cane"
+71,508,Mozambique,454,Malawi,27," Anthracite, not agglomerated",2193287.967,3038.463355,"Malawi -  Anthracite, not agglomerated"
+72,508,Mozambique,454,Malawi,73, Sheet piling of iron or steel,2158872.715,6568.112868,Malawi -  Sheet piling of iron or steel
+73,508,Mozambique,276,Germany,85, Electric motors of an output < 37.5 watts,2071364.343,11.906127,Germany -  Electric motors of an output < 37.5 watts
+74,508,Mozambique,356,India,12, Soya beans,2049999.304,5201.777233,India -  Soya beans
+75,508,Mozambique,716,Zimbabwe,31," Animal or vegetable fertilizers, in packs >10 kg",1977614.431,3945.380948,"Zimbabwe -  Animal or vegetable fertilizers, in packs >10 kg"
+76,508,Mozambique,800,Uganda,17," Raw sugar, cane",1904439.617,4138.394303,"Uganda -  Raw sugar, cane"
+77,508,Mozambique,620,Portugal,24," Tobacco, unmanufactured, not stemmed or stripped",1904376.753,798.38,"Portugal -  Tobacco, unmanufactured, not stemmed or stripped"
+78,508,Mozambique,704,Viet Nam,23," Flour or meal, pellet of meat or offal for animal fee",1764609.524,11939.988941,"Viet Nam -  Flour or meal, pellet of meat or offal for animal fee"
+79,508,Mozambique,716,Zimbabwe,03," Ornamental fish, live",1745652.62,1018.2740309999999,"Zimbabwe -  Ornamental fish, live"
+80,508,Mozambique,344,"China, Hong Kong SAR",03," Ornamental fish, live",1714456.456,40.663545,"China, Hong Kong SAR -  Ornamental fish, live"
+81,508,Mozambique,840,United States of America,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1714392.522,6177.747603,"United States of America -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+82,508,Mozambique,826,United Kingdom,09," Coffee, not roasted, not decaffeinated",1712910.292,580.2393020000001,"United Kingdom -  Coffee, not roasted, not decaffeinated"
+83,508,Mozambique,344,"China, Hong Kong SAR",08," Coconuts, fresh or dried",1706632.108,324.708885,"China, Hong Kong SAR -  Coconuts, fresh or dried"
+84,508,Mozambique,894,Zambia,15," Lard, other pig fat and poultry fat, rendered",1662671.223,2226.062,"Zambia -  Lard, other pig fat and poultry fat, rendered"
+85,508,Mozambique,704,Viet Nam,44, Fuel wood,1630380.026,2263.6163810000003,Viet Nam -  Fuel wood
+86,508,Mozambique,840,United States of America,03," Ornamental fish, live",1573224.438,170.139577,"United States of America -  Ornamental fish, live"
+87,508,Mozambique,276,Germany,12, Soya beans,1530045.191,933.991799,Germany -  Soya beans
+88,508,Mozambique,729,Sudan,27," Anthracite, not agglomerated",1509669.175,16958.62,"Sudan -  Anthracite, not agglomerated"
+89,508,Mozambique,076,Brazil,24," Tobacco, unmanufactured, not stemmed or stripped",1483363.0,379.62,"Brazil -  Tobacco, unmanufactured, not stemmed or stripped"
+90,508,Mozambique,643,Russian Federation,08," Coconuts, fresh or dried",1453633.326,170.007402,"Russian Federation -  Coconuts, fresh or dried"
+91,508,Mozambique,784,United Arab Emirates,08," Coconuts, fresh or dried",1444431.143,290.497168,"United Arab Emirates -  Coconuts, fresh or dried"
+92,508,Mozambique,784,United Arab Emirates,07," Potatoes seed, fresh or chilled",1349281.651,1867.6904169999998,"United Arab Emirates -  Potatoes seed, fresh or chilled"
+93,508,Mozambique,250,France,17," Raw sugar, cane",1336964.995,8487.710369999999,"France -  Raw sugar, cane"
+94,508,Mozambique,528,Netherlands (Kingdom of the),76," Aluminium unwrought, not alloyed",1305296.661,589.00013,"Netherlands (Kingdom of the) -  Aluminium unwrought, not alloyed"
+95,508,Mozambique,716,Zimbabwe,19," Infant foods of cereals, flour, starch or milk, retai",1291076.727,1495.278824,"Zimbabwe -  Infant foods of cereals, flour, starch or milk, retai"
+96,508,Mozambique,024,Angola,84, Nuclear reactors,1274457.44,260.70492,Angola -  Nuclear reactors
+97,508,Mozambique,516,Namibia,17," Raw sugar, cane",1210982.447,1799.853981,"Namibia -  Raw sugar, cane"
+98,508,Mozambique,840,United States of America,20," Cucumbers,gherkins, prepared or preserved by vinegar",1173023.394,102.55302400000001,"United States of America -  Cucumbers,gherkins, prepared or preserved by vinegar"
+99,508,Mozambique,724,Spain,78, Lead refined unwrought,1089200.959,498.77,Spain -  Lead refined unwrought
+100,508,Mozambique,716,Zimbabwe,87, Pedestrian controlled tractors,1060923.877,276.123952,Zimbabwe -  Pedestrian controlled tractors
+101,508,Mozambique,380,Italy,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1050223.223,528.0752190000001,"Italy -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+102,508,Mozambique,716,Zimbabwe,84, Nuclear reactors,1046069.49,663.3358059999999,Zimbabwe -  Nuclear reactors
+103,508,Mozambique,040,Austria,25," Salt (sodium chloride) including solution, salt water",1039199.429,2456.191374,"Austria -  Salt (sodium chloride) including solution, salt water"
+104,508,Mozambique,356,India,26," Iron ore, concentrate, not iron pyrites,unagglomerate",1033966.095,3586.149378,"India -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+105,508,Mozambique,300,Greece,12, Soya beans,998974.182,625.49,Greece -  Soya beans
+106,508,Mozambique,578,Norway,08," Coconuts, fresh or dried",957336.461,105.729856,"Norway -  Coconuts, fresh or dried"
+107,508,Mozambique,380,Italy,03," Ornamental fish, live",937223.305,129.820621,"Italy -  Ornamental fish, live"
+108,508,Mozambique,620,Portugal,87, Pedestrian controlled tractors,901002.328,344.014,Portugal -  Pedestrian controlled tractors
+109,508,Mozambique,826,United Kingdom,08," Coconuts, fresh or dried",900479.591,102.290925,"United Kingdom -  Coconuts, fresh or dried"
+110,508,Mozambique,724,Spain,53," Flax fibre, raw or retted",891927.668,647.32,"Spain -  Flax fibre, raw or retted"
+111,508,Mozambique,276,Germany,44, Fuel wood,889487.289,148.590791,Germany -  Fuel wood
+112,508,Mozambique,392,Japan,15," Lard, other pig fat and poultry fat, rendered",868191.195,70.62246400000001,"Japan -  Lard, other pig fat and poultry fat, rendered"
+113,508,Mozambique,566,Nigeria,56," Sanitary towels, diapers and similar articles",852290.295,1198.1,"Nigeria -  Sanitary towels, diapers and similar articles"
+114,508,Mozambique,300,Greece,17," Raw sugar, cane",846138.227,1380.0,"Greece -  Raw sugar, cane"
+115,508,Mozambique,276,Germany,09," Coffee, not roasted, not decaffeinated",826535.246,380.82812800000005,"Germany -  Coffee, not roasted, not decaffeinated"
+116,508,Mozambique,454,Malawi,17," Raw sugar, cane",798823.678,6625.192171,"Malawi -  Raw sugar, cane"
+117,508,Mozambique,156,China,09," Coffee, not roasted, not decaffeinated",767211.364,355.16481300000004,"China -  Coffee, not roasted, not decaffeinated"
+118,508,Mozambique,764,Thailand,44, Fuel wood,756048.53,2236.724,Thailand -  Fuel wood
+119,508,Mozambique,250,France,08," Coconuts, fresh or dried",716237.939,339.019697,"France -  Coconuts, fresh or dried"
+120,508,Mozambique,528,Netherlands (Kingdom of the),84, Nuclear reactors,702719.202,48.576799,Netherlands (Kingdom of the) -  Nuclear reactors
+121,508,Mozambique,716,Zimbabwe,55," Filament tow of nylon, polyamides",700759.883,238.30769,"Zimbabwe -  Filament tow of nylon, polyamides"
+122,508,Mozambique,450,Madagascar,27," Anthracite, not agglomerated",695977.614,1167.51,"Madagascar -  Anthracite, not agglomerated"
+123,508,Mozambique,040,Austria,76," Aluminium unwrought, not alloyed",655741.7,280.55781800000005,"Austria -  Aluminium unwrought, not alloyed"
+124,508,Mozambique,834,"Tanzania, United Republic of",87, Pedestrian controlled tractors,646324.847,230.423093,"Tanzania, United Republic of -  Pedestrian controlled tractors"
+125,508,Mozambique,608,Philippines,24," Tobacco, unmanufactured, not stemmed or stripped",643058.869,1029.453731,"Philippines -  Tobacco, unmanufactured, not stemmed or stripped"
+126,508,Mozambique,528,Netherlands (Kingdom of the),09," Coffee, not roasted, not decaffeinated",633160.095,231.79838800000002,"Netherlands (Kingdom of the) -  Coffee, not roasted, not decaffeinated"
+127,508,Mozambique,404,Kenya,84, Nuclear reactors,630132.408,214.496348,Kenya -  Nuclear reactors
+128,508,Mozambique,894,Zambia,39, Polyethylene - specific gravity <0.94 in primary form,588855.81,434.05,Zambia -  Polyethylene - specific gravity <0.94 in primary form
+129,508,Mozambique,392,Japan,26," Iron ore, concentrate, not iron pyrites,unagglomerate",584490.397,1821.705927,"Japan -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+130,508,Mozambique,454,Malawi,19," Infant foods of cereals, flour, starch or milk, retai",582120.509,755.606576,"Malawi -  Infant foods of cereals, flour, starch or milk, retai"
+131,508,Mozambique,764,Thailand,72," Pig iron, non-alloy, <0.5% phosphorus",581791.586,2015.88,"Thailand -  Pig iron, non-alloy, <0.5% phosphorus"
+132,508,Mozambique,072,Botswana,76," Aluminium unwrought, not alloyed",574719.94,262.773228,"Botswana -  Aluminium unwrought, not alloyed"
+133,508,Mozambique,410,"Korea, Republic of",78, Lead refined unwrought,574571.954,489.805702,"Korea, Republic of -  Lead refined unwrought"
+134,508,Mozambique,616,Poland,12, Soya beans,568281.529,265.39387300000004,Poland -  Soya beans
+135,508,Mozambique,356,India,20," Cucumbers,gherkins, prepared or preserved by vinegar",557977.434,110.250794,"India -  Cucumbers,gherkins, prepared or preserved by vinegar"
+136,508,Mozambique,100,Bulgaria,76," Aluminium unwrought, not alloyed",552481.563,252.689999,"Bulgaria -  Aluminium unwrought, not alloyed"
+137,508,Mozambique,410,"Korea, Republic of",03," Ornamental fish, live",547902.795,122.017118,"Korea, Republic of -  Ornamental fish, live"
+138,508,Mozambique,392,Japan,25," Salt (sodium chloride) including solution, salt water",543348.402,790.2652730000001,"Japan -  Salt (sodium chloride) including solution, salt water"
+139,508,Mozambique,380,Italy,08," Coconuts, fresh or dried",531487.012,55.535345,"Italy -  Coconuts, fresh or dried"
+140,508,Mozambique,276,Germany,71," Pearls natural, not permanently mounted or set",527126.5,3.071913,"Germany -  Pearls natural, not permanently mounted or set"
+141,508,Mozambique,024,Angola,17," Raw sugar, cane",520715.376,962.654,"Angola -  Raw sugar, cane"
+142,508,Mozambique,250,France,68," Stone setts, curbstones, flagstones (except slate)",519405.452,914.702238,"France -  Stone setts, curbstones, flagstones (except slate)"
+143,508,Mozambique,528,Netherlands (Kingdom of the),28, Chlorine,512166.66,3713.209208,Netherlands (Kingdom of the) -  Chlorine
+144,508,Mozambique,716,Zimbabwe,72," Pig iron, non-alloy, <0.5% phosphorus",511348.378,564.180946,"Zimbabwe -  Pig iron, non-alloy, <0.5% phosphorus"
+145,508,Mozambique,826,United Kingdom,22, Mineral and aerated waters not sweetened or flavoured,509803.524,396.31533,United Kingdom -  Mineral and aerated waters not sweetened or flavoured
+146,508,Mozambique,276,Germany,08," Coconuts, fresh or dried",502571.904,50.48838,"Germany -  Coconuts, fresh or dried"
+147,508,Mozambique,276,Germany,56," Sanitary towels, diapers and similar articles",501150.639,206.509274,"Germany -  Sanitary towels, diapers and similar articles"
+148,508,Mozambique,752,Sweden,08," Coconuts, fresh or dried",500743.124,48.0,"Sweden -  Coconuts, fresh or dried"
+149,508,Mozambique,450,Madagascar,24," Tobacco, unmanufactured, not stemmed or stripped",483149.007,193.86,"Madagascar -  Tobacco, unmanufactured, not stemmed or stripped"
+150,508,Mozambique,480,Mauritius,17," Raw sugar, cane",477448.001,1185.0,"Mauritius -  Raw sugar, cane"
+151,508,Mozambique,036,Australia,03," Ornamental fish, live",470009.854,37.521,"Australia -  Ornamental fish, live"
+152,508,Mozambique,716,Zimbabwe,76," Aluminium unwrought, not alloyed",461989.516,189.48936799999998,"Zimbabwe -  Aluminium unwrought, not alloyed"
+153,508,Mozambique,716,Zimbabwe,38, Artificial graphite,460746.141,133.971568,Zimbabwe -  Artificial graphite
+154,508,Mozambique,454,Malawi,25," Salt (sodium chloride) including solution, salt water",459249.525,2439.5077629999996,"Malawi -  Salt (sodium chloride) including solution, salt water"
+155,508,Mozambique,840,United States of America,71," Pearls natural, not permanently mounted or set",454196.921,12.413784,"United States of America -  Pearls natural, not permanently mounted or set"
+156,508,Mozambique,578,Norway,17," Raw sugar, cane",441014.956,3931.577735,"Norway -  Raw sugar, cane"
+157,508,Mozambique,834,"Tanzania, United Republic of",84, Nuclear reactors,433538.138,311.123957,"Tanzania, United Republic of -  Nuclear reactors"
+158,508,Mozambique,250,France,44, Fuel wood,422451.512,341.46919799999995,France -  Fuel wood
+159,508,Mozambique,620,Portugal,84, Nuclear reactors,417865.887,391.664,Portugal -  Nuclear reactors
+160,508,Mozambique,716,Zimbabwe,17," Raw sugar, cane",412948.772,3836.095646,"Zimbabwe -  Raw sugar, cane"
+161,508,Mozambique,620,Portugal,52," Cotton, not carded or combed",409739.636,501.868,"Portugal -  Cotton, not carded or combed"
+162,508,Mozambique,554,New Zealand,24," Tobacco, unmanufactured, not stemmed or stripped",409472.702,170.979694,"New Zealand -  Tobacco, unmanufactured, not stemmed or stripped"
+163,508,Mozambique,840,United States of America,25," Salt (sodium chloride) including solution, salt water",408523.659,1019.703279,"United States of America -  Salt (sodium chloride) including solution, salt water"
+164,508,Mozambique,024,Angola,08," Coconuts, fresh or dried",406121.752,32.6018,"Angola -  Coconuts, fresh or dried"
+165,508,Mozambique,356,India,78, Lead refined unwrought,405167.833,421.80849,India -  Lead refined unwrought
+166,508,Mozambique,120,Cameroon,28, Chlorine,404160.167,1074.643554,Cameroon -  Chlorine
+167,508,Mozambique,792,Türkiye,08," Coconuts, fresh or dried",392267.0,199.584,"Türkiye -  Coconuts, fresh or dried"
+168,508,Mozambique,704,Viet Nam,26," Iron ore, concentrate, not iron pyrites,unagglomerate",389881.682,65.90100199999999,"Viet Nam -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+169,508,Mozambique,250,France,56," Sanitary towels, diapers and similar articles",387957.573,129.493587,"France -  Sanitary towels, diapers and similar articles"
+170,508,Mozambique,716,Zimbabwe,28, Chlorine,385730.933,477.10051,Zimbabwe -  Chlorine
+171,508,Mozambique,276,Germany,68," Stone setts, curbstones, flagstones (except slate)",385182.15,489.59102399999995,"Germany -  Stone setts, curbstones, flagstones (except slate)"
+172,508,Mozambique,392,Japan,44, Fuel wood,384096.042,376.65409999999997,Japan -  Fuel wood
+173,508,Mozambique,894,Zambia,03," Ornamental fish, live",381777.816,218.27,"Zambia -  Ornamental fish, live"
+174,508,Mozambique,840,United States of America,73, Sheet piling of iron or steel,373175.565,524.134574,United States of America -  Sheet piling of iron or steel
+175,508,Mozambique,250,France,71," Pearls natural, not permanently mounted or set",369562.517,2.1206970000000003,"France -  Pearls natural, not permanently mounted or set"
+176,508,Mozambique,840,United States of America,81," Powders, tungsten (wolfram)",367558.701,3.927543,"United States of America -  Powders, tungsten (wolfram)"
+177,508,Mozambique,834,"Tanzania, United Republic of",44, Fuel wood,348496.362,761.617227,"Tanzania, United Republic of -  Fuel wood"
+178,508,Mozambique,480,Mauritius,03," Ornamental fish, live",348164.818,177.265,"Mauritius -  Ornamental fish, live"
+179,508,Mozambique,616,Poland,09," Coffee, not roasted, not decaffeinated",328995.019,166.663791,"Poland -  Coffee, not roasted, not decaffeinated"
+180,508,Mozambique,586,Pakistan,72," Pig iron, non-alloy, <0.5% phosphorus",324255.908,1446.740746,"Pakistan -  Pig iron, non-alloy, <0.5% phosphorus"
+181,508,Mozambique,380,Italy,84, Nuclear reactors,323689.242,95.79400100000001,Italy -  Nuclear reactors
+182,508,Mozambique,826,United Kingdom,07," Potatoes seed, fresh or chilled",323041.858,47.902587,"United Kingdom -  Potatoes seed, fresh or chilled"
+183,508,Mozambique,056,Belgium,84, Nuclear reactors,317012.674,30.739526,Belgium -  Nuclear reactors
+184,508,Mozambique,356,India,25," Salt (sodium chloride) including solution, salt water",313352.812,586.51935,"India -  Salt (sodium chloride) including solution, salt water"
+185,508,Mozambique,894,Zambia,27," Anthracite, not agglomerated",297767.403,281.695,"Zambia -  Anthracite, not agglomerated"
+186,508,Mozambique,764,Thailand,25," Salt (sodium chloride) including solution, salt water",296063.177,1218.308,"Thailand -  Salt (sodium chloride) including solution, salt water"
+187,508,Mozambique,620,Portugal,53," Flax fibre, raw or retted",295587.965,229.13,"Portugal -  Flax fibre, raw or retted"
+188,508,Mozambique,156,China,53," Flax fibre, raw or retted",290795.465,499.857142,"China -  Flax fibre, raw or retted"
+189,508,Mozambique,716,Zimbabwe,39, Polyethylene - specific gravity <0.94 in primary form,290659.976,242.871152,Zimbabwe -  Polyethylene - specific gravity <0.94 in primary form
+190,508,Mozambique,524,Nepal,07," Potatoes seed, fresh or chilled",285575.229,524.9629209999999,"Nepal -  Potatoes seed, fresh or chilled"
+191,508,Mozambique,764,Thailand,16," Sausages, similar products of meat, meat offal & bloo",282566.114,73.286,"Thailand -  Sausages, similar products of meat, meat offal & bloo"
+192,508,Mozambique,894,Zambia,19," Infant foods of cereals, flour, starch or milk, retai",282507.891,807.1,"Zambia -  Infant foods of cereals, flour, starch or milk, retai"
+193,508,Mozambique,300,Greece,03," Ornamental fish, live",279168.313,35.036,"Greece -  Ornamental fish, live"
+194,508,Mozambique,840,United States of America,24," Tobacco, unmanufactured, not stemmed or stripped",277493.632,214.935679,"United States of America -  Tobacco, unmanufactured, not stemmed or stripped"
+195,508,Mozambique,356,India,84, Nuclear reactors,272047.547,50.623441,India -  Nuclear reactors
+196,508,Mozambique,422,Lebanon,12, Soya beans,267496.402,121.357249,Lebanon -  Soya beans
+197,508,Mozambique,276,Germany,17," Raw sugar, cane",261961.888,296.502161,"Germany -  Raw sugar, cane"
+198,508,Mozambique,036,Australia,86," Rail locomotives, externally electrically powered",256604.012,15.288807,"Australia -  Rail locomotives, externally electrically powered"
+199,508,Mozambique,800,Uganda,27," Anthracite, not agglomerated",256218.468,451.810048,"Uganda -  Anthracite, not agglomerated"
+200,508,Mozambique,620,Portugal,15," Lard, other pig fat and poultry fat, rendered",254119.787,18.38,"Portugal -  Lard, other pig fat and poultry fat, rendered"
+201,508,Mozambique,748,Eswatini,25," Salt (sodium chloride) including solution, salt water",251035.213,3429.437875,"Eswatini -  Salt (sodium chloride) including solution, salt water"
+202,508,Mozambique,454,Malawi,29, Saturated acyclic hydrocarbons,243655.821,211.51216699999998,Malawi -  Saturated acyclic hydrocarbons
+203,508,Mozambique,380,Italy,17," Raw sugar, cane",242018.443,340.862727,"Italy -  Raw sugar, cane"
+204,508,Mozambique,620,Portugal,78, Lead refined unwrought,234441.69,100.08,Portugal -  Lead refined unwrought
+205,508,Mozambique,784,United Arab Emirates,12, Soya beans,225351.468,141.056989,United Arab Emirates -  Soya beans
+206,508,Mozambique,608,Philippines,12, Soya beans,222989.853,1367.4462839999999,Philippines -  Soya beans
+207,508,Mozambique,840,United States of America,76," Aluminium unwrought, not alloyed",222822.135,95.42418099999999,"United States of America -  Aluminium unwrought, not alloyed"
+208,508,Mozambique,392,Japan,24," Tobacco, unmanufactured, not stemmed or stripped",219795.958,73.367375,"Japan -  Tobacco, unmanufactured, not stemmed or stripped"
+209,508,Mozambique,454,Malawi,22, Mineral and aerated waters not sweetened or flavoured,217630.112,468.523179,Malawi -  Mineral and aerated waters not sweetened or flavoured
+210,508,Mozambique,804,Ukraine,12, Soya beans,197674.137,102.927615,Ukraine -  Soya beans
+211,508,Mozambique,440,Lithuania,17," Raw sugar, cane",191232.576,288.45579599999996,"Lithuania -  Raw sugar, cane"
+212,508,Mozambique,704,Viet Nam,12, Soya beans,189080.369,132.300722,Viet Nam -  Soya beans
+213,508,Mozambique,404,Kenya,87, Pedestrian controlled tractors,187138.509,121.917736,Kenya -  Pedestrian controlled tractors
+214,508,Mozambique,454,Malawi,86," Rail locomotives, externally electrically powered",183543.704,3.8022530000000003,"Malawi -  Rail locomotives, externally electrically powered"
+215,508,Mozambique,705,Slovenia,03," Ornamental fish, live",182487.351,9.295200000000001,"Slovenia -  Ornamental fish, live"
+216,508,Mozambique,840,United States of America,39, Polyethylene - specific gravity <0.94 in primary form,178245.013,290.791109,United States of America -  Polyethylene - specific gravity <0.94 in primary form
+217,508,Mozambique,792,Türkiye,39, Polyethylene - specific gravity <0.94 in primary form,177663.0,275.949,Türkiye -  Polyethylene - specific gravity <0.94 in primary form
+218,508,Mozambique,716,Zimbabwe,22, Mineral and aerated waters not sweetened or flavoured,177010.893,208.182024,Zimbabwe -  Mineral and aerated waters not sweetened or flavoured
+219,508,Mozambique,716,Zimbabwe,15," Lard, other pig fat and poultry fat, rendered",174146.518,178.00020999999998,"Zimbabwe -  Lard, other pig fat and poultry fat, rendered"
+220,508,Mozambique,834,"Tanzania, United Republic of",72," Pig iron, non-alloy, <0.5% phosphorus",168147.234,356.533819,"Tanzania, United Republic of -  Pig iron, non-alloy, <0.5% phosphorus"
+221,508,Mozambique,504,Morocco,03," Ornamental fish, live",166988.778,84.496667,"Morocco -  Ornamental fish, live"
+222,508,Mozambique,792,Türkiye,12, Soya beans,166889.0,142.6,Türkiye -  Soya beans
+223,508,Mozambique,446,"China, Macao SAR",03," Ornamental fish, live",164823.723,1.389,"China, Macao SAR -  Ornamental fish, live"
+224,508,Mozambique,716,Zimbabwe,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",164523.585,92.479588,"Zimbabwe -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+225,508,Mozambique,276,Germany,03," Ornamental fish, live",163460.548,5.837191,"Germany -  Ornamental fish, live"
+226,508,Mozambique,040,Austria,12, Soya beans,160274.183,117.071988,Austria -  Soya beans
+227,508,Mozambique,288,Ghana,84, Nuclear reactors,158166.95,35.149692,Ghana -  Nuclear reactors
+228,508,Mozambique,586,Pakistan,23," Flour or meal, pellet of meat or offal for animal fee",153100.981,1359.755899,"Pakistan -  Flour or meal, pellet of meat or offal for animal fee"
+229,508,Mozambique,410,"Korea, Republic of",17," Raw sugar, cane",152404.907,1118.24954,"Korea, Republic of -  Raw sugar, cane"
+230,508,Mozambique,748,Eswatini,17," Raw sugar, cane",152037.798,1783.650658,"Eswatini -  Raw sugar, cane"
+231,508,Mozambique,356,India,85, Electric motors of an output < 37.5 watts,150708.525,351.651013,India -  Electric motors of an output < 37.5 watts
+232,508,Mozambique,056,Belgium,20," Cucumbers,gherkins, prepared or preserved by vinegar",150477.569,53.289377,"Belgium -  Cucumbers,gherkins, prepared or preserved by vinegar"
+233,508,Mozambique,152,Chile,24," Tobacco, unmanufactured, not stemmed or stripped",149229.728,52.655299,"Chile -  Tobacco, unmanufactured, not stemmed or stripped"
+234,508,Mozambique,404,Kenya,76," Aluminium unwrought, not alloyed",146621.2,66.94282799999999,"Kenya -  Aluminium unwrought, not alloyed"
+235,508,Mozambique,894,Zambia,84, Nuclear reactors,146352.467,78.419,Zambia -  Nuclear reactors
+236,508,Mozambique,454,Malawi,36, Propellent powders,146240.395,101.834933,Malawi -  Propellent powders
+237,508,Mozambique,392,Japan,78, Lead refined unwrought,144925.494,160.464166,Japan -  Lead refined unwrought
+238,508,Mozambique,380,Italy,71," Pearls natural, not permanently mounted or set",141040.006,4.819272,"Italy -  Pearls natural, not permanently mounted or set"
+239,508,Mozambique,276,Germany,72," Pig iron, non-alloy, <0.5% phosphorus",139433.859,97.273811,"Germany -  Pig iron, non-alloy, <0.5% phosphorus"
+240,508,Mozambique,686,Senegal,84, Nuclear reactors,137294.996,15.604436,Senegal -  Nuclear reactors
+241,508,Mozambique,764,Thailand,07," Potatoes seed, fresh or chilled",135051.087,264.0,"Thailand -  Potatoes seed, fresh or chilled"
+242,508,Mozambique,288,Ghana,73, Sheet piling of iron or steel,134817.925,9.673074,Ghana -  Sheet piling of iron or steel
+243,508,Mozambique,480,Mauritius,44, Fuel wood,133779.684,158.709,Mauritius -  Fuel wood
+244,508,Mozambique,894,Zambia,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",129672.013,34.6,"Zambia -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+245,508,Mozambique,454,Malawi,84, Nuclear reactors,125976.026,83.47595299999999,Malawi -  Nuclear reactors
+246,508,Mozambique,180,"Congo, Dem. Rep. of the",31," Animal or vegetable fertilizers, in packs >10 kg",125278.978,279.925932,"Congo, Dem. Rep. of the -  Animal or vegetable fertilizers, in packs >10 kg"
+247,508,Mozambique,454,Malawi,31," Animal or vegetable fertilizers, in packs >10 kg",123035.207,176.716756,"Malawi -  Animal or vegetable fertilizers, in packs >10 kg"
+248,508,Mozambique,840,United States of America,44, Fuel wood,122920.51,86.504153,United States of America -  Fuel wood
+249,508,Mozambique,704,Viet Nam,07," Potatoes seed, fresh or chilled",121187.719,76.79073,"Viet Nam -  Potatoes seed, fresh or chilled"
+250,508,Mozambique,716,Zimbabwe,29, Saturated acyclic hydrocarbons,120984.614,98.789212,Zimbabwe -  Saturated acyclic hydrocarbons
+251,508,Mozambique,620,Portugal,76," Aluminium unwrought, not alloyed",120301.801,47.282,"Portugal -  Aluminium unwrought, not alloyed"
+252,508,Mozambique,360,Indonesia,07," Potatoes seed, fresh or chilled",119137.147,171.212497,"Indonesia -  Potatoes seed, fresh or chilled"
+253,508,Mozambique,840,United States of America,90," Optical fibres, except for telecommunications",118573.784,6.84025,"United States of America -  Optical fibres, except for telecommunications"
+254,508,Mozambique,454,Malawi,03," Ornamental fish, live",118262.452,88.01132799999999,"Malawi -  Ornamental fish, live"
+255,508,Mozambique,578,Norway,12, Soya beans,116712.943,65.102453,Norway -  Soya beans
+256,508,Mozambique,840,United States of America,09," Coffee, not roasted, not decaffeinated",116596.362,62.581419000000004,"United States of America -  Coffee, not roasted, not decaffeinated"
+257,508,Mozambique,643,Russian Federation,25," Salt (sodium chloride) including solution, salt water",115544.679,133.749305,"Russian Federation -  Salt (sodium chloride) including solution, salt water"
+258,508,Mozambique,682,Saudi Arabia,12, Soya beans,114846.277,86.979699,Saudi Arabia -  Soya beans
+259,508,Mozambique,724,Spain,87, Pedestrian controlled tractors,113498.649,94.66,Spain -  Pedestrian controlled tractors
+260,508,Mozambique,834,"Tanzania, United Republic of",73, Sheet piling of iron or steel,106155.41,114.175146,"Tanzania, United Republic of -  Sheet piling of iron or steel"
+261,508,Mozambique,356,India,09," Coffee, not roasted, not decaffeinated",105358.618,45.702135000000006,"India -  Coffee, not roasted, not decaffeinated"
+262,508,Mozambique,528,Netherlands (Kingdom of the),15," Lard, other pig fat and poultry fat, rendered",103448.541,162.433391,"Netherlands (Kingdom of the) -  Lard, other pig fat and poultry fat, rendered"
+263,508,Mozambique,454,Malawi,87, Pedestrian controlled tractors,103232.336,110.210352,Malawi -  Pedestrian controlled tractors
+264,508,Mozambique,804,Ukraine,39, Polyethylene - specific gravity <0.94 in primary form,101818.221,325.258717,Ukraine -  Polyethylene - specific gravity <0.94 in primary form
+265,508,Mozambique,504,Morocco,53," Flax fibre, raw or retted",101206.31,137.54186199999998,"Morocco -  Flax fibre, raw or retted"
+266,508,Mozambique,288,Ghana,17," Raw sugar, cane",99401.918,247.28153,"Ghana -  Raw sugar, cane"
+267,508,Mozambique,360,Indonesia,72," Pig iron, non-alloy, <0.5% phosphorus",99293.465,109.56107899999999,"Indonesia -  Pig iron, non-alloy, <0.5% phosphorus"
+268,508,Mozambique,716,Zimbabwe,25," Salt (sodium chloride) including solution, salt water",96989.653,411.602522,"Zimbabwe -  Salt (sodium chloride) including solution, salt water"
+269,508,Mozambique,454,Malawi,44, Fuel wood,95697.499,126.24116599999999,Malawi -  Fuel wood
+270,508,Mozambique,702,Singapore,03," Ornamental fish, live",93291.792,3.163526,"Singapore -  Ornamental fish, live"
+271,508,Mozambique,784,United Arab Emirates,03," Ornamental fish, live",90731.377,2.590268,"United Arab Emirates -  Ornamental fish, live"
+272,508,Mozambique,792,Türkiye,25," Salt (sodium chloride) including solution, salt water",90140.0,119.807,"Türkiye -  Salt (sodium chloride) including solution, salt water"
+273,508,Mozambique,566,Nigeria,24," Tobacco, unmanufactured, not stemmed or stripped",89264.448,19.356,"Nigeria -  Tobacco, unmanufactured, not stemmed or stripped"
+274,508,Mozambique,250,France,24," Tobacco, unmanufactured, not stemmed or stripped",88940.643,113.826296,"France -  Tobacco, unmanufactured, not stemmed or stripped"
+275,508,Mozambique,360,Indonesia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",88472.213,431.46081599999997,"Indonesia -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+276,508,Mozambique,454,Malawi,48, Newsprint,87895.034,156.176446,Malawi -  Newsprint
+277,508,Mozambique,024,Angola,39, Polyethylene - specific gravity <0.94 in primary form,87102.969,30.238,Angola -  Polyethylene - specific gravity <0.94 in primary form
+278,508,Mozambique,608,Philippines,72," Pig iron, non-alloy, <0.5% phosphorus",87019.74,84.38656200000001,"Philippines -  Pig iron, non-alloy, <0.5% phosphorus"
+279,508,Mozambique,454,Malawi,94," Seats, aircraft",84605.745,45.610223,"Malawi -  Seats, aircraft"
+280,508,Mozambique,620,Portugal,41," Bovine skins, whole, raw",83807.483,118.84,"Portugal -  Bovine skins, whole, raw"
+281,508,Mozambique,840,United States of America,92," Upright pianos, including auto-players",81595.019,0.024645,"United States of America -  Upright pianos, including auto-players"
+282,508,Mozambique,724,Spain,68," Stone setts, curbstones, flagstones (except slate)",76159.523,105.92,"Spain -  Stone setts, curbstones, flagstones (except slate)"
+283,508,Mozambique,702,Singapore,07," Potatoes seed, fresh or chilled",75736.822,104.75684600000001,"Singapore -  Potatoes seed, fresh or chilled"
+284,508,Mozambique,056,Belgium,68," Stone setts, curbstones, flagstones (except slate)",75100.483,108.33383599999999,"Belgium -  Stone setts, curbstones, flagstones (except slate)"
+285,508,Mozambique,748,Eswatini,67," Bird skins and feathers, articles therefrom",74828.082,44.324400999999995,"Eswatini -  Bird skins and feathers, articles therefrom"
+286,508,Mozambique,643,Russian Federation,03," Ornamental fish, live",74221.634,12.010909999999999,"Russian Federation -  Ornamental fish, live"
+287,508,Mozambique,716,Zimbabwe,34," Soaps, for toilet use, solid",74158.972,47.182798000000005,"Zimbabwe -  Soaps, for toilet use, solid"
+288,508,Mozambique,450,Madagascar,20," Cucumbers,gherkins, prepared or preserved by vinegar",73826.931,133.13432999999998,"Madagascar -  Cucumbers,gherkins, prepared or preserved by vinegar"
+289,508,Mozambique,566,Nigeria,53," Flax fibre, raw or retted",71771.472,111.0,"Nigeria -  Flax fibre, raw or retted"
+290,508,Mozambique,748,Eswatini,23," Flour or meal, pellet of meat or offal for animal fee",70371.974,506.03017,"Eswatini -  Flour or meal, pellet of meat or offal for animal fee"
+291,508,Mozambique,364,Iran (Islamic Republic of),26," Iron ore, concentrate, not iron pyrites,unagglomerate",68250.569,125.49471700000001,"Iran (Islamic Republic of) -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+292,508,Mozambique,300,Greece,24," Tobacco, unmanufactured, not stemmed or stripped",68033.447,17.82,"Greece -  Tobacco, unmanufactured, not stemmed or stripped"
+293,508,Mozambique,586,Pakistan,12, Soya beans,67432.663,44.599812,Pakistan -  Soya beans
+294,508,Mozambique,208,Denmark,56," Sanitary towels, diapers and similar articles",66899.415,37.78763,"Denmark -  Sanitary towels, diapers and similar articles"
+295,508,Mozambique,620,Portugal,73, Sheet piling of iron or steel,65602.127,98.267,Portugal -  Sheet piling of iron or steel
+296,508,Mozambique,048,Bahrain,08," Coconuts, fresh or dried",65211.917,8.264284,"Bahrain -  Coconuts, fresh or dried"
+297,508,Mozambique,414,Kuwait,08," Coconuts, fresh or dried",64880.144,9.014,"Kuwait -  Coconuts, fresh or dried"
+298,508,Mozambique,616,Poland,25," Salt (sodium chloride) including solution, salt water",64799.367,71.982737,"Poland -  Salt (sodium chloride) including solution, salt water"
+299,508,Mozambique,702,Singapore,84, Nuclear reactors,63507.887,6.514344,Singapore -  Nuclear reactors
+300,508,Mozambique,036,Australia,56," Sanitary towels, diapers and similar articles",62919.955,19.691,"Australia -  Sanitary towels, diapers and similar articles"
+301,508,Mozambique,792,Türkiye,07," Potatoes seed, fresh or chilled",62155.0,115.0,"Türkiye -  Potatoes seed, fresh or chilled"
+302,508,Mozambique,056,Belgium,56," Sanitary towels, diapers and similar articles",62133.997,25.573598,"Belgium -  Sanitary towels, diapers and similar articles"
+303,508,Mozambique,826,United Kingdom,94," Seats, aircraft",61675.066,15.091562,"United Kingdom -  Seats, aircraft"
+304,508,Mozambique,826,United Kingdom,56," Sanitary towels, diapers and similar articles",61173.572,27.446366,"United Kingdom -  Sanitary towels, diapers and similar articles"
+305,508,Mozambique,233,Estonia,76," Aluminium unwrought, not alloyed",59716.456,24.479,"Estonia -  Aluminium unwrought, not alloyed"
+306,508,Mozambique,894,Zambia,87, Pedestrian controlled tractors,58698.364,262.67,Zambia -  Pedestrian controlled tractors
+307,508,Mozambique,528,Netherlands (Kingdom of the),26," Iron ore, concentrate, not iron pyrites,unagglomerate",57604.842,54.006278,"Netherlands (Kingdom of the) -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+308,508,Mozambique,646,Rwanda,73, Sheet piling of iron or steel,57154.833,5.8627020000000005,Rwanda -  Sheet piling of iron or steel
+309,508,Mozambique,566,Nigeria,76," Aluminium unwrought, not alloyed",56741.879,24.306,"Nigeria -  Aluminium unwrought, not alloyed"
+310,508,Mozambique,404,Kenya,15," Lard, other pig fat and poultry fat, rendered",55930.185,42.500218000000004,"Kenya -  Lard, other pig fat and poultry fat, rendered"
+311,508,Mozambique,756,"Switzerland, Liechtenstein",71," Pearls natural, not permanently mounted or set",55176.229,0.32059699999999997,"Switzerland, Liechtenstein -  Pearls natural, not permanently mounted or set"
+312,508,Mozambique,056,Belgium,09," Coffee, not roasted, not decaffeinated",53951.65,21.297911,"Belgium -  Coffee, not roasted, not decaffeinated"
+313,508,Mozambique,404,Kenya,94," Seats, aircraft",52752.808,8.618745,"Kenya -  Seats, aircraft"
+314,508,Mozambique,702,Singapore,68," Stone setts, curbstones, flagstones (except slate)",51936.564,147.695723,"Singapore -  Stone setts, curbstones, flagstones (except slate)"
+315,508,Mozambique,682,Saudi Arabia,08," Coconuts, fresh or dried",47690.432,9.870754999999999,"Saudi Arabia -  Coconuts, fresh or dried"
+316,508,Mozambique,380,Italy,56," Sanitary towels, diapers and similar articles",47441.149,21.145191,"Italy -  Sanitary towels, diapers and similar articles"
+317,508,Mozambique,250,France,12, Soya beans,47355.115,11.054099,France -  Soya beans
+318,508,Mozambique,748,Eswatini,64," Waterproof footwear (Wellingtons etc), metal toe cap",46707.134,4.917068,"Eswatini -  Waterproof footwear (Wellingtons etc), metal toe cap"
+319,508,Mozambique,404,Kenya,10, Durum wheat,46193.873,73.61273299999999,Kenya -  Durum wheat
+320,508,Mozambique,356,India,27," Anthracite, not agglomerated",46180.242,775.241547,"India -  Anthracite, not agglomerated"
+321,508,Mozambique,724,Spain,24," Tobacco, unmanufactured, not stemmed or stripped",46077.959,7.0,"Spain -  Tobacco, unmanufactured, not stemmed or stripped"
+322,508,Mozambique,276,Germany,07," Potatoes seed, fresh or chilled",45186.585,2.6292890000000004,"Germany -  Potatoes seed, fresh or chilled"
+323,508,Mozambique,646,Rwanda,84, Nuclear reactors,45142.58,7.064908999999999,Rwanda -  Nuclear reactors
+324,508,Mozambique,454,Malawi,76," Aluminium unwrought, not alloyed",45139.023,51.216604,"Malawi -  Aluminium unwrought, not alloyed"
+325,508,Mozambique,784,United Arab Emirates,78, Lead refined unwrought,43843.996,40.813018,United Arab Emirates -  Lead refined unwrought
+326,508,Mozambique,528,Netherlands (Kingdom of the),17," Raw sugar, cane",43581.952,248.143526,"Netherlands (Kingdom of the) -  Raw sugar, cane"
+327,508,Mozambique,716,Zimbabwe,94," Seats, aircraft",42831.014,17.297577,"Zimbabwe -  Seats, aircraft"
+328,508,Mozambique,716,Zimbabwe,54, Sewing thread of synthetic filaments,42625.79,22.835729,Zimbabwe -  Sewing thread of synthetic filaments
+329,508,Mozambique,024,Angola,87, Pedestrian controlled tractors,42243.672,11.488,Angola -  Pedestrian controlled tractors
+330,508,Mozambique,392,Japan,71," Pearls natural, not permanently mounted or set",41670.488,1.423861,"Japan -  Pearls natural, not permanently mounted or set"
+331,508,Mozambique,454,Malawi,15," Lard, other pig fat and poultry fat, rendered",40240.568,65.088201,"Malawi -  Lard, other pig fat and poultry fat, rendered"
+332,508,Mozambique,072,Botswana,70," Glass cullet, waste or scrap, glass in the mass",38386.154,200.481878,"Botswana -  Glass cullet, waste or scrap, glass in the mass"
+333,508,Mozambique,768,Togo,84, Nuclear reactors,38095.139,69.358,Togo -  Nuclear reactors
+334,508,Mozambique,724,Spain,56," Sanitary towels, diapers and similar articles",37885.116,14.012,"Spain -  Sanitary towels, diapers and similar articles"
+335,508,Mozambique,188,Costa Rica,84, Nuclear reactors,37747.337,0.17882900000000002,Costa Rica -  Nuclear reactors
+336,508,Mozambique,400,Jordan,12, Soya beans,37588.698,33.135554,Jordan -  Soya beans
+337,508,Mozambique,528,Netherlands (Kingdom of the),68," Stone setts, curbstones, flagstones (except slate)",37525.359,46.874877,"Netherlands (Kingdom of the) -  Stone setts, curbstones, flagstones (except slate)"
+338,508,Mozambique,784,United Arab Emirates,23," Flour or meal, pellet of meat or offal for animal fee",37511.348,289.65067,"United Arab Emirates -  Flour or meal, pellet of meat or offal for animal fee"
+339,508,Mozambique,454,Malawi,39, Polyethylene - specific gravity <0.94 in primary form,37322.273,16.10534,Malawi -  Polyethylene - specific gravity <0.94 in primary form
+340,508,Mozambique,024,Angola,94," Seats, aircraft",37131.13,6.632,"Angola -  Seats, aircraft"
+341,508,Mozambique,704,Viet Nam,53," Flax fibre, raw or retted",36980.373,108.609302,"Viet Nam -  Flax fibre, raw or retted"
+342,508,Mozambique,203,Czechia,53," Flax fibre, raw or retted",36233.279,16.709499,"Czechia -  Flax fibre, raw or retted"
+343,508,Mozambique,690,Seychelles,17," Raw sugar, cane",36196.465,81.258,"Seychelles -  Raw sugar, cane"
+344,508,Mozambique,840,United States of America,85, Electric motors of an output < 37.5 watts,35761.583,0.6746530000000001,United States of America -  Electric motors of an output < 37.5 watts
+345,508,Mozambique,024,Angola,11, Wheat or meslin flour,35729.438,112.5,Angola -  Wheat or meslin flour
+346,508,Mozambique,784,United Arab Emirates,25," Salt (sodium chloride) including solution, salt water",35649.2,179.947946,"United Arab Emirates -  Salt (sodium chloride) including solution, salt water"
+347,508,Mozambique,144,Sri Lanka,08," Coconuts, fresh or dried",35377.165,21.264339,"Sri Lanka -  Coconuts, fresh or dried"
+348,508,Mozambique,616,Poland,24," Tobacco, unmanufactured, not stemmed or stripped",34925.257,9.568370999999999,"Poland -  Tobacco, unmanufactured, not stemmed or stripped"
+349,508,Mozambique,376,Israel,90," Optical fibres, except for telecommunications",34181.79,0.066008,"Israel -  Optical fibres, except for telecommunications"
+350,508,Mozambique,454,Malawi,28, Chlorine,33873.106,59.271629000000004,Malawi -  Chlorine
+351,508,Mozambique,840,United States of America,94," Seats, aircraft",32896.427,4.647723,"United States of America -  Seats, aircraft"
+352,508,Mozambique,414,Kuwait,12, Soya beans,32757.556,19.0,Kuwait -  Soya beans
+353,508,Mozambique,834,"Tanzania, United Republic of",94," Seats, aircraft",32636.372,166.07013899999998,"Tanzania, United Republic of -  Seats, aircraft"
+354,508,Mozambique,616,Poland,56," Sanitary towels, diapers and similar articles",31868.047,16.287828,"Poland -  Sanitary towels, diapers and similar articles"
+355,508,Mozambique,144,Sri Lanka,17," Raw sugar, cane",31559.193,77.703354,"Sri Lanka -  Raw sugar, cane"
+356,508,Mozambique,748,Eswatini,84, Nuclear reactors,31426.201,9.360512,Eswatini -  Nuclear reactors
+357,508,Mozambique,340,Honduras,94," Seats, aircraft",30330.083,2.380921,"Honduras -  Seats, aircraft"
+358,508,Mozambique,764,Thailand,63, Electric blankets of textile material,30263.311,4.565,Thailand -  Electric blankets of textile material
+359,508,Mozambique,724,Spain,15," Lard, other pig fat and poultry fat, rendered",30143.004,20.0,"Spain -  Lard, other pig fat and poultry fat, rendered"
+360,508,Mozambique,422,Lebanon,71," Pearls natural, not permanently mounted or set",30033.416,1.046719,"Lebanon -  Pearls natural, not permanently mounted or set"
+361,508,Mozambique,620,Portugal,39, Polyethylene - specific gravity <0.94 in primary form,30010.769,9.751,Portugal -  Polyethylene - specific gravity <0.94 in primary form
+362,508,Mozambique,646,Rwanda,27," Anthracite, not agglomerated",29804.254,434.751849,"Rwanda -  Anthracite, not agglomerated"
+363,508,Mozambique,116,Cambodia,39, Polyethylene - specific gravity <0.94 in primary form,29031.768,57.94893,Cambodia -  Polyethylene - specific gravity <0.94 in primary form
+364,508,Mozambique,392,Japan,41," Bovine skins, whole, raw",28454.978,0.760459,"Japan -  Bovine skins, whole, raw"
+365,508,Mozambique,748,Eswatini,48, Newsprint,28304.176,34.416193,Eswatini -  Newsprint
+366,508,Mozambique,404,Kenya,09," Coffee, not roasted, not decaffeinated",27808.206,22.904957,"Kenya -  Coffee, not roasted, not decaffeinated"
+367,508,Mozambique,840,United States of America,40," Natural rubber latex, including prevulcanised",27623.54,5.127088,"United States of America -  Natural rubber latex, including prevulcanised"
+368,508,Mozambique,834,"Tanzania, United Republic of",70," Glass cullet, waste or scrap, glass in the mass",27454.779,254.252815,"Tanzania, United Republic of -  Glass cullet, waste or scrap, glass in the mass"
+369,508,Mozambique,516,Namibia,22, Mineral and aerated waters not sweetened or flavoured,25897.843,121.679643,Namibia -  Mineral and aerated waters not sweetened or flavoured
+370,508,Mozambique,024,Angola,85, Electric motors of an output < 37.5 watts,25877.678,14.447,Angola -  Electric motors of an output < 37.5 watts
+371,508,Mozambique,703,Slovakia,76," Aluminium unwrought, not alloyed",25714.18,11.442425,"Slovakia -  Aluminium unwrought, not alloyed"
+372,508,Mozambique,840,United States of America,02," Bovine carcasses and half carcasses, fresh or chilled",25445.797,4.7919480000000005,"United States of America -  Bovine carcasses and half carcasses, fresh or chilled"
+373,508,Mozambique,748,Eswatini,07," Potatoes seed, fresh or chilled",24714.5,21.896645,"Eswatini -  Potatoes seed, fresh or chilled"
+374,508,Mozambique,748,Eswatini,20," Cucumbers,gherkins, prepared or preserved by vinegar",24646.691,24.151100999999997,"Eswatini -  Cucumbers,gherkins, prepared or preserved by vinegar"
+375,508,Mozambique,356,India,53," Flax fibre, raw or retted",24472.222,36.781821,"India -  Flax fibre, raw or retted"
+376,508,Mozambique,372,Ireland,87, Pedestrian controlled tractors,24414.613,6.930366,Ireland -  Pedestrian controlled tractors
+377,508,Mozambique,620,Portugal,44, Fuel wood,24382.796,51.298,Portugal -  Fuel wood
+378,508,Mozambique,450,Madagascar,84, Nuclear reactors,23925.093,80.694,Madagascar -  Nuclear reactors
+379,508,Mozambique,748,Eswatini,87, Pedestrian controlled tractors,23858.126,8.152355,Eswatini -  Pedestrian controlled tractors
+380,508,Mozambique,191,Croatia,08," Coconuts, fresh or dried",23663.709,1.929896,"Croatia -  Coconuts, fresh or dried"
+381,508,Mozambique,480,Mauritius,87, Pedestrian controlled tractors,23545.167,2.0601819999999997,Mauritius -  Pedestrian controlled tractors
+382,508,Mozambique,716,Zimbabwe,10, Durum wheat,22763.809,6.148563,Zimbabwe -  Durum wheat
+383,508,Mozambique,826,United Kingdom,44, Fuel wood,22286.249,17.19648,United Kingdom -  Fuel wood
+384,508,Mozambique,203,Czechia,25," Salt (sodium chloride) including solution, salt water",22248.534,34.778254000000004,"Czechia -  Salt (sodium chloride) including solution, salt water"
+385,508,Mozambique,360,Indonesia,44, Fuel wood,22194.42,23.148512,Indonesia -  Fuel wood
+386,508,Mozambique,454,Malawi,33, Essential oils of bergamot,22112.125,0.6453690000000001,Malawi -  Essential oils of bergamot
+387,508,Mozambique,454,Malawi,20," Cucumbers,gherkins, prepared or preserved by vinegar",21981.257,18.377866,"Malawi -  Cucumbers,gherkins, prepared or preserved by vinegar"
+388,508,Mozambique,620,Portugal,68," Stone setts, curbstones, flagstones (except slate)",21926.285,44.343,"Portugal -  Stone setts, curbstones, flagstones (except slate)"
+389,508,Mozambique,404,Kenya,85, Electric motors of an output < 37.5 watts,21881.478,6.516888,Kenya -  Electric motors of an output < 37.5 watts
+390,508,Mozambique,056,Belgium,87, Pedestrian controlled tractors,21659.187,1.475881,Belgium -  Pedestrian controlled tractors
+391,508,Mozambique,690,Seychelles,22, Mineral and aerated waters not sweetened or flavoured,21544.174,3.291143,Seychelles -  Mineral and aerated waters not sweetened or flavoured
+392,508,Mozambique,036,Australia,09," Coffee, not roasted, not decaffeinated",21372.36,5.0,"Australia -  Coffee, not roasted, not decaffeinated"
+393,508,Mozambique,214,Dominican Republic,03," Ornamental fish, live",21307.718,2.96872,"Dominican Republic -  Ornamental fish, live"
+394,508,Mozambique,834,"Tanzania, United Republic of",15," Lard, other pig fat and poultry fat, rendered",21095.891,15.66483,"Tanzania, United Republic of -  Lard, other pig fat and poultry fat, rendered"
+395,508,Mozambique,784,United Arab Emirates,09," Coffee, not roasted, not decaffeinated",20872.82,12.758048,"United Arab Emirates -  Coffee, not roasted, not decaffeinated"
+396,508,Mozambique,480,Mauritius,84, Nuclear reactors,20810.992,8.333043,Mauritius -  Nuclear reactors
+397,508,Mozambique,376,Israel,56," Sanitary towels, diapers and similar articles",19957.486,8.034854000000001,"Israel -  Sanitary towels, diapers and similar articles"
+398,508,Mozambique,608,Philippines,07," Potatoes seed, fresh or chilled",19733.745,104.79658599999999,"Philippines -  Potatoes seed, fresh or chilled"
+399,508,Mozambique,356,India,71," Pearls natural, not permanently mounted or set",19730.175,0.48752100000000004,"India -  Pearls natural, not permanently mounted or set"
+400,508,Mozambique,566,Nigeria,84, Nuclear reactors,19644.548,30.0,Nigeria -  Nuclear reactors
+401,508,Mozambique,380,Italy,68," Stone setts, curbstones, flagstones (except slate)",19561.542,25.753715,"Italy -  Stone setts, curbstones, flagstones (except slate)"
+402,508,Mozambique,380,Italy,15," Lard, other pig fat and poultry fat, rendered",19465.535,16.697125,"Italy -  Lard, other pig fat and poultry fat, rendered"
+403,508,Mozambique,894,Zambia,73, Sheet piling of iron or steel,19106.498,10.05,Zambia -  Sheet piling of iron or steel
+404,508,Mozambique,724,Spain,84, Nuclear reactors,18781.605,24.899,Spain -  Nuclear reactors
+405,508,Mozambique,056,Belgium,78, Lead refined unwrought,18307.801,15.557495999999999,Belgium -  Lead refined unwrought
+406,508,Mozambique,364,Iran (Islamic Republic of),38, Artificial graphite,18151.376,20.505916000000003,Iran (Islamic Republic of) -  Artificial graphite
+407,508,Mozambique,826,United Kingdom,25," Salt (sodium chloride) including solution, salt water",17993.699,20.985894000000002,"United Kingdom -  Salt (sodium chloride) including solution, salt water"
+408,508,Mozambique,356,India,13, Lac,17717.928,97.702559,India -  Lac
+409,508,Mozambique,380,Italy,87, Pedestrian controlled tractors,17397.492,3.132732,Italy -  Pedestrian controlled tractors
+410,508,Mozambique,376,Israel,53," Flax fibre, raw or retted",17381.423,10.841683999999999,"Israel -  Flax fibre, raw or retted"
+411,508,Mozambique,840,United States of America,22, Mineral and aerated waters not sweetened or flavoured,17165.516,10.415533,United States of America -  Mineral and aerated waters not sweetened or flavoured
+412,508,Mozambique,788,Tunisia,08," Coconuts, fresh or dried",16872.913,5.099850999999999,"Tunisia -  Coconuts, fresh or dried"
+413,508,Mozambique,756,"Switzerland, Liechtenstein",03," Ornamental fish, live",16792.247,0.667531,"Switzerland, Liechtenstein -  Ornamental fish, live"
+414,508,Mozambique,702,Singapore,73, Sheet piling of iron or steel,16790.829,1.961706,Singapore -  Sheet piling of iron or steel
+415,508,Mozambique,616,Poland,53," Flax fibre, raw or retted",16782.084,15.916091,"Poland -  Flax fibre, raw or retted"
+416,508,Mozambique,454,Malawi,08," Coconuts, fresh or dried",16742.467,900.992513,"Malawi -  Coconuts, fresh or dried"
+417,508,Mozambique,372,Ireland,84, Nuclear reactors,16612.611,6.603396,Ireland -  Nuclear reactors
+418,508,Mozambique,454,Malawi,40," Natural rubber latex, including prevulcanised",16439.289,15.512233,"Malawi -  Natural rubber latex, including prevulcanised"
+419,508,Mozambique,072,Botswana,39, Polyethylene - specific gravity <0.94 in primary form,16123.659,4.15321,Botswana -  Polyethylene - specific gravity <0.94 in primary form
+420,508,Mozambique,380,Italy,94," Seats, aircraft",16007.842,0.928046,"Italy -  Seats, aircraft"
+421,508,Mozambique,288,Ghana,87, Pedestrian controlled tractors,15997.601,10.907805,Ghana -  Pedestrian controlled tractors
+422,508,Mozambique,512,Oman,23," Flour or meal, pellet of meat or offal for animal fee",15988.324,97.00256,"Oman -  Flour or meal, pellet of meat or offal for animal fee"
+423,508,Mozambique,356,India,39, Polyethylene - specific gravity <0.94 in primary form,15499.642,39.304631,India -  Polyethylene - specific gravity <0.94 in primary form
+424,508,Mozambique,620,Portugal,56," Sanitary towels, diapers and similar articles",15302.815,10.933,"Portugal -  Sanitary towels, diapers and similar articles"
+425,508,Mozambique,716,Zimbabwe,44, Fuel wood,15258.82,16.762857,Zimbabwe -  Fuel wood
+426,508,Mozambique,716,Zimbabwe,07," Potatoes seed, fresh or chilled",14884.131,9.420668,"Zimbabwe -  Potatoes seed, fresh or chilled"
+427,508,Mozambique,380,Italy,40," Natural rubber latex, including prevulcanised",14839.142,0.995761,"Italy -  Natural rubber latex, including prevulcanised"
+428,508,Mozambique,528,Netherlands (Kingdom of the),12, Soya beans,14538.031,1.5603399999999998,Netherlands (Kingdom of the) -  Soya beans
+429,508,Mozambique,480,Mauritius,85, Electric motors of an output < 37.5 watts,14447.346,0.736,Mauritius -  Electric motors of an output < 37.5 watts
+430,508,Mozambique,356,India,68," Stone setts, curbstones, flagstones (except slate)",14249.807,9.578087,"India -  Stone setts, curbstones, flagstones (except slate)"
+431,508,Mozambique,748,Eswatini,73, Sheet piling of iron or steel,14194.93,4.547411,Eswatini -  Sheet piling of iron or steel
+432,508,Mozambique,246,Finland,08," Coconuts, fresh or dried",14055.82,0.739,"Finland -  Coconuts, fresh or dried"
+433,508,Mozambique,203,Czechia,03," Ornamental fish, live",14000.0,0.293557,"Czechia -  Ornamental fish, live"
+434,508,Mozambique,788,Tunisia,03," Ornamental fish, live",13762.672,0.45651600000000003,"Tunisia -  Ornamental fish, live"
+435,508,Mozambique,724,Spain,17," Raw sugar, cane",13389.151,20.0,"Spain -  Raw sugar, cane"
+436,508,Mozambique,800,Uganda,40," Natural rubber latex, including prevulcanised",13259.848,0.025966999999999997,"Uganda -  Natural rubber latex, including prevulcanised"
+437,508,Mozambique,116,Cambodia,44, Fuel wood,12834.545,36.520928999999995,Cambodia -  Fuel wood
+438,508,Mozambique,156,China,78, Lead refined unwrought,12689.573,14.778799000000001,China -  Lead refined unwrought
+439,508,Mozambique,554,New Zealand,13, Lac,12574.968,1.846965,New Zealand -  Lac
+440,508,Mozambique,156,China,68," Stone setts, curbstones, flagstones (except slate)",12474.495,125.169056,"China -  Stone setts, curbstones, flagstones (except slate)"
+441,508,Mozambique,512,Oman,07," Potatoes seed, fresh or chilled",12472.936,11.065624,"Oman -  Potatoes seed, fresh or chilled"
+442,508,Mozambique,040,Austria,72," Pig iron, non-alloy, <0.5% phosphorus",12467.59,21.709478999999998,"Austria -  Pig iron, non-alloy, <0.5% phosphorus"
+443,508,Mozambique,120,Cameroon,84, Nuclear reactors,12449.246,8.977167999999999,Cameroon -  Nuclear reactors
+444,508,Mozambique,578,Norway,84, Nuclear reactors,12340.75,0.1849,Norway -  Nuclear reactors
+445,508,Mozambique,620,Portugal,22, Mineral and aerated waters not sweetened or flavoured,12269.928,3.864,Portugal -  Mineral and aerated waters not sweetened or flavoured
+446,508,Mozambique,404,Kenya,73, Sheet piling of iron or steel,12167.721,3.680265,Kenya -  Sheet piling of iron or steel
+447,508,Mozambique,620,Portugal,90," Optical fibres, except for telecommunications",12130.374,0.501,"Portugal -  Optical fibres, except for telecommunications"
+448,508,Mozambique,748,Eswatini,08," Coconuts, fresh or dried",12071.665,154.24672700000002,"Eswatini -  Coconuts, fresh or dried"
+449,508,Mozambique,826,United Kingdom,71," Pearls natural, not permanently mounted or set",11999.962,0.014839999999999999,"United Kingdom -  Pearls natural, not permanently mounted or set"
+450,508,Mozambique,826,United Kingdom,68," Stone setts, curbstones, flagstones (except slate)",11767.767,13.913206,"United Kingdom -  Stone setts, curbstones, flagstones (except slate)"
+451,508,Mozambique,056,Belgium,73, Sheet piling of iron or steel,11238.135,8.605201,Belgium -  Sheet piling of iron or steel
+452,508,Mozambique,616,Poland,17," Raw sugar, cane",11215.102,14.879028,"Poland -  Raw sugar, cane"
+453,508,Mozambique,716,Zimbabwe,49," Brochures, leaflets and similar, in single sheets",11142.714,9.799648999999999,"Zimbabwe -  Brochures, leaflets and similar, in single sheets"
+454,508,Mozambique,024,Angola,40," Natural rubber latex, including prevulcanised",10939.619,4.219,"Angola -  Natural rubber latex, including prevulcanised"
+455,508,Mozambique,616,Poland,08," Coconuts, fresh or dried",10832.143,37.387459,"Poland -  Coconuts, fresh or dried"
+456,508,Mozambique,894,Zambia,34," Soaps, for toilet use, solid",10817.572,31.8,"Zambia -  Soaps, for toilet use, solid"
+457,508,Mozambique,156,China,28, Chlorine,10797.831,40.207366,China -  Chlorine
+458,508,Mozambique,404,Kenya,55," Filament tow of nylon, polyamides",10620.219,2.132633,"Kenya -  Filament tow of nylon, polyamides"
+459,508,Mozambique,404,Kenya,26," Iron ore, concentrate, not iron pyrites,unagglomerate",10379.046,9.597226000000001,"Kenya -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+460,508,Mozambique,040,Austria,03," Ornamental fish, live",10369.352,0.395231,"Austria -  Ornamental fish, live"
+461,508,Mozambique,756,"Switzerland, Liechtenstein",62," Mens, boys overcoats of wool or hair, not knit",10314.73,0.174512,"Switzerland, Liechtenstein -  Mens, boys overcoats of wool or hair, not knit"
+462,508,Mozambique,840,United States of America,84, Nuclear reactors,10150.335,1.002665,United States of America -  Nuclear reactors
+463,508,Mozambique,716,Zimbabwe,63, Electric blankets of textile material,10048.032,2.6502719999999997,Zimbabwe -  Electric blankets of textile material
+464,508,Mozambique,188,Costa Rica,40," Natural rubber latex, including prevulcanised",9919.415,0.101847,"Costa Rica -  Natural rubber latex, including prevulcanised"
+465,508,Mozambique,716,Zimbabwe,68," Stone setts, curbstones, flagstones (except slate)",9908.324,13.241062,"Zimbabwe -  Stone setts, curbstones, flagstones (except slate)"
+466,508,Mozambique,356,India,38, Artificial graphite,9769.443,2.494316,India -  Artificial graphite
+467,508,Mozambique,250,France,90," Optical fibres, except for telecommunications",9664.114,0.053689,"France -  Optical fibres, except for telecommunications"
+468,508,Mozambique,288,Ghana,38, Artificial graphite,9500.834,4.851074,Ghana -  Artificial graphite
+469,508,Mozambique,634,Qatar,07," Potatoes seed, fresh or chilled",9466.206,8.586477,"Qatar -  Potatoes seed, fresh or chilled"
+470,508,Mozambique,716,Zimbabwe,85, Electric motors of an output < 37.5 watts,9463.903,16.029851,Zimbabwe -  Electric motors of an output < 37.5 watts
+471,508,Mozambique,756,"Switzerland, Liechtenstein",07," Potatoes seed, fresh or chilled",9418.404,0.39375,"Switzerland, Liechtenstein -  Potatoes seed, fresh or chilled"
+472,508,Mozambique,380,Italy,90," Optical fibres, except for telecommunications",9372.068,1.284343,"Italy -  Optical fibres, except for telecommunications"
+473,508,Mozambique,076,Brazil,09," Coffee, not roasted, not decaffeinated",9335.0,4.287,"Brazil -  Coffee, not roasted, not decaffeinated"
+474,508,Mozambique,454,Malawi,12, Soya beans,9237.435,25.407144,Malawi -  Soya beans
+475,508,Mozambique,834,"Tanzania, United Republic of",48, Newsprint,9215.03,1.1680679999999999,"Tanzania, United Republic of -  Newsprint"
+476,508,Mozambique,180,"Congo, Dem. Rep. of the",27," Anthracite, not agglomerated",9147.973,15.543004000000002,"Congo, Dem. Rep. of the -  Anthracite, not agglomerated"
+477,508,Mozambique,528,Netherlands (Kingdom of the),90," Optical fibres, except for telecommunications",9033.079,0.34699,"Netherlands (Kingdom of the) -  Optical fibres, except for telecommunications"
+478,508,Mozambique,076,Brazil,25," Salt (sodium chloride) including solution, salt water",9032.0,20.007,"Brazil -  Salt (sodium chloride) including solution, salt water"
+479,508,Mozambique,748,Eswatini,39, Polyethylene - specific gravity <0.94 in primary form,9028.404,3.495842,Eswatini -  Polyethylene - specific gravity <0.94 in primary form
+480,508,Mozambique,643,Russian Federation,24," Tobacco, unmanufactured, not stemmed or stripped",8927.386,3.040602,"Russian Federation -  Tobacco, unmanufactured, not stemmed or stripped"
+481,508,Mozambique,804,Ukraine,25," Salt (sodium chloride) including solution, salt water",8720.782,9.516795,"Ukraine -  Salt (sodium chloride) including solution, salt water"
+482,508,Mozambique,454,Malawi,68," Stone setts, curbstones, flagstones (except slate)",8579.077,7.333422,"Malawi -  Stone setts, curbstones, flagstones (except slate)"
+483,508,Mozambique,372,Ireland,22, Mineral and aerated waters not sweetened or flavoured,8510.423,5.614145000000001,Ireland -  Mineral and aerated waters not sweetened or flavoured
+484,508,Mozambique,356,India,44, Fuel wood,8388.891,13.756048,India -  Fuel wood
+485,508,Mozambique,218,Ecuador,84, Nuclear reactors,8335.2,0.365178,Ecuador -  Nuclear reactors
+486,508,Mozambique,072,Botswana,84, Nuclear reactors,8305.237,2.501763,Botswana -  Nuclear reactors
+487,508,Mozambique,024,Angola,49," Brochures, leaflets and similar, in single sheets",8248.974,11.11,"Angola -  Brochures, leaflets and similar, in single sheets"
+488,508,Mozambique,156,China,85, Electric motors of an output < 37.5 watts,8232.379,0.068184,China -  Electric motors of an output < 37.5 watts
+489,508,Mozambique,716,Zimbabwe,11, Wheat or meslin flour,8156.43,18.180202,Zimbabwe -  Wheat or meslin flour
+490,508,Mozambique,716,Zimbabwe,89," Cruise ships, excursion boats, ferry boats",8110.866,3.069776,"Zimbabwe -  Cruise ships, excursion boats, ferry boats"
+491,508,Mozambique,340,Honduras,70," Glass cullet, waste or scrap, glass in the mass",8011.224,0.453048,"Honduras -  Glass cullet, waste or scrap, glass in the mass"
+492,508,Mozambique,276,Germany,27," Anthracite, not agglomerated",7955.077,72.859771,"Germany -  Anthracite, not agglomerated"
+493,508,Mozambique,716,Zimbabwe,48, Newsprint,7794.865,16.774875,Zimbabwe -  Newsprint
+494,508,Mozambique,056,Belgium,17," Raw sugar, cane",7642.634,12.539217,"Belgium -  Raw sugar, cane"
+495,508,Mozambique,024,Angola,73, Sheet piling of iron or steel,7560.685,2.792,Angola -  Sheet piling of iron or steel
+496,508,Mozambique,180,"Congo, Dem. Rep. of the",84, Nuclear reactors,7478.119,1.577661,"Congo, Dem. Rep. of the -  Nuclear reactors"
+497,508,Mozambique,454,Malawi,90," Optical fibres, except for telecommunications",7475.399,0.07376300000000001,"Malawi -  Optical fibres, except for telecommunications"
+498,508,Mozambique,756,"Switzerland, Liechtenstein",05," Hair, human, unworked, waste of human hair",7230.772,0.031190000000000002,"Switzerland, Liechtenstein -  Hair, human, unworked, waste of human hair"
+499,508,Mozambique,894,Zambia,26," Iron ore, concentrate, not iron pyrites,unagglomerate",7192.634,31.0,"Zambia -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+500,508,Mozambique,748,Eswatini,12, Soya beans,7117.91,14.97244,Eswatini -  Soya beans
+501,508,Mozambique,380,Italy,44, Fuel wood,6983.994,7.862273,Italy -  Fuel wood
+502,508,Mozambique,626,Timor-Leste,96," Worked ivory, articles of ivory",6980.287,1.236536,"Timor-Leste -  Worked ivory, articles of ivory"
+503,508,Mozambique,250,France,62," Mens, boys overcoats of wool or hair, not knit",6922.854,0.195064,"France -  Mens, boys overcoats of wool or hair, not knit"
+504,508,Mozambique,040,Austria,85, Electric motors of an output < 37.5 watts,6898.498,0.08716,Austria -  Electric motors of an output < 37.5 watts
+505,508,Mozambique,894,Zambia,63, Electric blankets of textile material,6890.729,100.0,Zambia -  Electric blankets of textile material
+506,508,Mozambique,180,"Congo, Dem. Rep. of the",17," Raw sugar, cane",6679.562,17.417908999999998,"Congo, Dem. Rep. of the -  Raw sugar, cane"
+507,508,Mozambique,344,"China, Hong Kong SAR",71," Pearls natural, not permanently mounted or set",6500.346,0.14998699999999998,"China, Hong Kong SAR -  Pearls natural, not permanently mounted or set"
+508,508,Mozambique,620,Portugal,40," Natural rubber latex, including prevulcanised",6442.309,4.886,"Portugal -  Natural rubber latex, including prevulcanised"
+509,508,Mozambique,380,Italy,85, Electric motors of an output < 37.5 watts,6414.823,3.723738,Italy -  Electric motors of an output < 37.5 watts
+510,508,Mozambique,174,Comoros,11, Wheat or meslin flour,6406.011,23.0,Comoros -  Wheat or meslin flour
+511,508,Mozambique,716,Zimbabwe,40," Natural rubber latex, including prevulcanised",6404.834,1.6914639999999999,"Zimbabwe -  Natural rubber latex, including prevulcanised"
+512,508,Mozambique,840,United States of America,95," Rideable wheeled toys, dolls carriages",6222.004,0.632961,"United States of America -  Rideable wheeled toys, dolls carriages"
+513,508,Mozambique,834,"Tanzania, United Republic of",86," Rail locomotives, externally electrically powered",6219.459,2.8150239999999997,"Tanzania, United Republic of -  Rail locomotives, externally electrically powered"
+514,508,Mozambique,024,Angola,62," Mens, boys overcoats of wool or hair, not knit",6218.021,0.795,"Angola -  Mens, boys overcoats of wool or hair, not knit"
+515,508,Mozambique,646,Rwanda,85, Electric motors of an output < 37.5 watts,6150.632,1.6874580000000001,Rwanda -  Electric motors of an output < 37.5 watts
+516,508,Mozambique,024,Angola,96," Worked ivory, articles of ivory",6139.62,0.076,"Angola -  Worked ivory, articles of ivory"
+517,508,Mozambique,748,Eswatini,76," Aluminium unwrought, not alloyed",6042.461,2.4810309999999998,"Eswatini -  Aluminium unwrought, not alloyed"
+518,508,Mozambique,748,Eswatini,42," Saddlery and harness, of any material",5994.483,1.542503,"Eswatini -  Saddlery and harness, of any material"
+519,508,Mozambique,392,Japan,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",5867.168,0.344951,"Japan -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+520,508,Mozambique,646,Rwanda,87, Pedestrian controlled tractors,5804.804,9.714006,Rwanda -  Pedestrian controlled tractors
+521,508,Mozambique,344,"China, Hong Kong SAR",85, Electric motors of an output < 37.5 watts,5797.296,0.44911399999999996,"China, Hong Kong SAR -  Electric motors of an output < 37.5 watts"
+522,508,Mozambique,072,Botswana,19," Infant foods of cereals, flour, starch or milk, retai",5686.162,10.434412,"Botswana -  Infant foods of cereals, flour, starch or milk, retai"
+523,508,Mozambique,834,"Tanzania, United Republic of",31," Animal or vegetable fertilizers, in packs >10 kg",5666.469,4.49053,"Tanzania, United Republic of -  Animal or vegetable fertilizers, in packs >10 kg"
+524,508,Mozambique,454,Malawi,63, Electric blankets of textile material,5649.81,1.443287,Malawi -  Electric blankets of textile material
+525,508,Mozambique,288,Ghana,44, Fuel wood,5587.204,59.688432,Ghana -  Fuel wood
+526,508,Mozambique,894,Zambia,38, Artificial graphite,5578.391,96.0,Zambia -  Artificial graphite
+527,508,Mozambique,818,Egypt,09," Coffee, not roasted, not decaffeinated",5550.009,1.785923,"Egypt -  Coffee, not roasted, not decaffeinated"
+528,508,Mozambique,380,Italy,78, Lead refined unwrought,5548.28,4.459185000000001,Italy -  Lead refined unwrought
+529,508,Mozambique,634,Qatar,23," Flour or meal, pellet of meat or offal for animal fee",5490.235,28.272976999999997,"Qatar -  Flour or meal, pellet of meat or offal for animal fee"
+530,508,Mozambique,748,Eswatini,09," Coffee, not roasted, not decaffeinated",5386.205,0.189042,"Eswatini -  Coffee, not roasted, not decaffeinated"
+531,508,Mozambique,422,Lebanon,94," Seats, aircraft",5358.598,0.024923999999999998,"Lebanon -  Seats, aircraft"
+532,508,Mozambique,826,United Kingdom,84, Nuclear reactors,5321.189,0.22156499999999998,United Kingdom -  Nuclear reactors
+533,508,Mozambique,756,"Switzerland, Liechtenstein",08," Coconuts, fresh or dried",5260.034,1.487948,"Switzerland, Liechtenstein -  Coconuts, fresh or dried"
+534,508,Mozambique,072,Botswana,86," Rail locomotives, externally electrically powered",5229.081,3.360409,"Botswana -  Rail locomotives, externally electrically powered"
+535,508,Mozambique,826,United Kingdom,02," Bovine carcasses and half carcasses, fresh or chilled",5222.552,0.88355,"United Kingdom -  Bovine carcasses and half carcasses, fresh or chilled"
+536,508,Mozambique,586,Pakistan,53," Flax fibre, raw or retted",5014.162,13.56244,"Pakistan -  Flax fibre, raw or retted"
+537,508,Mozambique,340,Honduras,87, Pedestrian controlled tractors,5007.669,0.008109,Honduras -  Pedestrian controlled tractors
+538,508,Mozambique,024,Angola,69," Bricks, blocks and ceramic goods of siliceous earths",4966.203,2.018,"Angola -  Bricks, blocks and ceramic goods of siliceous earths"
+539,508,Mozambique,040,Austria,48, Newsprint,4822.589,2.062778,Austria -  Newsprint
+540,508,Mozambique,703,Slovakia,25," Salt (sodium chloride) including solution, salt water",4793.771,6.791677,"Slovakia -  Salt (sodium chloride) including solution, salt water"
+541,508,Mozambique,840,United States of America,87, Pedestrian controlled tractors,4780.107,0.445576,United States of America -  Pedestrian controlled tractors
+542,508,Mozambique,036,Australia,90," Optical fibres, except for telecommunications",4733.314,0.13336699999999999,"Australia -  Optical fibres, except for telecommunications"
+543,508,Mozambique,040,Austria,84, Nuclear reactors,4687.971,0.083315,Austria -  Nuclear reactors
+544,508,Mozambique,516,Namibia,03," Ornamental fish, live",4613.32,0.16150499999999998,"Namibia -  Ornamental fish, live"
+545,508,Mozambique,586,Pakistan,07," Potatoes seed, fresh or chilled",4603.333,5.497980999999999,"Pakistan -  Potatoes seed, fresh or chilled"
+546,508,Mozambique,784,United Arab Emirates,27," Anthracite, not agglomerated",4591.255,29.365547,"United Arab Emirates -  Anthracite, not agglomerated"
+547,508,Mozambique,702,Singapore,85, Electric motors of an output < 37.5 watts,4529.017,0.048883,Singapore -  Electric motors of an output < 37.5 watts
+548,508,Mozambique,040,Austria,22, Mineral and aerated waters not sweetened or flavoured,4518.766,8.653791,Austria -  Mineral and aerated waters not sweetened or flavoured
+549,508,Mozambique,442,Luxembourg,76," Aluminium unwrought, not alloyed",4516.051,2.426136,"Luxembourg -  Aluminium unwrought, not alloyed"
+550,508,Mozambique,682,Saudi Arabia,07," Potatoes seed, fresh or chilled",4482.654,5.8357730000000005,"Saudi Arabia -  Potatoes seed, fresh or chilled"
+551,508,Mozambique,748,Eswatini,19," Infant foods of cereals, flour, starch or milk, retai",4464.687,10.917646000000001,"Eswatini -  Infant foods of cereals, flour, starch or milk, retai"
+552,508,Mozambique,024,Angola,68," Stone setts, curbstones, flagstones (except slate)",4431.025,3.865,"Angola -  Stone setts, curbstones, flagstones (except slate)"
+553,508,Mozambique,454,Malawi,85, Electric motors of an output < 37.5 watts,4430.615,2.0613029999999997,Malawi -  Electric motors of an output < 37.5 watts
+554,508,Mozambique,748,Eswatini,85, Electric motors of an output < 37.5 watts,4276.16,2.880513,Eswatini -  Electric motors of an output < 37.5 watts
+555,508,Mozambique,056,Belgium,05," Hair, human, unworked, waste of human hair",4198.492,0.20802299999999999,"Belgium -  Hair, human, unworked, waste of human hair"
+556,508,Mozambique,784,United Arab Emirates,84, Nuclear reactors,4169.507,0.21917599999999998,United Arab Emirates -  Nuclear reactors
+557,508,Mozambique,024,Angola,64," Waterproof footwear (Wellingtons etc), metal toe cap",4073.047,0.162,"Angola -  Waterproof footwear (Wellingtons etc), metal toe cap"
+558,508,Mozambique,384,Côte d'Ivoire,94," Seats, aircraft",4057.625,5.57,"Côte d'Ivoire -  Seats, aircraft"
+559,508,Mozambique,748,Eswatini,40," Natural rubber latex, including prevulcanised",4034.155,0.892094,"Eswatini -  Natural rubber latex, including prevulcanised"
+560,508,Mozambique,554,New Zealand,84, Nuclear reactors,3998.8,0.148029,New Zealand -  Nuclear reactors
+561,508,Mozambique,834,"Tanzania, United Republic of",85, Electric motors of an output < 37.5 watts,3996.727,1.940221,"Tanzania, United Republic of -  Electric motors of an output < 37.5 watts"
+562,508,Mozambique,702,Singapore,90," Optical fibres, except for telecommunications",3878.344,0.039413,"Singapore -  Optical fibres, except for telecommunications"
+563,508,Mozambique,528,Netherlands (Kingdom of the),85, Electric motors of an output < 37.5 watts,3829.797,0.221958,Netherlands (Kingdom of the) -  Electric motors of an output < 37.5 watts
+564,508,Mozambique,036,Australia,85, Electric motors of an output < 37.5 watts,3808.456,0.0075,Australia -  Electric motors of an output < 37.5 watts
+565,508,Mozambique,528,Netherlands (Kingdom of the),48, Newsprint,3776.441,0.550548,Netherlands (Kingdom of the) -  Newsprint
+566,508,Mozambique,056,Belgium,25," Salt (sodium chloride) including solution, salt water",3741.972,13.247805,"Belgium -  Salt (sodium chloride) including solution, salt water"
+567,508,Mozambique,586,Pakistan,27," Anthracite, not agglomerated",3731.652,80.29691700000001,"Pakistan -  Anthracite, not agglomerated"
+568,508,Mozambique,620,Portugal,85, Electric motors of an output < 37.5 watts,3706.973,3.766,Portugal -  Electric motors of an output < 37.5 watts
+569,508,Mozambique,702,Singapore,44, Fuel wood,3682.506,1.123713,Singapore -  Fuel wood
+570,508,Mozambique,788,Tunisia,87, Pedestrian controlled tractors,3598.06,0.679384,Tunisia -  Pedestrian controlled tractors
+571,508,Mozambique,499,Montenegro,03," Ornamental fish, live",3505.789,0.091913,"Montenegro -  Ornamental fish, live"
+572,508,Mozambique,404,Kenya,39, Polyethylene - specific gravity <0.94 in primary form,3478.738,1.688277,Kenya -  Polyethylene - specific gravity <0.94 in primary form
+573,508,Mozambique,894,Zambia,86," Rail locomotives, externally electrically powered",3353.696,4.9,"Zambia -  Rail locomotives, externally electrically powered"
+574,508,Mozambique,344,"China, Hong Kong SAR",90," Optical fibres, except for telecommunications",3337.803,0.017309,"China, Hong Kong SAR -  Optical fibres, except for telecommunications"
+575,508,Mozambique,894,Zambia,85, Electric motors of an output < 37.5 watts,3330.191,0.13,Zambia -  Electric motors of an output < 37.5 watts
+576,508,Mozambique,716,Zimbabwe,86," Rail locomotives, externally electrically powered",3195.405,5.25891,"Zimbabwe -  Rail locomotives, externally electrically powered"
+577,508,Mozambique,804,Ukraine,17," Raw sugar, cane",3058.195,1.785438,"Ukraine -  Raw sugar, cane"
+578,508,Mozambique,203,Czechia,85, Electric motors of an output < 37.5 watts,3049.886,0.0010509999999999999,Czechia -  Electric motors of an output < 37.5 watts
+579,508,Mozambique,826,United Kingdom,85, Electric motors of an output < 37.5 watts,3040.084,0.058466000000000004,United Kingdom -  Electric motors of an output < 37.5 watts
+580,508,Mozambique,894,Zambia,69," Bricks, blocks and ceramic goods of siliceous earths",3030.944,0.2,"Zambia -  Bricks, blocks and ceramic goods of siliceous earths"
+581,508,Mozambique,894,Zambia,33, Essential oils of bergamot,2876.31,0.29036,Zambia -  Essential oils of bergamot
+582,508,Mozambique,180,"Congo, Dem. Rep. of the",86," Rail locomotives, externally electrically powered",2857.268,6.6,"Congo, Dem. Rep. of the -  Rail locomotives, externally electrically powered"
+583,508,Mozambique,156,China,71," Pearls natural, not permanently mounted or set",2840.49,46.35,"China -  Pearls natural, not permanently mounted or set"
+584,508,Mozambique,784,United Arab Emirates,44, Fuel wood,2819.926,20.332892,United Arab Emirates -  Fuel wood
+585,508,Mozambique,340,Honduras,49," Brochures, leaflets and similar, in single sheets",2759.451,0.428447,"Honduras -  Brochures, leaflets and similar, in single sheets"
+586,508,Mozambique,716,Zimbabwe,56," Sanitary towels, diapers and similar articles",2747.381,3.5745709999999997,"Zimbabwe -  Sanitary towels, diapers and similar articles"
+587,508,Mozambique,834,"Tanzania, United Republic of",39, Polyethylene - specific gravity <0.94 in primary form,2703.171,4.04346,"Tanzania, United Republic of -  Polyethylene - specific gravity <0.94 in primary form"
+588,508,Mozambique,804,Ukraine,85, Electric motors of an output < 37.5 watts,2701.724,0.005986,Ukraine -  Electric motors of an output < 37.5 watts
+589,508,Mozambique,360,Indonesia,25," Salt (sodium chloride) including solution, salt water",2699.947,7.796545,"Indonesia -  Salt (sodium chloride) including solution, salt water"
+590,508,Mozambique,807,North Macedonia,03," Ornamental fish, live",2680.333,0.25933100000000003,"North Macedonia -  Ornamental fish, live"
+591,508,Mozambique,024,Angola,61," Mens, boys overcoats, etc, of wool or hair, knit",2664.227,0.36,"Angola -  Mens, boys overcoats, etc, of wool or hair, knit"
+592,508,Mozambique,756,"Switzerland, Liechtenstein",76," Aluminium unwrought, not alloyed",2602.483,0.74495,"Switzerland, Liechtenstein -  Aluminium unwrought, not alloyed"
+593,508,Mozambique,764,Thailand,71," Pearls natural, not permanently mounted or set",2601.006,8.505,"Thailand -  Pearls natural, not permanently mounted or set"
+594,508,Mozambique,340,Honduras,95," Rideable wheeled toys, dolls carriages",2590.717,0.329323,"Honduras -  Rideable wheeled toys, dolls carriages"
+595,508,Mozambique,756,"Switzerland, Liechtenstein",56," Sanitary towels, diapers and similar articles",2580.833,1.0457850000000002,"Switzerland, Liechtenstein -  Sanitary towels, diapers and similar articles"
+596,508,Mozambique,356,India,79," Zinc, not alloyed, unwrought, >99% pure",2539.554,1.6831099999999999,"India -  Zinc, not alloyed, unwrought, >99% pure"
+597,508,Mozambique,466,Mali,84, Nuclear reactors,2532.125,0.5935860000000001,Mali -  Nuclear reactors
+598,508,Mozambique,748,Eswatini,72," Pig iron, non-alloy, <0.5% phosphorus",2527.742,0.120027,"Eswatini -  Pig iron, non-alloy, <0.5% phosphorus"
+599,508,Mozambique,450,Madagascar,85, Electric motors of an output < 37.5 watts,2521.722,2.566,Madagascar -  Electric motors of an output < 37.5 watts
+600,508,Mozambique,702,Singapore,27," Anthracite, not agglomerated",2481.528,401.510564,"Singapore -  Anthracite, not agglomerated"
+601,508,Mozambique,174,Comoros,40," Natural rubber latex, including prevulcanised",2477.595,0.37244900000000003,"Comoros -  Natural rubber latex, including prevulcanised"
+602,508,Mozambique,250,France,07," Potatoes seed, fresh or chilled",2469.178,1.2784490000000002,"France -  Potatoes seed, fresh or chilled"
+603,508,Mozambique,180,"Congo, Dem. Rep. of the",15," Lard, other pig fat and poultry fat, rendered",2460.88,19.698087,"Congo, Dem. Rep. of the -  Lard, other pig fat and poultry fat, rendered"
+604,508,Mozambique,422,Lebanon,43," Raw mink furskins, whole",2459.312,0.002287,"Lebanon -  Raw mink furskins, whole"
+605,508,Mozambique,528,Netherlands (Kingdom of the),24," Tobacco, unmanufactured, not stemmed or stripped",2445.916,0.6768460000000001,"Netherlands (Kingdom of the) -  Tobacco, unmanufactured, not stemmed or stripped"
+606,508,Mozambique,620,Portugal,82, Spades and shovels,2394.142,0.883,Portugal -  Spades and shovels
+607,508,Mozambique,716,Zimbabwe,26," Iron ore, concentrate, not iron pyrites,unagglomerate",2354.66,12.557966,"Zimbabwe -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+608,508,Mozambique,356,India,76," Aluminium unwrought, not alloyed",2305.933,2.456277,"India -  Aluminium unwrought, not alloyed"
+609,508,Mozambique,340,Honduras,39, Polyethylene - specific gravity <0.94 in primary form,2300.763,0.261786,Honduras -  Polyethylene - specific gravity <0.94 in primary form
+610,508,Mozambique,404,Kenya,63, Electric blankets of textile material,2293.907,1.639157,Kenya -  Electric blankets of textile material
+611,508,Mozambique,616,Poland,27," Anthracite, not agglomerated",2287.262,21.194426,"Poland -  Anthracite, not agglomerated"
+612,508,Mozambique,174,Comoros,07," Potatoes seed, fresh or chilled",2271.1,25.0,"Comoros -  Potatoes seed, fresh or chilled"
+613,508,Mozambique,748,Eswatini,05," Hair, human, unworked, waste of human hair",2219.463,89.184727,"Eswatini -  Hair, human, unworked, waste of human hair"
+614,508,Mozambique,024,Angola,95," Rideable wheeled toys, dolls carriages",2190.322,0.196,"Angola -  Rideable wheeled toys, dolls carriages"
+615,508,Mozambique,716,Zimbabwe,83, Padlocks of base metal,2169.02,1.7730530000000002,Zimbabwe -  Padlocks of base metal
+616,508,Mozambique,356,India,81," Powders, tungsten (wolfram)",2157.01,10.456843000000001,"India -  Powders, tungsten (wolfram)"
+617,508,Mozambique,276,Germany,61," Mens, boys overcoats, etc, of wool or hair, knit",2144.1,0.017265999999999997,"Germany -  Mens, boys overcoats, etc, of wool or hair, knit"
+618,508,Mozambique,276,Germany,92," Upright pianos, including auto-players",2096.906,0.025,"Germany -  Upright pianos, including auto-players"
+619,508,Mozambique,040,Austria,07," Potatoes seed, fresh or chilled",2080.139,0.255317,"Austria -  Potatoes seed, fresh or chilled"
+620,508,Mozambique,804,Ukraine,76," Aluminium unwrought, not alloyed",2074.221,0.872827,"Ukraine -  Aluminium unwrought, not alloyed"
+621,508,Mozambique,360,Indonesia,52," Cotton, not carded or combed",2042.998,1.314138,"Indonesia -  Cotton, not carded or combed"
+622,508,Mozambique,320,Guatemala,94," Seats, aircraft",2034.88,0.7082670000000001,"Guatemala -  Seats, aircraft"
+623,508,Mozambique,072,Botswana,73, Sheet piling of iron or steel,2026.553,0.13595500000000002,Botswana -  Sheet piling of iron or steel
+624,508,Mozambique,340,Honduras,63, Electric blankets of textile material,2018.244,0.157145,Honduras -  Electric blankets of textile material
+625,508,Mozambique,040,Austria,74, Copper mattes,2016.472,0.803889,Austria -  Copper mattes
+626,508,Mozambique,604,Peru,84, Nuclear reactors,1995.0,0.1158,Peru -  Nuclear reactors
+627,508,Mozambique,056,Belgium,90," Optical fibres, except for telecommunications",1985.871,0.01772,"Belgium -  Optical fibres, except for telecommunications"
+628,508,Mozambique,036,Australia,94," Seats, aircraft",1985.517,0.213841,"Australia -  Seats, aircraft"
+629,508,Mozambique,748,Eswatini,94," Seats, aircraft",1978.336,0.809589,"Eswatini -  Seats, aircraft"
+630,508,Mozambique,643,Russian Federation,92," Upright pianos, including auto-players",1926.472,0.0016,"Russian Federation -  Upright pianos, including auto-players"
+631,508,Mozambique,340,Honduras,71," Pearls natural, not permanently mounted or set",1882.241,0.094046,"Honduras -  Pearls natural, not permanently mounted or set"
+632,508,Mozambique,276,Germany,62," Mens, boys overcoats of wool or hair, not knit",1841.618,0.05146800000000001,"Germany -  Mens, boys overcoats of wool or hair, not knit"
+633,508,Mozambique,826,United Kingdom,90," Optical fibres, except for telecommunications",1833.231,0.487704,"United Kingdom -  Optical fibres, except for telecommunications"
+634,508,Mozambique,566,Nigeria,73, Sheet piling of iron or steel,1830.709,6.0,Nigeria -  Sheet piling of iron or steel
+635,508,Mozambique,024,Angola,92," Upright pianos, including auto-players",1827.284,0.024,"Angola -  Upright pianos, including auto-players"
+636,508,Mozambique,716,Zimbabwe,90," Optical fibres, except for telecommunications",1806.645,0.970694,"Zimbabwe -  Optical fibres, except for telecommunications"
+637,508,Mozambique,705,Slovenia,95," Rideable wheeled toys, dolls carriages",1800.404,0.006788000000000001,"Slovenia -  Rideable wheeled toys, dolls carriages"
+638,508,Mozambique,894,Zambia,72," Pig iron, non-alloy, <0.5% phosphorus",1799.71,20.0,"Zambia -  Pig iron, non-alloy, <0.5% phosphorus"
+639,508,Mozambique,702,Singapore,71," Pearls natural, not permanently mounted or set",1790.217,0.061170999999999996,"Singapore -  Pearls natural, not permanently mounted or set"
+640,508,Mozambique,454,Malawi,34," Soaps, for toilet use, solid",1713.6,9.61867,"Malawi -  Soaps, for toilet use, solid"
+641,508,Mozambique,528,Netherlands (Kingdom of the),11, Wheat or meslin flour,1713.573,0.228956,Netherlands (Kingdom of the) -  Wheat or meslin flour
+642,508,Mozambique,340,Honduras,57," Carpets of wool or fine animal hair, knotted",1693.763,0.088489,"Honduras -  Carpets of wool or fine animal hair, knotted"
+643,508,Mozambique,840,United States of America,41," Bovine skins, whole, raw",1691.934,0.11684399999999999,"United States of America -  Bovine skins, whole, raw"
+644,508,Mozambique,704,Viet Nam,57," Carpets of wool or fine animal hair, knotted",1672.839,0.627352,"Viet Nam -  Carpets of wool or fine animal hair, knotted"
+645,508,Mozambique,156,China,94," Seats, aircraft",1617.769,0.942053,"China -  Seats, aircraft"
+646,508,Mozambique,024,Angola,56," Sanitary towels, diapers and similar articles",1609.81,0.495,"Angola -  Sanitary towels, diapers and similar articles"
+647,508,Mozambique,031,Azerbaijan,08," Coconuts, fresh or dried",1591.53,0.403063,"Azerbaijan -  Coconuts, fresh or dried"
+648,508,Mozambique,480,Mauritius,73, Sheet piling of iron or steel,1589.35,0.061564999999999995,Mauritius -  Sheet piling of iron or steel
+649,508,Mozambique,643,Russian Federation,73, Sheet piling of iron or steel,1586.725,0.098433,Russian Federation -  Sheet piling of iron or steel
+650,508,Mozambique,188,Costa Rica,39, Polyethylene - specific gravity <0.94 in primary form,1581.261,0.036398,Costa Rica -  Polyethylene - specific gravity <0.94 in primary form
+651,508,Mozambique,380,Italy,73, Sheet piling of iron or steel,1580.017,0.5771989999999999,Italy -  Sheet piling of iron or steel
+652,508,Mozambique,208,Denmark,85, Electric motors of an output < 37.5 watts,1559.865,0.002052,Denmark -  Electric motors of an output < 37.5 watts
+653,508,Mozambique,024,Angola,91," Wrist-watch, precious metal, battery, with hands",1546.901,0.058,"Angola -  Wrist-watch, precious metal, battery, with hands"
+654,508,Mozambique,340,Honduras,85, Electric motors of an output < 37.5 watts,1545.254,0.027619,Honduras -  Electric motors of an output < 37.5 watts
+655,508,Mozambique,203,Czechia,17," Raw sugar, cane",1543.019,1.129271,"Czechia -  Raw sugar, cane"
+656,508,Mozambique,716,Zimbabwe,41," Bovine skins, whole, raw",1527.416,0.080166,"Zimbabwe -  Bovine skins, whole, raw"
+657,508,Mozambique,180,"Congo, Dem. Rep. of the",73, Sheet piling of iron or steel,1509.192,0.385877,"Congo, Dem. Rep. of the -  Sheet piling of iron or steel"
+658,508,Mozambique,024,Angola,70," Glass cullet, waste or scrap, glass in the mass",1503.441,0.269,"Angola -  Glass cullet, waste or scrap, glass in the mass"
+659,508,Mozambique,404,Kenya,86," Rail locomotives, externally electrically powered",1499.782,0.7097870000000001,"Kenya -  Rail locomotives, externally electrically powered"
+660,508,Mozambique,024,Angola,83, Padlocks of base metal,1492.132,1.428,Angola -  Padlocks of base metal
+661,508,Mozambique,454,Malawi,70," Glass cullet, waste or scrap, glass in the mass",1479.922,17.036873,"Malawi -  Glass cullet, waste or scrap, glass in the mass"
+662,508,Mozambique,024,Angola,82, Spades and shovels,1462.718,0.741,Angola -  Spades and shovels
+663,508,Mozambique,894,Zambia,48, Newsprint,1455.827,6.3,Zambia -  Newsprint
+664,508,Mozambique,748,Eswatini,63, Electric blankets of textile material,1450.434,0.430542,Eswatini -  Electric blankets of textile material
+665,508,Mozambique,024,Angola,63, Electric blankets of textile material,1445.995,0.537,Angola -  Electric blankets of textile material
+666,508,Mozambique,788,Tunisia,76," Aluminium unwrought, not alloyed",1442.443,0.6051409999999999,"Tunisia -  Aluminium unwrought, not alloyed"
+667,508,Mozambique,203,Czechia,07," Potatoes seed, fresh or chilled",1441.917,0.086585,"Czechia -  Potatoes seed, fresh or chilled"
+668,508,Mozambique,554,New Zealand,85, Electric motors of an output < 37.5 watts,1441.39,0.11655700000000001,New Zealand -  Electric motors of an output < 37.5 watts
+669,508,Mozambique,024,Angola,42," Saddlery and harness, of any material",1327.743,0.171,"Angola -  Saddlery and harness, of any material"
+670,508,Mozambique,344,"China, Hong Kong SAR",33, Essential oils of bergamot,1311.21,2.061259,"China, Hong Kong SAR -  Essential oils of bergamot"
+671,508,Mozambique,784,United Arab Emirates,73, Sheet piling of iron or steel,1290.923,0.154611,United Arab Emirates -  Sheet piling of iron or steel
+672,508,Mozambique,242,Fiji,32, Quebracho tanning extract,1255.266,0.251216,Fiji -  Quebracho tanning extract
+673,508,Mozambique,703,Slovakia,27," Anthracite, not agglomerated",1241.313,10.132665999999999,"Slovakia -  Anthracite, not agglomerated"
+674,508,Mozambique,380,Italy,38, Artificial graphite,1219.641,0.390815,Italy -  Artificial graphite
+675,508,Mozambique,620,Portugal,95," Rideable wheeled toys, dolls carriages",1205.952,0.442,"Portugal -  Rideable wheeled toys, dolls carriages"
+676,508,Mozambique,634,Qatar,08," Coconuts, fresh or dried",1191.93,1.644426,"Qatar -  Coconuts, fresh or dried"
+677,508,Mozambique,716,Zimbabwe,30," Glands and other organs, dried, for therapeutic uses",1184.682,0.352472,"Zimbabwe -  Glands and other organs, dried, for therapeutic uses"
+678,508,Mozambique,646,Rwanda,83, Padlocks of base metal,1182.139,0.390265,Rwanda -  Padlocks of base metal
+679,508,Mozambique,804,Ukraine,24," Tobacco, unmanufactured, not stemmed or stripped",1173.586,0.476186,"Ukraine -  Tobacco, unmanufactured, not stemmed or stripped"
+680,508,Mozambique,250,France,85, Electric motors of an output < 37.5 watts,1168.645,0.040457,France -  Electric motors of an output < 37.5 watts
+681,508,Mozambique,040,Austria,61," Mens, boys overcoats, etc, of wool or hair, knit",1164.374,0.009505000000000001,"Austria -  Mens, boys overcoats, etc, of wool or hair, knit"
+682,508,Mozambique,072,Botswana,44, Fuel wood,1140.76,0.8135399999999999,Botswana -  Fuel wood
+683,508,Mozambique,702,Singapore,86," Rail locomotives, externally electrically powered",1108.181,0.18015199999999998,"Singapore -  Rail locomotives, externally electrically powered"
+684,508,Mozambique,834,"Tanzania, United Republic of",34," Soaps, for toilet use, solid",1098.911,0.37364800000000004,"Tanzania, United Republic of -  Soaps, for toilet use, solid"
+685,508,Mozambique,756,"Switzerland, Liechtenstein",24," Tobacco, unmanufactured, not stemmed or stripped",1096.759,0.249155,"Switzerland, Liechtenstein -  Tobacco, unmanufactured, not stemmed or stripped"
+686,508,Mozambique,704,Viet Nam,71," Pearls natural, not permanently mounted or set",1067.277,0.024416,"Viet Nam -  Pearls natural, not permanently mounted or set"
+687,508,Mozambique,024,Angola,57," Carpets of wool or fine animal hair, knotted",1047.304,0.355,"Angola -  Carpets of wool or fine animal hair, knotted"
+688,508,Mozambique,704,Viet Nam,27," Anthracite, not agglomerated",1046.956,14.481261,"Viet Nam -  Anthracite, not agglomerated"
+689,508,Mozambique,682,Saudi Arabia,85, Electric motors of an output < 37.5 watts,1041.834,0.055479999999999995,Saudi Arabia -  Electric motors of an output < 37.5 watts
+690,508,Mozambique,384,Côte d'Ivoire,85, Electric motors of an output < 37.5 watts,1023.336,0.732,Côte d'Ivoire -  Electric motors of an output < 37.5 watts
+691,508,Mozambique,702,Singapore,25," Salt (sodium chloride) including solution, salt water",1001.335,2.138446,"Singapore -  Salt (sodium chloride) including solution, salt water"
+692,508,Mozambique,384,Côte d'Ivoire,84, Nuclear reactors,990.815,0.198,Côte d'Ivoire -  Nuclear reactors
+693,508,Mozambique,036,Australia,84, Nuclear reactors,966.749,0.060514000000000005,Australia -  Nuclear reactors
+694,508,Mozambique,748,Eswatini,62," Mens, boys overcoats of wool or hair, not knit",931.904,0.11565099999999999,"Eswatini -  Mens, boys overcoats of wool or hair, not knit"
+695,508,Mozambique,040,Austria,59, Gum or amylaceous covered textiles for book covers et,924.735,0.012155,Austria -  Gum or amylaceous covered textiles for book covers et
+696,508,Mozambique,384,Côte d'Ivoire,73, Sheet piling of iron or steel,921.759,0.162,Côte d'Ivoire -  Sheet piling of iron or steel
+697,508,Mozambique,040,Austria,63, Electric blankets of textile material,909.079,0.015752000000000002,Austria -  Electric blankets of textile material
+698,508,Mozambique,834,"Tanzania, United Republic of",90," Optical fibres, except for telecommunications",903.009,0.38776900000000003,"Tanzania, United Republic of -  Optical fibres, except for telecommunications"
+699,508,Mozambique,242,Fiji,63, Electric blankets of textile material,879.883,0.09784000000000001,Fiji -  Electric blankets of textile material
+700,508,Mozambique,616,Poland,07," Potatoes seed, fresh or chilled",877.93,0.11840600000000001,"Poland -  Potatoes seed, fresh or chilled"
+701,508,Mozambique,404,Kenya,90," Optical fibres, except for telecommunications",850.204,0.13459700000000002,"Kenya -  Optical fibres, except for telecommunications"
+702,508,Mozambique,826,United Kingdom,24," Tobacco, unmanufactured, not stemmed or stripped",847.498,0.199798,"United Kingdom -  Tobacco, unmanufactured, not stemmed or stripped"
+703,508,Mozambique,250,France,84, Nuclear reactors,838.469,0.017426999999999998,France -  Nuclear reactors
+704,508,Mozambique,682,Saudi Arabia,74, Copper mattes,821.368,0.050785,Saudi Arabia -  Copper mattes
+705,508,Mozambique,384,Côte d'Ivoire,39, Polyethylene - specific gravity <0.94 in primary form,799.688,0.995,Côte d'Ivoire -  Polyethylene - specific gravity <0.94 in primary form
+706,508,Mozambique,040,Austria,26," Iron ore, concentrate, not iron pyrites,unagglomerate",798.565,0.471394,"Austria -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+707,508,Mozambique,716,Zimbabwe,35, Casein,787.14,0.172841,Zimbabwe -  Casein
+708,508,Mozambique,834,"Tanzania, United Republic of",25," Salt (sodium chloride) including solution, salt water",774.943,1.165754,"Tanzania, United Republic of -  Salt (sodium chloride) including solution, salt water"
+709,508,Mozambique,152,Chile,48, Newsprint,772.158,0.060411,Chile -  Newsprint
+710,508,Mozambique,586,Pakistan,09," Coffee, not roasted, not decaffeinated",756.503,0.28613900000000003,"Pakistan -  Coffee, not roasted, not decaffeinated"
+711,508,Mozambique,410,"Korea, Republic of",16," Sausages, similar products of meat, meat offal & bloo",750.056,1.2963099999999999,"Korea, Republic of -  Sausages, similar products of meat, meat offal & bloo"
+712,508,Mozambique,804,Ukraine,84, Nuclear reactors,739.578,0.000714,Ukraine -  Nuclear reactors
+713,508,Mozambique,144,Sri Lanka,71," Pearls natural, not permanently mounted or set",732.013,0.812798,"Sri Lanka -  Pearls natural, not permanently mounted or set"
+714,508,Mozambique,807,North Macedonia,17," Raw sugar, cane",721.982,0.7444230000000001,"North Macedonia -  Raw sugar, cane"
+715,508,Mozambique,320,Guatemala,62," Mens, boys overcoats of wool or hair, not knit",721.889,0.284694,"Guatemala -  Mens, boys overcoats of wool or hair, not knit"
+716,508,Mozambique,380,Italy,63, Electric blankets of textile material,713.871,0.010499000000000001,Italy -  Electric blankets of textile material
+717,508,Mozambique,376,Israel,84, Nuclear reactors,704.769,0.00492,Israel -  Nuclear reactors
+718,508,Mozambique,784,United Arab Emirates,10, Durum wheat,692.341,2.700108,United Arab Emirates -  Durum wheat
+719,508,Mozambique,450,Madagascar,94," Seats, aircraft",683.538,1.573,"Madagascar -  Seats, aircraft"
+720,508,Mozambique,748,Eswatini,70," Glass cullet, waste or scrap, glass in the mass",675.235,0.173905,"Eswatini -  Glass cullet, waste or scrap, glass in the mass"
+721,508,Mozambique,450,Madagascar,87, Pedestrian controlled tractors,667.685,2.016,Madagascar -  Pedestrian controlled tractors
+722,508,Mozambique,048,Bahrain,34," Soaps, for toilet use, solid",632.942,0.248981,"Bahrain -  Soaps, for toilet use, solid"
+723,508,Mozambique,784,United Arab Emirates,20," Cucumbers,gherkins, prepared or preserved by vinegar",624.903,0.6549729999999999,"United Arab Emirates -  Cucumbers,gherkins, prepared or preserved by vinegar"
+724,508,Mozambique,646,Rwanda,90," Optical fibres, except for telecommunications",619.499,0.15388300000000002,"Rwanda -  Optical fibres, except for telecommunications"
+725,508,Mozambique,646,Rwanda,86," Rail locomotives, externally electrically powered",613.296,2.713046,"Rwanda -  Rail locomotives, externally electrically powered"
+726,508,Mozambique,348,Hungary,24," Tobacco, unmanufactured, not stemmed or stripped",609.332,0.142157,"Hungary -  Tobacco, unmanufactured, not stemmed or stripped"
+727,508,Mozambique,834,"Tanzania, United Republic of",96," Worked ivory, articles of ivory",597.335,0.015160999999999999,"Tanzania, United Republic of -  Worked ivory, articles of ivory"
+728,508,Mozambique,704,Viet Nam,84, Nuclear reactors,596.672,0.074935,Viet Nam -  Nuclear reactors
+729,508,Mozambique,480,Mauritius,90," Optical fibres, except for telecommunications",591.918,0.039548,"Mauritius -  Optical fibres, except for telecommunications"
+730,508,Mozambique,686,Senegal,27," Anthracite, not agglomerated",583.853,13.568412,"Senegal -  Anthracite, not agglomerated"
+731,508,Mozambique,454,Malawi,21," Coffee extracts, essences, concentrates, preparations",580.598,1.264186,"Malawi -  Coffee extracts, essences, concentrates, preparations"
+732,508,Mozambique,454,Malawi,11, Wheat or meslin flour,579.532,57.358298000000005,Malawi -  Wheat or meslin flour
+733,508,Mozambique,840,United States of America,64," Waterproof footwear (Wellingtons etc), metal toe cap",573.215,0.008509000000000001,"United States of America -  Waterproof footwear (Wellingtons etc), metal toe cap"
+734,508,Mozambique,620,Portugal,70," Glass cullet, waste or scrap, glass in the mass",565.026,0.62,"Portugal -  Glass cullet, waste or scrap, glass in the mass"
+735,508,Mozambique,246,Finland,07," Potatoes seed, fresh or chilled",560.921,0.034,"Finland -  Potatoes seed, fresh or chilled"
+736,508,Mozambique,156,China,76," Aluminium unwrought, not alloyed",557.242,0.07212,"China -  Aluminium unwrought, not alloyed"
+737,508,Mozambique,748,Eswatini,44, Fuel wood,556.014,23.420163,Eswatini -  Fuel wood
+738,508,Mozambique,554,New Zealand,90," Optical fibres, except for telecommunications",547.569,0.015428,"New Zealand -  Optical fibres, except for telecommunications"
+739,508,Mozambique,250,France,22, Mineral and aerated waters not sweetened or flavoured,534.988,0.6565059999999999,France -  Mineral and aerated waters not sweetened or flavoured
+740,508,Mozambique,894,Zambia,49," Brochures, leaflets and similar, in single sheets",527.963,16.465,"Zambia -  Brochures, leaflets and similar, in single sheets"
+741,508,Mozambique,894,Zambia,08," Coconuts, fresh or dried",526.674,0.024,"Zambia -  Coconuts, fresh or dried"
+742,508,Mozambique,554,New Zealand,87, Pedestrian controlled tractors,518.223,0.086958,New Zealand -  Pedestrian controlled tractors
+743,508,Mozambique,516,Namibia,04, Milk not concentrated nor sweetened < 1% fat,512.337,0.334873,Namibia -  Milk not concentrated nor sweetened < 1% fat
+744,508,Mozambique,024,Angola,44, Fuel wood,506.375,0.139,Angola -  Fuel wood
+745,508,Mozambique,024,Angola,65," Hat-forms, etc of felt, not shaped, no formed brim",505.804,0.061,"Angola -  Hat-forms, etc of felt, not shaped, no formed brim"
+746,508,Mozambique,643,Russian Federation,85, Electric motors of an output < 37.5 watts,502.514,0.000714,Russian Federation -  Electric motors of an output < 37.5 watts
+747,508,Mozambique,056,Belgium,22, Mineral and aerated waters not sweetened or flavoured,497.46,0.030181999999999997,Belgium -  Mineral and aerated waters not sweetened or flavoured
+748,508,Mozambique,528,Netherlands (Kingdom of the),94," Seats, aircraft",493.566,0.036135,"Netherlands (Kingdom of the) -  Seats, aircraft"
+749,508,Mozambique,748,Eswatini,93," Military weapons, other than hand guns, swords, etc",489.787,0.01,"Eswatini -  Military weapons, other than hand guns, swords, etc"
+750,508,Mozambique,716,Zimbabwe,82, Spades and shovels,483.741,0.069066,Zimbabwe -  Spades and shovels
+751,508,Mozambique,320,Guatemala,69," Bricks, blocks and ceramic goods of siliceous earths",480.543,0.000772,"Guatemala -  Bricks, blocks and ceramic goods of siliceous earths"
+752,508,Mozambique,410,"Korea, Republic of",90," Optical fibres, except for telecommunications",473.608,0.004179,"Korea, Republic of -  Optical fibres, except for telecommunications"
+753,508,Mozambique,620,Portugal,49," Brochures, leaflets and similar, in single sheets",467.777,1.42,"Portugal -  Brochures, leaflets and similar, in single sheets"
+754,508,Mozambique,688,Serbia,84, Nuclear reactors,462.527,0.0012430000000000002,Serbia -  Nuclear reactors
+755,508,Mozambique,056,Belgium,71," Pearls natural, not permanently mounted or set",459.161,0.000133,"Belgium -  Pearls natural, not permanently mounted or set"
+756,508,Mozambique,360,Indonesia,24," Tobacco, unmanufactured, not stemmed or stripped",453.781,0.14765,"Indonesia -  Tobacco, unmanufactured, not stemmed or stripped"
+757,508,Mozambique,748,Eswatini,82, Spades and shovels,453.474,0.280435,Eswatini -  Spades and shovels
+758,508,Mozambique,384,Côte d'Ivoire,95," Rideable wheeled toys, dolls carriages",452.903,0.249,"Côte d'Ivoire -  Rideable wheeled toys, dolls carriages"
+759,508,Mozambique,528,Netherlands (Kingdom of the),07," Potatoes seed, fresh or chilled",452.678,0.056879,"Netherlands (Kingdom of the) -  Potatoes seed, fresh or chilled"
+760,508,Mozambique,480,Mauritius,82, Spades and shovels,448.619,0.023,Mauritius -  Spades and shovels
+761,508,Mozambique,578,Norway,39, Polyethylene - specific gravity <0.94 in primary form,441.614,0.0012909999999999998,Norway -  Polyethylene - specific gravity <0.94 in primary form
+762,508,Mozambique,040,Austria,27," Anthracite, not agglomerated",423.335,2.99932,"Austria -  Anthracite, not agglomerated"
+763,508,Mozambique,454,Malawi,38, Artificial graphite,420.325,2.345666,Malawi -  Artificial graphite
+764,508,Mozambique,784,United Arab Emirates,74, Copper mattes,412.154,0.810543,United Arab Emirates -  Copper mattes
+765,508,Mozambique,804,Ukraine,73, Sheet piling of iron or steel,409.608,0.000497,Ukraine -  Sheet piling of iron or steel
+766,508,Mozambique,258,French Polynesia,21," Coffee extracts, essences, concentrates, preparations",407.932,0.018,"French Polynesia -  Coffee extracts, essences, concentrates, preparations"
+767,508,Mozambique,826,United Kingdom,82, Spades and shovels,404.527,0.005229,United Kingdom -  Spades and shovels
+768,508,Mozambique,894,Zambia,90," Optical fibres, except for telecommunications",402.82,0.01,"Zambia -  Optical fibres, except for telecommunications"
+769,508,Mozambique,250,France,94," Seats, aircraft",395.354,0.140903,"France -  Seats, aircraft"
+770,508,Mozambique,156,China,73, Sheet piling of iron or steel,389.851,0.061127,China -  Sheet piling of iron or steel
+771,508,Mozambique,688,Serbia,87, Pedestrian controlled tractors,387.241,0.005125,Serbia -  Pedestrian controlled tractors
+772,508,Mozambique,024,Angola,76," Aluminium unwrought, not alloyed",387.15,0.074,"Angola -  Aluminium unwrought, not alloyed"
+773,508,Mozambique,191,Croatia,24," Tobacco, unmanufactured, not stemmed or stripped",385.827,0.090014,"Croatia -  Tobacco, unmanufactured, not stemmed or stripped"
+774,508,Mozambique,688,Serbia,94," Seats, aircraft",384.968,0.045274,"Serbia -  Seats, aircraft"
+775,508,Mozambique,072,Botswana,87, Pedestrian controlled tractors,379.286,0.499207,Botswana -  Pedestrian controlled tractors
+776,508,Mozambique,188,Costa Rica,72," Pig iron, non-alloy, <0.5% phosphorus",377.303,0.000968,"Costa Rica -  Pig iron, non-alloy, <0.5% phosphorus"
+777,508,Mozambique,376,Israel,85, Electric motors of an output < 37.5 watts,373.043,0.011349,Israel -  Electric motors of an output < 37.5 watts
+778,508,Mozambique,800,Uganda,85, Electric motors of an output < 37.5 watts,372.793,0.042076,Uganda -  Electric motors of an output < 37.5 watts
+779,508,Mozambique,372,Ireland,17," Raw sugar, cane",370.723,0.746045,"Ireland -  Raw sugar, cane"
+780,508,Mozambique,356,India,87, Pedestrian controlled tractors,368.198,0.042802999999999994,India -  Pedestrian controlled tractors
+781,508,Mozambique,702,Singapore,17," Raw sugar, cane",362.645,0.870104,"Singapore -  Raw sugar, cane"
+782,508,Mozambique,356,India,73, Sheet piling of iron or steel,361.991,0.025366,India -  Sheet piling of iron or steel
+783,508,Mozambique,454,Malawi,07," Potatoes seed, fresh or chilled",357.106,1.299138,"Malawi -  Potatoes seed, fresh or chilled"
+784,508,Mozambique,702,Singapore,41," Bovine skins, whole, raw",355.612,0.0010680000000000002,"Singapore -  Bovine skins, whole, raw"
+785,508,Mozambique,826,United Kingdom,70," Glass cullet, waste or scrap, glass in the mass",355.247,0.000395,"United Kingdom -  Glass cullet, waste or scrap, glass in the mass"
+786,508,Mozambique,414,Kuwait,07," Potatoes seed, fresh or chilled",351.3,0.17225100000000002,"Kuwait -  Potatoes seed, fresh or chilled"
+787,508,Mozambique,024,Angola,90," Optical fibres, except for telecommunications",348.831,0.248,"Angola -  Optical fibres, except for telecommunications"
+788,508,Mozambique,384,Côte d'Ivoire,63, Electric blankets of textile material,347.489,0.058,Côte d'Ivoire -  Electric blankets of textile material
+789,508,Mozambique,450,Madagascar,40," Natural rubber latex, including prevulcanised",344.628,1.04,"Madagascar -  Natural rubber latex, including prevulcanised"
+790,508,Mozambique,716,Zimbabwe,70," Glass cullet, waste or scrap, glass in the mass",326.258,0.050485999999999996,"Zimbabwe -  Glass cullet, waste or scrap, glass in the mass"
+791,508,Mozambique,616,Poland,62," Mens, boys overcoats of wool or hair, not knit",317.621,0.004916,"Poland -  Mens, boys overcoats of wool or hair, not knit"
+792,508,Mozambique,454,Malawi,32, Quebracho tanning extract,317.51,0.281522,Malawi -  Quebracho tanning extract
+793,508,Mozambique,072,Botswana,94," Seats, aircraft",311.137,0.166136,"Botswana -  Seats, aircraft"
+794,508,Mozambique,340,Honduras,82, Spades and shovels,304.731,0.031695,Honduras -  Spades and shovels
+795,508,Mozambique,120,Cameroon,94," Seats, aircraft",300.997,0.302925,"Cameroon -  Seats, aircraft"
+796,508,Mozambique,384,Côte d'Ivoire,49," Brochures, leaflets and similar, in single sheets",288.301,0.202,"Côte d'Ivoire -  Brochures, leaflets and similar, in single sheets"
+797,508,Mozambique,410,"Korea, Republic of",25," Salt (sodium chloride) including solution, salt water",288.128,0.020687999999999998,"Korea, Republic of -  Salt (sodium chloride) including solution, salt water"
+798,508,Mozambique,748,Eswatini,61," Mens, boys overcoats, etc, of wool or hair, knit",285.706,0.053714,"Eswatini -  Mens, boys overcoats, etc, of wool or hair, knit"
+799,508,Mozambique,180,"Congo, Dem. Rep. of the",90," Optical fibres, except for telecommunications",285.393,0.08275,"Congo, Dem. Rep. of the -  Optical fibres, except for telecommunications"
+800,508,Mozambique,578,Norway,07," Potatoes seed, fresh or chilled",281.549,0.024260999999999998,"Norway -  Potatoes seed, fresh or chilled"
+801,508,Mozambique,682,Saudi Arabia,03," Ornamental fish, live",271.773,0.040136000000000005,"Saudi Arabia -  Ornamental fish, live"
+802,508,Mozambique,716,Zimbabwe,95," Rideable wheeled toys, dolls carriages",268.891,0.750199,"Zimbabwe -  Rideable wheeled toys, dolls carriages"
+803,508,Mozambique,756,"Switzerland, Liechtenstein",61," Mens, boys overcoats, etc, of wool or hair, knit",265.457,0.0033940000000000003,"Switzerland, Liechtenstein -  Mens, boys overcoats, etc, of wool or hair, knit"
+804,508,Mozambique,384,Côte d'Ivoire,62," Mens, boys overcoats of wool or hair, not knit",261.016,0.05,"Côte d'Ivoire -  Mens, boys overcoats of wool or hair, not knit"
+805,508,Mozambique,748,Eswatini,83, Padlocks of base metal,254.491,0.04263,Eswatini -  Padlocks of base metal
+806,508,Mozambique,480,Mauritius,94," Seats, aircraft",249.665,0.052223,"Mauritius -  Seats, aircraft"
+807,508,Mozambique,356,India,52," Cotton, not carded or combed",245.438,0.118977,"India -  Cotton, not carded or combed"
+808,508,Mozambique,410,"Korea, Republic of",24," Tobacco, unmanufactured, not stemmed or stripped",236.977,0.053939999999999995,"Korea, Republic of -  Tobacco, unmanufactured, not stemmed or stripped"
+809,508,Mozambique,250,France,64," Waterproof footwear (Wellingtons etc), metal toe cap",235.114,0.006672,"France -  Waterproof footwear (Wellingtons etc), metal toe cap"
+810,508,Mozambique,250,France,42," Saddlery and harness, of any material",234.348,0.009534,"France -  Saddlery and harness, of any material"
+811,508,Mozambique,384,Côte d'Ivoire,42," Saddlery and harness, of any material",233.554,0.432,"Côte d'Ivoire -  Saddlery and harness, of any material"
+812,508,Mozambique,702,Singapore,40," Natural rubber latex, including prevulcanised",231.518,0.039944,"Singapore -  Natural rubber latex, including prevulcanised"
+813,508,Mozambique,504,Morocco,52," Cotton, not carded or combed",229.325,0.07398600000000001,"Morocco -  Cotton, not carded or combed"
+814,508,Mozambique,454,Malawi,42," Saddlery and harness, of any material",228.373,0.13936500000000002,"Malawi -  Saddlery and harness, of any material"
+815,508,Mozambique,384,Côte d'Ivoire,57," Carpets of wool or fine animal hair, knotted",227.844,0.037,"Côte d'Ivoire -  Carpets of wool or fine animal hair, knotted"
+816,508,Mozambique,454,Malawi,30," Glands and other organs, dried, for therapeutic uses",226.069,0.658891,"Malawi -  Glands and other organs, dried, for therapeutic uses"
+817,508,Mozambique,384,Côte d'Ivoire,69," Bricks, blocks and ceramic goods of siliceous earths",221.033,0.036,"Côte d'Ivoire -  Bricks, blocks and ceramic goods of siliceous earths"
+818,508,Mozambique,188,Costa Rica,90," Optical fibres, except for telecommunications",220.615,0.000914,"Costa Rica -  Optical fibres, except for telecommunications"
+819,508,Mozambique,826,United Kingdom,49," Brochures, leaflets and similar, in single sheets",220.502,0.01757,"United Kingdom -  Brochures, leaflets and similar, in single sheets"
+820,508,Mozambique,887,Yemen,70," Glass cullet, waste or scrap, glass in the mass",219.114,0.283443,"Yemen -  Glass cullet, waste or scrap, glass in the mass"
+821,508,Mozambique,804,Ukraine,96," Worked ivory, articles of ivory",211.498,0.000212,"Ukraine -  Worked ivory, articles of ivory"
+822,508,Mozambique,702,Singapore,63, Electric blankets of textile material,207.729,0.021137,Singapore -  Electric blankets of textile material
+823,508,Mozambique,404,Kenya,44, Fuel wood,205.909,0.216271,Kenya -  Fuel wood
+824,508,Mozambique,834,"Tanzania, United Republic of",08," Coconuts, fresh or dried",200.55,0.155255,"Tanzania, United Republic of -  Coconuts, fresh or dried"
+825,508,Mozambique,704,Viet Nam,28, Chlorine,196.327,0.0011240000000000002,Viet Nam -  Chlorine
+826,508,Mozambique,756,"Switzerland, Liechtenstein",63, Electric blankets of textile material,195.014,0.013052,"Switzerland, Liechtenstein -  Electric blankets of textile material"
+827,508,Mozambique,188,Costa Rica,82, Spades and shovels,191.871,0.031431,Costa Rica -  Spades and shovels
+828,508,Mozambique,384,Côte d'Ivoire,33, Essential oils of bergamot,189.6,0.031,Côte d'Ivoire -  Essential oils of bergamot
+829,508,Mozambique,578,Norway,90," Optical fibres, except for telecommunications",189.591,0.001524,"Norway -  Optical fibres, except for telecommunications"
+830,508,Mozambique,040,Austria,96," Worked ivory, articles of ivory",189.58,0.065738,"Austria -  Worked ivory, articles of ivory"
+831,508,Mozambique,716,Zimbabwe,08," Coconuts, fresh or dried",187.518,0.260567,"Zimbabwe -  Coconuts, fresh or dried"
+832,508,Mozambique,203,Czechia,08," Coconuts, fresh or dried",186.408,0.016315,"Czechia -  Coconuts, fresh or dried"
+833,508,Mozambique,554,New Zealand,71," Pearls natural, not permanently mounted or set",185.375,0.006333999999999999,"New Zealand -  Pearls natural, not permanently mounted or set"
+834,508,Mozambique,804,Ukraine,90," Optical fibres, except for telecommunications",184.878,4.4e-05,"Ukraine -  Optical fibres, except for telecommunications"
+835,508,Mozambique,834,"Tanzania, United Republic of",82, Spades and shovels,182.801,0.370773,"Tanzania, United Republic of -  Spades and shovels"
+836,508,Mozambique,442,Luxembourg,71," Pearls natural, not permanently mounted or set",177.498,0.00021799999999999999,"Luxembourg -  Pearls natural, not permanently mounted or set"
+837,508,Mozambique,040,Austria,09," Coffee, not roasted, not decaffeinated",177.127,0.010176000000000001,"Austria -  Coffee, not roasted, not decaffeinated"
+838,508,Mozambique,528,Netherlands (Kingdom of the),27," Anthracite, not agglomerated",175.527,3.5878330000000003,"Netherlands (Kingdom of the) -  Anthracite, not agglomerated"
+839,508,Mozambique,834,"Tanzania, United Republic of",95," Rideable wheeled toys, dolls carriages",175.351,0.60958,"Tanzania, United Republic of -  Rideable wheeled toys, dolls carriages"
+840,508,Mozambique,800,Uganda,63, Electric blankets of textile material,170.692,0.055739,Uganda -  Electric blankets of textile material
+841,508,Mozambique,152,Chile,73, Sheet piling of iron or steel,167.903,0.016125,Chile -  Sheet piling of iron or steel
+842,508,Mozambique,620,Portugal,92," Upright pianos, including auto-players",167.391,0.3,"Portugal -  Upright pianos, including auto-players"
+843,508,Mozambique,834,"Tanzania, United Republic of",63, Electric blankets of textile material,166.502,0.277409,"Tanzania, United Republic of -  Electric blankets of textile material"
+844,508,Mozambique,072,Botswana,82, Spades and shovels,165.287,0.653694,Botswana -  Spades and shovels
+845,508,Mozambique,480,Mauritius,63, Electric blankets of textile material,159.906,0.014,Mauritius -  Electric blankets of textile material
+846,508,Mozambique,250,France,88," Gliders, hang gliders",159.209,0.000377,"France -  Gliders, hang gliders"
+847,508,Mozambique,716,Zimbabwe,20," Cucumbers,gherkins, prepared or preserved by vinegar",159.156,0.720678,"Zimbabwe -  Cucumbers,gherkins, prepared or preserved by vinegar"
+848,508,Mozambique,024,Angola,48, Newsprint,158.325,0.024,Angola -  Newsprint
+849,508,Mozambique,372,Ireland,62," Mens, boys overcoats of wool or hair, not knit",155.249,0.0037949999999999998,"Ireland -  Mens, boys overcoats of wool or hair, not knit"
+850,508,Mozambique,203,Czechia,87, Pedestrian controlled tractors,155.241,0.003231,Czechia -  Pedestrian controlled tractors
+851,508,Mozambique,554,New Zealand,62," Mens, boys overcoats of wool or hair, not knit",153.177,0.006282,"New Zealand -  Mens, boys overcoats of wool or hair, not knit"
+852,508,Mozambique,554,New Zealand,68," Stone setts, curbstones, flagstones (except slate)",152.501,0.012305,"New Zealand -  Stone setts, curbstones, flagstones (except slate)"
+853,508,Mozambique,410,"Korea, Republic of",26," Iron ore, concentrate, not iron pyrites,unagglomerate",151.399,0.017182,"Korea, Republic of -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+854,508,Mozambique,156,China,59, Gum or amylaceous covered textiles for book covers et,148.719,0.04442,China -  Gum or amylaceous covered textiles for book covers et
+855,508,Mozambique,454,Malawi,56," Sanitary towels, diapers and similar articles",141.533,0.878555,"Malawi -  Sanitary towels, diapers and similar articles"
+856,508,Mozambique,860,Uzbekistan,24," Tobacco, unmanufactured, not stemmed or stripped",141.055,0.032378,"Uzbekistan -  Tobacco, unmanufactured, not stemmed or stripped"
+857,508,Mozambique,826,United Kingdom,42," Saddlery and harness, of any material",140.053,0.001353,"United Kingdom -  Saddlery and harness, of any material"
+858,508,Mozambique,454,Malawi,93," Military weapons, other than hand guns, swords, etc",138.088,0.01284,"Malawi -  Military weapons, other than hand guns, swords, etc"
+859,508,Mozambique,784,United Arab Emirates,90," Optical fibres, except for telecommunications",137.515,0.002521,"United Arab Emirates -  Optical fibres, except for telecommunications"
+860,508,Mozambique,060,Bermuda,82, Spades and shovels,137.404,0.026106999999999998,Bermuda -  Spades and shovels
+861,508,Mozambique,748,Eswatini,56," Sanitary towels, diapers and similar articles",134.37,0.020777999999999998,"Eswatini -  Sanitary towels, diapers and similar articles"
+862,508,Mozambique,288,Ghana,94," Seats, aircraft",132.444,0.449108,"Ghana -  Seats, aircraft"
+863,508,Mozambique,620,Portugal,65," Hat-forms, etc of felt, not shaped, no formed brim",131.257,0.05,"Portugal -  Hat-forms, etc of felt, not shaped, no formed brim"
+864,508,Mozambique,400,Jordan,24," Tobacco, unmanufactured, not stemmed or stripped",130.508,0.039864,"Jordan -  Tobacco, unmanufactured, not stemmed or stripped"
+865,508,Mozambique,528,Netherlands (Kingdom of the),22, Mineral and aerated waters not sweetened or flavoured,128.396,0.053911,Netherlands (Kingdom of the) -  Mineral and aerated waters not sweetened or flavoured
+866,508,Mozambique,716,Zimbabwe,65," Hat-forms, etc of felt, not shaped, no formed brim",128.31,0.06785899999999999,"Zimbabwe -  Hat-forms, etc of felt, not shaped, no formed brim"
+867,508,Mozambique,410,"Korea, Republic of",38, Artificial graphite,127.843,0.02384,"Korea, Republic of -  Artificial graphite"
+868,508,Mozambique,203,Czechia,71," Pearls natural, not permanently mounted or set",126.413,0.279817,"Czechia -  Pearls natural, not permanently mounted or set"
+869,508,Mozambique,056,Belgium,24," Tobacco, unmanufactured, not stemmed or stripped",125.254,0.034581,"Belgium -  Tobacco, unmanufactured, not stemmed or stripped"
+870,508,Mozambique,784,United Arab Emirates,87, Pedestrian controlled tractors,125.052,0.014301,United Arab Emirates -  Pedestrian controlled tractors
+871,508,Mozambique,834,"Tanzania, United Republic of",40," Natural rubber latex, including prevulcanised",124.62,0.6378060000000001,"Tanzania, United Republic of -  Natural rubber latex, including prevulcanised"
+872,508,Mozambique,454,Malawi,96," Worked ivory, articles of ivory",124.05,0.15389699999999998,"Malawi -  Worked ivory, articles of ivory"
+873,508,Mozambique,704,Viet Nam,24," Tobacco, unmanufactured, not stemmed or stripped",123.243,0.027925000000000002,"Viet Nam -  Tobacco, unmanufactured, not stemmed or stripped"
+874,508,Mozambique,222,El Salvador,34," Soaps, for toilet use, solid",121.836,0.019104,"El Salvador -  Soaps, for toilet use, solid"
+875,508,Mozambique,688,Serbia,76," Aluminium unwrought, not alloyed",117.086,0.049710000000000004,"Serbia -  Aluminium unwrought, not alloyed"
+876,508,Mozambique,056,Belgium,95," Rideable wheeled toys, dolls carriages",116.762,0.038214,"Belgium -  Rideable wheeled toys, dolls carriages"
+877,508,Mozambique,288,Ghana,85, Electric motors of an output < 37.5 watts,115.212,0.060034,Ghana -  Electric motors of an output < 37.5 watts
+878,508,Mozambique,024,Angola,32, Quebracho tanning extract,115.032,0.152,Angola -  Quebracho tanning extract
+879,508,Mozambique,716,Zimbabwe,69," Bricks, blocks and ceramic goods of siliceous earths",110.102,0.13317500000000002,"Zimbabwe -  Bricks, blocks and ceramic goods of siliceous earths"
+880,508,Mozambique,702,Singapore,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",109.583,0.045624000000000005,"Singapore -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+881,508,Mozambique,132,Cabo Verde,67," Bird skins and feathers, articles therefrom",109.56,0.001246,"Cabo Verde -  Bird skins and feathers, articles therefrom"
+882,508,Mozambique,376,Israel,25," Salt (sodium chloride) including solution, salt water",107.523,0.377074,"Israel -  Salt (sodium chloride) including solution, salt water"
+883,508,Mozambique,756,"Switzerland, Liechtenstein",85, Electric motors of an output < 37.5 watts,106.361,0.001632,"Switzerland, Liechtenstein -  Electric motors of an output < 37.5 watts"
+884,508,Mozambique,250,France,09," Coffee, not roasted, not decaffeinated",106.188,0.007849,"France -  Coffee, not roasted, not decaffeinated"
+885,508,Mozambique,756,"Switzerland, Liechtenstein",39, Polyethylene - specific gravity <0.94 in primary form,104.003,0.007173,"Switzerland, Liechtenstein -  Polyethylene - specific gravity <0.94 in primary form"
+886,508,Mozambique,384,Côte d'Ivoire,87, Pedestrian controlled tractors,102.912,0.018,Côte d'Ivoire -  Pedestrian controlled tractors
+887,508,Mozambique,620,Portugal,63, Electric blankets of textile material,102.622,0.17,Portugal -  Electric blankets of textile material
+888,508,Mozambique,586,Pakistan,85, Electric motors of an output < 37.5 watts,101.86,0.008506,Pakistan -  Electric motors of an output < 37.5 watts
+889,508,Mozambique,356,India,55," Filament tow of nylon, polyamides",101.712,0.004053,"India -  Filament tow of nylon, polyamides"
+890,508,Mozambique,040,Austria,95," Rideable wheeled toys, dolls carriages",99.817,0.007529,"Austria -  Rideable wheeled toys, dolls carriages"
+891,508,Mozambique,024,Angola,52," Cotton, not carded or combed",98.369,0.127,"Angola -  Cotton, not carded or combed"
+892,508,Mozambique,048,Bahrain,73, Sheet piling of iron or steel,97.952,0.039171,Bahrain -  Sheet piling of iron or steel
+893,508,Mozambique,784,United Arab Emirates,39, Polyethylene - specific gravity <0.94 in primary form,94.362,1.3401939999999999,United Arab Emirates -  Polyethylene - specific gravity <0.94 in primary form
+894,508,Mozambique,072,Botswana,63, Electric blankets of textile material,93.664,0.045112,Botswana -  Electric blankets of textile material
+895,508,Mozambique,040,Austria,94," Seats, aircraft",93.585,0.0006580000000000001,"Austria -  Seats, aircraft"
+896,508,Mozambique,716,Zimbabwe,96," Worked ivory, articles of ivory",91.896,0.030018,"Zimbabwe -  Worked ivory, articles of ivory"
+897,508,Mozambique,480,Mauritius,49," Brochures, leaflets and similar, in single sheets",90.112,0.06848900000000001,"Mauritius -  Brochures, leaflets and similar, in single sheets"
+898,508,Mozambique,756,"Switzerland, Liechtenstein",09," Coffee, not roasted, not decaffeinated",88.496,0.005295,"Switzerland, Liechtenstein -  Coffee, not roasted, not decaffeinated"
+899,508,Mozambique,688,Serbia,85, Electric motors of an output < 37.5 watts,87.698,0.005255,Serbia -  Electric motors of an output < 37.5 watts
+900,508,Mozambique,320,Guatemala,49," Brochures, leaflets and similar, in single sheets",87.656,0.036908,"Guatemala -  Brochures, leaflets and similar, in single sheets"
+901,508,Mozambique,840,United States of America,66, Garden and similar umbrellas,87.12,0.032929,United States of America -  Garden and similar umbrellas
+902,508,Mozambique,784,United Arab Emirates,83, Padlocks of base metal,86.152,0.032889,United Arab Emirates -  Padlocks of base metal
+903,508,Mozambique,646,Rwanda,39, Polyethylene - specific gravity <0.94 in primary form,85.818,0.015119,Rwanda -  Polyethylene - specific gravity <0.94 in primary form
+904,508,Mozambique,498,"Moldova, Republic of",83, Padlocks of base metal,84.952,0.011481,"Moldova, Republic of -  Padlocks of base metal"
+905,508,Mozambique,752,Sweden,38, Artificial graphite,84.916,15.0,Sweden -  Artificial graphite
+906,508,Mozambique,480,Mauritius,83, Padlocks of base metal,84.135,0.007,Mauritius -  Padlocks of base metal
+907,508,Mozambique,887,Yemen,34," Soaps, for toilet use, solid",84.129,0.207869,"Yemen -  Soaps, for toilet use, solid"
+908,508,Mozambique,646,Rwanda,40," Natural rubber latex, including prevulcanised",83.668,2.804,"Rwanda -  Natural rubber latex, including prevulcanised"
+909,508,Mozambique,250,France,61," Mens, boys overcoats, etc, of wool or hair, knit",82.838,0.002926,"France -  Mens, boys overcoats, etc, of wool or hair, knit"
+910,508,Mozambique,756,"Switzerland, Liechtenstein",90," Optical fibres, except for telecommunications",82.793,0.000721,"Switzerland, Liechtenstein -  Optical fibres, except for telecommunications"
+911,508,Mozambique,040,Austria,73, Sheet piling of iron or steel,82.053,0.069982,Austria -  Sheet piling of iron or steel
+912,508,Mozambique,392,Japan,90," Optical fibres, except for telecommunications",82.027,0.000598,"Japan -  Optical fibres, except for telecommunications"
+913,508,Mozambique,072,Botswana,34," Soaps, for toilet use, solid",81.851,0.020561,"Botswana -  Soaps, for toilet use, solid"
+914,508,Mozambique,804,Ukraine,07," Potatoes seed, fresh or chilled",80.81,0.052432,"Ukraine -  Potatoes seed, fresh or chilled"
+915,508,Mozambique,586,Pakistan,73, Sheet piling of iron or steel,80.128,0.021471,Pakistan -  Sheet piling of iron or steel
+916,508,Mozambique,410,"Korea, Republic of",22, Mineral and aerated waters not sweetened or flavoured,79.397,0.004691,"Korea, Republic of -  Mineral and aerated waters not sweetened or flavoured"
+917,508,Mozambique,716,Zimbabwe,74, Copper mattes,78.166,0.010887,Zimbabwe -  Copper mattes
+918,508,Mozambique,288,Ghana,76," Aluminium unwrought, not alloyed",77.787,0.027181,"Ghana -  Aluminium unwrought, not alloyed"
+919,508,Mozambique,528,Netherlands (Kingdom of the),63, Electric blankets of textile material,75.116,0.0027240000000000003,Netherlands (Kingdom of the) -  Electric blankets of textile material
+920,508,Mozambique,616,Poland,84, Nuclear reactors,71.225,0.007961000000000001,Poland -  Nuclear reactors
+921,508,Mozambique,524,Nepal,27," Anthracite, not agglomerated",70.595,1.106036,"Nepal -  Anthracite, not agglomerated"
+922,508,Mozambique,854,Burkina Faso,85, Electric motors of an output < 37.5 watts,69.759,0.000222,Burkina Faso -  Electric motors of an output < 37.5 watts
+923,508,Mozambique,380,Italy,88," Gliders, hang gliders",66.761,0.000417,"Italy -  Gliders, hang gliders"
+924,508,Mozambique,040,Austria,62," Mens, boys overcoats of wool or hair, not knit",65.919,0.00040699999999999997,"Austria -  Mens, boys overcoats of wool or hair, not knit"
+925,508,Mozambique,528,Netherlands (Kingdom of the),25," Salt (sodium chloride) including solution, salt water",65.261,0.13093100000000002,"Netherlands (Kingdom of the) -  Salt (sodium chloride) including solution, salt water"
+926,508,Mozambique,682,Saudi Arabia,76," Aluminium unwrought, not alloyed",65.015,0.070735,"Saudi Arabia -  Aluminium unwrought, not alloyed"
+927,508,Mozambique,756,"Switzerland, Liechtenstein",96," Worked ivory, articles of ivory",64.273,0.0053419999999999995,"Switzerland, Liechtenstein -  Worked ivory, articles of ivory"
+928,508,Mozambique,804,Ukraine,95," Rideable wheeled toys, dolls carriages",63.859,3.1e-05,"Ukraine -  Rideable wheeled toys, dolls carriages"
+929,508,Mozambique,702,Singapore,24," Tobacco, unmanufactured, not stemmed or stripped",63.645,0.012898,"Singapore -  Tobacco, unmanufactured, not stemmed or stripped"
+930,508,Mozambique,352,Iceland,07," Potatoes seed, fresh or chilled",62.687,0.004609,"Iceland -  Potatoes seed, fresh or chilled"
+931,508,Mozambique,554,New Zealand,40," Natural rubber latex, including prevulcanised",62.472,0.0052910000000000006,"New Zealand -  Natural rubber latex, including prevulcanised"
+932,508,Mozambique,360,Indonesia,90," Optical fibres, except for telecommunications",61.957,0.0030859999999999998,"Indonesia -  Optical fibres, except for telecommunications"
+933,508,Mozambique,404,Kenya,40," Natural rubber latex, including prevulcanised",61.785,0.000671,"Kenya -  Natural rubber latex, including prevulcanised"
+934,508,Mozambique,040,Austria,40," Natural rubber latex, including prevulcanised",61.585,0.00833,"Austria -  Natural rubber latex, including prevulcanised"
+935,508,Mozambique,360,Indonesia,84, Nuclear reactors,61.363,0.014272,Indonesia -  Nuclear reactors
+936,508,Mozambique,454,Malawi,09," Coffee, not roasted, not decaffeinated",59.834,0.013680999999999999,"Malawi -  Coffee, not roasted, not decaffeinated"
+937,508,Mozambique,756,"Switzerland, Liechtenstein",84, Nuclear reactors,58.985,0.023632999999999998,"Switzerland, Liechtenstein -  Nuclear reactors"
+938,508,Mozambique,360,Indonesia,85, Electric motors of an output < 37.5 watts,58.766,0.002177,Indonesia -  Electric motors of an output < 37.5 watts
+939,508,Mozambique,682,Saudi Arabia,84, Nuclear reactors,57.885,0.007245,Saudi Arabia -  Nuclear reactors
+940,508,Mozambique,380,Italy,82, Spades and shovels,54.409,0.171505,Italy -  Spades and shovels
+941,508,Mozambique,208,Denmark,90," Optical fibres, except for telecommunications",52.165,0.000782,"Denmark -  Optical fibres, except for telecommunications"
+942,508,Mozambique,834,"Tanzania, United Republic of",49," Brochures, leaflets and similar, in single sheets",50.031,0.071926,"Tanzania, United Republic of -  Brochures, leaflets and similar, in single sheets"
+943,508,Mozambique,748,Eswatini,65," Hat-forms, etc of felt, not shaped, no formed brim",49.701,0.042671,"Eswatini -  Hat-forms, etc of felt, not shaped, no formed brim"
+944,508,Mozambique,352,Iceland,95," Rideable wheeled toys, dolls carriages",49.608,0.0015609999999999999,"Iceland -  Rideable wheeled toys, dolls carriages"
+945,508,Mozambique,748,Eswatini,90," Optical fibres, except for telecommunications",48.366,0.179514,"Eswatini -  Optical fibres, except for telecommunications"
+946,508,Mozambique,454,Malawi,89," Cruise ships, excursion boats, ferry boats",47.358,0.005135,"Malawi -  Cruise ships, excursion boats, ferry boats"
+947,508,Mozambique,156,China,92," Upright pianos, including auto-players",46.965,0.001858,"China -  Upright pianos, including auto-players"
+948,508,Mozambique,756,"Switzerland, Liechtenstein",38, Artificial graphite,44.045,0.066503,"Switzerland, Liechtenstein -  Artificial graphite"
+949,508,Mozambique,804,Ukraine,26," Iron ore, concentrate, not iron pyrites,unagglomerate",43.573,0.07840000000000001,"Ukraine -  Iron ore, concentrate, not iron pyrites,unagglomerate"
+950,508,Mozambique,554,New Zealand,42," Saddlery and harness, of any material",42.935,0.001416,"New Zealand -  Saddlery and harness, of any material"
+951,508,Mozambique,404,Kenya,82, Spades and shovels,42.677,0.0007830000000000001,Kenya -  Spades and shovels
+952,508,Mozambique,834,"Tanzania, United Republic of",83, Padlocks of base metal,42.335,0.029337,"Tanzania, United Republic of -  Padlocks of base metal"
+953,508,Mozambique,040,Austria,39, Polyethylene - specific gravity <0.94 in primary form,42.254,0.00107,Austria -  Polyethylene - specific gravity <0.94 in primary form
+954,508,Mozambique,586,Pakistan,74, Copper mattes,41.166,0.171351,Pakistan -  Copper mattes
+955,508,Mozambique,702,Singapore,96," Worked ivory, articles of ivory",41.068,0.00277,"Singapore -  Worked ivory, articles of ivory"
+956,508,Mozambique,404,Kenya,95," Rideable wheeled toys, dolls carriages",40.636,0.215875,"Kenya -  Rideable wheeled toys, dolls carriages"
+957,508,Mozambique,120,Cameroon,82, Spades and shovels,40.51,0.10561100000000001,Cameroon -  Spades and shovels
+958,508,Mozambique,578,Norway,95," Rideable wheeled toys, dolls carriages",39.289,0.005857,"Norway -  Rideable wheeled toys, dolls carriages"
+959,508,Mozambique,250,France,06," Bulbs, tubers, corms, crowns and rhizomes, dormant",38.59,0.010208,"France -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+960,508,Mozambique,682,Saudi Arabia,39, Polyethylene - specific gravity <0.94 in primary form,38.118,0.006413,Saudi Arabia -  Polyethylene - specific gravity <0.94 in primary form
+961,508,Mozambique,646,Rwanda,82, Spades and shovels,37.929,0.049443,Rwanda -  Spades and shovels
+962,508,Mozambique,716,Zimbabwe,64," Waterproof footwear (Wellingtons etc), metal toe cap",37.828,0.008064,"Zimbabwe -  Waterproof footwear (Wellingtons etc), metal toe cap"
+963,508,Mozambique,686,Senegal,49," Brochures, leaflets and similar, in single sheets",37.401,0.011300000000000001,"Senegal -  Brochures, leaflets and similar, in single sheets"
+964,508,Mozambique,250,France,49," Brochures, leaflets and similar, in single sheets",37.216,0.00204,"France -  Brochures, leaflets and similar, in single sheets"
+965,508,Mozambique,528,Netherlands (Kingdom of the),83, Padlocks of base metal,37.154,0.00046800000000000005,Netherlands (Kingdom of the) -  Padlocks of base metal
+966,508,Mozambique,120,Cameroon,49," Brochures, leaflets and similar, in single sheets",36.449,0.000323,"Cameroon -  Brochures, leaflets and similar, in single sheets"
+967,508,Mozambique,051,Armenia,08," Coconuts, fresh or dried",36.163,0.011668,"Armenia -  Coconuts, fresh or dried"
+968,508,Mozambique,208,Denmark,84, Nuclear reactors,35.198,0.000219,Denmark -  Nuclear reactors
+969,508,Mozambique,072,Botswana,85, Electric motors of an output < 37.5 watts,34.421,0.005804,Botswana -  Electric motors of an output < 37.5 watts
+970,508,Mozambique,716,Zimbabwe,42," Saddlery and harness, of any material",34.322,0.004581,"Zimbabwe -  Saddlery and harness, of any material"
+971,508,Mozambique,288,Ghana,95," Rideable wheeled toys, dolls carriages",33.884,0.047683,"Ghana -  Rideable wheeled toys, dolls carriages"
+972,508,Mozambique,834,"Tanzania, United Republic of",06," Bulbs, tubers, corms, crowns and rhizomes, dormant",32.71,0.018245,"Tanzania, United Republic of -  Bulbs, tubers, corms, crowns and rhizomes, dormant"
+973,508,Mozambique,454,Malawi,65," Hat-forms, etc of felt, not shaped, no formed brim",32.628,0.346719,"Malawi -  Hat-forms, etc of felt, not shaped, no formed brim"
+974,508,Mozambique,344,"China, Hong Kong SAR",41," Bovine skins, whole, raw",31.641,0.012897,"China, Hong Kong SAR -  Bovine skins, whole, raw"
+975,508,Mozambique,646,Rwanda,22, Mineral and aerated waters not sweetened or flavoured,31.563,0.008544000000000001,Rwanda -  Mineral and aerated waters not sweetened or flavoured
+976,508,Mozambique,748,Eswatini,91," Wrist-watch, precious metal, battery, with hands",31.054,0.014557,"Eswatini -  Wrist-watch, precious metal, battery, with hands"
+977,508,Mozambique,716,Zimbabwe,12, Soya beans,31.032,0.013560000000000001,Zimbabwe -  Soya beans
+978,508,Mozambique,072,Botswana,62," Mens, boys overcoats of wool or hair, not knit",30.789,0.033616,"Botswana -  Mens, boys overcoats of wool or hair, not knit"
+979,508,Mozambique,834,"Tanzania, United Republic of",76," Aluminium unwrought, not alloyed",30.245,0.081813,"Tanzania, United Republic of -  Aluminium unwrought, not alloyed"
+980,508,Mozambique,454,Malawi,82, Spades and shovels,28.666,0.011545,Malawi -  Spades and shovels
+981,508,Mozambique,398,Kazakhstan,24," Tobacco, unmanufactured, not stemmed or stripped",28.506,0.007894,"Kazakhstan -  Tobacco, unmanufactured, not stemmed or stripped"
+982,508,Mozambique,410,"Korea, Republic of",85, Electric motors of an output < 37.5 watts,28.109,5.9e-05,"Korea, Republic of -  Electric motors of an output < 37.5 watts"
+983,508,Mozambique,040,Austria,08," Coconuts, fresh or dried",27.693,0.007763,"Austria -  Coconuts, fresh or dried"
+984,508,Mozambique,426,Lesotho,84, Nuclear reactors,27.558,0.026188,Lesotho -  Nuclear reactors
+985,508,Mozambique,288,Ghana,57," Carpets of wool or fine animal hair, knotted",26.548,0.041248,"Ghana -  Carpets of wool or fine animal hair, knotted"
+986,508,Mozambique,404,Kenya,83, Padlocks of base metal,26.042,0.000307,Kenya -  Padlocks of base metal
+987,508,Mozambique,440,Lithuania,24," Tobacco, unmanufactured, not stemmed or stripped",25.332,0.007969,"Lithuania -  Tobacco, unmanufactured, not stemmed or stripped"
+988,508,Mozambique,748,Eswatini,33, Essential oils of bergamot,25.276,0.008523,Eswatini -  Essential oils of bergamot
+989,508,Mozambique,040,Austria,90," Optical fibres, except for telecommunications",25.002,0.000484,"Austria -  Optical fibres, except for telecommunications"
+990,508,Mozambique,454,Malawi,55," Filament tow of nylon, polyamides",23.229,0.013071,"Malawi -  Filament tow of nylon, polyamides"
+991,508,Mozambique,410,"Korea, Republic of",29, Saturated acyclic hydrocarbons,23.115,0.002384,"Korea, Republic of -  Saturated acyclic hydrocarbons"
+992,508,Mozambique,716,Zimbabwe,23," Flour or meal, pellet of meat or offal for animal fee",22.89,0.061082,"Zimbabwe -  Flour or meal, pellet of meat or offal for animal fee"
+993,508,Mozambique,380,Italy,49," Brochures, leaflets and similar, in single sheets",22.582,0.004441,"Italy -  Brochures, leaflets and similar, in single sheets"
+994,508,Mozambique,276,Germany,46, Plaits and products of plaiting materials,21.707,0.064256,Germany -  Plaits and products of plaiting materials
+995,508,Mozambique,756,"Switzerland, Liechtenstein",70," Glass cullet, waste or scrap, glass in the mass",21.461,0.001093,"Switzerland, Liechtenstein -  Glass cullet, waste or scrap, glass in the mass"
+996,508,Mozambique,528,Netherlands (Kingdom of the),67," Bird skins and feathers, articles therefrom",20.138,0.000474,"Netherlands (Kingdom of the) -  Bird skins and feathers, articles therefrom"
+997,508,Mozambique,616,Poland,61," Mens, boys overcoats, etc, of wool or hair, knit",18.918,0.00033600000000000004,"Poland -  Mens, boys overcoats, etc, of wool or hair, knit"
+998,508,Mozambique,404,Kenya,49," Brochures, leaflets and similar, in single sheets",17.817,0.005876,"Kenya -  Brochures, leaflets and similar, in single sheets"
+999,508,Mozambique,454,Malawi,83, Padlocks of base metal,17.387,0.001165,Malawi -  Padlocks of base metal
+1000,508,Mozambique,716,Zimbabwe,60," ""Long pile"" knit or crochet textile fabric",17.17,0.024702,"Zimbabwe -  ""Long pile"" knit or crochet textile fabric"
+1001,508,Mozambique,352,Iceland,92," Upright pianos, including auto-players",16.552,8.8e-05,"Iceland -  Upright pianos, including auto-players"
+1002,508,Mozambique,756,"Switzerland, Liechtenstein",64," Waterproof footwear (Wellingtons etc), metal toe cap",16.531,0.000211,"Switzerland, Liechtenstein -  Waterproof footwear (Wellingtons etc), metal toe cap"
+1003,508,Mozambique,840,United States of America,01," Horses, live pure-bred breeding",16.261,0.00037,"United States of America -  Horses, live pure-bred breeding"
+1004,508,Mozambique,528,Netherlands (Kingdom of the),42," Saddlery and harness, of any material",16.233,0.000816,"Netherlands (Kingdom of the) -  Saddlery and harness, of any material"
+1005,508,Mozambique,404,Kenya,69," Bricks, blocks and ceramic goods of siliceous earths",16.136,0.016856000000000003,"Kenya -  Bricks, blocks and ceramic goods of siliceous earths"
+1006,508,Mozambique,454,Malawi,81," Powders, tungsten (wolfram)",15.683,5.986269,"Malawi -  Powders, tungsten (wolfram)"
+1007,508,Mozambique,410,"Korea, Republic of",76," Aluminium unwrought, not alloyed",15.366,0.02054,"Korea, Republic of -  Aluminium unwrought, not alloyed"
+1008,508,Mozambique,208,Denmark,24," Tobacco, unmanufactured, not stemmed or stripped",15.004,0.002593,"Denmark -  Tobacco, unmanufactured, not stemmed or stripped"
+1009,508,Mozambique,478,Mauritania,62," Mens, boys overcoats of wool or hair, not knit",14.833,0.020676,"Mauritania -  Mens, boys overcoats of wool or hair, not knit"
+1010,508,Mozambique,072,Botswana,07," Potatoes seed, fresh or chilled",14.074,0.002262,"Botswana -  Potatoes seed, fresh or chilled"
+1011,508,Mozambique,072,Botswana,83, Padlocks of base metal,13.558,0.03458,Botswana -  Padlocks of base metal
+1012,508,Mozambique,807,North Macedonia,24," Tobacco, unmanufactured, not stemmed or stripped",13.486,0.015263,"North Macedonia -  Tobacco, unmanufactured, not stemmed or stripped"
+1013,508,Mozambique,288,Ghana,63, Electric blankets of textile material,13.413,0.017492999999999998,Ghana -  Electric blankets of textile material
+1014,508,Mozambique,056,Belgium,85, Electric motors of an output < 37.5 watts,13.293,0.005253,Belgium -  Electric motors of an output < 37.5 watts
+1015,508,Mozambique,748,Eswatini,30," Glands and other organs, dried, for therapeutic uses",13.264,0.004804999999999999,"Eswatini -  Glands and other organs, dried, for therapeutic uses"
+1016,508,Mozambique,716,Zimbabwe,67," Bird skins and feathers, articles therefrom",13.167,0.006883,"Zimbabwe -  Bird skins and feathers, articles therefrom"
+1017,508,Mozambique,404,Kenya,62," Mens, boys overcoats of wool or hair, not knit",12.964,0.002407,"Kenya -  Mens, boys overcoats of wool or hair, not knit"
+1018,508,Mozambique,454,Malawi,95," Rideable wheeled toys, dolls carriages",12.943,0.021,"Malawi -  Rideable wheeled toys, dolls carriages"
+1019,508,Mozambique,348,Hungary,27," Anthracite, not agglomerated",12.938,0.100001,"Hungary -  Anthracite, not agglomerated"
+1020,508,Mozambique,380,Italy,41," Bovine skins, whole, raw",12.767,2.5e-05,"Italy -  Bovine skins, whole, raw"
+1021,508,Mozambique,454,Malawi,69," Bricks, blocks and ceramic goods of siliceous earths",12.244,0.012176,"Malawi -  Bricks, blocks and ceramic goods of siliceous earths"
+1022,508,Mozambique,800,Uganda,84, Nuclear reactors,12.095,0.000149,Uganda -  Nuclear reactors
+1023,508,Mozambique,250,France,69," Bricks, blocks and ceramic goods of siliceous earths",11.972,0.005278,"France -  Bricks, blocks and ceramic goods of siliceous earths"
+1024,508,Mozambique,704,Viet Nam,41," Bovine skins, whole, raw",11.866,6e-06,"Viet Nam -  Bovine skins, whole, raw"
+1025,508,Mozambique,410,"Korea, Republic of",41," Bovine skins, whole, raw",11.137,0.000107,"Korea, Republic of -  Bovine skins, whole, raw"
+1026,508,Mozambique,528,Netherlands (Kingdom of the),69," Bricks, blocks and ceramic goods of siliceous earths",11.124,0.0015609999999999999,"Netherlands (Kingdom of the) -  Bricks, blocks and ceramic goods of siliceous earths"
+1027,508,Mozambique,392,Japan,49," Brochures, leaflets and similar, in single sheets",10.382,0.00016,"Japan -  Brochures, leaflets and similar, in single sheets"
+1028,508,Mozambique,834,"Tanzania, United Republic of",29, Saturated acyclic hydrocarbons,9.802,0.000486,"Tanzania, United Republic of -  Saturated acyclic hydrocarbons"
+1029,508,Mozambique,834,"Tanzania, United Republic of",42," Saddlery and harness, of any material",9.636,0.041151,"Tanzania, United Republic of -  Saddlery and harness, of any material"
+1030,508,Mozambique,040,Austria,71," Pearls natural, not permanently mounted or set",9.564,8.9e-05,"Austria -  Pearls natural, not permanently mounted or set"
+1031,508,Mozambique,586,Pakistan,71," Pearls natural, not permanently mounted or set",8.979,0.000108,"Pakistan -  Pearls natural, not permanently mounted or set"
+1032,508,Mozambique,643,Russian Federation,71," Pearls natural, not permanently mounted or set",8.316,8.999999999999999e-06,"Russian Federation -  Pearls natural, not permanently mounted or set"
+1033,508,Mozambique,410,"Korea, Republic of",49," Brochures, leaflets and similar, in single sheets",7.74,0.00015900000000000002,"Korea, Republic of -  Brochures, leaflets and similar, in single sheets"
+1034,508,Mozambique,056,Belgium,76," Aluminium unwrought, not alloyed",7.488,0.010582000000000001,"Belgium -  Aluminium unwrought, not alloyed"
+1035,508,Mozambique,442,Luxembourg,62," Mens, boys overcoats of wool or hair, not knit",6.956,0.000258,"Luxembourg -  Mens, boys overcoats of wool or hair, not knit"
+1036,508,Mozambique,056,Belgium,42," Saddlery and harness, of any material",6.922,0.0033079999999999997,"Belgium -  Saddlery and harness, of any material"
+1037,508,Mozambique,356,India,24," Tobacco, unmanufactured, not stemmed or stripped",6.741,0.002352,"India -  Tobacco, unmanufactured, not stemmed or stripped"
+1038,508,Mozambique,688,Serbia,08," Coconuts, fresh or dried",5.993,0.007976,"Serbia -  Coconuts, fresh or dried"
+1039,508,Mozambique,120,Cameroon,75, Nickel mattes,5.872,0.075699,Cameroon -  Nickel mattes
+1040,508,Mozambique,288,Ghana,42," Saddlery and harness, of any material",5.665,0.029794,"Ghana -  Saddlery and harness, of any material"
+1041,508,Mozambique,784,United Arab Emirates,61," Mens, boys overcoats, etc, of wool or hair, knit",5.531,0.002563,"United Arab Emirates -  Mens, boys overcoats, etc, of wool or hair, knit"
+1042,508,Mozambique,784,United Arab Emirates,76," Aluminium unwrought, not alloyed",5.162,0.015286,"United Arab Emirates -  Aluminium unwrought, not alloyed"
+1043,508,Mozambique,784,United Arab Emirates,24," Tobacco, unmanufactured, not stemmed or stripped",4.7,0.006872,"United Arab Emirates -  Tobacco, unmanufactured, not stemmed or stripped"
+1044,508,Mozambique,422,Lebanon,38, Artificial graphite,4.612,0.000383,Lebanon -  Artificial graphite
+1045,508,Mozambique,454,Malawi,10, Durum wheat,4.491,0.0028380000000000002,Malawi -  Durum wheat
+1046,508,Mozambique,392,Japan,76," Aluminium unwrought, not alloyed",4.333,0.005894,"Japan -  Aluminium unwrought, not alloyed"
+1047,508,Mozambique,834,"Tanzania, United Republic of",69," Bricks, blocks and ceramic goods of siliceous earths",4.244,0.004378999999999999,"Tanzania, United Republic of -  Bricks, blocks and ceramic goods of siliceous earths"
+1048,508,Mozambique,422,Lebanon,07," Potatoes seed, fresh or chilled",4.167,0.001063,"Lebanon -  Potatoes seed, fresh or chilled"
+1049,508,Mozambique,586,Pakistan,24," Tobacco, unmanufactured, not stemmed or stripped",3.872,0.0008110000000000001,"Pakistan -  Tobacco, unmanufactured, not stemmed or stripped"
+1050,508,Mozambique,372,Ireland,61," Mens, boys overcoats, etc, of wool or hair, knit",3.663,7.5e-05,"Ireland -  Mens, boys overcoats, etc, of wool or hair, knit"
+1051,508,Mozambique,528,Netherlands (Kingdom of the),62," Mens, boys overcoats of wool or hair, not knit",3.007,5.1e-05,"Netherlands (Kingdom of the) -  Mens, boys overcoats of wool or hair, not knit"
+1052,508,Mozambique,702,Singapore,61," Mens, boys overcoats, etc, of wool or hair, knit",2.773,0.0001,"Singapore -  Mens, boys overcoats, etc, of wool or hair, knit"
+1053,508,Mozambique,250,France,60," ""Long pile"" knit or crochet textile fabric",2.55,8.1e-05,"France -  ""Long pile"" knit or crochet textile fabric"
+1054,508,Mozambique,694,Sierra Leone,24," Tobacco, unmanufactured, not stemmed or stripped",2.4,0.002985,"Sierra Leone -  Tobacco, unmanufactured, not stemmed or stripped"
+1055,508,Mozambique,616,Poland,85, Electric motors of an output < 37.5 watts,2.041,4.2999999999999995e-05,Poland -  Electric motors of an output < 37.5 watts
+1056,508,Mozambique,586,Pakistan,76," Aluminium unwrought, not alloyed",1.726,0.008369999999999999,"Pakistan -  Aluminium unwrought, not alloyed"
+1057,508,Mozambique,528,Netherlands (Kingdom of the),61," Mens, boys overcoats, etc, of wool or hair, knit",1.524,1.9e-05,"Netherlands (Kingdom of the) -  Mens, boys overcoats, etc, of wool or hair, knit"
+1058,508,Mozambique,426,Lesotho,61," Mens, boys overcoats, etc, of wool or hair, knit",1.177,1.4999999999999999e-05,"Lesotho -  Mens, boys overcoats, etc, of wool or hair, knit"
+1059,508,Mozambique,426,Lesotho,49," Brochures, leaflets and similar, in single sheets",1.112,1.7e-05,"Lesotho -  Brochures, leaflets and similar, in single sheets"
+1060,508,Mozambique,716,Zimbabwe,61," Mens, boys overcoats, etc, of wool or hair, knit",1.063,0.000104,"Zimbabwe -  Mens, boys overcoats, etc, of wool or hair, knit"
+1061,508,Mozambique,804,Ukraine,08," Coconuts, fresh or dried",1.061,0.000819,"Ukraine -  Coconuts, fresh or dried"
+1062,508,Mozambique,686,Senegal,24," Tobacco, unmanufactured, not stemmed or stripped",0.993,0.0010940000000000001,"Senegal -  Tobacco, unmanufactured, not stemmed or stripped"
+1063,508,Mozambique,702,Singapore,01," Horses, live pure-bred breeding",0.939,1e-06,"Singapore -  Horses, live pure-bred breeding"
+1064,508,Mozambique,072,Botswana,38, Artificial graphite,0.857,5.8e-05,Botswana -  Artificial graphite
+1065,508,Mozambique,442,Luxembourg,24," Tobacco, unmanufactured, not stemmed or stripped",0.791,0.000177,"Luxembourg -  Tobacco, unmanufactured, not stemmed or stripped"
+1066,508,Mozambique,356,India,41," Bovine skins, whole, raw",0.534,0.00040100000000000004,"India -  Bovine skins, whole, raw"
+1067,508,Mozambique,578,Norway,71," Pearls natural, not permanently mounted or set",0.52,3.7e-05,"Norway -  Pearls natural, not permanently mounted or set"
+1068,508,Mozambique,716,Zimbabwe,62," Mens, boys overcoats of wool or hair, not knit",0.501,2e-05,"Zimbabwe -  Mens, boys overcoats of wool or hair, not knit"
+1069,508,Mozambique,716,Zimbabwe,52," Cotton, not carded or combed",0.499,1.7e-05,"Zimbabwe -  Cotton, not carded or combed"
+1070,508,Mozambique,454,Malawi,64," Waterproof footwear (Wellingtons etc), metal toe cap",0.429,0.000106,"Malawi -  Waterproof footwear (Wellingtons etc), metal toe cap"
+1071,508,Mozambique,454,Malawi,52," Cotton, not carded or combed",0.408,0.00013000000000000002,"Malawi -  Cotton, not carded or combed"
+1072,508,Mozambique,156,China,27," Anthracite, not agglomerated",0.257,1.4e-05,"China -  Anthracite, not agglomerated"
+1073,508,Mozambique,748,Eswatini,52," Cotton, not carded or combed",0.149,5.9999999999999995e-05,"Eswatini -  Cotton, not carded or combed"
+1074,508,Mozambique,410,"Korea, Republic of",01," Horses, live pure-bred breeding",0.112,0.0,"Korea, Republic of -  Horses, live pure-bred breeding"
+1075,508,Mozambique,454,Malawi,23," Flour or meal, pellet of meat or offal for animal fee",0.105,0.001825,"Malawi -  Flour or meal, pellet of meat or offal for animal fee"
+1076,508,Mozambique,040,Austria,24," Tobacco, unmanufactured, not stemmed or stripped",0.1,3e-06,"Austria -  Tobacco, unmanufactured, not stemmed or stripped"
+1077,508,Mozambique,426,Lesotho,64," Waterproof footwear (Wellingtons etc), metal toe cap",0.081,1.3e-05,"Lesotho -  Waterproof footwear (Wellingtons etc), metal toe cap"
+1078,508,Mozambique,454,Malawi,67," Bird skins and feathers, articles therefrom",0.068,0.000214,"Malawi -  Bird skins and feathers, articles therefrom"
+1079,508,Mozambique,404,Kenya,93," Military weapons, other than hand guns, swords, etc",0.048,0.000121,"Kenya -  Military weapons, other than hand guns, swords, etc"
+1080,508,Mozambique,344,"China, Hong Kong SAR",01," Horses, live pure-bred breeding",0.035,0.0,"China, Hong Kong SAR -  Horses, live pure-bred breeding"
+1081,508,Mozambique,392,Japan,01," Horses, live pure-bred breeding",0.029,1e-06,"Japan -  Horses, live pure-bred breeding"
+1082,508,Mozambique,454,Malawi,62," Mens, boys overcoats of wool or hair, not knit",0.005,0.0,"Malawi -  Mens, boys overcoats of wool or hair, not knit"
+1083,508,Mozambique,528,Netherlands (Kingdom of the),01," Horses, live pure-bred breeding",0.001,0.0,"Netherlands (Kingdom of the) -  Horses, live pure-bred breeding"
+1084,508,Mozambique,586,Pakistan,01," Horses, live pure-bred breeding",0.0,0.0,"Pakistan -  Horses, live pure-bred breeding"
+1085,508,Mozambique,512,Oman,01," Horses, live pure-bred breeding",0.0,0.0,"Oman -  Horses, live pure-bred breeding"
+1086,508,Mozambique,012,Algeria,85, Electric motors of an output < 37.5 watts,0.0,0.0,Algeria -  Electric motors of an output < 37.5 watts
+1087,508,Mozambique,716,Zimbabwe,91," Wrist-watch, precious metal, battery, with hands",0.0,0.0,"Zimbabwe -  Wrist-watch, precious metal, battery, with hands"
+1088,508,Mozambique,414,Kuwait,01," Horses, live pure-bred breeding",0.0,0.0,"Kuwait -  Horses, live pure-bred breeding"
+1089,508,Mozambique,826,United Kingdom,01," Horses, live pure-bred breeding",0.0,0.0,"United Kingdom -  Horses, live pure-bred breeding"
+1090,508,Mozambique,144,Sri Lanka,01," Horses, live pure-bred breeding",0.0,0.0,"Sri Lanka -  Horses, live pure-bred breeding"
+1091,508,Mozambique,144,Sri Lanka,07," Potatoes seed, fresh or chilled",0.0,0.0,"Sri Lanka -  Potatoes seed, fresh or chilled"
+1092,508,Mozambique,144,Sri Lanka,12, Soya beans,0.0,0.0,Sri Lanka -  Soya beans
+1093,508,Mozambique,834,"Tanzania, United Republic of",01," Horses, live pure-bred breeding",0.0,0.0,"Tanzania, United Republic of -  Horses, live pure-bred breeding"
+1094,508,Mozambique,012,Algeria,03," Ornamental fish, live",0.0,0.0,"Algeria -  Ornamental fish, live"
