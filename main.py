@@ -15,6 +15,7 @@ country_iso_codes = pd.read_csv(
   columns=country_iso_codes_r)
 
 country_iso_codes.loc[country_iso_codes.iso_country == "Namibia", "iso_2"] = "NA"
+country_iso_codes.loc[country_iso_codes.iso_country == "Congo, Democratic Republic of the", "iso_country"] = "Democratic Republic of the Congo"
 
 country_choice = st.selectbox(
     "For which country would you like to statistics related to international shipping, merchandise trade and MTM impact tracking?",
