@@ -56,15 +56,15 @@ if I_X == "Exports":
         "Top Export Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
     )
 
-    # Top Commodity Flows
+    # Top HS2 Commodity Flows
     if usd_t == "Value, $":
-        st.header("Top Export Commodity Flows by Value")
+        st.header("Top Export HS2 Commodity Flows by Value")
         co_profile = "X_co_usd"
         co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios/{0}/{1}.csv".format(\
             st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "HS2", "USD")
     else:
-        st.header("Top Export Commodity Flows by Weight")
+        st.header("Top Export HS2 Commodity Flows by Weight")
         co_profile = "X_co_t"
         co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios/{0}/{1}.csv".format(\
             st.session_state.iso_code, co_profile), index_col=0)
@@ -73,8 +73,8 @@ if I_X == "Exports":
 
     download_as_csv(
         co, 
-        "Top Export Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
-        "Top Export Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+        "Top Export HS2 Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Export HS2 Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
     )
 
     # Top Partner Economies
@@ -121,15 +121,15 @@ else:
         "Top Import Trade Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
     )
 
-    # Top Commodity Flows
+    # Top HS2 Commodity Flows
     if usd_t == "Value, $":
-        st.header("Top Import Commodity Flows by Value")
+        st.header("Top Import HS2 Commodity Flows by Value")
         co_profile = "I_co_usd"
         co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios/{0}/{1}.csv".format(\
             st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "HS2", "USD")
     else:
-        st.header("Top Import Commodity Flows by Weight")
+        st.header("Top Import HS2 Commodity Flows by Weight")
         co_profile = "I_co_t"
         co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios/{0}/{1}.csv".format(\
             st.session_state.iso_code, co_profile), index_col=0)
@@ -137,8 +137,8 @@ else:
 
     download_as_csv(
         co, 
-        "Top Import Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
-        "Top Import Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+        "Top Import HS2 Commodity Flows - {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
+        "Top Import HS2 Commodity Flows - {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
     )
 
     # Top Partner Economies
