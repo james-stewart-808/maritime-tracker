@@ -26,7 +26,7 @@ st.sidebar.markdown(
 
 N_ene_co2 = st.segmented_control(
     "Would you like to visualise the Number of Port Calls, Energy Demand or Carbon Dioxide?",
-    ["Number of Calls", "Energy Demand", "CO2 Emissions"]
+    ["Number of Calls", "Energy Demand", "GHG Emissions"]
 )
 if N_ene_co2 == None:
     N_ene_co2 = "Number of Calls"
@@ -123,7 +123,7 @@ int_arr_by_port_to_plot = pd.read_csv(
 int_arr_by_port_to_plot["inv_type"] = "Int. Arrivals"
 int_arr_by_port_to_plot_col_renames = {
     "Int. Arr. by Port":"Port", "n_vys":"Number of Calls", 
-    "ene_tj":"Energy Demand (TJ)", "co2e_t":"Carbon Dioxide (t)"
+    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)"
 }
 int_arr_by_port_to_plot = int_arr_by_port_to_plot.rename(
     columns=int_arr_by_port_to_plot_col_renames
