@@ -3,6 +3,21 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 import time
+input_dir = "https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/"
+
+def merch_trade_vis(dataset, x, y):
+    return st.altair_chart(
+        alt.Chart(dataset).mark_bar().encode(
+            x=alt.X(x, sort='-y', title=None),
+            y=y,
+            color=y))
+
+def download_as_csv(file, label, filename):
+    return st.download_button(
+            data=file.to_csv(index=False),
+            label=label,
+            file_name=filename)
+
 
 ##### MERCHANDISE TRADE PORTFOLIOS ######
 # Incorporate Comtrade Data Availability Tracker
@@ -21,33 +36,22 @@ usd_t = st.segmented_control(
 if usd_t == None:
     usd_t = "Value, $"
 
-def merch_trade_vis(dataset, x, y):
-    return st.altair_chart(
-        alt.Chart(dataset).mark_bar().encode(
-            x=alt.X(x, sort='-y', title=None),
-            y=y,
-            color=y))
-
-def download_as_csv(file, label, filename):
-    return st.download_button(
-            data=file.to_csv(index=False),
-            label=label,
-            file_name=filename)
-
 ### EXPORTS ###
 if I_X == "Exports":
     # Top Trade Flows
     if usd_t == "Value, $":
         st.header("Top Export Trade Flows by Value")
         tr_profile = "X_tr_usd"
-        tr = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, tr_profile), index_col=0)
+        tr = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "USD")
     else:
         st.header("Top Export Trade Flows by Weight")
         tr_profile = "X_tr_t"
-        tr = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, tr_profile), index_col=0)
+        tr = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
     download_as_csv(
@@ -60,15 +64,17 @@ if I_X == "Exports":
     if usd_t == "Value, $":
         st.header("Top Export HS2 Commodity Flows by Value")
         co_profile = "X_co_usd"
-        co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, co_profile), index_col=0)
+        co = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "USD")
         st.write(co.iloc[:5][["HS2", "Description", "USD"]])
     else:
         st.header("Top Export HS2 Commodity Flows by Weight")
         co_profile = "X_co_t"
-        co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, co_profile), index_col=0)
+        co = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "tonne")
         st.write(co.iloc[:5][["HS2", "Description", "tonne"]])
 
@@ -82,14 +88,16 @@ if I_X == "Exports":
     if usd_t == "Value, $":
         st.header("Top Export Partner Countries by Value")
         pa_profile = "X_pa_usd"
-        pa = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, pa_profile), index_col=0)
+        pa = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "imp_name", "USD")
     else:
         st.header("Top Export Partner Countries by Weight")
         pa_profile = "X_pa_t"
-        pa = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, pa_profile), index_col=0)
+        pa = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "imp_name", "tonne")
         #st.write(pa.iloc[:5][["imp_name", "tonne"]])
 
@@ -106,14 +114,16 @@ else:
     if usd_t == "Value, $":
         st.header("Top Import Trade Flows by Value")
         tr_profile = "I_tr_usd"
-        tr = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, tr_profile), index_col=0)
+        tr = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "USD")
     else:
         st.header("Top Import Trade Flows by Weight")
         tr_profile = "I_tr_t"
-        tr = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, tr_profile), index_col=0)
+        tr = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, tr_profile), index_col=0)
         merch_trade_vis(tr.iloc[:25], "clean_desc", "tonne")
 
     download_as_csv(
@@ -126,14 +136,16 @@ else:
     if usd_t == "Value, $":
         st.header("Top Import HS2 Commodity Flows by Value")
         co_profile = "I_co_usd"
-        co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, co_profile), index_col=0)
+        co = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "USD")
     else:
         st.header("Top Import HS2 Commodity Flows by Weight")
         co_profile = "I_co_t"
-        co = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, co_profile), index_col=0)
+        co = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "tonne")
 
     download_as_csv(
@@ -146,14 +158,16 @@ else:
     if usd_t == "Value, $":
         st.header("Top Import Partner Countries by Value")
         pa_profile = "I_pa_usd"
-        pa = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, pa_profile), index_col=0)
+        pa = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "exp_name", "USD")
     else:
         st.header("Top Import Partner Countries by Weight")
         pa_profile = "I_pa_t"
-        pa = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/portfolios_v0.2/{0}/{1}.csv".format(\
-            st.session_state.iso_code, pa_profile), index_col=0)
+        pa = pd.read_csv(
+            input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
+                st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "exp_name", "tonne")
 
     download_as_csv(
@@ -169,7 +183,8 @@ st.markdown(" - The quality of data hosted on Comtrade is highly variable depend
 st.markdown(" - Presented below is the Comtrade contribution record for the selected country of interest over the decade from 2014-23.")
 st.markdown(" - Please bear this information in-mind when exploring the trade data - merchandise trade statistics will be more reliable for countries that have provided their data often over recent years.")
 
-by_country_contrib_record_v1 = pd.read_csv("https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/by_country_contrib_record_v1.csv")
+by_country_contrib_record_v1 = pd.read_csv(
+    input_dir + "by_country_contrib_record_v1.csv")
 #st.write(by_country_contrib_record_v1)
 
 def com_cont_aggregator(df, aggregator):
