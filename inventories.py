@@ -14,7 +14,8 @@ def download_as_csv(file, label, filename):
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
 # Re-write subset output scripts in terms country codes (e.g. '007') and include 'Disaggregation by Partner Countries'.
 
-st.title("International Voyage-based Activity Inventories for {0}".format(st.session_state.iso_country))
+st.title("International Voyage-based Activity Inventories for {0}".format(
+    st.session_state.iso_country))
 st.sidebar.markdown("International Voyage-based Maritime Activity Inventories Disaggregated by Port and Vessel Type, Sourced from the 4th IMO GHG Study (Faber et al, 2020).")
 
 N_ene_co2 = st.segmented_control(
@@ -24,7 +25,8 @@ if N_ene_co2 == None:
     N_ene_co2 = "Number of Calls"
 
 ### INVENTORIES BY VESSEL TYPE ###
-st.header("{0} by Vessel Type".format(N_ene_co2))
+st.header("{0} by Vessel Type".format(
+    N_ene_co2))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_type_to_plot_cols = ["int_arr_type", "n_vys", "ene_tj", "co2_t"]
