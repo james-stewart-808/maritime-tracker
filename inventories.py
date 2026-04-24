@@ -46,7 +46,7 @@ int_arr_by_type_to_plot = pd.read_csv(\
 
 int_arr_by_type_to_plot["inv_type"] = "Int. Arrivals"
 int_arr_by_type_to_plot_col_renames = {
-    "int_arr_type":"Vessel Type", "n_vys":"Number of Calls", 
+    "Int. Arr. by Type": "Vessel Type", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)"
 }
 int_arr_by_type_to_plot = int_arr_by_type_to_plot.rename(
@@ -64,7 +64,7 @@ int_dep_by_type_to_plot = pd.read_csv(
 
 int_dep_by_type_to_plot["inv_type"] = "Int. Departures"
 int_dep_by_type_to_plot_col_renames = {
-    "int_dep_type":"Vessel Type", "n_vys":"Number of Calls", 
+    "Int. Dep. by Type": "Vessel Type", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)"
 }
 int_dep_by_type_to_plot = int_dep_by_type_to_plot.rename(
@@ -115,14 +115,14 @@ download_as_csv(
 st.header("{0} by Port of Interest".format(N_ene_co2))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_port_to_plot_cols = ["int_arr_port", "n_vys", "ene_tj", "co2e_t"]
+int_arr_by_port_to_plot_cols = ["Int. Arr. by Port", "n_vys", "ene_tj", "co2e_t"]
 int_arr_by_port_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_arr_inv_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols=int_arr_by_port_to_plot_cols)
 int_arr_by_port_to_plot["inv_type"] = "Int. Arrivals"
 int_arr_by_port_to_plot_col_renames = {
-    "int_arr_port":"Port", "n_vys":"Number of Calls", 
+    "Int. Arr. by Port":"Port", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"Carbon Dioxide (t)"
 }
 int_arr_by_port_to_plot = int_arr_by_port_to_plot.rename(
@@ -130,7 +130,7 @@ int_arr_by_port_to_plot = int_arr_by_port_to_plot.rename(
 )
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_port_to_plot_cols = ["int_dep_port", "n_vys", "ene_tj", "co2e_t"]
+int_dep_by_port_to_plot_cols = ["Int. Dep. by Port", "n_vys", "ene_tj", "co2e_t"]
 int_dep_by_port_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_inv_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -138,7 +138,7 @@ int_dep_by_port_to_plot = pd.read_csv(
 
 int_dep_by_port_to_plot["inv_type"] = "Int. Departures"
 int_dep_by_port_to_plot_col_renames = {
-    "int_dep_port":"Port", "n_vys":"Number of Calls", 
+    "Int. Dep. by Port":"Port", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)"
 }
 int_dep_by_port_to_plot = int_dep_by_port_to_plot.rename(
