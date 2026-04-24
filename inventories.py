@@ -160,7 +160,7 @@ int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner_to_plot, int_dep_by_p
 if N_ene_co2 == "Number of Calls":
     st.altair_chart(
         alt.Chart(
-            int_inv_by_partner_to_plot).mark_bar().encode(
+            int_arr_by_partner_to_plot).mark_bar().encode(
             x=alt.X("Partner Economy", sort='-y'),
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
