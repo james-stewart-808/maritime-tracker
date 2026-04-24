@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 import altair as alt
 import time
+input_dir = "https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/"
 
 def download_as_csv(file, label, filename):
     return st.download_button(
@@ -10,7 +11,11 @@ def download_as_csv(file, label, filename):
             label=label,
             file_name=filename)
 
-st.sidebar.markdown("Impact tracking results derived from the linking of: i) seaborne merchandise trade data for 2018 sourced from the UNCTAD Trade-and-Transport, ii) AIS data underpinning the 4th IMO GHG Study and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero Framework (NZF).")
+st.sidebar.markdown(
+    "Impact tracking results derived from the linking of: i) seaborne merchandise trade data for \
+    2018 sourced from the UNCTAD Trade-and-Transport, ii) AIS data underpinning the 4th IMO GHG \
+    Study and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero \
+    Framework (NZF).")
 
 impact_res_ex_c = [
     "source_iso_code", "source_country", "gdp_2018_wb", "vol_kg", "val_usd",
@@ -56,7 +61,7 @@ impact_res_ex_r = {
 }
 
 impact_res_ex = pd.read_csv(
-    "https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/impact_analysis_ex.csv",
+    input_dir + "impact_analysis_ex.csv",
     dtype={"source_iso_code":"str"}
 ).rename(columns=impact_res_ex_r)
 
@@ -64,7 +69,8 @@ impact_res_ex_so = impact_res_ex.sort_values(by="NZF Incremental Cost in 2050 (%
 impact_res_ex_cou = impact_res_ex_so[(impact_res_ex_so.source_iso_code == st.session_state.iso_code)]
 impact_res_ex_cou_rank = impact_res_ex_cou.index.values[0]+1
 
-st.title("Key Impact Tracking Results for {0}".format(st.session_state.iso_country))
+st.title("Key Impact Tracking Results for {0}".format(
+    st.session_state.iso_country))
 
 st.write("\
 Using the voyages dataset to model the compliance costs costs associated with the IMO NZF, we are now in a \
@@ -125,6 +131,8 @@ impact_res_ex_cou_display = impact_res_ex_cou_display.apply(
 st.write(impact_res_ex_cou_display)
 download_as_csv(
     impact_res_ex_cou[impact_res_ex_cou_cols].T, 
-    "IMO NZF Impacts for {0} ({1})".format(st.session_state.iso_country, st.session_state.iso_code),
-    "IMO NZF Impacts for {0} ({1}).csv".format(st.session_state.iso_country, st.session_state.iso_code)
+    "IMO NZF Impacts for {0} ({1})".format(
+        st.session_state.iso_country, st.session_state.iso_code),
+    "IMO NZF Impacts for {0} ({1}).csv".format(
+        st.session_state.iso_country, st.session_state.iso_code)
 )
