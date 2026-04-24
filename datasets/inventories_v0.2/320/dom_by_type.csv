@@ -1,0 +1,4 @@
+Domestic by Type,n_vys,n_imo,tps_mn_gtnm,tps_mn_dwtnm,aby_vys,aby_flt,aby_gtnm,aby_dwtnm,avd_vys,avd_flt,avd_gtnm,avd_dwtnm,avt_vys,avt_flt,avt_gtnm,avt_dwtnm,apt_vys,apt_flt,apt_gtnm,apt_dwtnm,ene_tj,co2_t,co2e_t,s24_30,s24_40,s24_50,s24_30_voy,s24_40_voy,s24_50_voy
+Container,6,4,149,187,2006,2007,2006,2006,908,490,1031,1015,96,57,190,190,18,20,13,13,29.9,2318,2362,157384,567191,615880,26231,94803,110690
+Chemical tanker,2,2,3,5,2011,2011,2007,2007,54,54,54,53,26,26,27,27,34,34,51,51,2.4,185,188,985,7212,8316,492,4252,5227
+Oil tanker,1,1,2,4,2000,2000,2000,2000,54,54,54,54,62,62,62,62,18,18,18,18,1.5,116,119,3213,5038,6827,3213,7408,9324

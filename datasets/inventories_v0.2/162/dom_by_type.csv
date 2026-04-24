@@ -1,0 +1,3 @@
+Domestic by Type,n_vys,n_imo,tps_mn_gtnm,tps_mn_dwtnm,aby_vys,aby_flt,aby_gtnm,aby_dwtnm,avd_vys,avd_flt,avd_gtnm,avd_dwtnm,avt_vys,avt_flt,avt_gtnm,avt_dwtnm,apt_vys,apt_flt,apt_gtnm,apt_dwtnm,ene_tj,co2_t,co2e_t,s24_30,s24_40,s24_50,s24_30_voy,s24_40_voy,s24_50_voy
+General cargo,2,2,29,39,2010,2010,2012,2012,2528,2528,2058,2020,322,322,559,558,10,10,9,9,4.2,324,330,64320,189330,261423,32160,129743,163877
+Chemical tanker,1,1,1,2,2010,2010,2010,2010,155,155,155,155,25,25,25,25,70,70,70,70,1.1,83,85,2294,6519,7722,2294,7191,8430
