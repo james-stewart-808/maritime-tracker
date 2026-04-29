@@ -17,57 +17,47 @@ st.sidebar.markdown(
     Study and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero \
     Framework (NZF).")
 
-impact_res_ex_c = [
-    "source_iso_code", "source_country", "gdp_2018_wb", "vol_kg", "val_usd",
-    "vol_kg_recon", "val_usd_recon", "ene_tj_recon", "co2_t_recon",
-    "bau_usd_23_recon", "bau_usd_30_recon", "bau_usd_40_recon", "bau_usd_50_recon",
-    "bau_23_pct_gdp", "bau_30_pct_gdp", "bau_40_pct_gdp", "bau_50_pct_gdp", 
-    "s24_usd_23_recon_del", "s24_usd_30_recon_del", "s24_usd_40_recon_del", "s24_usd_50_recon_del",
-    "s24_del_23_pct_gdp", "s24_del_30_pct_gdp", "s24_del_40_pct_gdp", "s24_del_50_pct_gdp"
+impact_res_c = [
+    "iso_code", "iso_country", "wb_gdp_2018", 
+    "XI_vol_kg", "XI_vol_kg_recon", 
+    "XI_val_usd", "XI_val_usd_recon", 
+    "XI_ene_tj_recon", "XI_co2_t_recon",
+    "XI_s24_usd_23_recon_del", "XI_s24_usd_30_recon_del", "XI_s24_usd_40_recon_del", "XI_s24_usd_50_recon_del",
+    "XI_s24_del_23_pct_gdp", "XI_s24_del_30_pct_gdp", "XI_s24_del_40_pct_gdp", "XI_s24_del_50_pct_gdp"
 ]
-impact_res_ex_r = {
+impact_res_r = {
     
     # Country Stats
-    "source_country":"Country",
-    "gdp_2018_wb":"GDP (2018)",
-    "vol_kg":"Trade Portfolio Volume (kg)", 
-    "val_usd":"Trade Portfolio Value (US$)", 
+    "iso_code": "Country",
+    "wb_gdp_2018": "GDP (2018)",
+    "XI_vol_kg": "Trade Portfolio Volume (kg)", 
+    "XI_val_usd": "Trade Portfolio Value (US$)", 
 
     # Trade Reconstruction Stats
-    "vol_kg_recon":"Reconstructed Trade Volume (kg)", 
-    "val_usd_recon":"Reconstructed Trade Value (US$)", 
-    "ene_tj_recon":"Reconstructed Trade Energy Demand (TJ)", 
-    "co2_t_recon":"Reconstructed Trade CO2 Emissions (t)", 
-
-    # NZF Compliance Costs (BAU Only)
-    "bau_usd_23_recon":"BAU Costs in 2023 (US$)", 
-    "bau_usd_30_recon":"BAU Costs in 2030 (US$)", 
-    "bau_usd_40_recon":"BAU Costs in 2040 (US$)", 
-    "bau_usd_50_recon":"BAU Costs in 2050 (US$)",
-    "bau_23_pct_gdp":"BAU Costs in 2023 (%GDP)", 
-    "bau_30_pct_gdp":"BAU Costs in 2030 (%GDP)", 
-    "bau_40_pct_gdp":"BAU Costs in 2040 (%GDP)", 
-    "bau_50_pct_gdp":"BAU Costs in 2050 (%GDP)", 
+    "XI_vol_kg_recon": "Reconstructed Trade Volume (kg)", 
+    "XI_val_usd_recon": "Reconstructed Trade Value (US$)", 
+    "XI_ene_tj_recon": "Reconstructed Trade Energy Demand (TJ)", 
+    "XI_co2_t_recon": "Reconstructed Trade CO2 Emissions (t)", 
 
     # NZF Compliance Costs (S24 delta from BAU)
-    "s24_usd_23_recon_del":"NZF Incremental Cost in 2023 (US$)", 
-    "s24_usd_30_recon_del":"NZF Incremental Cost in 2030 (US$)", 
-    "s24_usd_40_recon_del":"NZF Incremental Cost in 2040 (US$)", 
-    "s24_usd_50_recon_del":"NZF Incremental Cost in 2050 (US$)",
-    "s24_del_23_pct_gdp":"NZF Incremental Cost in 2023 (%GDP)", 
-    "s24_del_30_pct_gdp":"NZF Incremental Cost in 2030 (%GDP)", 
-    "s24_del_40_pct_gdp":"NZF Incremental Cost in 2040 (%GDP)", 
-    "s24_del_50_pct_gdp":"NZF Incremental Cost in 2050 (%GDP)"
+    "XI_s24_usd_23_recon_del": "NZF Incremental Cost in 2023 (US$)", 
+    "XI_s24_usd_30_recon_del": "NZF Incremental Cost in 2030 (US$)", 
+    "XI_s24_usd_40_recon_del": "NZF Incremental Cost in 2040 (US$)", 
+    "XI_s24_usd_50_recon_del": "NZF Incremental Cost in 2050 (US$)",
+    "XI_s24_del_23_pct_gdp": "NZF Incremental Cost in 2023 (%GDP)", 
+    "XI_s24_del_30_pct_gdp": "NZF Incremental Cost in 2030 (%GDP)", 
+    "XI_s24_del_40_pct_gdp": "NZF Incremental Cost in 2040 (%GDP)", 
+    "XI_s24_del_50_pct_gdp": "NZF Incremental Cost in 2050 (%GDP)"
 }
 
-impact_res_ex = pd.read_csv(
-    input_dir + "impact_analysis_ex.csv",
-    dtype={"source_iso_code":"str"}
-).rename(columns=impact_res_ex_r)
+impact_res = pd.read_csv(
+    input_dir + "res_coun_f.csv",
+    dtype={"iso_code":"str"}
+).rename(columns=impact_res_r)
 
-impact_res_ex_so = impact_res_ex.sort_values(by="NZF Incremental Cost in 2050 (%GDP)", ascending=False).reset_index(drop=True)
-impact_res_ex_cou = impact_res_ex_so[(impact_res_ex_so.source_iso_code == st.session_state.iso_code)]
-impact_res_ex_cou_rank = impact_res_ex_cou.index.values[0]+1
+impact_res_so = impact_res.sort_values(by="NZF Incremental Cost in 2050 (%GDP)", ascending=False).reset_index(drop=True)
+impact_res_cou = impact_res_so[(impact_res_so.source_iso_code == st.session_state.iso_code)]
+impact_res_cou_rank = impact_res_cou.index.values[0]+1
 
 st.title("Key Impact Tracking Results for {0}".format(
     st.session_state.iso_country))
@@ -82,10 +72,10 @@ st.header("Global IMO NZF Compliance Costs to 2050")
 combined_df = pd.DataFrame(data={
     "Year":["2023", "2030", "2040", "2050"],
     "IMO NZF (US$bn)":[
-        round(impact_res_ex_so["NZF Incremental Cost in 2023 (US$)"].sum() / 1e9, 1),
-        round(impact_res_ex_so["NZF Incremental Cost in 2030 (US$)"].sum() / 1e9, 1),
-        round(impact_res_ex_so["NZF Incremental Cost in 2040 (US$)"].sum() / 1e9, 1),
-        round(impact_res_ex_so["NZF Incremental Cost in 2050 (US$)"].sum() / 1e9, 1)
+        round(impact_res_so["NZF Incremental Cost in 2023 (US$)"].sum() / 1e9, 1),
+        round(impact_res_so["NZF Incremental Cost in 2030 (US$)"].sum() / 1e9, 1),
+        round(impact_res_so["NZF Incremental Cost in 2040 (US$)"].sum() / 1e9, 1),
+        round(impact_res_so["NZF Incremental Cost in 2050 (US$)"].sum() / 1e9, 1)
     ]})
 
 st.altair_chart(
@@ -110,27 +100,28 @@ download_as_csv(
 st.header("Country-specific Results")
 st.caption("Top 25 Countries in terms of Impacts Generated by the IMO NZF in 2050 - by % share of GDP")
 st.altair_chart(
-    alt.Chart(impact_res_ex_so.sort_values(by="NZF Incremental Cost in 2050 (%GDP)", ascending=False).iloc[:25]).mark_bar().encode(
+    alt.Chart(impact_res_so.sort_values(by="NZF Incremental Cost in 2050 (%GDP)", ascending=False).iloc[:25]).mark_bar().encode(
         x=alt.X("Country", sort='-y'),
         y=alt.Y("NZF Incremental Cost in 2050 (%GDP)"),
         color="NZF Incremental Cost in 2050 (%GDP)"))
 
-impact_res_ex_cou_cols=[
+impact_res_cou_cols=[
     "Country", 
-    "Reconstructed Trade Volume (kg)", "Reconstructed Trade Value (US$)", "Reconstructed Trade Energy Demand (TJ)", "Reconstructed Trade CO2 Emissions (t)", 
+    "Reconstructed Trade Volume (kg)", "Reconstructed Trade Value (US$)", 
+    "Reconstructed Trade Energy Demand (TJ)", "Reconstructed Trade CO2 Emissions (t)", 
     "NZF Incremental Cost in 2023 (US$)", "NZF Incremental Cost in 2023 (%GDP)", 
     "NZF Incremental Cost in 2030 (US$)", "NZF Incremental Cost in 2030 (%GDP)", 
     "NZF Incremental Cost in 2040 (US$)", "NZF Incremental Cost in 2040 (%GDP)", 
     "NZF Incremental Cost in 2050 (US$)", "NZF Incremental Cost in 2050 (%GDP)"
 ]
-impact_res_ex_cou_display = impact_res_ex_cou[impact_res_ex_cou_cols].round(2).T
+impact_res_cou_display = impact_res_cou[impact_res_cou_cols].round(2).T
 
-impact_res_ex_cou_display = impact_res_ex_cou_display.apply(
+impact_res_cou_display = impact_res_cou_display.apply(
     lambda col: col.map(lambda x: f"{x:,.2f}" if isinstance(x, (int, float)) else x)
 )
-st.write(impact_res_ex_cou_display)
+st.write(impact_res_cou_display)
 download_as_csv(
-    impact_res_ex_cou[impact_res_ex_cou_cols].T, 
+    impact_res_cou[impact_res_cou_cols].T, 
     "IMO NZF Impacts for {0} ({1})".format(
         st.session_state.iso_country, st.session_state.iso_code),
     "IMO NZF Impacts for {0} ({1}).csv".format(
