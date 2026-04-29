@@ -28,7 +28,7 @@ impact_res_c = [
 impact_res_r = {
     
     # Country Stats
-    "iso_code": "Country",
+    "iso_country": "Country",
     "wb_gdp_2018": "GDP (2018)",
     "XI_vol_kg": "Trade Portfolio Volume (kg)", 
     "XI_val_usd": "Trade Portfolio Value (US$)", 
