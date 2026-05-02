@@ -26,8 +26,10 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
+    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
+     "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
+indicator_cols = ["n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"
 if indicator == None:
     indicator = "Number of Calls"
 
@@ -37,7 +39,7 @@ st.header("{0} by Vessel Type".format(
     indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_type_to_plot_cols = ["Int. Arr. by Type", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_arr_by_type_to_plot_cols = ["Int. Arr. by Type"] + indicator_cols
 int_arr_by_type_to_plot = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
