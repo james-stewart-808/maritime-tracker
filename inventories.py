@@ -25,8 +25,8 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", 
-     "Average Build Year", "Average Voyage Distance (nm)", 
+    ["Number of Calls", #"Average Build Year", 
+     "Average Voyage Distance (nm)", 
      "Average Voyage Time (hours)", "Average Time in Port (hours)", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
@@ -75,13 +75,6 @@ if indicator in ["Number of Calls"]:
             x=alt.X("Vessel Type", sort='-y'),
             y=indicator,
             color=indicator)
-    )
-elif indicator in ["Average Build Year"]:
-    st.line_chart(
-        int_inv_by_type_to_plot, 
-        x="Vessel Type", 
-        y=indicator, 
-        color="inv_type"
     )
 else:
     st.bar_chart(
