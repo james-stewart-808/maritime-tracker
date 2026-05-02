@@ -74,14 +74,13 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
-st.write(int_inv_by_type_to_plot)
 
 # Plot depending on the value of Segmented Control
-if indicator in ["Number of Calls", "Ave. Build Year"]:
+if indicator in ["Number of Calls"]:
     st.altair_chart(
         alt.Chart(int_arr_by_type).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
-            y=indicator, # alt.Y(y, sort='-x')
+            y=indicator,
             color=indicator)
     )
 
@@ -148,13 +147,13 @@ int_dep_by_partner["inv_type"] = "Int. Departures"
 int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner, int_dep_by_partner], axis=0)
 
 # Plot depending on the value of Segmented Control
-if indicator == "Number of Calls":
+if indicator in ["Number of Calls"]:
     st.altair_chart(
         alt.Chart(
             int_arr_by_partner).mark_bar().encode(
             x=alt.X("Partner Economy", sort='-y'),
-            y="Number of Calls", # alt.Y(y, sort='-x')
-            color="Number of Calls")
+            y=indicator,
+            color=indicator)
     )
 
 else:
@@ -219,12 +218,12 @@ int_dep_by_port["inv_type"] = "Int. Departures"
 int_inv_by_port_to_plot = pd.concat([int_arr_by_port, int_dep_by_port], axis=0)
 
 # Plot depending on the value of Segmented Control
-if indicator == "Number of Calls":
+if indicator in ["Number of Calls"]:
     st.altair_chart(
         alt.Chart(int_arr_by_port).mark_bar().encode(
             x=alt.X("Port", sort='-y'),
-            y="Number of Calls", # alt.Y(y, sort='-x')
-            color="Number of Calls")
+            y=indicator,
+            color=indicator)
     )
 else:
     st.bar_chart(
