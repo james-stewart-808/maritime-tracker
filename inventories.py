@@ -29,15 +29,17 @@ indicator = st.segmented_control(
      "Average Voyage Distance (nm)", 
      "Average Voyage Time (hours)", "Average Time in Port (hours)", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
-     "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
+     "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)",
+     "NZF Costs per Voyage in 2030 (US$)", "NZF Costs per Voyage in 2040 (US$)", "NZF Costs per Voyage in 2050 (US$)"]
 )
-indicator_c = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+indicator_c = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50", "s24_30_voy", "s24_40_voy", "s24_50_voy"]
 indicator_r = {
     "n_vys":"Number of Calls", 
     "aby_flt":"Average Build Year", "avd_flt":"Average Voyage Distance (nm)", 
     "avt_flt":"Average Voyage Time (hours)", "apt_flt":"Average Time in Port (hours)", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
+    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)",
+    "s24_30_voy":"NZF Costs per Voyage in 2030 (US$)", "s24_40_voy":"NZF Costs per Voyage in 2040 (US$)", "s24_50_voy":"NZF Costs per Voyage in 2050 (US$)"
 }
 
 if indicator == None:
