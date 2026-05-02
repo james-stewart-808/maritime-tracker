@@ -26,7 +26,7 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Energy Demand", "GHG Emissions", "NZF Costs"]
+    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", "NZF Costs"]
 )
 if indicator == None:
     indicator = "Number of Calls"
