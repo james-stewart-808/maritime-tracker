@@ -27,7 +27,7 @@ st.sidebar.markdown(
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
     ["Number of Calls", 
-     #"Ave. Build Year", 
+     "Ave. Build Year", 
      "Ave. Voyage Distance (nm)", 
      "Ave. Voyage Time (hours)", 
      "Ave. Time in Port (hours)", 
@@ -80,6 +80,8 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
+st.write(int_inv_by_type_to_plot)
+st.write(int_inv_by_type_to_plot.dtype)
 
 # Plot depending on the value of Segmented Control
 if indicator in ["Number of Calls"]:
