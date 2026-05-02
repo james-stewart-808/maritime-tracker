@@ -26,9 +26,10 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
+    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
+     "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
-indicator_cols = ["n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"
+indicator_cols = ["n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
 if indicator == None:
     indicator = "Number of Calls"
 
