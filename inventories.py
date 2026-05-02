@@ -82,8 +82,7 @@ elif indicator in ["Ave. Build Year", "Ave. Voyage Distance (nm)", "Ave. Voyage 
         int_inv_by_type_to_plot, 
         x="Vessel Type", 
         y=indicator, 
-        color="inv_type", 
-        stack=False
+        color="inv_type"
     )
 else:
     st.bar_chart(
