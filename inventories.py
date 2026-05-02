@@ -26,10 +26,11 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
+    ["Number of Calls", "Ave. Build Year", 
+     "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
-indicator_cols = ["n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+indicator_cols = ["n_vys", "aby_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
 if indicator == None:
     indicator = "Number of Calls"
 
@@ -40,6 +41,7 @@ st.header("{0} by Vessel Type".format(indicator))
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_type_r = {
     "Int. Arr. by Type": "Vessel Type", "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -56,6 +58,7 @@ int_arr_by_type["inv_type"] = "Int. Arrivals"
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
 int_dep_by_type_r = {
     "Int. Dep. by Type": "Vessel Type", "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -108,7 +111,8 @@ st.header("{0} by Partner Economy".format(
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_partner_r = {
-    "Int. Arr. by Partner": "Partner Economy", "n_vys": "Number of Calls", 
+    "Int. Arr. by Partner": "Partner Economy", "n_vys": "Number of Calls",
+    "aby_flt":"Ave. Build Year", 
     "ene_tj": "Energy Demand (TJ)", "co2e_t": "GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -125,6 +129,7 @@ int_arr_by_partner["inv_type"] = "Int. Arrivals"
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
 int_dep_by_partner_r = {
     "Int. Dep. by Partner": "Partner Economy", "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -178,6 +183,7 @@ st.header("{0} by Port".format(indicator))
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_port_r = {
     "Int. Arr. by Port":"Port", "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -194,6 +200,7 @@ int_arr_by_port["inv_type"] = "Int. Arrivals"
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
 int_dep_by_port_r = {
     "Int. Dep. by Port":"Port", "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
