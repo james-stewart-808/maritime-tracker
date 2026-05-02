@@ -145,7 +145,7 @@ int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner, int_dep_by_partner],
 if indicator == "Number of Calls":
     st.altair_chart(
         alt.Chart(
-            int_arr_by_partner_to_plot).mark_bar().encode(
+            int_arr_by_partner).mark_bar().encode(
             x=alt.X("Partner Economy", sort='-y'),
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
@@ -213,7 +213,7 @@ int_inv_by_port_to_plot = pd.concat([int_arr_by_port, int_dep_by_port], axis=0)
 # Plot depending on the value of Segmented Control
 if indicator == "Number of Calls":
     st.altair_chart(
-        alt.Chart(int_arr_by_port_to_plot).mark_bar().encode(
+        alt.Chart(int_arr_by_port).mark_bar().encode(
             x=alt.X("Port", sort='-y'),
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
