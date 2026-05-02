@@ -77,12 +77,12 @@ int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
 st.write(int_inv_by_type_to_plot)
 
 # Plot depending on the value of Segmented Control
-if indicator == "Number of Calls":
+if indicator in ["Number of Calls", "Ave. Build Year"]:
     st.altair_chart(
         alt.Chart(int_arr_by_type).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
-            y="Number of Calls", # alt.Y(y, sort='-x')
-            color="Number of Calls")
+            y=indicator, # alt.Y(y, sort='-x')
+            color=indicator)
     )
 
 else:
