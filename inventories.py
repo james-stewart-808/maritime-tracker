@@ -26,7 +26,8 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Ave. Build Year", 
+    ["Number of Calls", 
+     #"Ave. Build Year", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
@@ -76,9 +77,9 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
 
 # Plot depending on the value of Segmented Control
-if indicator in ["Number of Calls", "Ave. Build Year"]:
+if indicator in ["Number of Calls"]:
     st.altair_chart(
-        alt.Chart(int_arr_by_type.astype({"Ave. Build Year":"int"})).mark_bar().encode(
+        alt.Chart(int_arr_by_type).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
             y=indicator,
             color=indicator)
