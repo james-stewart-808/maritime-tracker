@@ -60,13 +60,7 @@ int_arr_by_type["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_type_r = {
-    "Int. Dep. by Type": "Vessel Type", "n_vys":"Number of Calls", 
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
-    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
-}
+int_dep_by_type_r = {"Int. Dep. by Type": "Vessel Type"} | indicator_r
 int_dep_by_type = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -117,13 +111,7 @@ st.header("{0} by Partner Economy".format(
     indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_partner_r = {
-    "Int. Arr. by Partner": "Partner Economy", "n_vys": "Number of Calls",
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
-    "ene_tj": "Energy Demand (TJ)", "co2e_t": "GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
-}
+int_arr_by_partner_r = {"Int. Arr. by Partner": "Partner Economy"} | indicator_r
 int_arr_by_partner = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -135,13 +123,7 @@ int_arr_by_partner["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_partner_r = {
-    "Int. Dep. by Partner": "Partner Economy", "n_vys":"Number of Calls", 
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
-    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
-}
+int_dep_by_partner_r = {"Int. Dep. by Partner": "Partner Economy"} | indicator_r
 int_dep_by_partner = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -190,13 +172,7 @@ download_as_csv(
 st.header("{0} by Port".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_port_r = {
-    "Int. Arr. by Port":"Port", "n_vys":"Number of Calls", 
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
-    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
-}
+int_arr_by_port_r = {"Int. Arr. by Port": "Port"} | indicator_r
 int_arr_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_arr_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -208,13 +184,7 @@ int_arr_by_port["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_port_r = {
-    "Int. Dep. by Port":"Port", "n_vys":"Number of Calls", 
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
-    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
-    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
-}
+int_dep_by_port_r = {"Int. Dep. by Port": "Port"} | indicator_r
 int_dep_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
