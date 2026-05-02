@@ -35,48 +35,47 @@ if indicator == None:
 
 
 ### INVENTORIES BY VESSEL TYPE ###
-st.header("{0} by Vessel Type".format(
-    indicator))
+st.header("{0} by Vessel Type".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_type_to_plot_col_renames = {
+int_arr_by_type_r = {
     "Int. Arr. by Type": "Vessel Type", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_arr_by_type_to_plot = pd.read_csv(\
+int_arr_by_type = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Arr. by Type"] + indicator_cols
 ).rename(
-    columns=int_arr_by_type_to_plot_col_renames
+    columns=int_arr_by_type_r
 )
-int_arr_by_type_to_plot["inv_type"] = "Int. Arrivals"
+int_arr_by_type["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_type_to_plot_col_renames = {
+int_dep_by_type_r = {
     "Int. Dep. by Type": "Vessel Type", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_dep_by_type_to_plot = pd.read_csv(
+int_dep_by_type = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Dep. by Type"] + indicator_cols
 ).rename(
-    columns=int_dep_by_type_to_plot_col_renames
+    columns=int_dep_by_type_r
 )
-int_dep_by_type_to_plot["inv_type"] = "Int. Departures"
+int_dep_by_type["inv_type"] = "Int. Departures"
 
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
-int_inv_by_type_to_plot = pd.concat([int_arr_by_type_to_plot, int_dep_by_type_to_plot], axis=0)
+int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
 
 # Plot depending on the value of Segmented Control
 if indicator == "Number of Calls":
     st.altair_chart(
-        alt.Chart(int_arr_by_type_to_plot).mark_bar().encode(
+        alt.Chart(int_arr_by_type).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
@@ -108,39 +107,39 @@ st.header("{0} by Partner Economy".format(
     indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_partner_to_plot_col_renames = {
+int_arr_by_partner_r = {
     "Int. Arr. by Partner": "Partner Economy", "n_vys": "Number of Calls", 
     "ene_tj": "Energy Demand (TJ)", "co2e_t": "GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_arr_by_partner_to_plot = pd.read_csv(\
+int_arr_by_partner = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Arr. by Partner"] + indicator_cols
 ).rename(
-    columns=int_arr_by_partner_to_plot_col_renames
+    columns=int_arr_by_partner_r
 )
-int_arr_by_partner_to_plot["inv_type"] = "Int. Arrivals"
+int_arr_by_partner["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_partner_to_plot_col_renames = {
+int_dep_by_partner_r = {
     "Int. Dep. by Partner": "Partner Economy", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_dep_by_partner_to_plot = pd.read_csv(
+int_dep_by_partner = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Dep. by Partner"] + indicator_cols
 ).rename(
-    columns=int_dep_by_partner_to_plot_col_renames
+    columns=int_dep_by_partner_r
 )
-int_dep_by_partner_to_plot["inv_type"] = "Int. Departures"
+int_dep_by_partner["inv_type"] = "Int. Departures"
 
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
-int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner_to_plot, int_dep_by_partner_to_plot], axis=0)
+int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner, int_dep_by_partner], axis=0)
 
 # Plot depending on the value of Segmented Control
 if indicator == "Number of Calls":
@@ -177,39 +176,39 @@ download_as_csv(
 st.header("{0} by Port".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_port_to_plot_col_renames = {
+int_arr_by_port_r = {
     "Int. Arr. by Port":"Port", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_arr_by_port_to_plot = pd.read_csv(
+int_arr_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_arr_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Arr. by Port"] + indicator_cols
 ).rename(
-    columns=int_arr_by_port_to_plot_col_renames
+    columns=int_arr_by_port_r
 )
-int_arr_by_port_to_plot["inv_type"] = "Int. Arrivals"
+int_arr_by_port["inv_type"] = "Int. Arrivals"
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_port_to_plot_col_renames = {
+int_dep_by_port_r = {
     "Int. Dep. by Port":"Port", "n_vys":"Number of Calls", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
-int_dep_by_port_to_plot = pd.read_csv(
+int_dep_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
     ), usecols = ["Int. Dep. by Port"] + indicator_cols
 ).rename(
-    columns=int_dep_by_port_to_plot_col_renames
+    columns=int_dep_by_port_r
 )
-int_dep_by_port_to_plot["inv_type"] = "Int. Departures"
+int_dep_by_port["inv_type"] = "Int. Departures"
 
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
-int_inv_by_port_to_plot = pd.concat([int_arr_by_port_to_plot, int_dep_by_port_to_plot], axis=0)
+int_inv_by_port_to_plot = pd.concat([int_arr_by_port, int_dep_by_port], axis=0)
 
 # Plot depending on the value of Segmented Control
 if indicator == "Number of Calls":
