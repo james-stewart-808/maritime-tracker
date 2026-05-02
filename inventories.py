@@ -27,7 +27,7 @@ indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
     ["Number of Calls", 
      "Average Build Year", "Average Voyage Distance (nm)", 
-     #"Average Voyage Time (hours)", "Average Time in Port (hours)", 
+     "Average Voyage Time (hours)", "Average Time in Port (hours)", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
