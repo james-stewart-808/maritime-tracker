@@ -76,14 +76,8 @@ if indicator in ["Number of Calls"]:
             y=indicator,
             color=indicator)
     )
-elif indicator in ["Average Build Year", "Average Voyage Distance (nm)", "Average Voyage Time (hours)", "Average Time in Port (hours)"]:
-    st.bar_chart(
-        int_inv_by_type_to_plot, 
-        x="Vessel Type", 
-        y=indicator, 
-        color="inv_type", 
-        stack=False
-    )
+elif indicator in ["Average Build Year"]:
+    st.write(int_inv_by_type_to_plot[["Vessel Type", "Average Build Year"]])
 else:
     st.bar_chart(
         int_inv_by_type_to_plot, 
