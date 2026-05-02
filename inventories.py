@@ -13,7 +13,6 @@ def download_as_csv(file, label, filename):
 
 
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
-# Re-write subset output scripts in terms country codes (e.g. '007') and include 'Disaggregation by Partner Countries'.
 
 st.title(
     "International Voyage-based Activity Inventories for {0}".format(
@@ -27,14 +26,20 @@ st.sidebar.markdown(
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
     ["Number of Calls", 
-     "Ave. Build Year", 
-     "Ave. Voyage Distance (nm)", 
-     "Ave. Voyage Time (hours)", 
-     "Ave. Time in Port (hours)", 
+     #"Ave. Build Year", "Ave. Voyage Distance (nm)", 
+     #"Ave. Voyage Time (hours)", "Ave. Time in Port (hours)", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
-indicator_cols = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+indicator_c = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+indicator_r = {
+    "n_vys":"Number of Calls", 
+    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
+    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
+    "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
+    "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
+}
+
 if indicator == None:
     indicator = "Number of Calls"
 
@@ -43,6 +48,9 @@ if indicator == None:
 st.header("{0} by Vessel Type".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
+int_arr_by_type_r = {"Int. Arr. by Type": "Vessel Type"} | indicator_r
+#int_arr_by_type_r = dict({"Int. Arr. by Type": "Vessel Type"}.items() + indicator_r.items())
+"""
 int_arr_by_type_r = {
     "Int. Arr. by Type": "Vessel Type", "n_vys":"Number of Calls", 
     "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
@@ -50,10 +58,11 @@ int_arr_by_type_r = {
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
+"""
 int_arr_by_type = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Arr. by Type"] + indicator_cols
+    ), usecols = ["Int. Arr. by Type"] + indicator_c
 ).rename(
     columns=int_arr_by_type_r
 )
@@ -71,7 +80,7 @@ int_dep_by_type_r = {
 int_dep_by_type = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Dep. by Type"] + indicator_cols
+    ), usecols = ["Int. Dep. by Type"] + indicator_c
 ).rename(
     columns=int_dep_by_type_r
 )
@@ -128,7 +137,7 @@ int_arr_by_partner_r = {
 int_arr_by_partner = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Arr. by Partner"] + indicator_cols
+    ), usecols = ["Int. Arr. by Partner"] + indicator_c
 ).rename(
     columns=int_arr_by_partner_r
 )
@@ -146,7 +155,7 @@ int_dep_by_partner_r = {
 int_dep_by_partner = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Dep. by Partner"] + indicator_cols
+    ), usecols = ["Int. Dep. by Partner"] + indicator_c
 ).rename(
     columns=int_dep_by_partner_r
 )
@@ -201,7 +210,7 @@ int_arr_by_port_r = {
 int_arr_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_arr_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Arr. by Port"] + indicator_cols
+    ), usecols = ["Int. Arr. by Port"] + indicator_c
 ).rename(
     columns=int_arr_by_port_r
 )
@@ -219,7 +228,7 @@ int_dep_by_port_r = {
 int_dep_by_port = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
-    ), usecols = ["Int. Dep. by Port"] + indicator_cols
+    ), usecols = ["Int. Dep. by Port"] + indicator_c
 ).rename(
     columns=int_dep_by_port_r
 )
