@@ -24,17 +24,17 @@ st.sidebar.markdown(
     4th IMO GHG Study (Faber et al, 2020)."
 )
 
-N_ene_co2 = st.segmented_control(
-    "Would you like to visualise the Number of Port Calls, Energy Demand or Carbon Dioxide?",
+indicator = st.segmented_control(
+    "Which indicator would you like to visualise?",
     ["Number of Calls", "Energy Demand", "GHG Emissions"]
 )
-if N_ene_co2 == None:
-    N_ene_co2 = "Number of Calls"
+if indicator == None:
+    indicator = "Number of Calls"
 
 
 ### INVENTORIES BY VESSEL TYPE ###
 st.header("{0} by Vessel Type".format(
-    N_ene_co2))
+    indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_type_to_plot_cols = ["Int. Arr. by Type", "n_vys", "ene_tj", "co2e_t"]
@@ -76,7 +76,7 @@ int_dep_by_type_to_plot = int_dep_by_type_to_plot.rename(
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type_to_plot, int_dep_by_type_to_plot], axis=0)
 
 # Plot depending on the value of Segmented Control
-if N_ene_co2 == "Number of Calls":
+if indicator == "Number of Calls":
     st.altair_chart(
         alt.Chart(int_arr_by_type_to_plot).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
@@ -84,7 +84,7 @@ if N_ene_co2 == "Number of Calls":
             color="Number of Calls")
     )
 
-elif N_ene_co2 == "Energy Demand":
+elif indicator == "Energy Demand":
     st.bar_chart(
         int_inv_by_type_to_plot, 
         x="Vessel Type", 
@@ -115,7 +115,7 @@ download_as_csv(
 
 ### INVENTORIES BY PARTNER ECONOMY ###
 st.header("{0} by Partner Economy".format(
-    N_ene_co2))
+    indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_partner_to_plot_cols = ["Int. Arr. by Partner", "n_vys", "ene_tj", "co2e_t"]
@@ -157,7 +157,7 @@ int_dep_by_partner_to_plot = int_dep_by_partner_to_plot.rename(
 int_inv_by_partner_to_plot = pd.concat([int_arr_by_partner_to_plot, int_dep_by_partner_to_plot], axis=0)
 
 # Plot depending on the value of Segmented Control
-if N_ene_co2 == "Number of Calls":
+if indicator == "Number of Calls":
     st.altair_chart(
         alt.Chart(
             int_arr_by_partner_to_plot).mark_bar().encode(
@@ -166,7 +166,7 @@ if N_ene_co2 == "Number of Calls":
             color="Number of Calls")
     )
 
-elif N_ene_co2 == "Energy Demand":
+elif indicator == "Energy Demand":
     st.bar_chart(
         int_inv_by_partner_to_plot, 
         x="Partner Economy", 
@@ -196,7 +196,7 @@ download_as_csv(
 
 
 ### INVENTORIES BY PORT ###
-st.header("{0} by Port of Interest".format(N_ene_co2))
+st.header("{0} by Port".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_port_to_plot_cols = ["Int. Arr. by Port", "n_vys", "ene_tj", "co2e_t"]
@@ -233,14 +233,14 @@ int_dep_by_port_to_plot = int_dep_by_port_to_plot.rename(
 int_inv_by_port_to_plot = pd.concat([int_arr_by_port_to_plot, int_dep_by_port_to_plot], axis=0)
 
 # Plot depending on the value of Segmented Control
-if N_ene_co2 == "Number of Calls":
+if indicator == "Number of Calls":
     st.altair_chart(
         alt.Chart(int_arr_by_port_to_plot).mark_bar().encode(
             x=alt.X("Port", sort='-y'),
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
     )
-elif N_ene_co2 == "Energy Demand":
+elif indicator == "Energy Demand":
     st.bar_chart(
         int_inv_by_port_to_plot, 
         x="Port", 
