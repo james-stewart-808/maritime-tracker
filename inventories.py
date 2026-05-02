@@ -26,16 +26,16 @@ st.sidebar.markdown(
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
     ["Number of Calls", 
-     "Ave. Build Year", "Ave. Voyage Distance (nm)", 
-     #"Ave. Voyage Time (hours)", "Ave. Time in Port (hours)", 
+     "Average Build Year", "Average Voyage Distance (nm)", 
+     #"Average Voyage Time (hours)", "Average Time in Port (hours)", 
      "Energy Demand (TJ)", "GHG Emissions (t CO2e)", 
      "NZF Costs in 2030 (US$)", "NZF Costs in 2040 (US$)", "NZF Costs in 2050 (US$)"]
 )
 indicator_c = ["n_vys", "aby_flt", "avd_flt", "avt_flt", "apt_flt", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
 indicator_r = {
     "n_vys":"Number of Calls", 
-    "aby_flt":"Ave. Build Year", "avd_flt":"Ave. Voyage Distance (nm)", 
-    "avt_flt":"Ave. Voyage Time (hours)", "apt_flt":"Ave. Time in Port (hours)", 
+    "aby_flt":"Average Build Year", "avd_flt":"Average Voyage Distance (nm)", 
+    "avt_flt":"Average Voyage Time (hours)", "apt_flt":"Average Time in Port (hours)", 
     "ene_tj":"Energy Demand (TJ)", "co2e_t":"GHG Emissions (t CO2e)",
     "s24_30":"NZF Costs in 2030 (US$)", "s24_40":"NZF Costs in 2040 (US$)", "s24_50":"NZF Costs in 2050 (US$)"
 }
@@ -68,7 +68,7 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
 st.write(int_inv_by_type_to_plot.head(2))
-st.write(int_inv_by_type_to_plot["Ave. Build Year"].describe())
+st.write(int_inv_by_type_to_plot["Average Build Year"].describe())
 
 # Plot depending on the value of Segmented Control
 if indicator in ["Number of Calls"]:
@@ -78,7 +78,7 @@ if indicator in ["Number of Calls"]:
             y=indicator,
             color=indicator)
     )
-elif indicator in ["Ave. Build Year", "Ave. Voyage Distance (nm)", "Ave. Voyage Time (hours)", "Ave. Time in Port (hours)"]:
+elif indicator in ["Average Build Year", "Average Voyage Distance (nm)", "Average Voyage Time (hours)", "Average Time in Port (hours)"]:
     st.line_chart(
         int_inv_by_type_to_plot, 
         x="Vessel Type", 
