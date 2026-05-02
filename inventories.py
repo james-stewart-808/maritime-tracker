@@ -68,6 +68,7 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
 int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
 st.write(int_inv_by_type_to_plot.head(2))
+st.write(int_inv_by_type_to_plot["Ave. Build Year"].describe())
 
 # Plot depending on the value of Segmented Control
 if indicator in ["Number of Calls"]:
