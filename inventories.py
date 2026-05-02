@@ -58,7 +58,7 @@ int_arr_by_type_to_plot = int_arr_by_type_to_plot.rename(
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_type_to_plot_cols = ["Int. Dep. by Type", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_dep_by_type_to_plot_cols = ["Int. Dep. by Type"] + indicator_cols
 int_dep_by_type_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_type.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -114,7 +114,7 @@ st.header("{0} by Partner Economy".format(
     indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_partner_to_plot_cols = ["Int. Arr. by Partner", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_arr_by_partner_to_plot_cols = ["Int. Arr. by Partner"] + indicator_cols
 int_arr_by_partner_to_plot = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -133,7 +133,7 @@ int_arr_by_partner_to_plot = int_arr_by_partner_to_plot.rename(
 
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_partner_to_plot_cols = ["Int. Dep. by Partner", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_dep_by_partner_to_plot_cols = ["Int. Dep. by Partner"] + indicator_cols
 int_dep_by_partner_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_partner.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -189,7 +189,7 @@ download_as_csv(
 st.header("{0} by Port".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
-int_arr_by_port_to_plot_cols = ["Int. Arr. by Port", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_arr_by_port_to_plot_cols = ["Int. Arr. by Port"] + indicator_cols
 int_arr_by_port_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_arr_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
@@ -205,7 +205,7 @@ int_arr_by_port_to_plot = int_arr_by_port_to_plot.rename(
 )
 
 # Read-in International Departures Inventory by Vessel Type Associated with the Country
-int_dep_by_port_to_plot_cols = ["Int. Dep. by Port", "n_vys", "ene_tj", "co2e_t", "s24_30", "s24_40", "s24_50"]
+int_dep_by_port_to_plot_cols = ["Int. Dep. by Port"] + indicator_cols
 int_dep_by_port_to_plot = pd.read_csv(
     input_dir + "inventories_v0.2/{0}/int_dep_by_port.csv".format(
         st.session_state.iso_code.replace(' ','%20')
