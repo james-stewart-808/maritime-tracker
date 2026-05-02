@@ -77,7 +77,12 @@ if indicator in ["Number of Calls"]:
             color=indicator)
     )
 elif indicator in ["Average Build Year"]:
-    st.write(int_inv_by_type_to_plot[["Vessel Type", "Average Build Year"]])
+    st.line_chart(
+        int_inv_by_type_to_plot, 
+        x="Vessel Type", 
+        y=indicator, 
+        color="inv_type"
+    )
 else:
     st.bar_chart(
         int_inv_by_type_to_plot, 
