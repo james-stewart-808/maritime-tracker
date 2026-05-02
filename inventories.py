@@ -73,10 +73,10 @@ int_dep_by_type["inv_type"] = "Int. Departures"
 
 
 # Combine Int. Arrivals and Int. Departures Inventories for Plotting
-int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0)
+int_inv_by_type_to_plot = pd.concat([int_arr_by_type, int_dep_by_type], axis=0).astype({"Ave. Build Year":"int"})
 
 # Plot depending on the value of Segmented Control
-if indicator in ["Number of Calls"]:
+if indicator in ["Number of Calls", "Ave. Build Year"]:
     st.altair_chart(
         alt.Chart(int_arr_by_type).mark_bar().encode(
             x=alt.X("Vessel Type", sort='-y'),
