@@ -26,7 +26,7 @@ st.sidebar.markdown(
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
-    ["Number of Calls", "Energy Demand", "GHG Emissions"]
+    ["Number of Calls", "Energy Demand", "GHG Emissions", "NZF Costs"]
 )
 if indicator == None:
     indicator = "Number of Calls"
@@ -84,19 +84,11 @@ if indicator == "Number of Calls":
             color="Number of Calls")
     )
 
-elif indicator == "Energy Demand":
-    st.bar_chart(
-        int_inv_by_type_to_plot, 
-        x="Vessel Type", 
-        y="Energy Demand (TJ)", 
-        color="inv_type", 
-        stack=False
-    )
 else:
     st.bar_chart(
         int_inv_by_type_to_plot, 
         x="Vessel Type", 
-        y="GHG Emissions (t CO2e)", 
+        y=indicator, 
         color="inv_type", 
         stack=False
     )
@@ -166,19 +158,11 @@ if indicator == "Number of Calls":
             color="Number of Calls")
     )
 
-elif indicator == "Energy Demand":
-    st.bar_chart(
-        int_inv_by_partner_to_plot, 
-        x="Partner Economy", 
-        y="Energy Demand (TJ)", 
-        color="inv_type", 
-        stack=False
-    )
 else:
     st.bar_chart(
         int_inv_by_partner_to_plot, 
         x="Partner Economy", 
-        y="GHG Emissions (t CO2e)", 
+        y=indicator, 
         color="inv_type", 
         stack=False
     )
@@ -240,19 +224,11 @@ if indicator == "Number of Calls":
             y="Number of Calls", # alt.Y(y, sort='-x')
             color="Number of Calls")
     )
-elif indicator == "Energy Demand":
-    st.bar_chart(
-        int_inv_by_port_to_plot, 
-        x="Port", 
-        y="Energy Demand (TJ)", 
-        color="inv_type", 
-        stack=False
-    )
 else:
     st.bar_chart(
         int_inv_by_port_to_plot, 
         x="Port", 
-        y="GHG Emissions (t CO2e)", 
+        y=indicator, 
         color="inv_type", 
         stack=False
     )
