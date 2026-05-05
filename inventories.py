@@ -50,6 +50,7 @@ if indicator == None:
 st.header("{0} by Vessel Type".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
+st.write("Reading in data for {0} (ISO Code {1})".format(st.session_state.iso_country, st.session_state.iso_code))
 int_arr_by_type = pd.read_csv(\
     input_dir + "inventories_v0.2/{0}/int_arr_by_type.csv".format(
         st.session_state.iso_code
