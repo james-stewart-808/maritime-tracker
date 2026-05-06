@@ -1,7 +1,0 @@
-port_pair,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
-Pointe Noire - Yombo Terminal,913,67,2010,2008,2009,2008,256229928,280448026,120,224,193,186,344,25813
-N'Kossa Terminal - Pointe Noire,1459,54,2011,2009,2011,2011,401712369,432160077,62,274,107,100,323,24343
-N'Kossa Terminal - Yombo Terminal,89,20,2010,2010,2013,2012,60361875,46933216,108,289,137,110,44,3333
-Djeno Terminal - Yombo Terminal,7,5,2012,2011,2009,2009,63243464,114245480,84,183,229,229,12,893
-Djeno Terminal - Pointe Noire,28,3,2014,2015,2014,2014,20594975,15554078,145,279,295,282,14,1087
-Djeno Terminal - N'Kossa Terminal,3,2,2011,2012,2014,2014,7341158,4879378,187,305,370,341,3,253

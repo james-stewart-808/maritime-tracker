@@ -1,6 +1,0 @@
-dom_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
-Vehicle,3,3,2009,2009,2007,2008,7611129,2469511,40,48,53,53,1,64
-General cargo,1,1,2003,2003,2003,2003,98806,135130,39,39,39,39,0,2
-Service - tug,8,1,1975,1975,1975,1975,127878,88608,56,56,69,69,3,219
-Ferry-pax only,4,1,1998,1998,1998,1998,947431,39394,495,495,492,492,0,27
-Liquefied gas tanker,1,1,2007,2007,2007,2007,78379,81249,16,16,16,16,0,4

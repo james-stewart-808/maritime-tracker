@@ -1,5 +1,0 @@
-int_dep_type,n_vys,n_imo,aby_vys,aby_flt,aby_gt_nm,aby_dwt_nm,tps_gt_nm,tps_dwt_nm,avd_vys,avd_flt,avd_gt_nm,avd_dwt_nm,ene_tj,co2_t
-Liquefied gas tanker,1,1,2005,2005,2005,2005,63267152,54936959,649,649,649,649,8,485
-Service - tug,1,1,1975,1975,1975,1975,37333,45580,109,109,109,109,0,8
-Chemical tanker,1,1,2008,2008,2008,2008,8148925,13076303,348,348,348,348,3,257
-Oil tanker,1,1,1996,1996,1996,1996,94270780,153278479,3910,3910,3910,3910,50,3847
