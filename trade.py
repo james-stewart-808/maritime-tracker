@@ -41,6 +41,8 @@ if usd_t == None:
 
 ### EXPORTS ###
 if I_X == "Exports":
+
+    st.divider()
     # Top Trade Flows
     if usd_t == "Value, $":
         st.header("Top Export Trade Flows by Value")
@@ -64,7 +66,8 @@ if I_X == "Exports":
         "Top Export Trade Flows - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
-
+    st.divider()
+    
     # Top HS2 Commodity Flows
     if usd_t == "Value, $":
         st.header("Top Export HS2 Commodity Flows by Value")
@@ -73,7 +76,6 @@ if I_X == "Exports":
             input_dir + "portfolios_v0.2/{0}/{1}.csv".format(
                 st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "USD")
-        st.write(co.iloc[:5][["HS2", "Description", "USD"]])
     else:
         st.header("Top Export HS2 Commodity Flows by Weight")
         co_profile = "X_co_t"
@@ -81,7 +83,6 @@ if I_X == "Exports":
             input_dir + "portfolios_v0.2/{0}/{1}.csv".format(\
                 st.session_state.iso_code, co_profile), index_col=0)
         merch_trade_vis(co.iloc[:25], "Description", "tonne")
-        st.write(co.iloc[:5][["HS2", "Description", "tonne"]])
 
     download_as_csv(
         co, 
@@ -90,7 +91,8 @@ if I_X == "Exports":
         "Top Export HS2 Commodity Flows - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
-
+    st.divider()
+    
     # Top Partner Economies
     if usd_t == "Value, $":
         st.header("Top Export Partner Countries by Value")
@@ -106,7 +108,6 @@ if I_X == "Exports":
             input_dir + "portfolios_v0.2/{0}/{1}.csv".format(
                 st.session_state.iso_code, pa_profile), index_col=0)
         merch_trade_vis(pa.iloc[:25], "imp_name", "tonne")
-        #st.write(pa.iloc[:5][["imp_name", "tonne"]])
 
     download_as_csv(
         pa, 
@@ -115,7 +116,7 @@ if I_X == "Exports":
         "Top Export Partner Countries - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
-
+    st.divider()
 
 ### IMPORTS ###
 else:
@@ -142,7 +143,8 @@ else:
         "Top Import Trade Flows - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
-
+    st.divider()
+    
     # Top HS2 Commodity Flows
     if usd_t == "Value, $":
         st.header("Top Import HS2 Commodity Flows by Value")
@@ -166,7 +168,8 @@ else:
         "Top Import HS2 Commodity Flows - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
-
+    st.divider()
+    
     # Top Partner Economies
     if usd_t == "Value, $":
         st.header("Top Import Partner Countries by Value")
@@ -190,6 +193,7 @@ else:
         "Top Import Partner Countries - {0} ({1}).csv".format(
             st.session_state.iso_country, st.session_state.iso_code)
     )
+    st.divider()
 
 
 st.header(
@@ -213,7 +217,6 @@ st.markdown(
 
 by_country_contrib_record_v1 = pd.read_csv(
     input_dir + "by_country_contrib_record_v1.csv")
-#st.write(by_country_contrib_record_v1)
 
 def com_cont_aggregator(df, aggregator):
     df_group_cols = {
