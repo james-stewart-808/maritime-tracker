@@ -9,8 +9,6 @@ st.caption(
     "and economic impact tracking across countries."
 )
 
-st.divider()
-
 
 # Load Country ISO data
 country_iso_codes_c = ["name", "alpha-2", "alpha-3", "country-code"]
