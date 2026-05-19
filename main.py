@@ -57,13 +57,13 @@ Use the sidebar to explore the different components of the dashboard.
 
 st.write(
 """
-:Disclaimer:
+*Disclaimer:
 
 The content on this website is for informational and educational purposes only. It should not be considered as \
 financial, investment, or legal advice. We are not financial advisors, and the information provided is not a substitute \
 for professional advice from a qualified expert who is aware of your individual circumstances. Always conduct your own \
 research and consult with a licensed financial professional before making any investment or financial decisions. Any \
 reliance you place on the information provided on this site is strictly at your own risk. We are not liable for any \
-losses or damages incurred from the use of this information.:
+losses or damages incurred from the use of this information.*
 """
 )
