@@ -57,7 +57,6 @@ Use the sidebar to explore the different components of the dashboard.
 
 st.write(
 """
-\n\n
 Disclaimer:
 
 The content on this website is for informational and educational purposes only. It should not be considered as \
