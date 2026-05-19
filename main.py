@@ -55,6 +55,8 @@ Use the sidebar to explore the different components of the dashboard.
 """
 )
 
+st.divider()
+
 st.write(
 """
 Disclaimer:
