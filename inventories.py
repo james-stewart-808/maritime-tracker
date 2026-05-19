@@ -45,6 +45,7 @@ indicator_r = {
 if indicator == None:
     indicator = "Number of Calls"
 
+st.divider()
 
 ### INVENTORIES BY VESSEL TYPE ###
 st.header("{0} by Vessel Type".format(indicator))
@@ -99,6 +100,7 @@ download_as_csv(
 
 
 
+st.divider()
 
 ### INVENTORIES BY PARTNER ECONOMY ###
 st.header("{0} by Partner Economy".format(
@@ -155,6 +157,7 @@ download_as_csv(
 
 
 
+st.divider()
 
 ### INVENTORIES BY PORT ###
 st.header("{0} by Port".format(indicator))
