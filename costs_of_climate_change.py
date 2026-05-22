@@ -17,7 +17,7 @@ st.sidebar.markdown(
 
 
 ##### COSTS OF CLIMATE CHANGE ######
-st.title("Costs of Climate Change for {0}".format(
+st.markdown("##### Costs of Climate Change for {0}".format(
     st.session_state.iso_country))
 
 st.write(
@@ -28,7 +28,7 @@ st.write(
 st.divider()
 
 
-st.header("References")
+st.markdown("##### References")
 
 st.write(
 """
