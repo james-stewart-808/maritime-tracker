@@ -96,7 +96,6 @@ st.write(
     activity.
     """
 )
-st.divider()
 
 
 st.subheader(
