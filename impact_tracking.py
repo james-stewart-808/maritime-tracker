@@ -22,7 +22,7 @@ st.sidebar.markdown(
 
 ### NZF ECONOMIC IMPACTS ###
 st.title("Economic Impacts of the IMO Net-Zero Framework")
-st.markup(
+st.write(
     """
     The step aims to ensure that every tonne of trade associated with the seaborne component of a country’s international \
     merchandise trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
