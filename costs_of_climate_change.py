@@ -253,7 +253,7 @@ st.markdown("##### References")
 
 st.write(
 """
-Kahn et al. (2021). Long-term macroeconomic effects of climate change: A cross-country analysis.
+Kahn et al. (2021). Long-term macroeconomic effects of climate change: A cross-country analysis.\n
 Mohaddes and Raissi. (2024). Rising Temperatures, Melting Incomes: Country-Specific Macroeconomic Effects of Climate Scenarios. 
 """
 )
