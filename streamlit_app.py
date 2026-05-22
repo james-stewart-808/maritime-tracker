@@ -6,7 +6,7 @@ st.markdown(
     """
     <style>
     [data-testid="stSidebarNav"]::before {
-        content: "";
+        content: "Maritime Tracker Dashboard";
         display: block;
         margin: 0px auto 20px auto;
         height: 120px;
