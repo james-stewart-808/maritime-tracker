@@ -40,13 +40,11 @@ st.write(
     To achieve such an objective, however, a robust analytical framework for the evaluation of economic impacts resulting \
     from the policy’s implementation will need to be developed. The intention of this dashboard is to offer a lightweight, \
     public codebase and dashboard with which such an architecture may be established, made open-source to encourage discussion \
-    and trust within its algorithmic design and outputs. The public codebase and dashboard is available via the following links:
+    and trust within its algorithmic design and outputs. The public codebase and dashboard is available via the following links:\n
     """
 )
 st.markdown(
   """
-
-  
   **Dashboard**: https://maritime-tracker.streamlit.app/
   
   **Codebase**: https://github.com/james-stewart-808/maritime-tracker/tree/main
