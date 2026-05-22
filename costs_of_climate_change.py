@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import altair as alt
+import plotly.express as px
 import time
 input_dir = "https://raw.githubusercontent.com/james-stewart-808/inventory-tracker/main/datasets/"
 
