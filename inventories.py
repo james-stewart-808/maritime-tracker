@@ -19,7 +19,7 @@ st.sidebar.markdown(
 
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
 
-st.title("Voyage-based Activity Inventories")
+st.title("Voyage Inventories")
 
 st.write(
     """
