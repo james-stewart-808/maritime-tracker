@@ -2,7 +2,8 @@ import pandas as pd
 import requests
 from io import StringIO
 import streamlit as st
-st.markdown("##### Contact")
+#st.markdown("##### Contact")
+st.subheader("Contact", divider = 'grey')
 
 st.write(
 """
