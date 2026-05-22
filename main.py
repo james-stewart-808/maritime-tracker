@@ -83,7 +83,7 @@ st.divider()
 
 st.markdown(
 """
-#### Disclaimer
+##### Disclaimer
 
 The content on this website is for informational and educational purposes only. It should not be considered as \
 financial, investment, or legal advice. We are not financial advisors, and the information provided is not a substitute \
@@ -97,7 +97,7 @@ st.divider()
 
 
 
-st.header("References")
+st.markdown("##### References")
 
 st.write(
 """
