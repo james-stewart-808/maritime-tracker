@@ -18,15 +18,30 @@ def download_as_csv(file, label, filename):
             label=label,
             file_name=filename)
 
+st.sidebar.markdown(
+    "International Merchandise Trade Portfolios Sourced from UNCTAD's Trade-and-Transport Database."
+)
+
 
 ##### MERCHANDISE TRADE PORTFOLIOS ######
 # Incorporate Comtrade Data Availability Tracker
 
 st.title("Merchandise Trade Portfolio for {0}".format(
     st.session_state.iso_country))
-st.sidebar.markdown(
-    "International Merchandise Trade Portfolios Sourced from UNCTAD's Trade-and-Transport Database."
+
+st.write(
+    """
+    The figures made use of for the dashboard are taken from UNCTAD’s Trade-and-Transport database for the year 2018 (UNCTAD, 2025). \
+    The dataset records international trade, in values and volumes, alongside the transport expenditure and transport work incurred \
+    for its transport per bilateral trade pair, commodity and mode of transport between 2016 and 2021. The data contained represents \
+    237 economies of origin and 170 economies of destination, broken down by commodity group at the level of headings of the Harmonized \
+    System classification (4-digit level, 2017 revision) and differentiating between air, sea, rail and road (Halim et al, 2018; \
+    Hoffmeister et al, 2022; UNSD, 2011). The database is utilised here for its sophisticated approach to isolating the seaborne component \
+    of international trade flows, which is a key requisite for its association with maritime activity.
+    """
 )
+st.divider()
+
 
 # Consider Imports or Exports?
 I_X = st.segmented_control(
