@@ -209,7 +209,6 @@ else:
             st.session_state.iso_country, st.session_state.iso_code)
     )
     st.divider()
-st.divider()
 
 
 st.header("References")
