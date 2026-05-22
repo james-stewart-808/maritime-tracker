@@ -66,16 +66,16 @@ st.session_state.iso_2 = country_iso_codes[(country_iso_codes.iso_country == cou
 st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_3.values[0]
 st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
 
-st.write(
-"""
-Use the sidebar to explore the different components of the dashboard.
-
-🚢 **Voyage-based Inventories** – Track shipping movements and inventories.
-
-📦 **Merchandise Trade Portfolios** – Analyse import/export flows by commodity and partner.
-
-💵 **Impact Tracking Results** – Monitor trade impacts and economic metrics.
-"""
+st.write("""Use the sidebar to explore the different components of the dashboard:""")
+st.markdown(
+  """
+  🚢 **Voyage-based Inventories** – Track shipping movements and inventories.
+  
+  📦 **Merchandise Trade Portfolios** – Analyse import/export flows by commodity and partner.
+  
+  💵 **Impact Tracking Results** – Monitor trade impacts and economic metrics.
+  """, 
+  text_alignment="center"
 )
 
 st.divider()
