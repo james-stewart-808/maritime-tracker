@@ -81,9 +81,9 @@ Use the sidebar to explore the different components of the dashboard.
 st.divider()
 
 
-st.write(
+st.markdown(
 """
-Disclaimer:
+#### Disclaimer
 
 The content on this website is for informational and educational purposes only. It should not be considered as \
 financial, investment, or legal advice. We are not financial advisors, and the information provided is not a substitute \
