@@ -202,12 +202,29 @@ st.markdown("##### References")
 
 st.write(
 """
+Arslanalp et al. (2021). Tracking Trade from Space: An Application to Pacific \
+    Island Countries. IMF Working Paper No. 2021/225. Available at: \
+    https://www.imf.org/en/Publications/WP/Issues/2021/08/20/\
+    Tracking-Trade-from-Space-An-Application-to-Pacific-Island-Countries-464345
+
+Arslanalp et al. (2025). Nowcasting Global Trade from Space. IMF Working Paper 25/93.
+
 DNV. (2024). Report of the Comprehensive impact assessment of the basket of \
     candidate GHG reduction mid-term measures – full report on Task 2 (Impacts \
     on the fleet). MEPC 82-INF.8-Add.1.
     
 Faber et al. (2020). Fourth IMO Greenhouse Gas Study. London.
-    
+
+Schim van der Loeff. (2025). Filling the Maritime Data Gap – A Big Data Approach \
+    to Aligning Route-based Maritime Emissions, Transport Costs and Trade. Doctoral \
+    thesis (Ph.D), University College London (UCL). Available at: \
+    https://discovery.ucl.ac.uk/id/eprint/10208589/.
+
 UNCTAD. (2025). Trade-and-Transport Dataset - Documentation.
+
+Wang et al. (2021). Trade-linked shipping CO2 emissions. Nature Climate Change 11(11), \
+    945–951. URL: https://www.nature.com/articles/s41558-021-01176-6.
+
+
 """
 )
