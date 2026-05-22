@@ -66,23 +66,14 @@ impact_res_cou_rank = impact_res_cou.index.values[0]+1
 st.title("Economic Impacts of the IMO Net-Zero Framework")
 st.write(
     """
-    The step aims to ensure that every tonne of trade associated with the seaborne component of a country’s international \
-    seaborne trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
-    GHG emission estimates to be allocated to the seaborne trade portfolio in a realistic manner. A range of alternative \
-    approaches have been developed that seek to match international trade records with corresponding transport supply \
-    estimations. Broadly, approaches separate into those that just utilise vessel-side AIS data fields to \
-    estimate cargo volumes (Arslanalp et al, 2021; Arslanalp et al, 2025), versus others that also consider volumes of trade \
-    explicitly defined in IMTS or UN Comtrade (Wang et al, 2021; Schim van der Loeff, 2025). 
-    
-    For the purposes of this method, each bilateral trade record constituting the seaborne component of a country’s international \
-    trade portfolio, we would now like to identify the relevant facilitating transport supply in terms of voyages and their \
-    associated GHG emissions. To achieve this, we will iterate through the seaborne trade portfolio in terms of the volume and \
-    value of individual trade records per origin country, destination country and commodity code (HS 2-digit) heading. For each \
-    bilateral trade record, we will filter the voyages dataset using two criteria to identify relevant transport supply, discussed \
-    in further detail below. The total NZF Compliance Costs are shown in the Figure below.
+    A primary aim of the Maritime Tracker is to explore potential economic impacts arising from the IMO NZF. We have derived \
+    estimates of what the economic impacts on the NZF will be for each voyage presented in the 'Voyage Inventories' page. By \
+    conducting a matching process to link each individual bilateral trade flow of the country's Seaborne Trade Portfolio to \ 
+    appropriate voyages in nation's Voyage Inventory, we can estimate what typical NZF cost impacts are for each trade flow, \
+    then reconstruct the nation's entire Seaborne Trade Portfolio to derive total economic impacts on that economy. The total \
+    aggregate NZF costs associated with all identified voyage is presented below.
     """
 )
-
 
 st.caption("Global IMO NZF Compliance Costs to 2050")
 combined_df = pd.DataFrame(data={
@@ -114,8 +105,26 @@ download_as_csv(
 )
 
 
+st.write(
+    """
+    Specifically, this step aims to ensure that every tonne of trade associated with the seaborne component of a country’s international \
+    seaborne trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
+    GHG emission estimates to be allocated to the seaborne trade portfolio in a realistic manner. A range of alternative \
+    approaches have been developed that seek to match international trade records with corresponding transport supply \
+    estimations. Broadly, approaches separate into those that just utilise vessel-side AIS data fields to \
+    estimate cargo volumes (Arslanalp et al, 2021; Arslanalp et al, 2025), versus others that also consider volumes of trade \
+    explicitly defined in IMTS or UN Comtrade (Wang et al, 2021; Schim van der Loeff, 2025). 
+    
+    For the purposes of this method, each bilateral trade record constituting the seaborne component of a country’s international \
+    trade portfolio, we would now like to identify the relevant facilitating transport supply in terms of voyages and their \
+    associated GHG emissions. To achieve this, we will iterate through the seaborne trade portfolio in terms of the volume and \
+    value of individual trade records per origin country, destination country and commodity code (HS 2-digit) heading. For each \
+    bilateral trade record, we will filter the voyages dataset using two criteria to identify relevant transport supply, discussed \
+    in further detail below. The total NZF Compliance Costs are shown in the Figure below.
+    """
+)
+
 st.markdown("##### Mapping Feasible Vessel Types to Commodity Headings")
-#    - Mapping Feasible Vessel Types to Commodity Headings
 st.write(
     """
     In order to understand the range of vessel types capable of facilitating alternative commodity flows, we take forward a dataset \
@@ -129,7 +138,6 @@ st.write(
     """
 )
 st.markdown("##### Identification of Feasible Routes")
-#    - Identification of Feasible Routes
 st.write(
     """
     Another important consideration relates to the feasibility of alternative routes that facilitate a bilateral commodity trade. For \
@@ -146,7 +154,6 @@ st.write(
 )
 
 st.markdown("##### Assigning Trade Volume to ‘Shipping Supply’")
-#    - Assigning Trade Volume to ‘Shipping Supply’
 st.write(
     """
     The next step will be to distribute the weight and value of each bilateral trade record across the shipping supply identified. In order \
