@@ -124,7 +124,7 @@ indicator_r = {
 if indicator == None:
     indicator = "Number of Calls"
 
-st.divider()
+#st.divider()
 
 
 ### INVENTORIES BY VESSEL TYPE ###
@@ -180,11 +180,11 @@ download_as_csv(
 
 
 
-st.divider()
+#st.divider()
 
 ### INVENTORIES BY PARTNER ECONOMY ###
-st.markdown("##### {0} by Partner Economy".format(
-    indicator))
+#st.markdown("##### {0} by Partner Economy".format(indicator))
+st.subheader("{0} by Partner Economy".format(indicator), divider='grey')
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_partner = pd.read_csv(\
@@ -234,11 +234,12 @@ download_as_csv(
     "International Arrivals Inventory by Partner Economy - {0} ({1}).csv".format(
         st.session_state.iso_country, st.session_state.iso_code)
 )
-st.divider()
+#st.divider()
 
 
 ### INVENTORIES BY PORT ###
-st.markdown("##### {0} by Port".format(indicator))
+#st.markdown("##### {0} by Port".format(indicator))
+st.subheader("{0} by Port".format(indicator), divider='grey')
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_port = pd.read_csv(
