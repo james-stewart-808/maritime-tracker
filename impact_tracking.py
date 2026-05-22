@@ -25,21 +25,62 @@ st.title("Economic Impacts of the IMO Net-Zero Framework")
 st.write(
     """
     The step aims to ensure that every tonne of trade associated with the seaborne component of a country’s international \
-    merchandise trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
-    GHG emission estimates to be allocated to the seaborne trade portfolio in a realistic manner.
-
-    A range of alternative approaches have been developed that seek to match international trade records with corresponding \
-    transport supply estimations. Broadly, approaches separate into those that just utilise vessel-side AIS data fields to \
+    seaborne trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
+    GHG emission estimates to be allocated to the seaborne trade portfolio in a realistic manner. A range of alternative \
+    approaches have been developed that seek to match international trade records with corresponding transport supply \
+    estimations. Broadly, approaches separate into those that just utilise vessel-side AIS data fields to \
     estimate cargo volumes (Arslanalp et al, 2021; Arslanalp et al, 2025), versus others that also consider volumes of trade \
-    explicitly defined in IMTS or UN Comtrade (Wang et al, 2021; Schim van der Loeff, 2025). The primary task of this process \
-    is to identify the AIS-derived transport supply that facilitates each bilateral seaborne trade flow, i.e. the transport \
-    supply that facilitates internationally traded volumes at the resolution of individual commodity headings and \
-    origin-destination country pairs. It is recommended to compare and improve the mapping of bilateral trades to transport \
-    supply where improved information and assumptions are available, for example through the analysis of manifest-level trade \
-    records.
+    explicitly defined in IMTS or UN Comtrade (Wang et al, 2021; Schim van der Loeff, 2025). 
     
-    - Bullet 1
-    - Bullet 2
+    For the purposes of this method, each bilateral trade record constituting the seaborne component of a country’s international \
+    trade portfolio, we would now like to identify the relevant facilitating transport supply in terms of voyages and their \
+    associated GHG emissions. To achieve this, we will iterate through the seaborne trade portfolio in terms of the volume and \
+    value of individual trade records per origin country, destination country and commodity code (HS 2-digit) heading. For each \
+    bilateral trade record, we will filter the voyages dataset using two criteria to identify relevant transport supply, discussed \
+    in further detail below.
+    
+    - Mapping Feasible Vessel Types to Commodity Headings
+
+    In order to understand the range of vessel types capable of facilitating alternative commodity flows, we take forward a dataset \
+    of consignment-level Bills of Lading data from the Global Shipping Watch project, and use it to understand which vessel types \
+    are most prevalent in facilitating the transportation of certain commodity headings (Schim van der Loeff et al, 2018). Consisting \
+    of 13.2 million individual consignment records, the Global Shipping Watch dataset represents 1.4 billion tonnes and US$10.1tn \
+    worth of goods associated with the export trade portfolios of the US, Brazil, Indonesia, Chile, Peru and Ghana - as well as US \
+    imports - throughout 2019. First, the consignment-level trade records are merged with static vessel specifications data. The \
+    resulting dataset is then grouped by commodity heading and vessel types identified as facilitating greater than 25% of each \
+    commodity type by value are taken forward as those facilitating the transport of each commodity type.
+    
+    - Identification of Feasible Routes
+
+    Another important consideration relates to the feasibility of alternative routes that facilitate a bilateral commodity trade. For \
+    example, land-locked countries may utilise ports located in neighbouring countries to access international shipping service, whilst \
+    a significant share of the trade portfolio associated with SIDS is likely to undergo transshipment at one point in the supply-chain \
+    at least. It is therefore useful to consider the extent to which additional countries are involved in the supply-chain underpinning \
+    a bilateral trade, as well as the likelihood of transshipment practises taking place. 
+
+    For the purposes of this analysis, a matching of each economy to a set of countries whose ports are likely facilitate their trade \
+    has been developed based on geographic proximity. It is assumed that a trade flow is facilitated by the direct voyages of vessels of \
+    an appropriate type (as derived above), originating from - and destined for - ports identified in the facilitating origin or destination \
+    sets of countries.
+
+    - Assigning Trade Volume to ‘Shipping Supply’
+
+    The next step will be to distribute the weight and value of each bilateral trade record across the shipping supply identified. In order \
+    to achieve this, it is assumed that the weight, value and GHG emissions associated with each bilateral trade flow is distributed across \
+    all identified voyages in proportion to the carrying capacity of each vessel. Utilisation factors differentiated by vessel class and \
+    observed in the 4th IMO GHG Study are also applied to evaluate the assumed volume of cargo onboard each vessel. A new table can then be \
+    established that indexes each voyage-trade pair to the fractional weight, value and GHG emissions of the cargo and voyage activity \
+    associated with it. By reaggregating in terms of each bilateral trade flow record, the full international trade portfolio associated \
+    with a country can be reconstructed in terms of the GHG emissions associated with its facilitating AIS-derived voyages.
+
+    - Conversion to Impacts on States
+    
+    With the matching of NZF economic impacts and bilateral trade flows now complete, the next step will be to translate these bilateral \
+    impacts onto economic impacts at the state level. Given that NZF costs are now mapped to bilateral trade flows in the international \
+    seaborne trade portfolio, we are able to aggregate results across a number useful fields, the most important of which is by exporter or \
+    importer commodity. For the purposes of this modelling approach, the economic impact for each country associated with the introduction of \
+    the NZF is assumed to split equally between the country’s exporter-side and importer-side trade portfolio. By making comparison of each \
+    result against the national GDP, the overall economic impact on each state is evaluated.
     """
 )
 
