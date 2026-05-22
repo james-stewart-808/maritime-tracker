@@ -45,7 +45,7 @@ st.write(
 )
 st.markdown(
   """
-  **Dashboard**: https://maritime-tracker.streamlit.app/
+  **Dashboard**: https://maritime-tracker.streamlit.app/ \n
   **Codebase**: https://github.com/james-stewart-808/maritime-tracker/tree/main
   """, 
   text_alignment="center"
