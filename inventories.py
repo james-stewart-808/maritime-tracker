@@ -19,10 +19,7 @@ st.sidebar.markdown(
 
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
 
-st.title(
-    "International Voyage-based Activity Inventories for {0}".format(
-        st.session_state.iso_country)
-)
+st.title("Voyage-based Activity Inventories")
 
 st.write(
     """
@@ -102,6 +99,11 @@ st.write(
 st.divider()
 
 
+st.subheader(
+    "International Voyage-based Activity Inventories for {0}".format(
+        st.session_state.iso_country),
+    divider = 'grey'
+)
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
     ["Number of Calls", #"Average Build Year", 
