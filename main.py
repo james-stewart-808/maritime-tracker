@@ -49,7 +49,7 @@ st.markdown(
 
   **Codebase**: https://github.com/james-stewart-808/maritime-tracker/tree/main
   """, 
-  text_alignment="left"
+  text_alignment="center"
 )
 st.divider()
 
