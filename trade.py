@@ -209,3 +209,18 @@ else:
             st.session_state.iso_country, st.session_state.iso_code)
     )
     st.divider()
+st.divider()
+
+
+st.header("References")
+
+st.write(
+"""
+Hoffmeister and Dalheimer. (2024). A linear model to estimate modal split in \
+    international freight transport, based on revealed preferences about cost \
+    and time saving. J. Shipp. Trd. 9, 28. Available at: \
+    https://doi.org/10.1186/s41072-024-00181-0.
+    
+UNCTAD. (2025). Trade-and-Transport Dataset - Documentation.
+"""
+)
