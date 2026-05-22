@@ -23,12 +23,8 @@ st.sidebar.markdown(
 )
 
 
-##### MERCHANDISE TRADE PORTFOLIOS ######
-# Incorporate Comtrade Data Availability Tracker
-
-st.title("Merchandise Trade Portfolio for {0}".format(
-    st.session_state.iso_country))
-
+##### SEABORNE TRADE PORTFOLIOS ######
+st.title("Seaborne Trade Portfolio")
 st.write(
     """
     The figures made use of for the dashboard are taken from UNCTAD’s Trade-and-Transport database for the year 2018 (UNCTAD, 2025). \
@@ -42,9 +38,8 @@ st.write(
 )
 
 
-
 st.subheader(
-    "Merchandise Trade Portfolio for {0}".format(
+    "Seaborne Trade Portfolio for {0}".format(
         st.session_state.iso_country),
     divider = 'grey'
 )
