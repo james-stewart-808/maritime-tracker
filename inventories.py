@@ -28,13 +28,14 @@ st.write(
     """
     One of the key intentions of the dashboard is to summarise shipping activity associated with alternative countries. \
     For the purposes of the dashboard, we will use identification and analysis of voyages as the primary mechanism through \
-    which to explore trends in maritime activity associated with each country. Voyage data is taken from the 4th IMO GHG \
-    Study (Faber et al, 2020). The study utilises AIS to understand the activity profiles of individual vessels, then \
-    introduces vessel specification datasets that enable the energy demands, fuel consumption and GHG emissions of vessel \
-    activity to be estimated. A full summary of the methodology used to estimate GHG emissions from AIS data is presented \
-    in Annex 1 of the Method Statement document. Initially comprised of 58,539 voyages, the dataset is first filtered for \
-    vessel types associated with the international merchant fleet facilitating the movement of goods by sea and resulting \
-    in a dataset representing 618.2 million tonnes of CO2 emissions.
+    which to explore trends in maritime activity associated with each country. Specifically, we will consider collections, \
+    or ‘inventories’, of voyage records associated with internationally arriving voyages and international departing voyages.\
+    Voyage data is taken from the 4th IMO GHG Study (Faber et al, 2020). The study utilises AIS to understand the activity \
+    profiles of individual vessels, then introduces vessel specification datasets that enable the energy demands, fuel \
+    consumption and GHG emissions of vessel activity to be estimated. A full summary of the methodology used to estimate \
+    GHG emissions from AIS data is presented in Annex 1 of the Method Statement document. Initially comprised of 58,539 \
+    voyages, the dataset is first filtered for vessel types associated with the international merchant fleet facilitating \
+    the movement of goods by sea and resulting in a dataset representing 618.2 million tonnes of CO2 emissions.
     """
 )
 st.divider()
