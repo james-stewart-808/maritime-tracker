@@ -26,3 +26,12 @@ st.write(
     """
 )
 st.divider()
+
+
+st.header("References")
+
+st.write(
+"""
+Dean et al. (2021). Costs of Climate Change per Country.
+"""
+)
