@@ -44,8 +44,10 @@ st.write(
     and trust within its algorithmic design and outputs. The public codebase and dashboard is available via the following links:
     """
 )
-#Website: https://maritime-tracker.streamlit.app/
-#Codebase: https://github.com/james-stewart-808/maritime-tracker/tree/main
+tracker_url = "https://maritime-tracker.streamlit.app/"
+codebase_url = "https://github.com/james-stewart-808/maritime-tracker/tree/main"
+st.write("Website: [link](%s)" % tracker_url)
+st.write("Codebase: [link](%s)" % codebase_url)
 
 st.divider()
 
