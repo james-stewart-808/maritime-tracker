@@ -19,6 +19,30 @@ st.sidebar.markdown(
     (DNV, 2024).")
 
 
+
+### NZF ECONOMIC IMPACTS ###
+st.title("Economic Impacts of the IMO Net-Zero Framework")
+st.markup(
+    """
+    The step aims to ensure that every tonne of trade associated with the seaborne component of a country’s international \
+    merchandise trade portfolio is allocated to at least one representative vessel voyage, thereby enabling vessel-based \
+    GHG emission estimates to be allocated to the seaborne trade portfolio in a realistic manner.
+
+    A range of alternative approaches have been developed that seek to match international trade records with corresponding \
+    transport supply estimations. Broadly, approaches separate into those that just utilise vessel-side AIS data fields to \
+    estimate cargo volumes (Arslanalp et al, 2021; Arslanalp et al, 2025), versus others that also consider volumes of trade \
+    explicitly defined in IMTS or UN Comtrade (Wang et al, 2021; Schim van der Loeff, 2025). The primary task of this process \
+    is to identify the AIS-derived transport supply that facilitates each bilateral seaborne trade flow, i.e. the transport \
+    supply that facilitates internationally traded volumes at the resolution of individual commodity headings and \
+    origin-destination country pairs. It is recommended to compare and improve the mapping of bilateral trades to transport \
+    supply where improved information and assumptions are available, for example through the analysis of manifest-level trade \
+    records.
+    
+    <h5>Test</h5>
+    """
+)
+
+
 impact_res_c = [
     "iso_code", "iso_country", "wb_gdp_2018", 
     "XI_vol_kg", "XI_vol_kg_recon", 
@@ -61,23 +85,12 @@ impact_res_so = impact_res.sort_values(by="NZF Incremental Cost in 2050 (%GDP)",
 impact_res_cou = impact_res_so[(impact_res_so.iso_code == st.session_state.iso_code)]
 impact_res_cou_rank = impact_res_cou.index.values[0]+1
 
-st.title("Economic Impacts of the IMO Net-Zero Framework")
-
-
-st.write(
-    """
-    Using the voyages dataset to model the compliance costs costs associated with the IMO NZF, we are now in a \
-    position to explore the relative impacts of these two policy measures on alternative states. You have the option to just \
-    focus on costs associated with the the IMO NZF.
-    """
-)
 
 st.subheader(
     "Economic Impacts on {0}".format(
         st.session_state.iso_country),
     divider = 'grey'
 )
-
 
 st.markdown("##### Global IMO NZF Compliance Costs to 2050")
 combined_df = pd.DataFrame(data={
