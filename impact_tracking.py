@@ -38,7 +38,8 @@ st.markup(
     supply where improved information and assumptions are available, for example through the analysis of manifest-level trade \
     records.
     
-    <h5>Test</h5>
+    - Bullet 1
+    - Bullet 2
     """
 )
 
