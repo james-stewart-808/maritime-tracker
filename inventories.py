@@ -11,6 +11,11 @@ def download_as_csv(file, label, filename):
             label=label,
             file_name=filename)
 
+st.sidebar.markdown(
+    "International Voyage-based Maritime Activity Inventories Disaggregated by Port and Vessel Type, Sourced from the \
+    4th IMO GHG Study (Faber et al, 2020)."
+)
+
 
 ##### INTERNATIONAL VOYAGE-BASED ACTIVITY INVENTORIES ######
 
@@ -18,10 +23,22 @@ st.title(
     "International Voyage-based Activity Inventories for {0}".format(
         st.session_state.iso_country)
 )
-st.sidebar.markdown(
-    "International Voyage-based Maritime Activity Inventories Disaggregated by Port and Vessel Type, Sourced from the \
-    4th IMO GHG Study (Faber et al, 2020)."
+
+st.write(
+    """
+    One of the key intentions of the dashboard is to summarise shipping activity associated with alternative countries. \
+    For the purposes of the dashboard, we will use identification and analysis of voyages as the primary mechanism through \
+    which to explore trends in maritime activity associated with each country. Voyage data is taken from the 4th IMO GHG \
+    Study (Faber et al, 2020). The study utilises AIS to understand the activity profiles of individual vessels, then \
+    introduces vessel specification datasets that enable the energy demands, fuel consumption and GHG emissions of vessel \
+    activity to be estimated. A full summary of the methodology used to estimate GHG emissions from AIS data is presented \
+    in Appendix 1. Initially comprised of 58,539 voyages, the dataset is first filtered for vessel types associated with \
+    the international merchant fleet facilitating the movement of goods by sea and resulting in a dataset representing \
+    618.2 million tonnes of CO2 emissions.
+    """
 )
+st.divider()
+
 
 indicator = st.segmented_control(
     "Which indicator would you like to visualise?",
@@ -46,6 +63,7 @@ if indicator == None:
     indicator = "Number of Calls"
 
 st.divider()
+
 
 ### INVENTORIES BY VESSEL TYPE ###
 st.header("{0} by Vessel Type".format(indicator))
