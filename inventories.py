@@ -32,9 +32,9 @@ st.write(
     Study (Faber et al, 2020). The study utilises AIS to understand the activity profiles of individual vessels, then \
     introduces vessel specification datasets that enable the energy demands, fuel consumption and GHG emissions of vessel \
     activity to be estimated. A full summary of the methodology used to estimate GHG emissions from AIS data is presented \
-    in Appendix 1. Initially comprised of 58,539 voyages, the dataset is first filtered for vessel types associated with \
-    the international merchant fleet facilitating the movement of goods by sea and resulting in a dataset representing \
-    618.2 million tonnes of CO2 emissions.
+    in Annex 1 of the Method Statement document. Initially comprised of 58,539 voyages, the dataset is first filtered for \
+    vessel types associated with the international merchant fleet facilitating the movement of goods by sea and resulting \
+    in a dataset representing 618.2 million tonnes of CO2 emissions.
     """
 )
 st.divider()
