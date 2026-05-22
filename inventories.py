@@ -71,7 +71,7 @@ st.table(
             for evaluation of GHG emissions associated with each voyage is presented in **Annex 1** of the Method Statement."
     },
     border="horizontal",
-    width="content",
+    width="stretch",
 )
 st.write(
     """
