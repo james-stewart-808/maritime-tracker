@@ -13,7 +13,7 @@ def download_as_csv(file, label, filename):
             file_name=filename)
 
 st.sidebar.markdown(
-    "Costs of Climate Change data sourced from (Dean et al, 2021)."
+    "Costs of Climate Change data sourced from Kahn et al. (2021) and Mohaddes and Raissi (2024)."
 )
 
 
@@ -253,6 +253,7 @@ st.markdown("##### References")
 
 st.write(
 """
-Dean et al. (2021). Costs of Climate Change per Country.
+Kahn et al. (2021). Long-term macroeconomic effects of climate change: A cross-country analysis.
+Mohaddes and Raissi. (2024). Rising Temperatures, Melting Incomes: Country-Specific Macroeconomic Effects of Climate Scenarios. 
 """
 )
