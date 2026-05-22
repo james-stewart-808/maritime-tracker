@@ -69,9 +69,9 @@ st.table(
             well as the mean to median times in port associated with each vessel. The average time in port observed once weighted \
             by Gross Tonnage or Deadweight Tonnage is also provided.",
         "Energy Demand": "The sum of all energy demanded across the set of voyages. The calculation methodology for evaluation of \
-            Energy Demand associated with each voyage is presented in Annex A.",
+            Energy Demand associated with each voyage is presented in Annex 1.",
         "GHG Emissions": "The sum of all CO2-equivalent emissions generated across the set of voyages. The calculation methodology \
-            for evaluation of GHG emissions associated with each voyage is presented in Annex A."
+            for evaluation of GHG emissions associated with each voyage is presented in Annex 1 of the Method Statement."
     },
     border="horizontal",
     width="content",
