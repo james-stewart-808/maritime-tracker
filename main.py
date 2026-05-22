@@ -20,7 +20,7 @@ country_iso_codes.loc[country_iso_codes.iso_country == "Congo, Democratic Republ
 
 
 # Homepage Description
-st.title("Overview of the International Shipping Dashboard")
+st.title("Overview of the Maritime Tracker Dashboard")
 st.write(
     """
     Often non-existent, incomplete or restricted in access, the maritime sector has long been underserved by a lack of \
