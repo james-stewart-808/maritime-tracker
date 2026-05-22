@@ -96,7 +96,7 @@ st.altair_chart(
         ).repeat(layer=[
             "IMO NZF (US$bn)"
     ]),
-    width=60
+    width=6000
 )
 download_as_csv(
     combined_df, 
