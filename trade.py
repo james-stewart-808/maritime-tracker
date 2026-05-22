@@ -40,8 +40,14 @@ st.write(
     of international trade flows, which is a key requisite for its association with maritime activity.
     """
 )
-st.divider()
 
+
+
+st.subheader(
+    "Merchandise Trade Portfolio for {0}".format(
+        st.session_state.iso_country),
+    divider = 'grey'
+)
 
 # Consider Imports or Exports?
 I_X = st.segmented_control(
