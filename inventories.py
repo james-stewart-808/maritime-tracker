@@ -234,10 +234,8 @@ download_as_csv(
     "International Arrivals Inventory by Partner Economy - {0} ({1}).csv".format(
         st.session_state.iso_country, st.session_state.iso_code)
 )
-
-
-
 st.divider()
+
 
 ### INVENTORIES BY PORT ###
 st.header("{0} by Port".format(indicator))
@@ -287,4 +285,18 @@ download_as_csv(
         st.session_state.iso_country, st.session_state.iso_code),
     "International Arrivals Inventory by Port - {0} ({1}).csv".format(
         st.session_state.iso_country, st.session_state.iso_code)
+)
+st.divider()
+
+
+st.header("References")
+
+st.write(
+"""
+DNV. (2024a). Report of the Comprehensive impact assessment of the basket of \
+    candidate GHG reduction mid-term measures – full report on Task 2 (Impacts \
+    on the fleet). MEPC 82-INF.8-Add.1.
+    
+Faber et al. (2020). Fourth IMO Greenhouse Gas Study. London.
+"""
 )
