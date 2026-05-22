@@ -24,7 +24,7 @@ st.markdown(
 # Define the pages
 main = st.Page("main.py", title="Overview", icon="🏡")
 inventories = st.Page("inventories.py", title="Voyage-based Inventories", icon="🚢")
-trade = st.Page("trade.py", title="Merchandise Trade Portfolios", icon="📦")
+trade = st.Page("trade.py", title="Seaborne Trade Portfolios", icon="📦")
 impact_tracking = st.Page("impact_tracking.py", title="NZF Economic Impacts", icon="💵")
 costs_of_climate_change = st.Page("costs_of_climate_change.py", title="Costs of Climate Change", icon="💰")
 contact = st.Page("contact.py", title="Contact", icon="📒")
