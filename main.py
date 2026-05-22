@@ -20,7 +20,7 @@ country_iso_codes.loc[country_iso_codes.iso_country == "Congo, Democratic Republ
 
 
 # Homepage Description
-st.header("Overview of the International Shipping Dashboard")
+st.title("Overview of the International Shipping Dashboard")
 st.write(
     """
     Often non-existent, incomplete or restricted in access, the maritime sector has long been underserved by a lack of \
@@ -51,8 +51,8 @@ st.markdown(
   """, 
   text_alignment="center"
 )
-st.divider()
 
+st.subheader("Country-level Results", divider = 'grey')
 
 # Country Selector
 country_choice = st.selectbox(
