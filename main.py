@@ -42,13 +42,12 @@ st.write(
     from the policy’s implementation will need to be developed. The intention of this dashboard is to offer a lightweight, \
     public codebase and dashboard with which such an architecture may be established, made open-source to encourage discussion \
     and trust within its algorithmic design and outputs. The public codebase and dashboard is available via the following links:
+
+    **Dashboard**: https://maritime-tracker.streamlit.app/
+
+    **Codebase**: https://github.com/james-stewart-808/maritime-tracker/tree/main
     """
 )
-tracker_url = "https://maritime-tracker.streamlit.app/"
-codebase_url = "https://github.com/james-stewart-808/maritime-tracker/tree/main"
-st.write("Website: [link](%s)" % tracker_url)
-st.write("Codebase: [link](%s)" % codebase_url)
-
 st.divider()
 
 
