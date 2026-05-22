@@ -13,9 +13,10 @@ def download_as_csv(file, label, filename):
 
 st.sidebar.markdown(
     "Impact tracking results derived from the linking of: i) seaborne merchandise trade data for \
-    2018 sourced from the UNCTAD Trade-and-Transport, ii) AIS data underpinning the 4th IMO GHG \
-    Study and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero \
-    Framework (NZF).")
+    2018 sourced from the UNCTAD Trade-and-Transport (UNCTAD, 2025), ii) AIS data underpinning the 4th IMO GHG \
+    Study (Faber et al, 2020) and iii) assumptions of Maritime Transport Costs (MTCs) resulting from the IMO Net-Zero \
+    Framework (NZF) based on Cost Intensity values derived from Task 2 of the Comprehensive Impact Assessment process \
+    (DNV, 2024).")
 
 
 impact_res_c = [
@@ -130,4 +131,20 @@ download_as_csv(
         st.session_state.iso_country, st.session_state.iso_code),
     "IMO NZF Impacts for {0} ({1}).csv".format(
         st.session_state.iso_country, st.session_state.iso_code)
+)
+st.divider()
+
+
+st.header("References")
+
+st.write(
+"""
+DNV. (2024). Report of the Comprehensive impact assessment of the basket of \
+    candidate GHG reduction mid-term measures – full report on Task 2 (Impacts \
+    on the fleet). MEPC 82-INF.8-Add.1.
+    
+Faber et al. (2020). Fourth IMO Greenhouse Gas Study. London.
+    
+UNCTAD. (2025). Trade-and-Transport Dataset - Documentation.
+"""
 )
