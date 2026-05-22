@@ -158,10 +158,10 @@ st.write(
     with a country can be reconstructed in terms of the GHG emissions associated with its facilitating AIS-derived voyages.
     """
 )
+
+st.markdown("##### Conversion to Impacts on States")
 st.write(
     """
-    - Conversion to Impacts on States
-    
     With the matching of NZF economic impacts and bilateral trade flows now complete, the next step will be to translate these bilateral \
     impacts onto economic impacts at the state level. Given that NZF costs are now mapped to bilateral trade flows in the international \
     seaborne trade portfolio, we are able to aggregate results across a number useful fields, the most important of which is by exporter or \
