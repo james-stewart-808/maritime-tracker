@@ -76,6 +76,29 @@ st.table(
     border="horizontal",
     width="content",
 )
+st.write(
+    """
+    In addition to the metrics described in Table , the economic impacts of the Net-Zero Framework are evaluated in associated with \
+    each voyage. To do so, we will introduce results of the techno-economic fleet modelling undertaken by DNV as part of Task 2 of \
+    the Comprehensive Impact Assessment of the Basket of Potential Mid-term Measures (DNV, 2024). Specifically, we will take forward \
+    projections of changes in vessel cost intensity for 2030, 2040 and 2050. The modelling results we will use will be those derived \
+    under Scenario 24, corresponding with certain policy parameters. Cost Intensity changes associated with Scenario 24 of DNV’s \
+    modelling under Task 2 of the CIA are utilised in the modelling as these are observed to most closely align with the NZF’s \
+    architecture. 
+    """
+)
+st.write(
+    """
+    The output of DNV’s work for Task 2 of the CIA is given in terms ‘Cost Intensity’. Cost Intensity refers to an estimated change \
+    in costs per unit of ‘transport work’, i.e. t-nm, referring to one tonne transported across one nautical mile. Given that the \
+    dataset underpinning the 4th IMO GHG Study dataset includes vessel specification fields such as vessel deadweight tonnage, as \
+    well as the distance covered as part of each voyage, we are able to work out the total amount of ‘Transport Work’ associated with \
+    each voyage. We may then combine this dataset with the outputs of DNV’s modelling under Scenario 24 to estimate indicative \
+    voyage-level cost changes in 2030, 2040 and 2050 arising from implementation of the Net-Zero Framework. The final dataset provides \
+    indicative values of what fleet-level cost impacts are likely to be in future, assuming no major change in fleet-wide vessel \
+    activity.
+    """
+)
 st.divider()
 
 
