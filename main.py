@@ -89,3 +89,20 @@ reliance you place on the information provided on this site is strictly at your 
 losses or damages incurred from the use of this information.
 """
 )
+st.divider()
+
+
+
+st.header("References")
+
+st.write(
+"""
+CE Delft. (2021). Study on assessment of possible global regulatory measures to \
+    reduce greenhouse gas emissions from international shipping. European \
+    Commission.
+    
+IPCC (2006). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. \
+    Volume 2 (Energy), Chapter 3 on Mobile combustion – Section 5 on Water-borne \
+    Navigation. Intergovernmental Panel on Climate Change.
+"""
+)
