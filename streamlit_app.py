@@ -26,11 +26,12 @@ main = st.Page("main.py", title="Overview", icon="🏡")
 inventories = st.Page("inventories.py", title="Voyage-based Inventories", icon="🚢")
 trade = st.Page("trade.py", title="Merchandise Trade Portfolios", icon="📦")
 impact_tracking = st.Page("impact_tracking.py", title="Impact Tracking Results", icon="💵")
+#costs_of_climate_change = st.Page("impact_tracking.py", title="Impact Tracking Results", icon="💵")
 references = st.Page("references.py", title="References", icon="📖")
 contact = st.Page("contact.py", title="Contact", icon="📒")
 
 # Set up navigation
-pg = st.navigation([main, inventories, trade, impact_tracking, references, contact])
+pg = st.navigation([main, inventories, trade, impact_tracking, references, contact]) # costs_of_climate_change, 
 
 # Run the selected page
 pg.run()
