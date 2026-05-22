@@ -61,14 +61,22 @@ impact_res_so = impact_res.sort_values(by="NZF Incremental Cost in 2050 (%GDP)",
 impact_res_cou = impact_res_so[(impact_res_so.iso_code == st.session_state.iso_code)]
 impact_res_cou_rank = impact_res_cou.index.values[0]+1
 
-st.title("Key Impact Tracking Results for {0}".format(
-    st.session_state.iso_country))
+st.title("Economic Impacts of the IMO Net-Zero Framework")
 
-st.write("\
-Using the voyages dataset to model the compliance costs costs associated with the IMO NZF, we are now in a \
-position to explore the relative impacts of these two policy measures on alternative states. You have the option to just \
-focus on costs associated with the the IMO NZF.")
-st.divider()
+
+st.write(
+    """
+    Using the voyages dataset to model the compliance costs costs associated with the IMO NZF, we are now in a \
+    position to explore the relative impacts of these two policy measures on alternative states. You have the option to just \
+    focus on costs associated with the the IMO NZF.
+    """
+)
+
+st.subheader(
+    "Economic Impacts on {0}".format(
+        st.session_state.iso_country),
+    divider = 'grey'
+)
 
 
 st.markdown("##### Global IMO NZF Compliance Costs to 2050")
