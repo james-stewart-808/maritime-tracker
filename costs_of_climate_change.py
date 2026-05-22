@@ -53,8 +53,8 @@ filtered_df1 = df_1[df_1['year'].isin([2030,2040,2050,2060,2070,2080,2090,2100])
 
 df_world = pd.read_csv("https://raw.githubusercontent.com/yosephis/maritime-tracker/main/datasets/world_gdp_change.csv")
 
-#st.subheader("Country and Global GDP per Capita Losses", divider='grey')
-st.markdown("##### Country and Global GDP per Capita Losses")
+st.subheader("Country and Global GDP per Capita Losses", divider='grey')
+#st.markdown("##### Country and Global GDP per Capita Losses")
 st.caption("Global GDP losses are calculated by averaging the losses across countries using PPP-GDP weights")
 
 # First segmented control
@@ -124,8 +124,8 @@ fig.update_xaxes(showgrid=True)
 st.plotly_chart(fig, width='stretch')      
 #width='content'
 
-#st.subheader("Country Comparison", divider = 'grey')
-st.markdown("##### Country Comparison")
+st.subheader("Country Comparison", divider = 'grey')
+#st.markdown("##### Country Comparison")
 st.caption("Select countries you wish to compare. To zoom into specific time scales, create a box over the desired area and the graph will automatically zoom in") 
 
 df_2 = pd.read_csv("https://raw.githubusercontent.com/yosephis/maritime-tracker/main/datasets/country_gdp.csv")
@@ -207,8 +207,8 @@ with col4:
         width='stretch'
     )
 
-#st.subheader("Global GDP Losses for Each Scenario",divider = 'grey')
-st.markdown("##### "Global GDP Losses for Each Scenario")
+st.subheader("Global GDP Losses for Each Scenario",divider = 'grey')
+#st.markdown("##### "Global GDP Losses for Each Scenario")
 st.caption("Current trajectories of global temperature increases range from 2.1-2.8°C with implementation of the latest nationally determined contributions. \
 Current policies are not consistent with these policies placing predicted warming at the upper bound of this range. This is consistent with SSP2-4.5 and closing towards \
 SSP3-7.0. This tool shows the global importance of continued international cooperation and the avoidance of policy \
