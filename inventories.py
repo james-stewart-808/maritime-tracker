@@ -128,7 +128,7 @@ st.divider()
 
 
 ### INVENTORIES BY VESSEL TYPE ###
-st.header("{0} by Vessel Type".format(indicator))
+st.markdown("##### {0} by Vessel Type".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 st.write("Reading in data for {0} (ISO Code {1})".format(st.session_state.iso_country, st.session_state.iso_code))
@@ -183,7 +183,7 @@ download_as_csv(
 st.divider()
 
 ### INVENTORIES BY PARTNER ECONOMY ###
-st.header("{0} by Partner Economy".format(
+st.markdown("##### {0} by Partner Economy".format(
     indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
@@ -238,7 +238,7 @@ st.divider()
 
 
 ### INVENTORIES BY PORT ###
-st.header("{0} by Port".format(indicator))
+st.markdown("##### {0} by Port".format(indicator))
 
 # Read-in International Arrivals Inventory by Vessel Type Associated with the Country
 int_arr_by_port = pd.read_csv(
@@ -289,7 +289,7 @@ download_as_csv(
 st.divider()
 
 
-st.header("References")
+st.markdown("##### References")
 
 st.write(
 """
