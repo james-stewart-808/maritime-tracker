@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from io import StringIO
 import streamlit as st
-st.header("Contact")
+st.markdown("##### Contact")
 
 st.write(
 """
