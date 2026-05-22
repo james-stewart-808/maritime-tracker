@@ -240,6 +240,8 @@ Schim van der Loeff. (2025). Filling the Maritime Data Gap – A Big Data Approa
     thesis (Ph.D), University College London (UCL). Available at: \
     https://discovery.ucl.ac.uk/id/eprint/10208589/.
 
+Stewart et al. (2026). Maritime Tracker - Method Statement.
+
 UNCTAD. (2025). Trade-and-Transport Dataset - Documentation.
 
 Wang et al. (2021). Trade-linked shipping CO2 emissions. Nature Climate Change 11(11), \
