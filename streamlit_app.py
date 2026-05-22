@@ -22,7 +22,7 @@ st.markdown(
 )
 
 # Define the pages
-main = st.Page("main.py", title="Home", icon="🏡")
+main = st.Page("main.py", title="Overview", icon="🏡")
 inventories = st.Page("inventories.py", title="Voyage-based Inventories", icon="🚢")
 trade = st.Page("trade.py", title="Merchandise Trade Portfolios", icon="📦")
 impact_tracking = st.Page("impact_tracking.py", title="Impact Tracking Results", icon="💵")
