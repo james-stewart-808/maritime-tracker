@@ -2,13 +2,6 @@ import pandas as pd
 import requests
 from io import StringIO
 import streamlit as st
-st.header("Welcome to the Homepage of the International Shipping Dashboard 🏡")
-
-st.caption(
-    "Explore global maritime shipping, merchandise trade portfolios, "
-    "and economic impact tracking across countries."
-)
-
 
 # Load Country ISO data
 country_iso_codes_c = ["name", "alpha-2", "alpha-3", "country-code"]
@@ -25,6 +18,16 @@ country_iso_codes = pd.read_csv(
 country_iso_codes.loc[country_iso_codes.iso_country == "Namibia", "iso_2"] = "NA"
 country_iso_codes.loc[country_iso_codes.iso_country == "Congo, Democratic Republic of the", "iso_country"] = "Democratic Republic of the Congo"
 
+
+# Homepage Description
+st.header("Welcome to the Overview page of the International Shipping Dashboard 🏡")
+
+st.write(
+    ""
+)
+st.divider()
+
+
 # Country Selector
 country_choice = st.selectbox(
     "For which country would you like to statistics related to international shipping, merchandise trade and MTM impact tracking?",
@@ -36,10 +39,6 @@ st.session_state.iso_country = country_choice
 st.session_state.iso_2 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_2.values[0]
 st.session_state.iso_3 = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_3.values[0]
 st.session_state.iso_code = country_iso_codes[(country_iso_codes.iso_country == country_choice)].iso_code.values[0]
-
-# Homepage Description
-
-st.divider()
 
 st.write(
 """
@@ -54,6 +53,7 @@ Use the sidebar to explore the different components of the dashboard.
 )
 
 st.divider()
+
 
 st.write(
 """
