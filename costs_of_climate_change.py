@@ -20,8 +20,6 @@ st.sidebar.markdown(
 st.set_page_config(layout='wide')
 st.title('National Macroeconomic Effects of Climate Scenarios')
 
-st.divider()
-
 st.write(
     """
     Using data from Kahn et al. (2021) and Mohaddes and Raissi (2024) we are able to show country-specific annual GDP per-capita losses from global warming \
